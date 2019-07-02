@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServerHooks::completionAwareBlockRangeConsumerFactory" name="catapult::extensions::ServerHooks::completionAwareBlockRangeConsumerFactory">
+<area shape="rect" id="node1" title="Gets the factory for creating a CompletionAwareBlockRangeConsumerFunc bound to an input source." alt="" coords="5,5,221,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a1ba3236a6ee3676530f450d3c8e73a77" title="Returns func if and only if it is set." alt="" coords="269,12,408,51"/>
+</map>

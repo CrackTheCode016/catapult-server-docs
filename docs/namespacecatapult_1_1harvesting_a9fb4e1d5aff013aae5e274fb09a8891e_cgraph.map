@@ -1,0 +1,10 @@
+<map id="catapult::harvesting::CreateHarvesterBlockGenerator" name="catapult::harvesting::CreateHarvesterBlockGenerator">
+<area shape="rect" id="node1" title="Creates a default block generator around utFacadeFactory and utCache for specified transaction strate..." alt="" coords="5,109,225,148"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1_harvesting_ut_facade_factory.html#ad1ddf94bf227ef057232818637342a08" title="Creates a facade for applying transactions at a given block time (blockTime)." alt="" coords="283,5,478,57"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1harvesting.html#a34669085920e5180d6da31f14fde193d" title="Creates a default transactions info supplier aroundutCache for specified transaction strategy." alt="" coords="273,81,488,120"/>
+<area shape="rect" id="node7" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="330,144,431,169"/>
+<area shape="rect" id="node8" href="$namespacecolor_print.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="316,193,444,219"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_memory_ut_cache.html#ac337541394dc7639d4b4a921967f559f" title="Gets a read only view based on this cache." alt="" coords="536,81,716,120"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="764,81,988,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="1036,81,1201,120"/>
+</map>

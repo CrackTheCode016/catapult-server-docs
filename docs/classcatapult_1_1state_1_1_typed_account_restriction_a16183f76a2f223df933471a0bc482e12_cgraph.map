@@ -1,0 +1,4 @@
+<map id="catapult::state::TypedAccountRestriction::size" name="catapult::state::TypedAccountRestriction::size">
+<area shape="rect" id="node1" title="Gets the number of values of the underlying account restriction." alt="" coords="5,5,202,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_restriction.html#a0802ac07909aab45f2637b6da0d08267" title="Gets the values." alt="" coords="250,5,410,44"/>
+</map>

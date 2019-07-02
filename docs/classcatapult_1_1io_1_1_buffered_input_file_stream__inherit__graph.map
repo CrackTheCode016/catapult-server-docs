@@ -1,0 +1,4 @@
+<map id="catapult::io::BufferedInputFileStream" name="catapult::io::BufferedInputFileStream">
+<area shape="rect" id="node1" title="Provides a buffered input stream around raw file." alt="" coords="5,79,178,117"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_input_stream.html" title="Reader interface." alt="" coords="9,5,175,31"/>
+</map>

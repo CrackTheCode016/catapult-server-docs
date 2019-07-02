@@ -1,0 +1,5 @@
+<map id="catapult::ionet::AppendContext::assertNotCommitted" name="catapult::ionet::AppendContext::assertNotCommitted">
+<area shape="rect" id="node1" title=" " alt="" coords="257,37,461,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_append_context.html#a79f928fbe64849b1c875dbf1dc661311" title="An asio buffer that can be written to in place." alt="" coords="5,5,209,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_append_context.html#a5e8572d3d75b498eadb25f24add22621" title="Commits the write to the underlying buffer." alt="" coords="5,68,209,107"/>
+</map>

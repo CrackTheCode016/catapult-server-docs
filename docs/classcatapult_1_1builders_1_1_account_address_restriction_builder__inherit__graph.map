@@ -1,0 +1,4 @@
+<map id="catapult::builders::AccountAddressRestrictionBuilder" name="catapult::builders::AccountAddressRestrictionBuilder">
+<area shape="rect" id="node1" title="Builder for an account address restriction transaction." alt="" coords="5,92,194,144"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_transaction_builder.html" title="Base transaction builder." alt="" coords="30,5,169,44"/>
+</map>

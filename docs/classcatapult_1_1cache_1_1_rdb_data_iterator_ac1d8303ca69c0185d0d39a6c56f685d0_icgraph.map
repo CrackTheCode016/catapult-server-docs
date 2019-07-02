@@ -1,0 +1,5 @@
+<map id="catapult::cache::RdbDataIterator::buffer" name="catapult::cache::RdbDataIterator::buffer">
+<area shape="rect" id="node1" title="Returns storage as raw buffer." alt="" coords="460,12,631,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_rdb_typed_column_container_1_1const__iterator.html#afbb6675e24d6c4054b7c010f7bc3791a" title="Returns reference to current element." alt="" coords="233,5,412,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_rdb_typed_column_container_1_1const__iterator.html#a7cc4218ffc773d443d74ddf7c43981f3" title="Returns pointer to current element." alt="" coords="5,5,185,57"/>
+</map>

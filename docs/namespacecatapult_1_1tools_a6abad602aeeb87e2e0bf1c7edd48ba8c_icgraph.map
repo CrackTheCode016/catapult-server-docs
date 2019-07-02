@@ -1,0 +1,7 @@
+<map id="catapult::tools::ConnectToNode" name="catapult::tools::ConnectToNode">
+<area shape="rect" id="node1" title="Connects to node as a client with clientKeyPair using pPool." alt="" coords="708,37,869,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1_multi_node_connector.html#a5b28ad92ba603c90e6ca640088b54cff" title="Connects to node." alt="" coords="489,5,660,44"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1tools.html#aa5d2adafa8283c34db29dab51edbb03c" title=" " alt="" coords="495,68,655,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a0fc99b014b5992e09fe8cc85c0fc931c" title=" " alt="" coords="213,5,441,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,5,165,44"/>
+</map>

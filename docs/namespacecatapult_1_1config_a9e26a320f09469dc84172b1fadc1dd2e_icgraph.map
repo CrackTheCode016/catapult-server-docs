@@ -1,0 +1,4 @@
+<map id="catapult::config::ToLocalNode" name="catapult::config::ToLocalNode">
+<area shape="rect" id="node1" title="Extracts a node representing the local node from config." alt="" coords="227,12,423,37"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1local.html#aa119bf8614b0d034d73f132358c56a23" title="Seeds nodes with node information from bootstrapper." alt="" coords="5,5,179,44"/>
+</map>

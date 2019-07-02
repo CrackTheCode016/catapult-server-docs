@@ -1,0 +1,14 @@
+<map id="catapult::cache::BasicNamespaceCacheDelta::insert" name="catapult::cache::BasicNamespaceCacheDelta::insert">
+<area shape="rect" id="node1" title="Inserts the root namespace ns into the cache." alt="" coords="5,275,228,313"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1cache.html#ad5442666a709e7dd95664d236181597a" title="Adds an identifier with with grouping key to groupedSet." alt="" coords="300,5,494,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#a0977da0c134419f39b07c4e497b3d8f5" title="Decrements the active size by delta." alt="" coords="276,68,518,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_root_namespace.html#a2784abdb31eeb5487e024d6fd7e0c4ef" title="Gets the namespace id." alt="" coords="283,131,511,156"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#ab9bf8a55662ef58e698c161c53cb39ce" title="Increments the active size by delta." alt="" coords="278,180,516,219"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#a6a94a35ab50020c72db90317e85058ee" title="Increments the deep size by delta." alt="" coords="280,243,514,281"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1state_1_1_root_namespace.html#a278c22154f5856d322e26d0becafaf16" title="Gets a const reference to the lifetime of this namespace." alt="" coords="291,305,503,344"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1state_1_1_root_namespace.html#a8833fac0e8e4e6240e28a1b21586f0d0" title="Gets a const reference to the owner of this namespace." alt="" coords="291,368,503,407"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1_checked_array.html#aa32fd3c3b555a273f6eb652098f91243" title=" " alt="" coords="317,431,477,469"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1state_1_1_root_namespace_history.html#a643d4535157d5c63687998385726432d" title="Adds a new root namespace around owner and lifetime at the end of the history." alt="" coords="291,493,503,532"/>
+<area shape="rect" id="node12" href="$namespacecatapult_1_1deltaset.html#a190227b18c7c747729750c2b95010622" title="Removes all elements from the container (pContainer)." alt="" coords="336,556,458,595"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1state_1_1_root_namespace_history.html#a3737fb8a0eab77e0f680b5486133f5a6" title="Gets a const reference to the most recent root namespace." alt="" coords="566,493,777,532"/>
+</map>

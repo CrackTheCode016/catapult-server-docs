@@ -1,0 +1,9 @@
+<map id="catapult::state::AccountRestrictionsSerializer::Save" name="catapult::state::AccountRestrictionsSerializer::Save">
+<area shape="rect" id="node1" title="Saves restrictions to output." alt="" coords="5,163,190,201"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_restrictions.html#ad7538f521dd5faf7e74b777b370a26d1" title="Gets the account address." alt="" coords="246,5,406,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_restrictions.html#a5eaf97982f053d152d2ca5830f3bd46d" title="Gets the number of possible account restrictions." alt="" coords="246,68,406,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="264,131,387,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1_output_stream.html#a8f7566bae8036ce924dae00bc3b6cd69" title=" " alt="" coords="238,193,414,232"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1io.html#a8613aa5dbcb9b6bb71adf19a828c495a" title="Writes value into output." alt="" coords="256,256,395,281"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1io.html#ac4271422e331144f44108296176a4208" title="Writes value into output." alt="" coords="260,305,392,331"/>
+</map>

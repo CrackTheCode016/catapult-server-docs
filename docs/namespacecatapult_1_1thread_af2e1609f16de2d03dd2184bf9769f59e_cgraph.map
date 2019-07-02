@@ -1,0 +1,4 @@
+<map id="catapult::thread::GetThreadName" name="catapult::thread::GetThreadName">
+<area shape="rect" id="node1" title="Gets a thread name in a platform&#45;dependent way." alt="" coords="5,12,225,37"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1thread.html#ad39b4a512159d72096deaa5fe027e1cb" title="Gets the maximum supported thread name length (excluding NUL&#45;terminator)." alt="" coords="273,5,441,44"/>
+</map>

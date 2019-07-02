@@ -1,0 +1,5 @@
+<map id="catapult::thread::MultiServicePool::ServiceGroup::registerService" name="catapult::thread::MultiServicePool::ServiceGroup::registerService">
+<area shape="rect" id="node1" title="Registers an externally created service (pService) for cleanup." alt="" coords="458,5,692,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1_multi_service_pool_1_1_service_group.html#a019d9bd1c85e2ec0c843ae511df227d2" title="Creates a new service by calling factory with args service arguments." alt="" coords="193,5,410,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a318ba6ad17303b0191a9ca5a6b4fe399" title=" " alt="" coords="5,5,145,44"/>
+</map>

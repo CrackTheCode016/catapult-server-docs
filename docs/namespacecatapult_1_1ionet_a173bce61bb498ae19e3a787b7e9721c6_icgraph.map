@@ -1,0 +1,8 @@
+<map id="catapult::ionet::CalculatePacketDataSize" name="catapult::ionet::CalculatePacketDataSize">
+<area shape="rect" id="node1" title="Calculates the data size of packet." alt="" coords="513,100,680,139"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#aa7c0baa4f909ad7a31332297cc557e33" title=" " alt="" coords="282,5,435,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1ionet.html#a4c955f2d3ae3432e8a5c414dcb02b6d8" title=" " alt="" coords="282,68,435,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1ionet.html#a1df8653d606e83b577e7bc0c41d91d3d" title=" " alt="" coords="253,131,465,169"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1nodediscovery.html#ac8a5e0230c8a386371e646be0f4efb3b" title="Tries to parse packet into node." alt="" coords="278,193,439,232"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1handlers.html#a8fe97c2f3f31ac6d7315c0fa5e20ee3c" title=" " alt="" coords="5,187,205,239"/>
+</map>

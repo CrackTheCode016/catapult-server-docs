@@ -1,0 +1,5 @@
+<map id="catapult::chain::ProcessingNotificationSubscriber::undo" name="catapult::chain::ProcessingNotificationSubscriber::undo">
+<area shape="rect" id="node1" title="Undoes all executions since enableUndo was first called." alt="" coords="5,12,193,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1_processing_undo_notification_subscriber.html#a33bac3a2d99680f40afba212904c348f" title="Undoes all executions." alt="" coords="241,12,461,51"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1observers_1_1_notification_observer_t.html#a0a8fb7e9e35f09539b92d3deef2d81e0" title="Notifies the observer with a notification to process and an observer context." alt="" coords="509,5,667,57"/>
+</map>

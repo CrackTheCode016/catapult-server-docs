@@ -1,0 +1,9 @@
+<map id="catapult::cache::BasicNamespaceCacheDelta::prune" name="catapult::cache::BasicNamespaceCacheDelta::prune">
+<area shape="rect" id="node1" title="Prunes the namespace cache at height." alt="" coords="5,163,228,201"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#a0977da0c134419f39b07c4e497b3d8f5" title="Decrements the active size by delta." alt="" coords="276,5,518,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#aba777a1baf38f53596ac8f8661ba42f4" title="Decrements the deep size by delta." alt="" coords="278,68,516,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_root_namespace_history.html#a083ef15414c8d7c05ec607bdea41e7fd" title="Gets a value indicating whether or not the history is empty." alt="" coords="291,131,503,169"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1cache.html#a706b6f1907c844ba12241f35e83c9e92" title="Calls action for each value in set with grouping key according to groupedSet." alt="" coords="313,193,481,232"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1_root_namespace_history.html#ac83c337dc1d606334c0192503fb1102b" title="Gets the id of the root namespace history." alt="" coords="291,256,503,295"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1state_1_1_root_namespace_history.html#af0966a83e355352ca9f2882e3ddf3bb2" title="Prunes all root namespaces that are not active at height." alt="" coords="291,319,503,357"/>
+</map>

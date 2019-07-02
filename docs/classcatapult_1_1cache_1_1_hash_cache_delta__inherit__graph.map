@@ -1,0 +1,10 @@
+<map id="catapult::cache::HashCacheDelta" name="catapult::cache::HashCacheDelta">
+<area shape="rect" id="node1" title="Delta on top of the hash cache." alt="" coords="753,117,941,156"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_read_only_view_supplier.html" title=" " alt="" coords="450,117,705,156"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_hash_cache_delta.html" title="Basic delta on top of the hash cache." alt="" coords="220,117,402,156"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,5,172,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_size_mixin.html" title="A mixin for adding size support to a cache." alt="" coords="9,55,169,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_contains_mixin.html" title="A mixin for adding contains support to a cache." alt="" coords="9,117,169,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_basic_insert_remove_mixin.html" title="A mixin for adding basic insert and remove support to a cache." alt="" coords="9,180,169,219"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1deltaset_1_1_delta_elements_mixin.html" title="Mixin that wraps BaseSetDelta and provides a facade on top of BaseSetDelta::deltas()." alt="" coords="9,243,169,281"/>
+</map>

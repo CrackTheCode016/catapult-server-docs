@@ -1,0 +1,4 @@
+<map id="catapult::io::Write32" name="catapult::io::Write32">
+<area shape="rect" id="node1" title="Writes value into output." alt="" coords="247,12,386,37"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#a336661bbde1de3d6777f8714ed251a05" title="Writes transactionInfos into outputStream." alt="" coords="5,5,199,44"/>
+</map>

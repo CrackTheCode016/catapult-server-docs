@@ -1,0 +1,7 @@
+<map id="catapult::ionet::UnpackNode" name="catapult::ionet::UnpackNode">
+<area shape="rect" id="node1" title="Unpacks a network node (networkNode) into a node model." alt="" coords="462,57,651,83"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1nodediscovery.html#ac8a5e0230c8a386371e646be0f4efb3b" title="Tries to parse packet into node." alt="" coords="253,16,414,55"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1nodediscovery.html#a6acf34b7a9e6de4967dad6cd6e320176" title="Tries to parse packet into nodes." alt="" coords="253,81,414,120"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1handlers.html#a8fe97c2f3f31ac6d7315c0fa5e20ee3c" title=" " alt="" coords="5,5,205,57"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1handlers.html#a9859f119383baa73c71e970a058996e7" title="Registers a node discovery push peers handler in handlers that forwards received nodes to nodesConsum..." alt="" coords="5,81,205,133"/>
+</map>

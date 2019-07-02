@@ -1,0 +1,6 @@
+<map id="catapult::state::CompactMosaicMap::basic_iterator_t&lt; T &gt;" name="catapult::state::CompactMosaicMap::basic_iterator_t&lt; T &gt;">
+<area shape="rect" id="node1" title="A basic typed iterator that adds support for dereferencing." alt="" coords="18,293,195,345"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_compact_mosaic_map_1_1basic__iterator.html" title="Base of mosaic iterators." alt="" coords="18,205,195,244"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_compact_mosaic_map_1_1_first_level_storage.html" title=" " alt="" coords="5,105,207,144"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1_compact_mosaic_map_1_1_mosaic_union.html" title=" " alt="" coords="19,5,193,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::utils::DivideAndGetRemainder" name="catapult::utils::DivideAndGetRemainder">
+<area shape="rect" id="node1" title="Divides value by divisor and returns the remainder." alt="" coords="208,5,375,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a0b19dd393206c971827bca353bece5e5" title="Returns true if rhs is equal to lhs multipled by a power of base." alt="" coords="5,5,160,44"/>
+</map>

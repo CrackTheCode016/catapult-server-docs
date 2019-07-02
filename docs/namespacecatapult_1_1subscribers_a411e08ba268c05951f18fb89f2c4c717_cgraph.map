@@ -1,0 +1,4 @@
+<map id="catapult::subscribers::ReadNextStateChange" name="catapult::subscribers::ReadNextStateChange">
+<area shape="rect" id="node1" title="Reads next state change from inputStream and forwards it to subscriber using cacheChangesStorages for..." alt="" coords="5,5,171,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#aac66f8080fea9c0e50ef9d8665f3a098" title="Reads value from input." alt="" coords="219,12,352,37"/>
+</map>

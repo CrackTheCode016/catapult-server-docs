@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServerHooks::setTransactionRangeConsumerFactory" name="catapult::extensions::ServerHooks::setTransactionRangeConsumerFactory">
+<area shape="rect" id="node1" title="Sets the factory for creating a TransactionRangeConsumerFunc bound to an input source." alt="" coords="5,5,206,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a3ca7f0d7e0b5d96e1e8443ce191a2af2" title="Sets dest to source if and only if dest is unset." alt="" coords="254,12,393,51"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::harvesting::HarvestingUtFacadeFactory::create" name="catapult::harvesting::HarvestingUtFacadeFactory::create">
+<area shape="rect" id="node1" title="Creates a facade for applying transactions at a given block time (blockTime)." alt="" coords="273,5,467,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1harvesting.html#a9fb4e1d5aff013aae5e274fb09a8891e" title="Creates a default block generator around utFacadeFactory and utCache for specified transaction strate..." alt="" coords="5,12,225,51"/>
+</map>

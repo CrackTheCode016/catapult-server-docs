@@ -1,0 +1,4 @@
+<map id="catapult::io::WriteBlockElement" name="catapult::io::WriteBlockElement">
+<area shape="rect" id="node1" title="Writes blockElement into outputStream." alt="" coords="247,5,404,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_file_block_storage.html#a6c981ab30cc4644b3c2e25865f6fda96" title="Saves blockElement." alt="" coords="5,5,199,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::model::AddressToString" name="catapult::model::AddressToString">
+<area shape="rect" id="node1" title="Creates an encoded address from an address." alt="" coords="483,5,651,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1state.html#a1233028ae5c92508f80a917319917857" title="Requires that remoteAccountState and mainAccountState state are linked." alt="" coords="220,5,435,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1cache.html#ad99d5390b68d4d490d42a17b15296d18" title="Forwards account state or linked account state found in cache associated with publicKey to action." alt="" coords="5,5,172,44"/>
+</map>

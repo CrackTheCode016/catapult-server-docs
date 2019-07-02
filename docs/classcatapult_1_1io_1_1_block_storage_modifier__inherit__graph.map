@@ -1,0 +1,4 @@
+<map id="catapult::io::BlockStorageModifier" name="catapult::io::BlockStorageModifier">
+<area shape="rect" id="node1" title="A write only view on top of block storage." alt="" coords="5,79,178,117"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="8,5,175,31"/>
+</map>

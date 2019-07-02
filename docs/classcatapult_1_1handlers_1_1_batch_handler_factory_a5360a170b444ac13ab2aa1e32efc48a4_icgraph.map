@@ -1,0 +1,7 @@
+<map id="catapult::handlers::BatchHandlerFactory::RegisterOne" name="catapult::handlers::BatchHandlerFactory::RegisterOne">
+<area shape="rect" id="node1" title=" " alt="" coords="725,33,879,85"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_cache_handlers.html#aca9c9af2d7014381e87c9145a3b446cc" title="Registers all cache handlers in pluginManager for cache with specified facility code." alt="" coords="489,5,659,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1handlers.html#a3fc5a86f62a6af6566aa4f5913158324" title=" " alt="" coords="472,68,677,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="190,75,424,113"/>
+<area shape="rect" id="node5" href="$_plugin_manager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,81,142,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="catapult::extensions::MemoryStream" name="catapult::extensions::MemoryStream">
+<area shape="rect" id="node1" title="Memory&#45;based implementation of input and output stream." alt="" coords="451,44,590,83"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_buffer_input_stream_adapter.html" title=" " alt="" coords="219,5,403,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_input_stream.html" title="Reader interface." alt="" coords="5,19,171,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_output_stream.html" title="Writer interface." alt="" coords="223,81,399,107"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="catapult::tools::nemgen::CalculateNemesisBlockExecutionHashes" name="catapult::tools::nemgen::CalculateNemesisBlockExecutionHashes">
+<area shape="rect" id="node1" title="Calculates the block execution dependent hashes after executing nemesis blockElement for network conf..." alt="" coords="5,196,233,248"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a381b90947dfff379681769cfc6459190" title="Calculates the merkle hash for statement." alt="" coords="281,108,455,147"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1chain.html#adb0f2f6574664cb2dd895041ba9871a8" title="Executes blockElement using the specified execution context (executionContext)." alt="" coords="287,171,450,209"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1tools_1_1nemgen_1_1_plugin_loader.html#af8fa71b1f0a7432eecd49595ac9916ee" title="Loads all configured plugins." alt="" coords="288,233,448,272"/>
+<area shape="rect" id="node18" href="$classcatapult_1_1tools_1_1nemgen_1_1_plugin_loader.html#a47e492bed78c9d0c3e7858619afbddb4" title="Gets the plugin manager." alt="" coords="284,296,452,335"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1model.html#ae7294c79051bfca8adffe81cdcf8a66d" title="Extracts all entity infos from element into entityInfos." alt="" coords="512,171,672,209"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1tools_1_1nemgen_1_1_plugin_loader.html#a2c0776420f4908952f5a13d2fa56bce6" title=" " alt="" coords="503,233,680,272"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1plugins.html#a7dbb88f436701c9dfe75f11580691c85" title="Loads a plugin named name with manager from directory into modules." alt="" coords="728,233,868,272"/>
+<area shape="rect" id="node8" href="$namespaceforwards_validation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="916,212,1071,237"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1plugins.html#ad4d72b27c270ab6b9807c36162d41b45" title=" " alt="" coords="921,261,1065,300"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#ade167f60b0bc7eaa07e2a4adde4bfea9" title="Adds an observer hook." alt="" coords="1127,5,1353,44"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a7f21a94da7a0ae3d2f5f3dcc69ec7e8f" title="Adds a stateful validator hook." alt="" coords="1147,68,1333,120"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="1142,144,1338,196"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a7d214364caa4469d9f755e565dc5bf12" title="Adds a (transient) observer hook." alt="" coords="1142,220,1338,272"/>
+<area shape="rect" id="node14" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="1163,296,1317,335"/>
+<area shape="rect" id="node15" href="$namespacecatapult_1_1importance.html#a2f46dc9f490a89d13fa270ff229af40a" title="Creates an importance calculator for the block chain described by config." alt="" coords="1142,359,1338,397"/>
+<area shape="rect" id="node16" href="$namespacecatapult_1_1importance.html#a9207fa600c55ac6ebf24563c7e6c76e1" title="Creates a restore importance calculator." alt="" coords="1119,421,1361,460"/>
+<area shape="rect" id="node17" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a6fdee37bfd3d74949df0eda2577b62dc" title="Gets the inflation configuration." alt="" coords="1138,484,1341,523"/>
+</map>

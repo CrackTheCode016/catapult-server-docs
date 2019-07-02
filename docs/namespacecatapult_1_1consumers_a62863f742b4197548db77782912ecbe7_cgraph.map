@@ -1,0 +1,6 @@
+<map id="catapult::consumers::CompleteSuccess" name="catapult::consumers::CompleteSuccess">
+<area shape="rect" id="node1" title="Creates a completed success consumer result." alt="" coords="5,44,146,83"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1disruptor_1_1_consumer_result.html#a8ea7000ef7374c4cd4f2d3ef7d3f6199" title="Creates a consumer result indicating that processing has completed with the specified code." alt="" coords="194,12,386,51"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="229,75,352,113"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1disruptor_1_1_consumer_result.html#a008080601bd49740563a856584a62a9f" title="Creates a default result." alt="" coords="434,5,631,57"/>
+</map>

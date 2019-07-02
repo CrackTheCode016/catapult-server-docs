@@ -1,0 +1,5 @@
+<map id="catapult::cache::RdbColumnContainer::size" name="catapult::cache::RdbColumnContainer::size">
+<area shape="rect" id="node1" title="Returns size of the column." alt="" coords="268,37,457,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_rdb_column_container.html#a65171806eb18cb55af9e81263551efeb" title="Creates an adapter around database and columnId." alt="" coords="5,5,220,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_patricia_tree_rdb_data_source.html#a3babf74bfe5c34883f250441bed1a426" title="Gets the number of saved nodes." alt="" coords="26,68,200,107"/>
+</map>

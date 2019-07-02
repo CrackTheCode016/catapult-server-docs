@@ -1,0 +1,5 @@
+<map id="catapult::io::InputStream::eof" name="catapult::io::InputStream::eof">
+<area shape="rect" id="node1" title="Returns true if no data is left in the stream." alt="" coords="389,12,580,37"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1subscribers.html#af807111ce101483851e77658da5c16de" title="Reads all messages from inputStream into subscriber using readNextMessage." alt="" coords="197,5,341,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1subscribers.html#a7ad542fdc2dec0f88e17d62f78a44e69" title="Reads all messages from reader into subscriber using readNextMessage." alt="" coords="5,5,149,44"/>
+</map>

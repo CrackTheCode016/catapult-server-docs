@@ -1,0 +1,8 @@
+<map id="catapult::cache::SizeMixin::size" name="catapult::cache::SizeMixin::size">
+<area shape="rect" id="node1" title="Gets the number of elements in the cache." alt="" coords="788,37,964,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_block_difficulty_cache_delta.html#a0e32e88152ea370804fc2d4662f367bc" title=" " alt="" coords="528,37,740,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_block_difficulty_cache_delta.html#a4a3419c3c27ab0d568b876b0172361be" title=" " alt="" coords="255,5,472,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_basic_block_difficulty_cache_delta.html#ac54672de913546edf7513109415aa30d" title=" " alt="" coords="247,68,480,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_block_difficulty_cache_delta.html#aa0b9facbd1c1d224111a23d5253aa0dd" title="Inserts a block difficulty info into the set." alt="" coords="10,5,194,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_basic_block_difficulty_cache_delta.html#ac7aa2897585965354ae2eb97e29d727a" title="Removes a block difficulty info from the set." alt="" coords="5,68,199,107"/>
+</map>

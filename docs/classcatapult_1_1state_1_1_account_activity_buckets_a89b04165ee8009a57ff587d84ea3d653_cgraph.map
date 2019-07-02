@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountActivityBuckets::pop" name="catapult::state::AccountActivityBuckets::pop">
+<area shape="rect" id="node1" title="Pops the current bucket." alt="" coords="5,5,165,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_compact_array_stack.html#afe3fd0e8370417bd156a0958b3ad0aac" title="Pops the top value from the stack." alt="" coords="213,5,378,44"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="catapult::state::CompactArrayStack::begin" name="catapult::state::CompactArrayStack::begin">
+<area shape="rect" id="node1" title="Returns a const iterator to the first element of the underlying container." alt="" coords="478,188,643,227"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_importance_snapshots.html#a408015aef1564685ca49fba5b6c5fd94" title="Returns a const iterator to the first element of the underlying container." alt="" coords="235,5,426,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_activity_buckets.html#a76f95169b316e5d8f97a87f64bcb2fba" title="Returns a const iterator to the first element of the underlying container." alt="" coords="250,68,410,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_account_importance_snapshots.html#af2bfed1bb63c2ffc5a71567d52839ab3" title="Gets the current importance of the account." alt="" coords="230,131,430,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_account_importance_snapshots.html#a59b7e9693b4f0ebb2c6036cb8ca64b7d" title="Gets the importance of the account at height." alt="" coords="5,217,182,256"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1_account_activity_buckets.html#a6be50d052e325991f5e3032b28a32d2c" title="Gets activity bucket at height." alt="" coords="250,245,410,284"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1state_1_1_account_importance_snapshots.html#a809c312ac230a2631df63efcabe9d0dd" title="Gets the height at which the current importance was calculated." alt="" coords="233,308,428,347"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1state_1_1_account_activity_buckets.html#a66c525a50b4523f1221ef6570a722131" title=" " alt="" coords="242,371,418,409"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1state_1_1_account_importance_snapshots.html#aa49a17a3abad616c6725377781065919" title="Sets the current account importance to importance at height." alt="" coords="6,308,182,347"/>
+</map>

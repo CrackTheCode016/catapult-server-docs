@@ -1,0 +1,4 @@
+<map id="catapult::extensions::LocalNodeStateSerializer::save" name="catapult::extensions::LocalNodeStateSerializer::save">
+<area shape="rect" id="node1" title="Saves state composed of cache, state and score." alt="" coords="269,5,484,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1sync.html#a41faaaf95114d7dafd8cda2d766fcc0a" title="Updates syncHandlers to support supplemental data resiliency given dataDirectory, cache and score." alt="" coords="5,5,221,44"/>
+</map>

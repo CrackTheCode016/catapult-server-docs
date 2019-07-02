@@ -1,0 +1,4 @@
+<map id="catapult::partialtransaction::PtServerHooks::cosignatureRangeConsumer" name="catapult::partialtransaction::PtServerHooks::cosignatureRangeConsumer">
+<area shape="rect" id="node1" title="Gets the cosignature range consumer." alt="" coords="5,5,239,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a1ba3236a6ee3676530f450d3c8e73a77" title="Returns func if and only if it is set." alt="" coords="287,12,427,51"/>
+</map>

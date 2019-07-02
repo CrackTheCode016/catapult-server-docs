@@ -1,0 +1,6 @@
+<map id="catapult::io::BlockStorage::loadBlockStatementData" name="catapult::io::BlockStorage::loadBlockStatementData">
+<area shape="rect" id="node1" title="Returns the optional block statement data at height." alt="" coords="478,33,654,72"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_block_storage_view.html#a82a3eb3ad2bc536636c609ee526baf3a" title="Returns the optional block statement data at height." alt="" coords="226,5,430,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1io.html#a5fdd349a81e8473d5b9d5147c309ccde" title="Moves block files starting at startHeight from sourceStorage to destinationStorage." alt="" coords="235,68,421,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_block_storage_modifier.html#a68ed3955b979e23c82d8ca86d6e2e6cb" title="Commits all staged changes to the primary storage." alt="" coords="5,61,178,100"/>
+</map>

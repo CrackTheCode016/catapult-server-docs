@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,75,56,100"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1local.html#acf5a63804322c4c64a957c7938f945ea" title="Creates and boots a recovery orchestrator around the specified bootstrapper (pBootstrapper)." alt="" coords="104,5,310,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1process.html#a89dd533b7d67d6fcde0bb1935a32c94e" title=" " alt="" coords="140,68,274,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1process.html#a91a87b15c89eaa7cbeefac4af9a6a739" title=" " alt="" coords="142,131,272,169"/>
+</map>

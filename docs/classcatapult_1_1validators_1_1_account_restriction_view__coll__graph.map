@@ -1,0 +1,5 @@
+<map id="catapult::validators::AccountRestrictionView" name="catapult::validators::AccountRestrictionView">
+<area shape="rect" id="node1" title="A view on top of a catapult cache cache for retrieving a typed account restriction." alt="" coords="381,87,550,125"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_read_only_artifact_cache_1_1_read_only_find_iterator.html" title=" " alt="" coords="5,5,276,111"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_read_only_catapult_cache.html" title="A read&#45;only overlay on top of a catapult cache." alt="" coords="52,135,229,173"/>
+</map>

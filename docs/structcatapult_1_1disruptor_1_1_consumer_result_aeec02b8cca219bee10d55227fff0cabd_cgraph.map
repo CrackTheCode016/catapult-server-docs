@@ -1,0 +1,4 @@
+<map id="catapult::disruptor::ConsumerResult::Abort" name="catapult::disruptor::ConsumerResult::Abort">
+<area shape="rect" id="node1" title="Creates a consumer result indicating that processing should be aborted with the specified code." alt="" coords="5,12,173,51"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1disruptor_1_1_consumer_result.html#a008080601bd49740563a856584a62a9f" title="Creates a default result." alt="" coords="221,5,418,57"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="catapult::disruptor::ConsumerDispatcher::processElement" name="catapult::disruptor::ConsumerDispatcher::processElement">
+<area shape="rect" id="node1" title=" " alt="" coords="5,173,159,225"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1_disruptor.html#aed9315bdc2b86ffa5889bd89c50b3c12" title=" " alt="" coords="239,55,366,93"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html#ae151a46a4723703f5658feb5797b60ad" title=" " alt="" coords="215,173,390,225"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html#aeb78d5c6a294fafe0db1c62755de4a14" title=" " alt="" coords="207,273,398,312"/>
+<area shape="rect" id="node3" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="476,5,576,31"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1disruptor.html#aa31b328c3ef44ec3029bbb52ec843241" title="Returns true if id matches interval." alt="" coords="454,55,597,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1disruptor_1_1_disruptor.html#a1d0626595898c4457b001f926c7ecc8f" title="Gets the capacity of the disruptor." alt="" coords="456,117,595,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1disruptor_1_1_disruptor_barriers.html#a1769e0b9138cfadaadd3586ff738387b" title="Returns number of barriers." alt="" coords="446,180,606,219"/>
+<area shape="rect" id="node8" href="$namespacecolor_print.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="462,243,590,268"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html#ad755da3697e949238351fc2d1c2f0d2d" title="Returns the number of elements currently in the disruptor." alt="" coords="449,292,603,344"/>
+</map>

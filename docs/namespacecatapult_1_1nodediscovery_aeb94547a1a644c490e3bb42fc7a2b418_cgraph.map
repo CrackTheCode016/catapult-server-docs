@@ -1,0 +1,4 @@
+<map id="catapult::nodediscovery::SelectUnknownNodes" name="catapult::nodediscovery::SelectUnknownNodes">
+<area shape="rect" id="node1" title="Filters nodes by returning all nodes not contained in view." alt="" coords="5,5,167,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node_container_view.html#a15262e5f8fedcb416322221addb0d8e4" title="Returns true if the node with identityKey is in the container, false otherwise." alt="" coords="215,5,416,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::tools::nemgen::CalculateNemesisBlockExecutionHashes" name="catapult::tools::nemgen::CalculateNemesisBlockExecutionHashes">
+<area shape="rect" id="node1" title="Calculates the block execution dependent hashes after executing nemesis blockElement for network conf..." alt="" coords="294,5,521,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tools_1_1nemgen.html#a7ca0796ef874d605290ed3e0964314de" title=" " alt="" coords="5,5,246,57"/>
+</map>

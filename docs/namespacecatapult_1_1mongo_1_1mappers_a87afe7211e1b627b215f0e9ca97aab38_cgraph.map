@@ -1,0 +1,4 @@
+<map id="catapult::mongo::mappers::StreamReceipt" name="catapult::mongo::mappers::StreamReceipt">
+<area shape="rect" id="node1" title="Streams receipt into builder." alt="" coords="5,5,181,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1mongo_1_1mappers.html#aa06da8a74993f2239f74f4e43014edd6" title="Converts base value to int64_t." alt="" coords="229,5,404,44"/>
+</map>

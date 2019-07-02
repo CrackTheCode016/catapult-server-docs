@@ -1,0 +1,11 @@
+<map id="catapult::chain::UtUpdater::ThrottleContext" name="catapult::chain::UtUpdater::ThrottleContext">
+<area shape="rect" id="node1" title="Contextual information passed to throttle." alt="" coords="1335,120,1511,159"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="946,56,1116,95"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="554,40,724,105"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1_height__tag.html" title=" " alt="" coords="267,5,407,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="252,55,421,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,97,172,123"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1_basic_transactions_cache_modifier_proxy.html" title=" " alt="" coords="221,117,452,169"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_ut_cache_modifier_proxy.html" title=" " alt="" coords="748,121,918,160"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1_read_only_catapult_cache.html" title="A read&#45;only overlay on top of a catapult cache." alt="" coords="942,188,1120,227"/>
+</map>

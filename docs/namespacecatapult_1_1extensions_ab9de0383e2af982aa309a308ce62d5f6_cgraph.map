@@ -1,0 +1,8 @@
+<map id="catapult::extensions::GenerateNamespacePath" name="catapult::extensions::GenerateNamespacePath">
+<area shape="rect" id="node1" title="Parses a unified namespace name into a path." alt="" coords="5,68,188,107"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#aea1fc483602cf46bd07fe34fff4075e8" title="Generates a namespace id given parentId and namespace name." alt="" coords="236,36,411,75"/>
+<area shape="rect" id="node6" href="$namespacecatapult.html#a067e324878b4ac5285fe60bf3278f298" title="Base id for namespaces." alt="" coords="250,99,397,137"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1crypto_1_1_keccak_builder.html#adab53de41fffaaa4ae3df2c995739fc6" title="Finalize hash calculation. Returns result in output." alt="" coords="459,5,622,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1crypto_1_1_keccak_builder.html#ade3e4c47c5a61ec0ae7841ed077d390c" title="Updates the state of hash with data inside dataBuffer." alt="" coords="459,68,622,107"/>
+<area shape="rect" id="node5" href="$_keccak_hash_8c.html#aa5fa5b5707518a7abb4c8af87933628e" title=" " alt="" coords="670,75,816,100"/>
+</map>

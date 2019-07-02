@@ -1,0 +1,4 @@
+<map id="catapult::chain::RollbackBlock" name="catapult::chain::RollbackBlock">
+<area shape="rect" id="node1" title="Rollbacks blockElement using the specified execution context (executionContext)." alt="" coords="194,5,360,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1consumers.html#ade1b31441ef4ddb61266d70b6f4e0b44" title="Undoes blockElement using the specified execution context (executionContext) for undo of specified ty..." alt="" coords="5,5,146,44"/>
+</map>

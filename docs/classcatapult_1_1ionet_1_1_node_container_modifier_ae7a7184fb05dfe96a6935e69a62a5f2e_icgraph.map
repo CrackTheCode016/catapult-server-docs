@@ -1,0 +1,5 @@
+<map id="catapult::ionet::NodeContainerModifier::addConnectionStates" name="catapult::ionet::NodeContainerModifier::addConnectionStates">
+<area shape="rect" id="node1" title="Adds connection states for the service identified by serviceId to all nodes with role." alt="" coords="432,5,635,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a5f31d545dbfc4425c056e56debe4c5ab" title=" " alt="" coords="234,5,384,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#abe45b21fc5f5f27fa06a3a8bb8800504" title="Creates a task for the specified service that connects to nodes with the specified role given setting..." alt="" coords="5,5,186,44"/>
+</map>

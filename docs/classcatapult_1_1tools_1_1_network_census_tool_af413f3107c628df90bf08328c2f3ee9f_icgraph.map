@@ -1,0 +1,4 @@
+<map id="catapult::tools::NetworkCensusTool::processNodeInfos" name="catapult::tools::NetworkCensusTool::processNodeInfos">
+<area shape="rect" id="node1" title="Processes nodeInfos after all futures complete." alt="" coords="213,5,419,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,5,165,44"/>
+</map>

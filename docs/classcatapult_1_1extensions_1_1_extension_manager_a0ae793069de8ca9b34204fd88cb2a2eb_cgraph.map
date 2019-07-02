@@ -1,0 +1,5 @@
+<map id="catapult::extensions::ExtensionManager::registerServices" name="catapult::extensions::ExtensionManager::registerServices">
+<area shape="rect" id="node1" title="Registers all services by forwarding locator and state." alt="" coords="5,20,197,72"/>
+<area shape="rect" id="node2" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="256,5,357,31"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="245,55,368,93"/>
+</map>

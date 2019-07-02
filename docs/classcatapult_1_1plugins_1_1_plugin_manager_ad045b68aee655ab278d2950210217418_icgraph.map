@@ -1,0 +1,5 @@
+<map id="catapult::plugins::PluginManager::createObserver" name="catapult::plugins::PluginManager::createObserver">
+<area shape="rect" id="node1" title="Creates an observer." alt="" coords="260,37,470,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a44c7d7f7857993f882c283d3b2c9419d" title="Creates an execution configuration based on pluginManager." alt="" coords="5,5,212,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#aa47c9b487feeef9d40826a36d303acc4" title="Creates an undo entity observer using pluginManager." alt="" coords="14,68,203,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::ionet::CreateBroadcastPayload" name="catapult::ionet::CreateBroadcastPayload">
+<area shape="rect" id="node1" title="Creates a payload around pBlock for broadcasting." alt="" coords="265,37,477,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#a122e0d6ad7445fda13de9fadbae78655" title="Creates a payload around transactionInfos for broadcasting." alt="" coords="5,5,217,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a712d68aa1a29bea879085f66f6d3bf1f" title="Creates a sink that pushes entities using a service identified by serviceName in locator." alt="" coords="32,68,190,107"/>
+</map>

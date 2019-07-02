@@ -1,0 +1,4 @@
+<map id="catapult::local::CatapultSystemState" name="catapult::local::CatapultSystemState">
+<area shape="rect" id="node1" title="Catapult system state." alt="" coords="9,105,169,144"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1config_1_1_catapult_data_directory.html" title="Catapult data directory." alt="" coords="5,5,173,44"/>
+</map>

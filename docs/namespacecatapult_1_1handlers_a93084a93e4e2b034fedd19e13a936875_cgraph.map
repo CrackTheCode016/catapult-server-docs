@@ -1,0 +1,10 @@
+<map id="catapult::handlers::RegisterStatePathHandler" name="catapult::handlers::RegisterStatePathHandler">
+<area shape="rect" id="node1" title="Registers a handler in handlers that responds with serialized state path produced by querying cache." alt="" coords="5,95,189,133"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_server_packet_handlers.html#a9d9c29de1ef114fb21252ffa4feb7715" title="Registers a handler for the specified packet type." alt="" coords="239,35,431,73"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1tree_1_1_patricia_tree_serializer.html#a6791a0c328e64eb8df0b4f4efcdc4988" title="Serializes value to string." alt="" coords="237,125,432,164"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="501,5,624,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1_tree_node.html#a3e947b1deef95587199cdd1aa6086868" title="Gets a branch node interface to this node." alt="" coords="480,68,645,107"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1tree_1_1_tree_node.html#a1cc8411f5a12c6abfdcf67bff2fc10a6" title="Returns true if this node represents a branch node." alt="" coords="693,111,858,149"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1tree_1_1_tree_node.html#a9c3786ed65fe2afab1a53c406169f367" title="Gets a leaf node interface to this node." alt="" coords="480,183,645,221"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1tree_1_1_tree_node.html#ac79c06c7e9e84b71f43595d5dc713174" title="Returns true if this node represents a leaf node." alt="" coords="693,199,858,237"/>
+</map>

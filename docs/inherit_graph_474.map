@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcatapult_1_1net_1_1_connection_container.html" title="Manages a collection of connections." alt="" coords="16,5,185,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1net_1_1_packet_readers.html" title="Manages a collection of connections that receive data from external nodes." alt="" coords="244,12,436,37"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1net_1_1_packet_writers.html" title="Manages a collection of connections that send data to external nodes." alt="" coords="248,64,432,89"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1net_1_1_packet_io_picker.html" title="An interface for picking packet io pairs." alt="" coords="5,68,196,93"/>
+</map>

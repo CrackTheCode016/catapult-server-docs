@@ -1,0 +1,7 @@
+<map id="catapult::crypto::KeyPair::publicKey" name="catapult::crypto::KeyPair::publicKey">
+<area shape="rect" id="node1" title="Returns a public key of a key pair." alt="" coords="273,113,439,152"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_aggregate_cosignature_appender.html#a78be4047218b25049d1b2630eb7bac78" title="Cosigns an aggregate transaction using cosigner key pair." alt="" coords="5,5,225,57"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1net.html#afcfb5c515ca08a8f0ceeb910c1e3cafb" title=" " alt="" coords="17,81,213,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1harvesting_1_1_harvester.html#a08b592dcdab16be8c308543326575026" title=" " alt="" coords="46,144,184,183"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1crypto.html#a9b45f439d67bd90d28e9a6c635fa23cd" title=" " alt="" coords="42,207,188,232"/>
+</map>

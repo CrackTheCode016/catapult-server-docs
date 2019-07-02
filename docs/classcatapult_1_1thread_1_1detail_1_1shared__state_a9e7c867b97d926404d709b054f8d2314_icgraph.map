@@ -1,0 +1,5 @@
+<map id="catapult::thread::detail::shared_state::assert_pending" name="catapult::thread::detail::shared_state::assert_pending">
+<area shape="rect" id="node1" title=" " alt="" coords="249,31,401,83"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#abc9e7a5893d12e309fdf623b629a7f25" title="Sets the result of this shared state to pException." alt="" coords="5,5,201,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#af0a927ff156baf589744ec3121f9face" title="Sets the result of this shared state to value." alt="" coords="18,68,188,107"/>
+</map>

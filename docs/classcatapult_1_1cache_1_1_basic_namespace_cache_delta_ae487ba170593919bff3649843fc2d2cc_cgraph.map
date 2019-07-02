@@ -1,0 +1,8 @@
+<map id="catapult::cache::BasicNamespaceCacheDelta::insert" name="catapult::cache::BasicNamespaceCacheDelta::insert">
+<area shape="rect" id="node1" title="Inserts the namespace ns into the cache." alt="" coords="5,93,228,132"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_namespace.html#a824bce69d307a4fcb32da351f69b56b6" title="Gets the namespace id." alt="" coords="294,12,495,37"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#ab9bf8a55662ef58e698c161c53cb39ce" title="Increments the active size by delta." alt="" coords="276,61,514,100"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#a6a94a35ab50020c72db90317e85058ee" title="Increments the deep size by delta." alt="" coords="278,124,512,163"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1_namespace.html#ae47b05fc83ad48ced4146f46b0aa9f29" title="Gets the corresponding root namespace id." alt="" coords="303,187,486,225"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_checked_array.html#a72226b5c3d67892663ae0cff57dd6c46" title="Gets the size of the array." alt="" coords="562,5,721,44"/>
+</map>

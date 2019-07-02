@@ -1,0 +1,5 @@
+<map id="catapult::model::AreEqualExcludingChannel" name="catapult::model::AreEqualExcludingChannel">
+<area shape="rect" id="node1" title="Returns true if lhs and rhs have the same source (facility and code)." alt="" coords="254,37,428,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1observers_1_1_demux_observer_builder.html#acf38fcda3eb74857ddb22e20cec177da" title="Adds an observer (pObserver) to the builder that is invoked only when matching notifications are proc..." alt="" coords="7,5,204,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1validators_1_1_demux_validator_builder_t.html#a9735db26578533e813323506708f99e0" title="Adds a validator (pValidator) to the builder that is invoked only when matching notifications are pro..." alt="" coords="5,68,206,107"/>
+</map>

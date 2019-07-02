@@ -1,0 +1,10 @@
+<map id="catapult::state::NamespaceAlias" name="catapult::state::NamespaceAlias">
+<area shape="rect" id="node1" title="A namespace alias." alt="" coords="1025,48,1208,87"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="722,5,901,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1_address__tag.html" title=" " alt="" coords="507,19,658,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="723,81,901,120"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,68,673,133"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1_mosaic_id__tag.html" title=" " alt="" coords="228,60,383,85"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,109,390,148"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,116,172,141"/>
+</map>

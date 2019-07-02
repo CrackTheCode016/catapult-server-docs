@@ -1,0 +1,5 @@
+<map id="catapult::model::CacheEntryInfo::DataPtr" name="catapult::model::CacheEntryInfo::DataPtr">
+<area shape="rect" id="node1" title="Returns a const pointer to the first data byte in this cache entry info." alt="" coords="5,64,194,103"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_trailing_variable_data_layout.html#a7c44ff8c1ce41de6dc49a39b283c33e4" title="Gets the start of the variable data part of derived." alt="" coords="242,5,461,71"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1_trailing_variable_data_layout.html#a197aeaf9b78bc635ec122767143fd84c" title="Gets a typed pointer to the variable data pData." alt="" coords="242,95,461,160"/>
+</map>

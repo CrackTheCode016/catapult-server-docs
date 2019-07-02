@@ -1,0 +1,6 @@
+<map id="catapult::api::RemoteApi" name="catapult::api::RemoteApi">
+<area shape="rect" id="node1" title="An api for retrieving information from a remote node." alt="" coords="5,55,172,80"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1api_1_1_remote_chain_api.html" title="An api for retrieving chain information from a remote node." alt="" coords="237,5,439,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1api_1_1_remote_pt_api.html" title="An api for retrieving partial transaction information from a remote node." alt="" coords="248,55,427,80"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1api_1_1_remote_transaction_api.html" title="An api for retrieving transaction information from a remote node." alt="" coords="220,104,456,129"/>
+</map>

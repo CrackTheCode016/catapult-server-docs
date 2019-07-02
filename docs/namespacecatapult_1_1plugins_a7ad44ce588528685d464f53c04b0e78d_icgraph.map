@@ -1,0 +1,5 @@
+<map id="catapult::plugins::CreateAccountOperationRestrictionTransactionPlugin" name="catapult::plugins::CreateAccountOperationRestrictionTransactionPlugin">
+<area shape="rect" id="node1" title="Creates an account operation restriction transaction plugin." alt="" coords="420,5,651,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a8b36d774fb10e09ea8104d6d567825b9" title="Registers account restriction support with manager." alt="" coords="190,5,372,57"/>
+<area shape="rect" id="node3" href="$_account_restriction_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,142,44"/>
+</map>

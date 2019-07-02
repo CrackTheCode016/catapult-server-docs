@@ -1,0 +1,6 @@
+<map id="catapult::sync::TasksConfiguration::TaskConfiguration" name="catapult::sync::TasksConfiguration::TaskConfiguration">
+<area shape="rect" id="node1" title="Task configuration that is a union of all supported task configurations." alt="" coords="609,42,833,81"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1sync_1_1_decelerating_task_configuration.html" title="Decelerating task configuration settings." alt="" coords="297,13,482,51"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_time_span.html" title="Represents a time duration." alt="" coords="5,51,172,77"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1sync_1_1_uniform_task_configuration.html" title="Uniform task configuration settings." alt="" coords="298,75,482,114"/>
+</map>

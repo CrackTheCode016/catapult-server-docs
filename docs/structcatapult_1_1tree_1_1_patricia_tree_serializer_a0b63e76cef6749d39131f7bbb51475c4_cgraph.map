@@ -1,0 +1,4 @@
+<map id="catapult::tree::PatriciaTreeSerializer::DeserializeValue" name="catapult::tree::PatriciaTreeSerializer::DeserializeValue">
+<area shape="rect" id="node1" title="Deserializes tree node from buffer." alt="" coords="5,5,216,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#aac66f8080fea9c0e50ef9d8665f3a098" title="Reads value from input." alt="" coords="264,12,396,37"/>
+</map>

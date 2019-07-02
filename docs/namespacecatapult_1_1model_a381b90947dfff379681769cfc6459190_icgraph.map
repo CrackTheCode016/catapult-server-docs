@@ -1,0 +1,9 @@
+<map id="catapult::model::CalculateMerkleHash" name="catapult::model::CalculateMerkleHash">
+<area shape="rect" id="node1" title="Calculates the merkle hash for statement." alt="" coords="569,113,744,152"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a3ee11e88768b9517da438acd7858378c" title="Calculates the merkle tree for statement." alt="" coords="320,5,495,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1tools_1_1nemgen.html#a0f28c896151d15d490fd3ac75cab79ca" title="Calculates the block execution dependent hashes after executing nemesis blockElement for network conf..." alt="" coords="294,68,521,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1harvesting_1_1_harvesting_ut_facade_1_1_impl.html#afa92b4e2577623943a96b8e048e45d6d" title=" " alt="" coords="333,144,483,196"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1extensions_1_1_nemesis_block_loader.html#ae785b9466a6087ffc7b14f505345abbb" title=" " alt="" coords="330,220,485,272"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1mongo_1_1mappers.html#a58177103e3bfffada88e7318d1d57752" title="Maps a blockElement to the corresponding db model entity." alt="" coords="38,5,213,44"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1tools_1_1nemgen.html#a7ca0796ef874d605290ed3e0964314de" title=" " alt="" coords="5,68,246,120"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ProcessBootstrapper::staticNodes" name="catapult::extensions::ProcessBootstrapper::staticNodes">
+<area shape="rect" id="node1" title="Gets the static (pretrusted) nodes." alt="" coords="227,5,380,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1local.html#aa119bf8614b0d034d73f132358c56a23" title="Seeds nodes with node information from bootstrapper." alt="" coords="5,12,179,51"/>
+</map>

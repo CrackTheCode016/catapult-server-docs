@@ -1,0 +1,5 @@
+<map id="catapult::ionet::CreateBroadcastPayload" name="catapult::ionet::CreateBroadcastPayload">
+<area shape="rect" id="node1" title="Creates a payload around transactionInfos for broadcasting." alt="" coords="5,5,217,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#a4dd66d1f9d3fb485a776a4ac02587377" title="Creates a payload around pBlock for broadcasting." alt="" coords="265,5,477,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_packet_payload_factory.html#af14bd8813cb4f8b620b3c194f067fc68" title="Creates a packet payload with the specified packet type around a single entity (pEntity)." alt="" coords="525,5,726,44"/>
+</map>

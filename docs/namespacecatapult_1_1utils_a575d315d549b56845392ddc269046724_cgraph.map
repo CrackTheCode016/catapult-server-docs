@@ -1,0 +1,4 @@
+<map id="catapult::utils::ExtractSectionAsBag" name="catapult::utils::ExtractSectionAsBag">
+<area shape="rect" id="node1" title="Extracts all section properties from bag into a new bag with a single section with a default (empty s..." alt="" coords="5,5,153,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_configuration_bag.html#a56cc68ffa582740fcc5f47050475e9e3" title="Gets all section properties from this bag preserving source order." alt="" coords="201,5,387,44"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="catapult::plugins::RegisterCoreSystem" name="catapult::plugins::RegisterCoreSystem">
+<area shape="rect" id="node1" title=" " alt="" coords="5,261,150,300"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#ade167f60b0bc7eaa07e2a4adde4bfea9" title="Adds an observer hook." alt="" coords="205,5,432,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a7f21a94da7a0ae3d2f5f3dcc69ec7e8f" title="Adds a stateful validator hook." alt="" coords="226,68,412,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="221,144,417,196"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a7d214364caa4469d9f755e565dc5bf12" title="Adds a (transient) observer hook." alt="" coords="221,220,417,272"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="242,296,396,335"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1importance.html#a2f46dc9f490a89d13fa270ff229af40a" title="Creates an importance calculator for the block chain described by config." alt="" coords="221,359,416,397"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1importance.html#a9207fa600c55ac6ebf24563c7e6c76e1" title="Creates a restore importance calculator." alt="" coords="198,421,440,460"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a6fdee37bfd3d74949df0eda2577b62dc" title="Gets the inflation configuration." alt="" coords="217,484,420,523"/>
+</map>

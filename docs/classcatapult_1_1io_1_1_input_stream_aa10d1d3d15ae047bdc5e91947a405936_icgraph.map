@@ -1,0 +1,15 @@
+<map id="catapult::io::InputStream::read" name="catapult::io::InputStream::read">
+<area shape="rect" id="node1" title=" " alt="" coords="835,291,1001,329"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_hash_cache_storage.html#afd3dcff6b2f7bf00c3004d7c709d7bb1" title="Loads a single value from input." alt="" coords="521,5,709,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_hash_lock_info_extended_data_serializer.html#a3ef9e5cb925feea7982e327b987dcd71" title="Loads hash lock info extended data from input into lockInfo." alt="" coords="505,68,726,107"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1_secret_lock_info_extended_data_serializer.html#a386df7d416b5f5d6d45f18d3f0ff22c8" title="Loads secret lock info extended data from input into lockInfo." alt="" coords="505,131,726,169"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1state_1_1_multisig_entry_serializer.html#aa7cd318a5901936da5aa03dc390e3076" title="Loads a single value from input." alt="" coords="537,193,694,232"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1state_1_1_account_restrictions_serializer.html#a501a102f5f39ab5c2bf6f19a1d42d08c" title="Loads a single value from input." alt="" coords="524,256,707,295"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1state_1_1_lock_info_serializer.html#ae089b312a0731e4810dd039368de132d" title="Loads a single value from input." alt="" coords="464,319,767,371"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1_account_state_cache_summary_cache_storage.html#a2db8bc2b9d1d7ddde5a998bdd47ae438" title="Loads cache data from input in batches of batchSize." alt="" coords="499,395,732,447"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1_identifier_group_serializer.html#a7e91fff350c6a9de4d83cb1559d21997" title=" " alt="" coords="444,471,787,523"/>
+<area shape="rect" id="node10" href="$namespacecatapult_1_1subscribers.html#a8e80809fcdc1f08339fd08f5f2ff438c" title="Reads next transaction status from inputStream and forwards it to subscriber." alt="" coords="518,547,713,585"/>
+<area shape="rect" id="node11" href="$namespacecatapult_1_1io.html#ac618db7fb4512e43871c11b0a32b6b25" title="Reads transaction info from inputStream into transactionInfo." alt="" coords="507,609,724,635"/>
+<area shape="rect" id="node12" href="$namespacecatapult_1_1io.html#a43a5c3645513ec683a7e989179d668ee" title="Reads transaction infos from inputStream into transactionInfos." alt="" coords="201,603,396,641"/>
+<area shape="rect" id="node13" href="$namespacecatapult_1_1subscribers.html#a29e3e5f9374538a986da4fbb8784d2ba" title="Reads next unconfirmed transactions change from inputStream and forwards it to subscriber." alt="" coords="5,603,153,641"/>
+</map>

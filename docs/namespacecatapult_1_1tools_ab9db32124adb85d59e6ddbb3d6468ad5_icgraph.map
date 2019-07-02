@@ -1,0 +1,4 @@
+<map id="catapult::tools::LoadPeers" name="catapult::tools::LoadPeers">
+<area shape="rect" id="node1" title="Loads p2p peers configuration from resourcesPath for network networkIdentifier." alt="" coords="213,12,389,37"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,5,165,44"/>
+</map>

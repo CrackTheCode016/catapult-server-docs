@@ -1,0 +1,10 @@
+<map id="catapult::disruptor::ConsumerDispatcher::tryNext" name="catapult::disruptor::ConsumerDispatcher::tryNext">
+<area shape="rect" id="node1" title=" " alt="" coords="5,188,159,240"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html#a5a8a8562862f443937e2e1e24d5052a1" title=" " alt="" coords="207,124,361,176"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1disruptor_1_1_disruptor.html#a9d24a4e04f96a654b96f8c76e982e2a0" title="Gets element at given position." alt="" coords="424,5,574,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1disruptor_1_1_consumer_entry.html#a1fe39e6b84e4eddaa735fd4900f4bb00" title="Returns consumer level." alt="" coords="421,193,577,232"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1disruptor_1_1_consumer_entry.html#abf6185786b0250d8c5d974a30463ce82" title="Returns current position (in the circular buffer)." alt="" coords="412,256,586,295"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1disruptor_1_1_disruptor.html#a1cdd5f4ae3a724f6b0565a0d9d994a37" title="Checks skip flag on the element at position." alt="" coords="210,303,358,341"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1disruptor_1_1_consumer_entry.html#aab660b9f868149ba5711338338669b88" title="Advances the position." alt="" coords="409,131,588,169"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1disruptor_1_1_disruptor_barriers.html#a1769e0b9138cfadaadd3586ff738387b" title="Returns number of barriers." alt="" coords="419,68,579,107"/>
+</map>

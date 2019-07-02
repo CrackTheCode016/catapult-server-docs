@@ -1,0 +1,7 @@
+<map id="catapult::validators::AggregateValidatorBuilder::DefaultAggregateNotificationValidator::validate" name="catapult::validators::AggregateValidatorBuilder::DefaultAggregateNotificationValidator::validate">
+<area shape="rect" id="node1" title="Validates a single notification with contextual information args." alt="" coords="5,24,255,89"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1validators.html#a0c5084676f9c51f91e95b32eed5d3128" title="Aggregates result into aggregate." alt="" coords="303,5,489,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1validators.html#acee5dceebade6995d1a755fcf44d7cde" title="Returns a value indicating whether the validation result is a failure." alt="" coords="309,68,484,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1validators.html#a5cfd898ef74a17421d8470007a70e49a" title="Extracts the encoded result severity from result." alt="" coords="537,68,670,107"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="718,68,840,107"/>
+</map>

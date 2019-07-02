@@ -1,0 +1,6 @@
+<map id="catapult::plugins::PluginManager::transactionRegistry" name="catapult::plugins::PluginManager::transactionRegistry">
+<area shape="rect" id="node1" title="Gets the transaction registry." alt="" coords="437,40,620,92"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_nemesis_block_loader.html#ae785b9466a6087ffc7b14f505345abbb" title=" " alt="" coords="212,5,367,57"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1plugins.html#aa9b0c53d8943663b34bed27def2d5e85" title="Registers aggregate support with manager." alt="" coords="190,81,389,120"/>
+<area shape="rect" id="node4" href="$_aggregate_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,88,142,113"/>
+</map>

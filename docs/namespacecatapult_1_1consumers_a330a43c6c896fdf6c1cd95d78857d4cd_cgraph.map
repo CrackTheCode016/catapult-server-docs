@@ -1,0 +1,5 @@
+<map id="catapult::consumers::Abort" name="catapult::consumers::Abort">
+<area shape="rect" id="node1" title="Creates an aborted consumer result around validationResult." alt="" coords="5,37,146,76"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1disruptor_1_1_consumer_result.html#a94218eeb53fcce73da634b33534f56e7" title="Creates a consumer result indicating that processing should be aborted." alt="" coords="194,5,361,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="216,68,339,107"/>
+</map>

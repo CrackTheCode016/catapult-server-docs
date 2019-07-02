@@ -1,0 +1,5 @@
+<map id="catapult::cache::HeightBasedTouchMixin::touch" name="catapult::cache::HeightBasedTouchMixin::touch">
+<area shape="rect" id="node1" title="Touches the cache at height and returns identifiers of all deactivating elements." alt="" coords="5,37,200,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1cache.html#a46c918b57e2eba45e07b5f9ce48eed7a" title="Finds identifiers of all values in set (with grouped view groupedSet) that are deactivating at height..." alt="" coords="248,5,466,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1cache.html#a706b6f1907c844ba12241f35e83c9e92" title="Calls action for each value in set with grouping key according to groupedSet." alt="" coords="273,68,441,107"/>
+</map>

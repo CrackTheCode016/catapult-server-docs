@@ -1,0 +1,5 @@
+<map id="catapult::model::HasBasicTypeFilter" name="catapult::model::HasBasicTypeFilter">
+<area shape="rect" id="node1" title="Creates a predicate that returns true when an entity has a matching basic entity type." alt="" coords="5,5,181,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#aa30c5a5e3a24c19675309ac9e6d2569c" title="Converts an entity type into a basic entity type." alt="" coords="229,5,395,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="443,5,566,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::tools::nemgen::CreateTransactionRegistry" name="catapult::tools::nemgen::CreateTransactionRegistry">
+<area shape="rect" id="node1" title="Creates a transaction registry that has basic transaction types registered." alt="" coords="255,5,442,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tools_1_1nemgen.html#a9991f2c958985fd13d74fcca079bcd53" title="Wraps a block element around block according to config." alt="" coords="5,5,207,44"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="catapult::cache::BasicMultisigCacheDelta" name="catapult::cache::BasicMultisigCacheDelta">
+<area shape="rect" id="node1" title="Basic delta on top of the multisig cache." alt="" coords="227,212,424,251"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1_read_only_view_supplier.html" title=" " alt="" coords="472,205,698,257"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="9,5,176,31"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,55,179,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_contains_mixin.html" title="A mixin for adding contains support to a cache." alt="" coords="5,117,179,156"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,180,179,219"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_mutable_accessor_mixin.html" title=" " alt="" coords="5,243,179,281"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_patricia_tree_delta_mixin.html" title="A mixin for adding patricia tree support to a delta cache." alt="" coords="5,305,179,344"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,368,179,407"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1deltaset_1_1_delta_elements_mixin.html" title="Mixin that wraps BaseSetDelta and provides a facade on top of BaseSetDelta::deltas()." alt="" coords="5,431,179,469"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1_multisig_cache_delta.html" title="Delta on top of the multisig cache." alt="" coords="746,212,910,251"/>
+</map>

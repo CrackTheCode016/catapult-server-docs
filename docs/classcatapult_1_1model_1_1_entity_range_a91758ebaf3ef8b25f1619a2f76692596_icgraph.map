@@ -1,0 +1,4 @@
+<map id="catapult::model::EntityRange::end" name="catapult::model::EntityRange::end">
+<area shape="rect" id="node1" title="Returns a const iterator that represents one past the last entity." alt="" coords="245,12,467,37"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_entity_range.html#aebe5381416128529887beccb50ffb489" title="Returns an iterator that represents one past the last entity." alt="" coords="5,5,197,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::disruptor::ConsumerResult::Abort" name="catapult::disruptor::ConsumerResult::Abort">
+<area shape="rect" id="node1" title="Creates a consumer result indicating that processing should be aborted." alt="" coords="194,5,361,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1consumers.html#a330a43c6c896fdf6c1cd95d78857d4cd" title="Creates an aborted consumer result around validationResult." alt="" coords="5,5,146,44"/>
+</map>

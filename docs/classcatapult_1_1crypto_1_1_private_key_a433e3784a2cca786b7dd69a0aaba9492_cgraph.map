@@ -1,0 +1,4 @@
+<map id="catapult::crypto::PrivateKey::FromStringSecure" name="catapult::crypto::PrivateKey::FromStringSecure">
+<area shape="rect" id="node1" title="Creates a private key from pRawKey with size keySize and securely erases pRawKey." alt="" coords="5,5,166,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1_private_key.html#aee127c7fc320764b100a886619cef5cf" title="Creates a private key from str." alt="" coords="214,5,375,44"/>
+</map>

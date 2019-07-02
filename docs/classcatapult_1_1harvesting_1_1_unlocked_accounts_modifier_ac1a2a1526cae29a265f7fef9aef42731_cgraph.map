@@ -1,0 +1,4 @@
+<map id="catapult::harvesting::UnlockedAccountsModifier::removeIf" name="catapult::harvesting::UnlockedAccountsModifier::removeIf">
+<area shape="rect" id="node1" title="Removes all accounts for which predicate returns true." alt="" coords="5,5,192,57"/>
+<area shape="rect" id="node2" href="$namespaceforwards_validation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="240,19,395,44"/>
+</map>

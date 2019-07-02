@@ -1,0 +1,6 @@
+<map id="catapult::extensions::CreateTransactionPushEntityCallback" name="catapult::extensions::CreateTransactionPushEntityCallback">
+<area shape="rect" id="node1" title="Creates a transaction push entity callback from hooks that only pushes when synced." alt="" coords="5,33,207,85"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a765a9ec76b4812eb3156cd89cf0bd4c0" title="Gets the chain synced predicate." alt="" coords="255,5,501,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_server_hooks.html#add05a05ea2d2bf9c8e0d02f8acc917a0" title="Gets the factory for creating a TransactionRangeConsumerFunc bound to an input source." alt="" coords="269,68,487,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1extensions.html#a1ba3236a6ee3676530f450d3c8e73a77" title="Returns func if and only if it is set." alt="" coords="549,75,688,113"/>
+</map>

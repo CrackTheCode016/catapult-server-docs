@@ -1,0 +1,10 @@
+<map id="catapult::mongo::storages::MongoFlatCacheStorage::removeAll" name="catapult::mongo::storages::MongoFlatCacheStorage::removeAll">
+<area shape="rect" id="node1" title=" " alt="" coords="5,124,182,176"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1mongo_1_1_bulk_write_result.html#a88e29eb2967966eb93dbd20c9cdd073c" title="Aggregates all bulk write results in results into a single result." alt="" coords="237,5,418,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1_mongo_bulk_writer.html#a8ea8ed3df317f522b35d55d3f2b07d46" title="Deletes entities from the collection named collectionName matching the specified entity filter (creat..." alt="" coords="232,68,422,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1_mongo_error_policy.html#a3c1701975e497593fcf56b309d7295b7" title="Checks that result indicates exactly numExpected deletions occurred given itemsDescription." alt="" coords="230,131,424,169"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1thread_1_1future.html#a4ee696b8a99dca0ab6dc757e88e2d44b" title="Returns the result of this future and blocks until the result is available." alt="" coords="490,220,671,245"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1thread.html#a252c94a37592f2f8d09811bb3701824b" title=" " alt="" coords="247,245,407,271"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1_mongo_error_policy.html#a8ff7a69853f6b4bca718777feb9e455d" title=" " alt="" coords="472,81,689,120"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1mongo_1_1mappers.html#a457dc107fff0b5b5c87e00ff11b3e27c" title="Converts a 32 bit signed value to a 32 bit unsigned value." alt="" coords="493,144,669,183"/>
+</map>

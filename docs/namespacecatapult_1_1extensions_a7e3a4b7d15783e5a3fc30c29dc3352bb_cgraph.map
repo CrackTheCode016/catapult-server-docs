@@ -1,0 +1,7 @@
+<map id="catapult::extensions::CreateNodeAger" name="catapult::extensions::CreateNodeAger">
+<area shape="rect" id="node1" title="Creates and prepares a node ager that ages all serviceId connections in nodes given config." alt="" coords="5,37,145,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node_container_modifier.html#a63005ffcb1f0e9dc58d1780fb1f99bab" title="Ages all connections for the service identified by serviceId for nodes with identities." alt="" coords="193,5,394,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_node_container.html#a1381c01fadfc5027cf44e1f8633efcf6" title="Gets a write only view of the nodes." alt="" coords="193,68,394,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="442,68,665,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="713,68,879,107"/>
+</map>

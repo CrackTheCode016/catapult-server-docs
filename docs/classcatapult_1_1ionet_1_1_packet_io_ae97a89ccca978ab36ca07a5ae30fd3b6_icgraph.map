@@ -1,0 +1,5 @@
+<map id="catapult::ionet::PacketIo::write" name="catapult::ionet::PacketIo::write">
+<area shape="rect" id="node1" title="Writes payload and calls callback on completion." alt="" coords="495,5,659,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1api_1_1_remote_request_dispatcher.html#acefdd27e0a9b5c663081d288efc7fe32" title=" " alt="" coords="250,5,447,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1api_1_1_remote_request_dispatcher.html#ac7b78df70269f31c241d675909efe165" title="Dispatches args to the underlying io." alt="" coords="5,5,202,44"/>
+</map>

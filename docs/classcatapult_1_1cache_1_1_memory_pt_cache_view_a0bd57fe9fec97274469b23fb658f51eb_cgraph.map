@@ -1,0 +1,4 @@
+<map id="catapult::cache::MemoryPtCacheView::unknownTransactions" name="catapult::cache::MemoryPtCacheView::unknownTransactions">
+<area shape="rect" id="node1" title="Gets a vector of all unknown transaction infos in the cache that do not have a short hash pair in kno..." alt="" coords="5,5,230,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a70e366dcaf59162ed7a2a45c8b593d89" title="Gets the short hash corresponding to hash." alt="" coords="278,12,462,37"/>
+</map>

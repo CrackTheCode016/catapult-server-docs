@@ -1,0 +1,5 @@
+<map id="catapult::extensions::MosaicUnit::GetAtomicUnitMultiplier" name="catapult::extensions::MosaicUnit::GetAtomicUnitMultiplier">
+<area shape="rect" id="node1" title=" " alt="" coords="224,31,412,83"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_mosaic_unit.html#ae09e86be85bbfd690ca94ab1755ef00e" title="Gets the number of (basic unit) mosaics." alt="" coords="12,5,169,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_mosaic_unit.html#ac70b4cc0a5f43544fe9bcadc162fe62f" title="Returns true if this unit includes fractional mosaics." alt="" coords="5,68,176,107"/>
+</map>

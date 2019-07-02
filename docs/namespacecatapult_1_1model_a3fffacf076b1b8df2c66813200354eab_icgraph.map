@@ -1,0 +1,4 @@
+<map id="catapult::model::CalculateTransactionMaxFeeMultiplier" name="catapult::model::CalculateTransactionMaxFeeMultiplier">
+<area shape="rect" id="node1" title="Calculates the maximum fee multiplier for transaction." alt="" coords="235,12,427,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1_transaction_fee_maximizer.html#a84001e8374a2e2dc24e8f7a4ea15ae00" title="Applies transactionInfo to the maximizer to include in the best fee policy calculation." alt="" coords="5,5,187,57"/>
+</map>

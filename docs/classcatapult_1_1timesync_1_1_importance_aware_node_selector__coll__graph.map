@@ -1,0 +1,12 @@
+<map id="catapult::timesync::ImportanceAwareNodeSelector" name="catapult::timesync::ImportanceAwareNodeSelector">
+<area shape="rect" id="node1" title="A node selector that selects nodes according to the importance of the account used to boot the node." alt="" coords="1250,80,1463,119"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="871,45,1091,84"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,36,821,88"/>
+<area shape="rect" id="node4" title=" " alt="" coords="234,5,377,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,55,390,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,93,172,119"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,117,390,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="885,111,1077,149"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="563,112,750,177"/>
+<area shape="rect" id="node9" href="$structcatapult_1_1_importance__tag.html" title=" " alt="" coords="222,180,390,205"/>
+</map>

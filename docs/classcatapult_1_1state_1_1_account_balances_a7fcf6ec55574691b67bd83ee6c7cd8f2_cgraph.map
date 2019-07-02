@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountBalances::end" name="catapult::state::AccountBalances::end">
+<area shape="rect" id="node1" title="Returns a const iterator to the element following the last element of the underlying set." alt="" coords="5,5,165,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_compact_mosaic_map.html#a2f2ad2f7e4e0bb40c281a863d75b8490" title="Returns a const iterator to the element following the last element of the underlying container." alt="" coords="213,5,378,44"/>
+</map>

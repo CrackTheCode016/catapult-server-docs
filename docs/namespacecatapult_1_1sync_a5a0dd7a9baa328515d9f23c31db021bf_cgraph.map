@@ -1,0 +1,7 @@
+<map id="catapult::sync::CreateCommitStepHandler" name="catapult::sync::CreateCommitStepHandler">
+<area shape="rect" id="node1" title="Creates a commit step handler around dataDirectory." alt="" coords="5,100,202,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1config_1_1_catapult_directory.html#a14589c15e2939c16cd32d3eec7e1c4f3" title="Gets the path for the file with name." alt="" coords="250,5,418,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1config_1_1_catapult_data_directory.html#acbe9365e29127dc0951a09655f06a49e" title="Gets the root data directory." alt="" coords="250,68,418,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1config_1_1_catapult_data_directory.html#a5d9ab64ca8e081183f6c9f3a5f54f492" title="Gets the spooling directory with name." alt="" coords="250,131,418,169"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="272,193,395,232"/>
+</map>

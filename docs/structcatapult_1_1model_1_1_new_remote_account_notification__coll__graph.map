@@ -1,0 +1,6 @@
+<map id="catapult::model::NewRemoteAccountNotification" name="catapult::model::NewRemoteAccountNotification">
+<area shape="rect" id="node1" title="Notification of a new remote account." alt="" coords="62,180,254,219"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_notification.html" title="A basic notification." alt="" coords="5,87,190,112"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="214,80,379,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="271,5,322,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::cache::UtChangeSubscriber::notifyAdds" name="catapult::cache::UtChangeSubscriber::notifyAdds">
+<area shape="rect" id="node1" title="Indicates transaction infos (transactionInfos) were added to unconfirmed transactions." alt="" coords="201,5,380,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1subscribers.html#a29e3e5f9374538a986da4fbb8784d2ba" title="Reads next unconfirmed transactions change from inputStream and forwards it to subscriber." alt="" coords="5,5,153,44"/>
+</map>

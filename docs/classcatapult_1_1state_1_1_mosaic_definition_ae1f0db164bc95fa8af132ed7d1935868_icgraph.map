@@ -1,0 +1,6 @@
+<map id="catapult::state::MosaicDefinition::height" name="catapult::state::MosaicDefinition::height">
+<area shape="rect" id="node1" title="Gets the height." alt="" coords="496,37,706,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_mosaic_definition.html#ac0dd119e2ee5962b4ece26a6435269b6" title="Returns true if the mosaic definition is active at height." alt="" coords="238,5,448,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_mosaic_definition.html#a474d5dd9f50f85858885aa6253ece36b" title="Returns true if the mosaic definition is expired at height." alt="" coords="238,68,448,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_mosaic_entry.html#a94ce70dcb2c37faf6f9e16b2c2d47448" title="Returns true if entry is active at height." alt="" coords="5,5,190,44"/>
+</map>

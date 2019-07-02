@@ -1,0 +1,4 @@
+<map id="catapult::state::HashLockInfoExtendedDataSerializer::Load" name="catapult::state::HashLockInfoExtendedDataSerializer::Load">
+<area shape="rect" id="node1" title="Loads hash lock info extended data from input into lockInfo." alt="" coords="5,5,226,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_input_stream.html#aa10d1d3d15ae047bdc5e91947a405936" title=" " alt="" coords="274,5,440,44"/>
+</map>

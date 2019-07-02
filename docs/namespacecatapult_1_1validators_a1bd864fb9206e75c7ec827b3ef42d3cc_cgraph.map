@@ -1,0 +1,5 @@
+<map id="catapult::validators::IsValidationResultSuccess" name="catapult::validators::IsValidationResultSuccess">
+<area shape="rect" id="node1" title="Returns a value indicating whether the validation result is a success." alt="" coords="5,5,190,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1validators.html#a5cfd898ef74a17421d8470007a70e49a" title="Extracts the encoded result severity from result." alt="" coords="238,5,371,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="419,5,542,44"/>
+</map>

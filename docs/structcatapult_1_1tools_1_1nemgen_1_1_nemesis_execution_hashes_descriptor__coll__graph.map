@@ -1,0 +1,5 @@
+<map id="catapult::tools::nemgen::NemesisExecutionHashesDescriptor" name="catapult::tools::nemgen::NemesisExecutionHashesDescriptor">
+<area shape="rect" id="node1" title="Nemesis block execution dependent hashes information." alt="" coords="5,193,250,232"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="19,80,237,119"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1_hash256__tag.html" title=" " alt="" coords="51,5,205,31"/>
+</map>

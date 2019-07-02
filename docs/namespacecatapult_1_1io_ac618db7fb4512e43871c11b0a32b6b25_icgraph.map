@@ -1,0 +1,5 @@
+<map id="catapult::io::ReadTransactionInfo" name="catapult::io::ReadTransactionInfo">
+<area shape="rect" id="node1" title="Reads transaction info from inputStream into transactionInfo." alt="" coords="444,12,660,37"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#a43a5c3645513ec683a7e989179d668ee" title="Reads transaction infos from inputStream into transactionInfos." alt="" coords="201,5,396,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1subscribers.html#a29e3e5f9374538a986da4fbb8784d2ba" title="Reads next unconfirmed transactions change from inputStream and forwards it to subscriber." alt="" coords="5,5,153,44"/>
+</map>

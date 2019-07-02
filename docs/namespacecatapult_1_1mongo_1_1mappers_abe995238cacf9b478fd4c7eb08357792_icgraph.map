@@ -1,0 +1,12 @@
+<map id="catapult::mongo::mappers::ToBinary" name="catapult::mongo::mappers::ToBinary">
+<area shape="rect" id="node1" title="Converts raw array (pData) of size elements into bson binary type." alt="" coords="539,207,714,245"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1mongo_1_1plugins_1_1_mongo_lock_info_cache_storage_traits.html#a950153f77193a7494af2fd93ce756720" title="Maps key to a mongo identifier." alt="" coords="253,5,491,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1plugins_1_1_lock_info_mapper.html#a1c66cc4619c2d29f5823bf13f9dd5a9c" title=" " alt="" coords="259,81,484,120"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1mongo_1_1mappers.html#a9dc3a85ecdc73bcbd3e1655b886cdc3b" title="Streams a receipt into builder using receiptRegistry for mapping derived receipt types." alt="" coords="284,144,459,183"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1mongo_1_1mappers.html#a46bf4fb4c40241c4a5a1f774ab41fa05" title="Streams a verifiable entity to builder." alt="" coords="284,207,459,245"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1mongo_1_1mappers.html#a669e7ee08194f5eb6918baf45d7dc979" title="Converts unresolvedAddress into bson binary type." alt="" coords="284,269,459,308"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1mongo_1_1plugins.html#ac323a1fbb6d2f961220b582db762fba9" title="Maps a mosaic entry to the corresponding db model value." alt="" coords="289,332,454,371"/>
+<area shape="rect" id="node10" href="$namespacecatapult_1_1mongo_1_1mappers.html#a2ce9d6720b4eecb73faafaf4e89e9700" title="Maps an account state (accountState) to the corresponding db model value." alt="" coords="284,395,459,433"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1plugins_1_1_lock_info_mapper.html#ad4f75d5ad8a92d89223d1b12f523087e" title=" " alt="" coords="5,81,205,120"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1mongo_1_1mappers.html#a58177103e3bfffada88e7318d1d57752" title="Maps a blockElement to the corresponding db model entity." alt="" coords="17,207,193,245"/>
+</map>

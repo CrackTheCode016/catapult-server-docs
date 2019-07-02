@@ -1,0 +1,5 @@
+<map id="catapult::cache::StateVersion::ReadAndCheck" name="catapult::cache::StateVersion::ReadAndCheck">
+<area shape="rect" id="node1" title="Reads state version from input and verifies it." alt="" coords="317,60,511,99"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_cache_serializer_adapter.html#a21dcc63dcf8d5dda4b08e79f253309ea" title="Deserializes value from buffer." alt="" coords="5,5,269,71"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_namespace_flat_map_types_serializer.html#a4c9cca92ab72d42355f353117d6155a4" title="Deserializes value from buffer." alt="" coords="42,95,232,147"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::cache::LoadSupplementalData" name="catapult::cache::LoadSupplementalData">
+<area shape="rect" id="node1" title="Loads supplementalData and chainHeight from input." alt="" coords="5,31,263,56"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#ad1b2ea00494b16b43db7317fd54edaaa" title="Reads base value from input." alt="" coords="319,5,444,31"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="311,55,451,80"/>
+</map>

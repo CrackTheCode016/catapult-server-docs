@@ -1,0 +1,5 @@
+<map id="catapult::cache::SubCachePluginAdapter::cache" name="catapult::cache::SubCachePluginAdapter::cache">
+<area shape="rect" id="node1" title="Gets a typed reference to the underlying cache." alt="" coords="289,53,470,92"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_summary_aware_sub_cache_plugin_adapter.html#aa65672e776775999c3a8d0969d6a1e83" title="Returns a cache storage based on this cache." alt="" coords="21,5,226,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_sub_cache_plugin_adapter.html#a3eae9624109c1032dbf8b3c8e820b18e" title=" " alt="" coords="5,81,241,147"/>
+</map>

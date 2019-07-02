@@ -1,0 +1,7 @@
+<map id="catapult::cache::RemoveIdentifierWithGroup" name="catapult::cache::RemoveIdentifierWithGroup">
+<area shape="rect" id="node1" title="Removes an identifier with grouping key from groupedSet." alt="" coords="578,81,798,120"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html#a449ffe74761ea846d57a24940e57e9e1" title="Removes the value identified by mosaicId from the cache." alt="" coords="306,5,500,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html#a9d1875eb5af299e3fbdb2970aa0688cf" title="Removes the value identified by key from the cache." alt="" coords="276,68,530,133"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#a2b36e4873682162a2361b95717582aeb" title=" " alt="" coords="292,157,514,196"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#a5deffdb747199d3f8e381a66fa5a9fea" title="Removes the namespace specified by its id from the cache." alt="" coords="5,157,228,196"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::crypto::PrivateKey::data" name="catapult::crypto::PrivateKey::data">
+<area shape="rect" id="node1" title="Returns a const pointer to the raw key." alt="" coords="5,5,166,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="214,5,379,44"/>
+</map>

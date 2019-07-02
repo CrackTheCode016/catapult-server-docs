@@ -1,0 +1,8 @@
+<map id="catapult::model::BlockTransactionsInfo" name="catapult::model::BlockTransactionsInfo">
+<area shape="rect" id="node1" title="Information about transactions stored in a block." alt="" coords="984,33,1234,59"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="711,27,881,65"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,13,662,79"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1_amount__tag.html" title=" " alt="" coords="232,5,379,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,55,390,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
+</map>

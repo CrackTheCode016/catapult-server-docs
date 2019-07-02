@@ -1,0 +1,4 @@
+<map id="catapult::model::BlockStatementBuilder::addResolution" name="catapult::model::BlockStatementBuilder::addResolution">
+<area shape="rect" id="node1" title="Adds a resolution entry for resolving unresolved value to resolved value." alt="" coords="187,5,400,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1observers.html#a66204ac9f9638809232b3d3a215b96c1" title="Binds resolverContext to statementBuilder." alt="" coords="5,5,139,44"/>
+</map>

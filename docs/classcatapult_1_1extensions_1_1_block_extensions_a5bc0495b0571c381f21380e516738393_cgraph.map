@@ -1,0 +1,10 @@
+<map id="catapult::extensions::BlockExtensions::signFullBlock" name="catapult::extensions::BlockExtensions::signFullBlock">
+<area shape="rect" id="node1" title="Cryptographically signs a full block with signer." alt="" coords="5,33,185,85"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#ae0269705b4dd4b89fb4423371936b2bd" title=" " alt="" coords="248,5,426,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_block_extensions.html#af1c8dce2b63576bb357d3a3590d68d05" title=" " alt="" coords="233,68,441,120"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1crypto.html#abc359df38fb7f7f4bfd6cc2cd1a544b6" title=" " alt="" coords="509,12,655,37"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1extensions_1_1_block_extensions.html#a4410c1228c26c6f2ab02de18ebb56faf" title=" " alt="" coords="489,68,675,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1crypto_1_1_merkle_hash_builder.html#ac6464c676bcae4b32d851444dfe0fc77" title="Finalizes the merkle hash into hash." alt="" coords="738,12,897,51"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1model_1_1_transaction_container.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="723,75,912,113"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1crypto_1_1_merkle_hash_builder.html#a7d46636c1f99ddb7937023f3edd7b8dd" title="Adds hash to the merkle hash." alt="" coords="738,137,897,176"/>
+</map>

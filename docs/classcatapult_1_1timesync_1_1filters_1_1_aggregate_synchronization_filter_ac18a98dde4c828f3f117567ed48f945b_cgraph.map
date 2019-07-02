@@ -1,0 +1,4 @@
+<map id="catapult::timesync::filters::AggregateSynchronizationFilter::operator()" name="catapult::timesync::filters::AggregateSynchronizationFilter::operator()">
+<area shape="rect" id="node1" title="Filters samples according to nodeAge." alt="" coords="5,5,230,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#aba734798a79ab4b68ca50540c86a7d1a" title="Removes all entries from map that fulfill the given predicate." alt="" coords="278,12,410,51"/>
+</map>

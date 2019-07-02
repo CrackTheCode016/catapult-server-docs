@@ -1,0 +1,5 @@
+<map id="catapult::tree::BranchTreeNode::linkedNode" name="catapult::tree::BranchTreeNode::linkedNode">
+<area shape="rect" id="node1" title="Gets a copy of the linked node at index or nullptr if no linked node is present." alt="" coords="313,64,488,103"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a2dd2d5a2b504f5257b21e50a4b9e6d62" title=" " alt="" coords="5,5,265,71"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_patricia_tree.html#ae202523ae31e404037ecd5c57a890779" title=" " alt="" coords="5,95,265,160"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::local::FindStartHeight" name="catapult::local::FindStartHeight">
+<area shape="rect" id="node1" title="Returns starting height of storage." alt="" coords="5,37,170,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_light_block_storage.html#a49b0c865abd519f57eaef3dcd440d54d" title="Gets the number of blocks." alt="" coords="227,5,381,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_block_storage.html#a8d803a4985c1c11cd2166a663d308247" title="Returns the block at height." alt="" coords="218,68,390,107"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="catapult::cache::CacheDatabaseMixin::flush" name="catapult::cache::CacheDatabaseMixin::flush">
+<area shape="rect" id="node1" title="Flushes the database." alt="" coords="343,185,557,224"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_account_state_base_sets.html#ae62fac2835a289bcd362f1d188df6497" title=" " alt="" coords="67,5,233,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_single_set_cache_types_adapter_1_1_base_sets.html#accee941e7495a5f7e688bbbd4e70dc95" title=" " alt="" coords="47,68,253,120"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1_mosaic_base_sets.html#a42b1785d366c624de152984d9943d790" title=" " alt="" coords="54,144,245,183"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1cache_1_1_lock_info_base_sets.html#a7b07cd7f5d93e268bbd66332278ea8d4" title=" " alt="" coords="25,207,275,285"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1cache_1_1_namespace_base_sets.html#a37394ffada928a3bcd1a03350230d0a3" title=" " alt="" coords="55,309,245,348"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1cache_1_1_single_set_and_patricia_tree_cache_types_adapter_1_1_base_sets.html#a8b67231e8dc61425db46be8f26dd28e5" title="Commits all changes in the rebased cache." alt="" coords="5,372,295,437"/>
+</map>

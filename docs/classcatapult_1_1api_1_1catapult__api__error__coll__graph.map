@@ -1,0 +1,7 @@
+<map id="catapult::api::catapult_api_error" name="catapult::api::catapult_api_error">
+<area shape="rect" id="node1" title="Exception class that is thrown when a catapult api operation produces an error." alt="" coords="118,152,265,191"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1catapult__error.html" title="Base class for all catapult exceptions that derives from both std::exception and boost::exception." alt="" coords="114,79,270,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,109,31"/>
+<area shape="rect" id="node4" title=" " alt="" coords="133,5,251,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="275,5,463,31"/>
+</map>

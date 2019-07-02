@@ -1,0 +1,4 @@
+<map id="catapult::partialtransaction::PtServerHooks::ptRangeConsumer" name="catapult::partialtransaction::PtServerHooks::ptRangeConsumer">
+<area shape="rect" id="node1" title="Gets the partial transaction range consumer." alt="" coords="5,5,243,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a1ba3236a6ee3676530f450d3c8e73a77" title="Returns func if and only if it is set." alt="" coords="291,5,430,44"/>
+</map>

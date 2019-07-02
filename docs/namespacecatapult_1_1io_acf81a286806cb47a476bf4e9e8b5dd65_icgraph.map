@@ -1,0 +1,7 @@
+<map id="catapult::io::Read32" name="catapult::io::Read32">
+<area shape="rect" id="node1" title="Reads value from input." alt="" coords="444,61,584,87"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#aab2e21c8c6247a5efe53c98880b327dc" title="Reads size prefixed entity from input." alt="" coords="220,5,378,31"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1subscribers.html#a8e80809fcdc1f08339fd08f5f2ff438c" title="Reads next transaction status from inputStream and forwards it to subscriber." alt="" coords="201,55,396,93"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1io.html#a43a5c3645513ec683a7e989179d668ee" title="Reads transaction infos from inputStream into transactionInfos." alt="" coords="202,117,396,156"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1subscribers.html#a29e3e5f9374538a986da4fbb8784d2ba" title="Reads next unconfirmed transactions change from inputStream and forwards it to subscriber." alt="" coords="5,117,153,156"/>
+</map>

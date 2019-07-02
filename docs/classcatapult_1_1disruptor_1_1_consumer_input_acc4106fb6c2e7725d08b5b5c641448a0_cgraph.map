@@ -1,0 +1,4 @@
+<map id="catapult::disruptor::ConsumerInput::ConsumerInput" name="catapult::disruptor::ConsumerInput::ConsumerInput">
+<area shape="rect" id="node1" title="Creates a consumer input around a block range with an optional input source (inputSource)." alt="" coords="5,5,224,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_entity_range.html#a1fffff757350cc698249459fa285574a" title="Gets the size of this range." alt="" coords="272,5,464,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::extensions::ServerHooks::chainSyncedPredicate" name="catapult::extensions::ServerHooks::chainSyncedPredicate">
+<area shape="rect" id="node1" title="Gets the chain synced predicate." alt="" coords="270,40,515,79"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a631b376f5bf6d45b58d5cb7d6d4d506d" title="Creates a block push entity callback from hooks that only pushes when synced." alt="" coords="5,5,222,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#ad2a8ccace6e9aa2955c7da63179f3074" title="Creates a transaction push entity callback from hooks that only pushes when synced." alt="" coords="13,68,214,120"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="catapult::timesync::TimeSynchronizer::sumScaledOffsets" name="catapult::timesync::TimeSynchronizer::sumScaledOffsets">
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,148,141"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_importance_view.html#a12c7e3b42baba60c53e1fee91674056f" title="Gets the importance for publicKey at height or a default importance if no importance is set." alt="" coords="196,5,444,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1validators.html#ab1ec8c228a28375f47193d6adb524c69" title="Maps validation result to an appropriate logging level." alt="" coords="254,68,387,107"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1utils.html#ac6a67817daca54a72e2e111370a2754a" title=" " alt="" coords="253,131,387,156"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="236,180,405,219"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_importance_view.html#aa88a70d0fe6047d1f5536280e63bfe3a" title="Tries to populate importance with the importance for publicKey at height." alt="" coords="492,5,701,44"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1validators.html#acde08ccd2810b858004dd74b1858cdbd" title="Checks if result has all flags set." alt="" coords="530,68,663,107"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="749,68,872,107"/>
+</map>

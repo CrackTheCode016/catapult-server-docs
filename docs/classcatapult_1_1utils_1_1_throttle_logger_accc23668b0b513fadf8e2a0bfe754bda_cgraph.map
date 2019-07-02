@@ -1,0 +1,4 @@
+<map id="catapult::utils::ThrottleLogger::isThrottled" name="catapult::utils::ThrottleLogger::isThrottled">
+<area shape="rect" id="node1" title="Returns false if a log should be output." alt="" coords="5,5,157,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_throttle_logger.html#ac387fe0f456aa0faeb6d24f5c7c41847" title=" " alt="" coords="205,5,357,44"/>
+</map>

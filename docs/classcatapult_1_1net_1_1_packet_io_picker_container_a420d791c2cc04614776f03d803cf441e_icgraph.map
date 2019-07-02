@@ -1,0 +1,4 @@
+<map id="catapult::net::PacketIoPickerContainer::pickMatching" name="catapult::net::PacketIoPickerContainer::pickMatching">
+<area shape="rect" id="node1" title=" " alt="" coords="215,12,405,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1nodediscovery_1_1_batch_peers_requestor.html#ac1176ad9f3dead03b2f74057332adbe2" title="Finds and forwards peers of peers within the specified timeout." alt="" coords="5,5,167,57"/>
+</map>

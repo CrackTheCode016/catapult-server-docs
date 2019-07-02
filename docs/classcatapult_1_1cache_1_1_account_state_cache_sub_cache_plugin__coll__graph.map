@@ -1,0 +1,6 @@
+<map id="catapult::cache::AccountStateCacheSubCachePlugin" name="catapult::cache::AccountStateCacheSubCachePlugin">
+<area shape="rect" id="node1" title="Specialized account state cache sub cache plugin." alt="" coords="7,279,197,317"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_summary_aware_sub_cache_plugin_adapter.html" title="Specialized sub cache plugin adapter that provides proper handling of summary cache state." alt="" coords="5,192,199,231"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_sub_cache_plugin_adapter.html" title="A SubCachePlugin implementation that wraps a SynchronizedCache." alt="" coords="12,92,192,144"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_sub_cache_plugin.html" title="Sub cache plugin that can be added to the main catapult cache." alt="" coords="12,5,192,44"/>
+</map>

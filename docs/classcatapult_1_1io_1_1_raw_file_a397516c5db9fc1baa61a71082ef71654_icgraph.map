@@ -1,0 +1,5 @@
+<map id="catapult::io::RawFile::position" name="catapult::io::RawFile::position">
+<area shape="rect" id="node1" title="Returns position in the file." alt="" coords="226,37,368,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_buffered_input_file_stream.html#a9f802613de8c429a224a20c245a3dc9c" title="Returns true if no data is left in the stream." alt="" coords="5,5,178,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_buffered_input_file_stream.html#aa7a6e5e8ce3663afce65c481a2dd7936" title=" " alt="" coords="5,68,178,107"/>
+</map>

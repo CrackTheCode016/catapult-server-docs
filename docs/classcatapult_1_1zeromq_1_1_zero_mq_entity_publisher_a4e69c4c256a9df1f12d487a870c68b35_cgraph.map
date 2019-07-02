@@ -1,0 +1,10 @@
+<map id="catapult::zeromq::ZeroMqEntityPublisher::publish" name="catapult::zeromq::ZeroMqEntityPublisher::publish">
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,179,169"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1zeromq.html#ac76dcba5fdc60ca09880f9838efd8d89" title="Creates a topic around marker and address." alt="" coords="227,68,394,107"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1model.html#ad4a6e1de16caa759307eba58f337f646" title="Extracts all addresses that are involved in transaction using notificationPublisher." alt="" coords="230,131,391,169"/>
+<area shape="rect" id="node8" href="$namespacecolor_print.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="246,193,374,219"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="453,5,618,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_byte_array.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="453,68,618,107"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1_weak_entity_info_t.html#aabcf01bd6894fe3021efa0d2b89e602d" title="Gets the entity." alt="" coords="442,131,628,169"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1model_1_1_notification_publisher.html#ac2c154d57c3a78c9a5593d16613e8b73" title="Sends all notifications from entityInfo to sub." alt="" coords="443,193,628,232"/>
+</map>

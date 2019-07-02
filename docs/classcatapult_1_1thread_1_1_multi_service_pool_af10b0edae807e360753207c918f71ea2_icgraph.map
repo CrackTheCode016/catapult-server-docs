@@ -1,0 +1,9 @@
+<map id="catapult::thread::MultiServicePool::WaitForLastReference" name="catapult::thread::MultiServicePool::WaitForLastReference">
+<area shape="rect" id="node1" title=" " alt="" coords="496,95,689,133"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#afa86e199944a723021e0997d4e3a1a2c" title=" " alt="" coords="5,68,199,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a1227aa435f2b99d66a03500c65d46862" title=" " alt="" coords="251,8,444,47"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1thread_1_1_multi_service_pool_1_1_service_group.html#a1c96544ae40fbc8f48272ec2b3458623" title="Safely shuts down the service group." alt="" coords="247,123,448,161"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a947be758c139d93b1eebea8246899942" title="Safely shuts down the thread pool and its dependent services." alt="" coords="251,185,444,224"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a3274b2d788ec72d7a5ebe830985415c0" title="Creates a new service group with name." alt="" coords="5,5,199,44"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a6ad528db531b65f8888d033bcfa29b68" title="Destroys the pool." alt="" coords="5,185,199,224"/>
+</map>

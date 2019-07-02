@@ -1,0 +1,4 @@
+<map id="catapult::model::CalculateMerkleTree" name="catapult::model::CalculateMerkleTree">
+<area shape="rect" id="node1" title="Calculates the merkle tree for statement." alt="" coords="5,5,180,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a381b90947dfff379681769cfc6459190" title="Calculates the merkle hash for statement." alt="" coords="228,5,403,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="catapult::model::ResolverContext::resolve" name="catapult::model::ResolverContext::resolve">
+<area shape="rect" id="node1" title="Resolves mosaic id (mosaicId)." alt="" coords="308,100,480,139"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1observers.html#a66204ac9f9638809232b3d3a215b96c1" title="Binds resolverContext to statementBuilder." alt="" coords="66,5,200,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1observers.html#adaa4faa89fab3ceb529a077f6e1f2eef" title="Creates a rental fee observer with name that adds receipts with receiptType." alt="" coords="40,68,225,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1validators.html#a15907bd4172a831f5dbbe91b55f78c0f" title=" " alt="" coords="10,131,256,169"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1validators.html#a9af0b8a3dd73340da958d0733b8f3aba" title=" " alt="" coords="5,193,260,232"/>
+</map>

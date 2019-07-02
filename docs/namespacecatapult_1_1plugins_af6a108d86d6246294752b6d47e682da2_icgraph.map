@@ -1,0 +1,5 @@
+<map id="catapult::plugins::CreateHashLockTransactionPlugin" name="catapult::plugins::CreateHashLockTransactionPlugin">
+<area shape="rect" id="node1" title="Creates a hash lock transaction plugin." alt="" coords="434,5,661,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a5d9192c852b5b3011476310ab23ed8aa" title="Registers hash lock support with manager." alt="" coords="190,5,386,44"/>
+<area shape="rect" id="node3" href="$_hash_lock_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,12,142,37"/>
+</map>

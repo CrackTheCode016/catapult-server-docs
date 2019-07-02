@@ -1,0 +1,4 @@
+<map id="catapult::nodediscovery::SelectUnknownNodes" name="catapult::nodediscovery::SelectUnknownNodes">
+<area shape="rect" id="node1" title="Filters nodes by returning all nodes not contained in view." alt="" coords="231,5,392,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1nodediscovery_1_1_peers_processor.html#a841e1ba52d0440245cd68e0fe9d87f16" title="Processes all candidate nodes (candidateNodes) and forwards newly discovered partner nodes." alt="" coords="5,5,183,44"/>
+</map>

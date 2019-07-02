@@ -1,0 +1,52 @@
+<map id="catapult&#45;server/src/catapult/cache_db/PatriciaTreeRdbDataSource.h" name="catapult&#45;server/src/catapult/cache_db/PatriciaTreeRdbDataSource.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1027,5,1208,57"/>
+<area shape="rect" id="node2" href="$_patricia_tree_container_8h.html" title=" " alt="" coords="872,105,1032,131"/>
+<area shape="rect" id="node5" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="1369,412,1484,437"/>
+<area shape="rect" id="node3" href="$_rdb_typed_column_container_8h.html" title=" " alt="" coords="1017,185,1213,211"/>
+<area shape="rect" id="node46" href="$_patricia_tree_serializer_8h.html" title=" " alt="" coords="292,179,462,217"/>
+<area shape="rect" id="node47" href="$_tree_node_8h.html" title=" " alt="" coords="282,339,374,364"/>
+<area shape="rect" id="node4" href="$_key_serializers_8h.html" title=" " alt="" coords="1202,265,1320,291"/>
+<area shape="rect" id="node25" href="$_rdb_column_container_8h.html" title=" " alt="" coords="1293,339,1453,364"/>
+<area shape="rect" id="node26" href="$exceptions_8h.html" title=" " alt="" coords="1093,485,1240,511"/>
+<area shape="rect" id="node41" href="$_rocks_database_8h.html" title=" " alt="" coords="566,265,693,291"/>
+<area shape="rect" id="node6" href="$_byte_array_8h.html" title=" " alt="" coords="1717,485,1835,511"/>
+<area shape="rect" id="node11" href="$_clamped_base_value_8h.html" title=" " alt="" coords="902,865,1085,904"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1914,639,1966,664"/>
+<area shape="rect" id="node20" href="$_raw_buffer_8h.html" title=" " alt="" coords="573,719,694,744"/>
+<area shape="rect" id="node7" href="$_hex_formatter_8h.html" title=" " alt="" coords="1718,559,1831,584"/>
+<area shape="rect" id="node8" href="$_stream_format_guard_8h.html" title=" " alt="" coords="1759,719,1913,744"/>
+<area shape="rect" id="node10" href="$_traits_8h.html" title=" " alt="" coords="838,792,936,817"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1768,639,1840,664"/>
+<area shape="rect" id="node19" title=" " alt="" coords="449,639,506,664"/>
+<area shape="rect" id="node9" href="$_non_copyable_8h.html" title=" " alt="" coords="993,1099,1106,1124"/>
+<area shape="rect" id="node16" title=" " alt="" coords="737,872,820,897"/>
+<area shape="rect" id="node12" href="$_base_value_8h.html" title=" " alt="" coords="945,952,1041,977"/>
+<area shape="rect" id="node13" href="$_immutable_value_8h.html" title=" " alt="" coords="985,1025,1113,1051"/>
+<area shape="rect" id="node14" title=" " alt="" coords="164,1025,223,1051"/>
+<area shape="rect" id="node15" title=" " alt="" coords="910,1025,962,1051"/>
+<area shape="rect" id="node21" title=" " alt="" coords="651,792,720,817"/>
+<area shape="rect" id="node22" title=" " alt="" coords="573,792,627,817"/>
+<area shape="rect" id="node23" title=" " alt="" coords="744,792,813,817"/>
+<area shape="rect" id="node24" title=" " alt="" coords="231,792,295,817"/>
+<area shape="rect" id="node39" href="$functions_8h.html" title=" " alt="" coords="1717,412,1853,437"/>
+<area shape="rect" id="node27" href="$_logging_8h.html" title=" " alt="" coords="628,559,735,584"/>
+<area shape="rect" id="node34" title=" " alt="" coords="759,559,961,584"/>
+<area shape="rect" id="node35" title=" " alt="" coords="985,559,1151,584"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1175,559,1356,584"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1379,559,1440,584"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1463,559,1542,584"/>
+<area shape="rect" id="node28" href="$_path_utils_8h.html" title=" " alt="" coords="581,639,667,664"/>
+<area shape="rect" id="node29" title=" " alt="" coords="901,632,1035,671"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1058,639,1190,664"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1213,632,1352,671"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1376,632,1541,671"/>
+<area shape="rect" id="node33" title=" " alt="" coords="691,632,877,671"/>
+<area shape="rect" id="node40" title=" " alt="" coords="1955,485,2034,511"/>
+<area shape="rect" id="node42" href="$_rocks_pruning_filter_8h.html" title=" " alt="" coords="448,339,592,364"/>
+<area shape="rect" id="node43" title=" " alt="" coords="485,412,555,437"/>
+<area shape="rect" id="node44" href="$_file_size_8h.html" title=" " alt="" coords="40,339,198,364"/>
+<area shape="rect" id="node45" href="$_casting_8h.html" title=" " alt="" coords="283,412,360,437"/>
+<area shape="rect" id="node48" href="$_tree_node_path_8h.html" title=" " alt="" coords="153,559,271,584"/>
+<area shape="rect" id="node50" title=" " alt="" coords="155,412,208,437"/>
+<area shape="rect" id="node49" title=" " alt="" coords="94,639,170,664"/>
+</map>

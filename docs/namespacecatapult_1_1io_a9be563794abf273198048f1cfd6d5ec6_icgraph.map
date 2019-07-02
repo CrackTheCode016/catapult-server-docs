@@ -1,0 +1,8 @@
+<map id="catapult::io::Write16" name="catapult::io::Write16">
+<area shape="rect" id="node1" title="Writes value into output." alt="" coords="590,57,729,83"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_account_state_non_historical_serializer.html#ad281db9730de4a014c0c3b6b1a7db833" title="Saves accountState to output." alt="" coords="317,12,542,51"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1_state_version.html#a3efb8641c431aa6a203bbe8c69f8e070" title="Writes state version to output." alt="" coords="332,81,526,120"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_account_state_serializer.html#a0222b98ca9ca1cdeb04e14686eb21d2d" title="Saves accountState to output." alt="" coords="57,5,217,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_cache_serializer_adapter.html#af502097723f030caa2a9b98a3420980a" title="Serializes value to string." alt="" coords="5,68,269,133"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1cache_1_1_namespace_flat_map_types_serializer.html#a173929ef6ca09eb5e40f1fc934237392" title="Serializes element to string." alt="" coords="42,157,232,209"/>
+</map>

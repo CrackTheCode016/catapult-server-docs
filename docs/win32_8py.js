@@ -1,0 +1,27 @@
+var win32_8py =
+[
+    [ "CONSOLE_SCREEN_BUFFER_INFO", "classcolorama_1_1win32_1_1_c_o_n_s_o_l_e___s_c_r_e_e_n___b_u_f_f_e_r___i_n_f_o.html", "classcolorama_1_1win32_1_1_c_o_n_s_o_l_e___s_c_r_e_e_n___b_u_f_f_e_r___i_n_f_o" ],
+    [ "FillConsoleOutputAttribute", "win32_8py.html#acd6ed54afac44b110406d182cc73c57b", null ],
+    [ "FillConsoleOutputCharacter", "win32_8py.html#a8ac1aa3580463a3eb9c44e3aed501346", null ],
+    [ "GetConsoleScreenBufferInfo", "win32_8py.html#a3a7925a181c8ce7c41b4806392af30e4", null ],
+    [ "SetConsoleCursorPosition", "win32_8py.html#a553f9ff264e956066c7ff6d9707aae37", null ],
+    [ "SetConsoleTextAttribute", "win32_8py.html#a9b9b3a70e56c0df4bcc546c7bae6286b", null ],
+    [ "SetConsoleTitle", "win32_8py.html#a593556b43a4001e4b2f7c6c851d8e269", null ],
+    [ "winapi_test", "win32_8py.html#aa9ce11f3da8c463df8a638c1d2d3ae4b", null ],
+    [ "_FillConsoleOutputAttribute", "win32_8py.html#a7785e447bb25328e2003094f1def36e5", null ],
+    [ "_FillConsoleOutputCharacterA", "win32_8py.html#aa0a40337ddab745c4bf36709cc80e55c", null ],
+    [ "_GetConsoleScreenBufferInfo", "win32_8py.html#aa8f086aca66d8c2aa26c77b07ab52870", null ],
+    [ "_GetStdHandle", "win32_8py.html#aebea8a0fe2da6e43711155c74ed897c3", null ],
+    [ "_SetConsoleCursorPosition", "win32_8py.html#a555ca368ef9be90a7722583e3d550310", null ],
+    [ "_SetConsoleTextAttribute", "win32_8py.html#a4b842cc5fd8033e4eead0160f72e57d4", null ],
+    [ "_SetConsoleTitleW", "win32_8py.html#a63c5b93383dc411b099e400b675fc0ad", null ],
+    [ "argtypes", "win32_8py.html#a1b066bc3a2f279d9e344d2523f6d5db5", null ],
+    [ "COORD", "win32_8py.html#a4d61ce93aa306a8111ca5ea7a7c05fb1", null ],
+    [ "handles", "win32_8py.html#ad2e7514e20c6ef1393f255d00e346d2e", null ],
+    [ "restype", "win32_8py.html#a7fc4a69ffc370d6b40c36e6338b35084", null ],
+    [ "SetConsoleTextAttribute", "win32_8py.html#a338090b09fdfc63895a9f7904520614d", null ],
+    [ "STDERR", "win32_8py.html#a3091742450653890d154b4701ab5036b", null ],
+    [ "STDOUT", "win32_8py.html#ade71dfead057adf0f70d464b6d6c479a", null ],
+    [ "winapi_test", "win32_8py.html#a74dddee6edfdb3c8ab031926806c7e3d", null ],
+    [ "windll", "win32_8py.html#a5814c8adc3aff27ea52dccd17ab02c00", null ]
+];

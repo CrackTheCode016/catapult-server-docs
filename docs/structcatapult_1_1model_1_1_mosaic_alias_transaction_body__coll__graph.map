@@ -1,0 +1,13 @@
+<map id="catapult::model::MosaicAliasTransactionBody&lt; THeader &gt;" name="catapult::model::MosaicAliasTransactionBody&lt; THeader &gt;">
+<area shape="rect" id="node1" title="Binary layout for a mosaic alias transaction body." alt="" coords="1434,112,1629,151"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_shared_alias_body.html" title="Binary layout for an alias transaction body." alt="" coords="1193,71,1384,109"/>
+<area shape="rect" id="node3" title=" " alt="" coords="826,81,900,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="759,19,967,57"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="507,5,710,71"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1_namespace_id__tag.html" title="Namespace identifier." alt="" coords="221,20,405,45"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="229,73,397,112"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="518,115,699,180"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,80,172,105"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="991,128,1169,167"/>
+<area shape="rect" id="node11" href="$structcatapult_1_1_mosaic_id__tag.html" title=" " alt="" coords="236,141,390,167"/>
+</map>

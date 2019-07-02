@@ -1,0 +1,6 @@
+<map id="catapult::state::CompactArrayStack::const_iterator::isEnd" name="catapult::state::CompactArrayStack::const_iterator::isEnd">
+<area shape="rect" id="node1" title=" " alt="" coords="451,44,626,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_compact_array_stack_1_1const__iterator.html#a97faea7de7469624bb1c70972f576435" title="Advances the iterator to the next position." alt="" coords="228,5,403,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_compact_array_stack_1_1const__iterator.html#a76fb9f87548c0c0d634330ac4c8b59bb" title="Returns a pointer to the current value." alt="" coords="228,81,403,133"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_compact_array_stack_1_1const__iterator.html#a6c8f30590154341778eb7c664c9a3f50" title="Returns a reference to the current value." alt="" coords="5,81,180,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="catapult::extensions::AddStaticNodesFromPath" name="catapult::extensions::AddStaticNodesFromPath">
+<area shape="rect" id="node1" title="Adds static nodes from path to bootstrapper." alt="" coords="5,88,188,127"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_process_bootstrapper.html#a472a8b0e4507b7f8b18ea17f7dffc9a2" title="Adds static nodes to the bootstrapper." alt="" coords="251,5,404,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_process_bootstrapper.html#ade80851a60047cf4a799ce4668657255" title="Gets the configuration." alt="" coords="251,81,404,133"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1config.html#a54603550adbf6b0056aa0eeaa288ed9d" title="Loads peers from the specified path for the network identified by networkIdentifier." alt="" coords="236,157,419,196"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1config.html#a3f33d74e22bfd5d08a5ac93c40e93cbd" title="Loads peers from the specified stream (input) for the network identified by networkIdentifier." alt="" coords="467,157,650,196"/>
+</map>

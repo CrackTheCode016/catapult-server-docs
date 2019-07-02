@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountRestrictions::restriction" name="catapult::state::AccountRestrictions::restriction">
+<area shape="rect" id="node1" title="Gets the const typed account restriction specified by restrictionType." alt="" coords="237,5,397,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_account_restrictions_serializer.html#a501a102f5f39ab5c2bf6f19a1d42d08c" title="Loads a single value from input." alt="" coords="5,5,189,44"/>
+</map>

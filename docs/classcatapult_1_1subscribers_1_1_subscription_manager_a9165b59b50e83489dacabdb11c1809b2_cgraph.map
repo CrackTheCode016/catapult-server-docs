@@ -1,0 +1,8 @@
+<map id="catapult::subscribers::SubscriptionManager::createBlockStorage" name="catapult::subscribers::SubscriptionManager::createBlockStorage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,160,120"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#a6789f36f1977305267f5aa4a330a3210" title="Creates an aggregate block storage that delegates to pStorage and publishes block changes to pBlockCh..." alt="" coords="215,5,410,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1subscribers_1_1_subscription_manager.html#aaaa0af70dcb8a32a227c268d1abbe2df" title="Creates the block change subscriber." alt="" coords="208,68,417,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1subscribers_1_1_subscription_manager.html#ae9a37d2eaa50150b35c30b4952bbf6ae" title=" " alt="" coords="465,100,620,152"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1subscribers_1_1_subscription_manager.html#a5b7c8d3979ea5240425888e57af02ddc" title=" " alt="" coords="668,68,822,120"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="870,107,993,145"/>
+</map>

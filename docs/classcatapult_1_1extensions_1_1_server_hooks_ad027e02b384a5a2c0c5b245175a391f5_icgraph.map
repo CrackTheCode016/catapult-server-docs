@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServerHooks::blockRangeConsumerFactory" name="catapult::extensions::ServerHooks::blockRangeConsumerFactory">
+<area shape="rect" id="node1" title="Gets the factory for creating a BlockRangeConsumerFunc bound to an input source." alt="" coords="270,5,515,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a631b376f5bf6d45b58d5cb7d6d4d506d" title="Creates a block push entity callback from hooks that only pushes when synced." alt="" coords="5,12,222,51"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="catapult::state::AccountRestriction::canAllow" name="catapult::state::AccountRestriction::canAllow">
+<area shape="rect" id="node1" title="Returns true if modification can be applied to the allowed values." alt="" coords="5,40,165,79"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_restriction.html#a49138b706aacc3d680435eddc420a611" title=" " alt="" coords="213,40,420,79"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_restriction.html#ad48e4528f03a7ce66c1f703efba2734a" title="Returns true if value is known." alt="" coords="468,5,628,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_account_restriction_descriptor.html#abd05b5af1843bd16f9c95a931ca359c8" title="Gets the operation type." alt="" coords="468,68,628,120"/>
+</map>

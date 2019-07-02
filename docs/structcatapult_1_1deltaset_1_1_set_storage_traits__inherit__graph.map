@@ -1,0 +1,5 @@
+<map id="catapult::deltaset::SetStorageTraits&lt; TSet, TMemorySetType &gt;" name="catapult::deltaset::SetStorageTraits&lt; TSet, TMemorySetType &gt;">
+<area shape="rect" id="node1" title="Base set compatible traits for stl set types." alt="" coords="5,67,182,119"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1detail_1_1_ordered_memory_set_adapter_1_1_storage_traits.html" title=" " alt="" coords="241,5,489,84"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1detail_1_1_ordered_set_adapter_1_1_storage_traits.html" title=" " alt="" coords="230,108,499,173"/>
+</map>

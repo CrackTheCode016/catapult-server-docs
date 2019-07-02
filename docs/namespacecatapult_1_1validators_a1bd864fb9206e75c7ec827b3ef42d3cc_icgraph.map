@@ -1,0 +1,9 @@
+<map id="catapult::validators::IsValidationResultSuccess" name="catapult::validators::IsValidationResultSuccess">
+<area shape="rect" id="node1" title="Returns a value indicating whether the validation result is a success." alt="" coords="299,185,484,224"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1_ut_updater_1_1_impl.html#a165effc0ff1a7535a6ba0d70c3c19d52" title=" " alt="" coords="41,5,216,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1harvesting_1_1_harvesting_ut_facade_1_1_impl.html#aa1768a72679de54a6b4cad6a85f3a2c5" title=" " alt="" coords="53,68,204,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1consumers.html#a2e05df45c1f8c787bfa5261b9bb82101" title=" " alt="" coords="32,144,225,196"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1validators.html#ae89672a3a8c647d76e49d8814201281c" title=" " alt="" coords="5,220,251,259"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1chain_1_1_processing_notification_subscriber.html#a80cd22c6c7fb7693b00a55611b21cea7" title="Notifies the subscriber of notification." alt="" coords="33,283,224,321"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1validators_1_1_active_mosaic_view.html#acaa9279b5d171181c47d29aa2912f0da" title="Tries to get an entry iterator (iter) for an active mosaic with id at height given its purported owne..." alt="" coords="39,345,218,384"/>
+</map>

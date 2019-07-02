@@ -1,0 +1,8 @@
+<map id="catapult::cache::BasicNamespaceCacheDelta::removeRoot" name="catapult::cache::BasicNamespaceCacheDelta::removeRoot">
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,228,169"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#a0977da0c134419f39b07c4e497b3d8f5" title="Decrements the active size by delta." alt="" coords="276,5,518,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#aba777a1baf38f53596ac8f8661ba42f4" title="Decrements the deep size by delta." alt="" coords="278,68,516,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html#ab9bf8a55662ef58e698c161c53cb39ce" title="Increments the active size by delta." alt="" coords="278,131,516,169"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1deltaset.html#a190227b18c7c747729750c2b95010622" title="Removes all elements from the container (pContainer)." alt="" coords="336,193,458,232"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1cache.html#a63c113e75b392a5db207d13e82ea2862" title="Removes an identifier with grouping key from groupedSet." alt="" coords="287,256,507,295"/>
+</map>

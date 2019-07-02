@@ -1,0 +1,10 @@
+<map id="catapult::subscribers::StateChangeInfo" name="catapult::subscribers::StateChangeInfo">
+<area shape="rect" id="node1" title="State change information." alt="" coords="822,75,965,113"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title="Immutable wrapper for basic types, to provide some type&#45;safety." alt="" coords="488,16,658,55"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="106,5,320,57"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,19,56,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_cache_changes.html" title="Provides common view of aggregate cache changes." alt="" coords="468,81,678,107"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="130,81,296,107"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_catapult_cache_delta.html" title="Delta on top of a catapult cache." alt="" coords="129,131,297,169"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1model_1_1_chain_score.html" title=" " alt="" coords="478,131,667,156"/>
+</map>

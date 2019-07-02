@@ -1,0 +1,7 @@
+<map id="catapult::model::CalculateFullRollbackDuration" name="catapult::model::CalculateFullRollbackDuration">
+<area shape="rect" id="node1" title="Calculates the duration of a full rollback for the block chain described by config." alt="" coords="962,35,1137,73"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#ab77df00009625f4d579d98712bb9b8f3" title="Calculates the duration of the rollback variability buffer for the block chain described by config." alt="" coords="699,5,914,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1model.html#a930d36e80ee9ec6091c0a8af5571705e" title="Calculates the duration of time that expired transactions should be cached for the block chain descri..." alt="" coords="472,35,651,73"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="190,35,424,73"/>
+<area shape="rect" id="node5" href="$_plugin_manager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,41,142,67"/>
+</map>

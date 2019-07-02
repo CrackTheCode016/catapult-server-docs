@@ -1,0 +1,4 @@
+<map id="catapult::mongo::plugins::NamespaceDescriptor::IsRoot" name="catapult::mongo::plugins::NamespaceDescriptor::IsRoot">
+<area shape="rect" id="node1" title="Returns true if the described namespace is a root namespace." alt="" coords="219,5,426,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1mongo_1_1plugins.html#acd9f73e5edf7f0fa994d9cb813c1aba6" title="Maps a namespace descriptor to the corresponding db model value." alt="" coords="5,5,171,44"/>
+</map>

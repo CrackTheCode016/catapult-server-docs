@@ -1,0 +1,7 @@
+<map id="catapult::io::BlockStorageView::loadBlockStatementData" name="catapult::io::BlockStorageView::loadBlockStatementData">
+<area shape="rect" id="node1" title="Returns the optional block statement data at height." alt="" coords="5,37,209,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_block_storage.html#a8136e1093a7d87d0941e05f22a68cf43" title="Returns the optional block statement data at height." alt="" coords="257,5,433,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_block_storage_view.html#ab8438b19022b7baa4b95648acf4725e6" title=" " alt="" coords="259,68,432,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_block_storage_view.html#a42b38490ba41b12df9b9061b3936cf0d" title="Gets the number of blocks." alt="" coords="481,68,654,107"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1io_1_1_cached_data.html#a5138b51363f7570f329935f4c23c6c4a" title=" " alt="" coords="702,68,869,107"/>
+</map>

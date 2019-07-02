@@ -1,0 +1,4 @@
+<map id="catapult::model::ExtractTransactionInfos" name="catapult::model::ExtractTransactionInfos">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,166,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a532284ecc0651ac86c959860df381107" title="Makes a transaction info by merging pTransaction and transactionElement." alt="" coords="214,12,457,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::utils::NetworkTime" name="catapult::utils::NetworkTime">
+<area shape="rect" id="node1" title="Returns the network time, i.e. the number of milliseconds since Epoch_Time." alt="" coords="247,57,432,83"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1timesync_1_1_time_synchronization_state.html#a78fd503acef5704c009abb1c881b9415" title="Gets the network time." alt="" coords="10,5,194,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_extension_manager.html#a475557998e37c62129db56d06f1facea" title="Gets the network time supplier." alt="" coords="5,81,199,133"/>
+</map>

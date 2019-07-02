@@ -1,0 +1,29 @@
+<map id="catapult::plugins::PluginManager" name="catapult::plugins::PluginManager">
+<area shape="rect" id="node1" title="A manager for registering plugins." alt="" coords="1776,263,1901,301"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1config_1_1_inflation_configuration.html" title="Inflation configuration settings." alt="" coords="1415,73,1580,112"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_inflation_calculator.html" title="Calculator for calculating the inflation at a given height and the total inflation up to a given heig..." alt="" coords="953,5,1119,44"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1_block_chain_configuration.html" title="Block chain configuration settings." alt="" coords="1404,196,1590,235"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="951,132,1121,171"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="568,111,737,176"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1_amount__tag.html" title=" " alt="" coords="247,185,394,211"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="236,91,405,129"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="559,200,746,265"/>
+<area shape="rect" id="node15" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="562,21,743,87"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,97,172,123"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="940,196,1132,235"/>
+<area shape="rect" id="node12" href="$structcatapult_1_1_importance__tag.html" title=" " alt="" coords="236,235,405,260"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1utils_1_1_time_span.html" title="Represents a time duration." alt="" coords="952,259,1119,284"/>
+<area shape="rect" id="node14" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="947,68,1125,107"/>
+<area shape="rect" id="node16" href="$structcatapult_1_1_mosaic_id__tag.html" title=" " alt="" coords="243,20,398,45"/>
+<area shape="rect" id="node17" href="$structcatapult_1_1model_1_1_network_info.html" title="Information about a network." alt="" coords="941,308,1131,333"/>
+<area shape="rect" id="node18" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="522,352,783,391"/>
+<area shape="rect" id="node19" href="$structcatapult_1_1_generation_hash__tag.html" title=" " alt="" coords="221,359,420,384"/>
+<area shape="rect" id="node20" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="570,289,735,328"/>
+<area shape="rect" id="node21" href="$structcatapult_1_1_key__tag.html" title=" " alt="" coords="258,296,383,321"/>
+<area shape="rect" id="node22" href="$classcatapult_1_1cache_1_1_catapult_cache_builder.html" title="Builder for creating a catapult cache around sub caches." alt="" coords="1413,263,1581,301"/>
+<area shape="rect" id="node23" href="$classcatapult_1_1model_1_1_transaction_registry.html" title="A registry of transaction plugins." alt="" coords="1403,333,1591,372"/>
+<area shape="rect" id="node24" href="$classcatapult_1_1model_1_1_transaction_registry_t.html" title=" " alt="" coords="932,357,1139,396"/>
+<area shape="rect" id="node25" href="$classcatapult_1_1model_1_1_plugin_registry.html" title=" " alt="" coords="543,415,763,453"/>
+<area shape="rect" id="node26" href="$structcatapult_1_1plugins_1_1_storage_configuration.html" title="Additional storage configuration." alt="" coords="1423,408,1571,447"/>
+<area shape="rect" id="node27" href="$classcatapult_1_1utils_1_1_file_size.html" title="Represents a file size." alt="" coords="959,420,1113,445"/>
+</map>

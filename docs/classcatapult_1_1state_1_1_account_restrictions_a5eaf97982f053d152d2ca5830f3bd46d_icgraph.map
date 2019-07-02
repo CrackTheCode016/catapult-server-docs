@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountRestrictions::size" name="catapult::state::AccountRestrictions::size">
+<area shape="rect" id="node1" title="Gets the number of possible account restrictions." alt="" coords="238,5,398,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_account_restrictions_serializer.html#a898eefb1bc3267fa639c224cba246a95" title="Saves restrictions to output." alt="" coords="5,5,190,44"/>
+</map>

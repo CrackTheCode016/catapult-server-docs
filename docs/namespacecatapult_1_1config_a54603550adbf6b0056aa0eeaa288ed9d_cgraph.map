@@ -1,0 +1,4 @@
+<map id="catapult::config::LoadPeersFromPath" name="catapult::config::LoadPeersFromPath">
+<area shape="rect" id="node1" title="Loads peers from the specified path for the network identified by networkIdentifier." alt="" coords="5,5,188,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1config.html#a3f33d74e22bfd5d08a5ac93c40e93cbd" title="Loads peers from the specified stream (input) for the network identified by networkIdentifier." alt="" coords="236,5,419,44"/>
+</map>

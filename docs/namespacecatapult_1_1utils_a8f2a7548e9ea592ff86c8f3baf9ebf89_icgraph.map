@@ -1,0 +1,4 @@
+<map id="catapult::utils::GetEncodedDataSize" name="catapult::utils::GetEncodedDataSize">
+<area shape="rect" id="node1" title="Gets the encoded size of decoded data with size decodedSize." alt="" coords="250,5,431,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#acb3b376a1b1d817ac9b8e1ba184aebd2" title="Encodes an array of bytes pointed to by data. The size must be a multiple of 5." alt="" coords="5,12,202,37"/>
+</map>

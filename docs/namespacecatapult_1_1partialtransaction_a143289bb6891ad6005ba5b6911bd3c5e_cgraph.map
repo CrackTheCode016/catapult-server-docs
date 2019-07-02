@@ -1,0 +1,5 @@
+<map id="catapult::partialtransaction::StitchAggregate" name="catapult::partialtransaction::StitchAggregate">
+<area shape="rect" id="node1" title="Stitches a weak cosigned transaction info into a full aggregate transaction." alt="" coords="5,37,182,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_weak_cosigned_transaction_info.html#ad350a72b1f0db059c1062dc4d0b57e77" title="Gets the cosignatures." alt="" coords="230,5,440,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_weak_cosigned_transaction_info.html#a960f29cfd1cdd66e239cff14895237f3" title="Gets the transaction." alt="" coords="230,68,440,107"/>
+</map>

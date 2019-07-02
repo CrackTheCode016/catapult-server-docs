@@ -1,0 +1,4 @@
+<map id="catapult::tree::PatriciaTreeSerializer::SerializeValue" name="catapult::tree::PatriciaTreeSerializer::SerializeValue">
+<area shape="rect" id="node1" title="Serializes value to string." alt="" coords="237,5,432,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1handlers.html#a93084a93e4e2b034fedd19e13a936875" title="Registers a handler in handlers that responds with serialized state path produced by querying cache." alt="" coords="5,5,189,44"/>
+</map>

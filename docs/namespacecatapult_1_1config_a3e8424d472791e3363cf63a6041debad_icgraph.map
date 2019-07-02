@@ -1,0 +1,4 @@
+<map id="catapult::config::ValidateConfiguration" name="catapult::config::ValidateConfiguration">
+<area shape="rect" id="node1" title="Validates config and throws an exception if it is invalid." alt="" coords="183,5,349,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1process.html#afb70f9b9df7096d96da43d92c5040ce9" title=" " alt="" coords="5,5,135,44"/>
+</map>

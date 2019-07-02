@@ -1,0 +1,4 @@
+<map id="catapult::cache::RemoveAllIdentifiersWithGroup" name="catapult::cache::RemoveAllIdentifiersWithGroup">
+<area shape="rect" id="node1" title="Removes all values in set with grouping key according to groupedSet." alt="" coords="248,5,431,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_height_based_pruning_mixin.html#a1a6855f37ccd03202938af9b4f4c6c02" title="Prunes the cache at height." alt="" coords="5,5,200,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::plugins::CreateAggregateTransactionPlugin" name="catapult::plugins::CreateAggregateTransactionPlugin">
+<area shape="rect" id="node1" title="Creates an aggregate transaction plugin around transactionRegistry for transactions with type transac..." alt="" coords="5,5,197,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#aa1988f14bba90fd7f33db5ef281d3e06" title=" " alt="" coords="245,5,437,57"/>
+</map>

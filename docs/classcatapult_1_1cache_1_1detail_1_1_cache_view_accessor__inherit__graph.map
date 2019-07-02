@@ -1,0 +1,6 @@
+<map id="catapult::cache::detail::CacheViewAccessor&lt; TCacheView &gt;" name="catapult::cache::detail::CacheViewAccessor&lt; TCacheView &gt;">
+<area shape="rect" id="node1" title="A cache view accessor." alt="" coords="5,68,254,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_locked_cache_delta.html" title="A cache&#45;delta, read&#45;lock pair." alt="" coords="318,5,518,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_locked_cache_view.html" title=" " alt="" coords="318,68,518,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_optional_locked_cache_delta.html" title="An optional cache&#45;delta, read&#45;lock pair." alt="" coords="302,131,534,169"/>
+</map>

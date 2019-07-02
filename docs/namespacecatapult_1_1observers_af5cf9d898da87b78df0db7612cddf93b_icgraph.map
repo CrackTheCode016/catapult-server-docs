@@ -1,0 +1,5 @@
+<map id="catapult::observers::ShouldPrune" name="catapult::observers::ShouldPrune">
+<area shape="rect" id="node1" title="Returns true if context and pruneInterval indicate that pruning should be done." alt="" coords="294,37,428,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1observers.html#ad3190894c93405172c899f1dd83c4eb6" title=" " alt="" coords="5,5,246,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1observers.html#af6077c626d9641b2ec73b03a50bd6681" title="Creates a time&#45;based cache pruning observer with name that runs every interval blocks." alt="" coords="7,68,244,107"/>
+</map>

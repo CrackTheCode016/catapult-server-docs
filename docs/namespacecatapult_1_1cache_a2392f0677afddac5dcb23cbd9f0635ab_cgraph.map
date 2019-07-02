@@ -1,0 +1,7 @@
+<map id="catapult::cache::SaveSupplementalData" name="catapult::cache::SaveSupplementalData">
+<area shape="rect" id="node1" title="Saves supplementalData and chainHeight to output." alt="" coords="5,103,264,128"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_output_stream.html#a61d553bfed97f20ce1bd7c38490debc7" title=" " alt="" coords="318,5,494,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_chain_score.html#a33c2118afde7df1ddd65bc9fd2332856" title="Gets an array representing the underlying score." alt="" coords="312,68,501,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1io.html#ade1752d622508047d91aca700d05aa1c" title="Writes base value into output." alt="" coords="344,131,468,156"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1io.html#a8613aa5dbcb9b6bb71adf19a828c495a" title="Writes value into output." alt="" coords="337,180,476,205"/>
+</map>

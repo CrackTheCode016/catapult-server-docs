@@ -1,0 +1,5 @@
+<map id="catapult::mongo::MongoPluginManager::createStorage" name="catapult::mongo::MongoPluginManager::createStorage">
+<area shape="rect" id="node1" title="Creates an external cache storage." alt="" coords="5,5,207,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_external_cache_storage_builder.html#a733d5b1c1b654651bfa477761c58bcb7" title="Builds an aggregate external cache storage." alt="" coords="255,5,438,44"/>
+<area shape="rect" id="node3" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="486,12,587,37"/>
+</map>

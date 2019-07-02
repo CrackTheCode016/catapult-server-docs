@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServiceLocator::registerServiceCounter" name="catapult::extensions::ServiceLocator::registerServiceCounter">
+<area shape="rect" id="node1" title="Adds a service&#45;dependent counter with counterName for service serviceName given supplier." alt="" coords="224,5,438,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a484c414066e59a172c11f5876054d050" title="Adds dispatcher counters with prefix counterPrefix to locator for a dispatcher named dispatcherName." alt="" coords="5,12,176,51"/>
+</map>

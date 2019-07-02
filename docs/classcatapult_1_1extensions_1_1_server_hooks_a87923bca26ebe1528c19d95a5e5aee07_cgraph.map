@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServerHooks::newTransactionsSink" name="catapult::extensions::ServerHooks::newTransactionsSink">
+<area shape="rect" id="node1" title="Gets the new transactions sink." alt="" coords="5,5,245,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a1490330fda5bc46dfe293f25145aef37" title="Aggregates multiple consumers into a single consumer." alt="" coords="293,5,451,44"/>
+</map>

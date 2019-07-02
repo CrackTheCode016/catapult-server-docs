@@ -1,0 +1,6 @@
+<map id="catapult::disruptor::operator&lt;&lt;" name="catapult::disruptor::operator&lt;&lt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,133,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1_consumer_input.html#af9ececf0cd9903318d393b3e4bcf1226" title="Returns true if this input is empty and has no elements." alt="" coords="183,5,346,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1disruptor_1_1_consumer_input.html#a330bc7ca9b6167280afb78aff244b830" title="Gets the source of this input." alt="" coords="181,68,348,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_entity_range.html#a932bc3c75e5c6cf76d7fa7555bc59af0" title="Gets a value indicating whether or not this range is empty." alt="" coords="396,5,588,44"/>
+</map>

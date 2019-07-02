@@ -1,0 +1,6 @@
+<map id="catapult::deltaset::BaseSetDeltaIterationView::iterator::handleAddedStage" name="catapult::deltaset::BaseSetDeltaIterationView::iterator::handleAddedStage">
+<area shape="rect" id="node1" title=" " alt="" coords="490,44,681,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1deltaset_1_1_base_set_delta_iteration_view_1_1iterator.html#acad14ea415b4d63f78fa8a5d50f9d5ca" title=" " alt="" coords="240,44,442,96"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1deltaset_1_1_base_set_delta_iteration_view_1_1iterator.html#aaa2b413665fda4962d1f40afbfc03c8f" title="Creates an iterator around the original elements and deltas at position given a total of size element..." alt="" coords="5,5,192,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1deltaset_1_1_base_set_delta_iteration_view_1_1iterator.html#a969ac7b014c4581d57cbfe25bd548635" title="Advances the iterator to the next position." alt="" coords="5,81,192,133"/>
+</map>

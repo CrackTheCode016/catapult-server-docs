@@ -1,0 +1,4 @@
+<map id="catapult::builders::ModifyMultisigAccountBuilder" name="catapult::builders::ModifyMultisigAccountBuilder">
+<area shape="rect" id="node1" title="Builder for a modify multisig account transaction." alt="" coords="5,92,208,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_transaction_builder.html" title="Base transaction builder." alt="" coords="37,5,176,44"/>
+</map>

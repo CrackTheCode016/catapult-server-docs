@@ -1,0 +1,5 @@
+<map id="catapult::config::BasicLoggerConfiguration" name="catapult::config::BasicLoggerConfiguration">
+<area shape="rect" id="node1" title="Basic logger configuration settings." alt="" coords="5,37,198,76"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1config_1_1_console_logger_configuration.html" title="Console logger configuration settings." alt="" coords="253,5,420,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1config_1_1_file_logger_configuration.html" title="File logger configuration settings." alt="" coords="246,68,427,107"/>
+</map>

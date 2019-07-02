@@ -1,0 +1,6 @@
+<map id="catapult::extensions::CreateNodeAger" name="catapult::extensions::CreateNodeAger">
+<area shape="rect" id="node1" title="Creates and prepares a node ager that ages all serviceId connections in nodes given config." alt="" coords="437,37,576,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#ae724b0a19f16874911190db347f8f49a" title=" " alt="" coords="221,5,376,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1extensions.html#a554a0b3be3aefd8a76bcf8d99e04ae70" title=" " alt="" coords="208,68,389,107"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a5f872f3c789603e8add4c58b2ca4c1ca" title="Creates a task for the specified service that ages nodes given settings and connectionContainer." alt="" coords="5,5,160,44"/>
+</map>

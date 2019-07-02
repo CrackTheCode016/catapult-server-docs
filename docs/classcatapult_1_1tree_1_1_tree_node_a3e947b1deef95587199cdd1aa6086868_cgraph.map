@@ -1,0 +1,4 @@
+<map id="catapult::tree::TreeNode::asBranchNode" name="catapult::tree::TreeNode::asBranchNode">
+<area shape="rect" id="node1" title="Gets a branch node interface to this node." alt="" coords="5,5,170,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_tree_node.html#a1cc8411f5a12c6abfdcf67bff2fc10a6" title="Returns true if this node represents a branch node." alt="" coords="218,5,383,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::extensions::LocalNodeChainScore::get" name="catapult::extensions::LocalNodeChainScore::get">
+<area shape="rect" id="node1" title="Gets the current chain score." alt="" coords="269,5,457,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1sync.html#a41faaaf95114d7dafd8cda2d766fcc0a" title="Updates syncHandlers to support supplemental data resiliency given dataDirectory, cache and score." alt="" coords="5,5,221,44"/>
+</map>

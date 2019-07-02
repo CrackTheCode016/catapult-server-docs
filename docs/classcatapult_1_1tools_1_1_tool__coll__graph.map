@@ -1,0 +1,4 @@
+<map id="catapult::tools::Tool" name="catapult::tools::Tool">
+<area shape="rect" id="node1" title="Interface for the tools." alt="" coords="24,92,159,117"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1_command_parser.html" title="Interface for command line parsing." alt="" coords="5,5,178,44"/>
+</map>

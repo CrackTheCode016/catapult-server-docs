@@ -1,0 +1,6 @@
+<map id="catapult::tree::TreeNodePath::operator==" name="catapult::tree::TreeNodePath::operator==">
+<area shape="rect" id="node1" title="Returns true if this path is equal to rhs." alt="" coords="5,40,170,79"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tree.html#a1c9bcd5f4da9c7f53dc436567bd30837" title="Compares two paths (lhs and rhs) and returns the index of the first non&#45;equal nibble." alt="" coords="218,11,376,49"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1_tree_node_path.html#af4c4d521e885f93f05660a4d2b59dae0" title="Gets the number of nibbles in this path." alt="" coords="424,68,588,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_tree_node_path.html#af97cd7e2f17a393f0aba2b8c1a3920d1" title="Gets the nibble at index." alt="" coords="424,5,588,44"/>
+</map>

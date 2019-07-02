@@ -1,0 +1,4 @@
+<map id="catapult::io::FileLock::~FileLock" name="catapult::io::FileLock::~FileLock">
+<area shape="rect" id="node1" title="Releases the lock file." alt="" coords="5,5,148,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_file_lock.html#a40ca820de5db256b6246e7a8dd107476" title="Releases the lock held by the execution agent. Throws no exceptions." alt="" coords="196,5,339,44"/>
+</map>

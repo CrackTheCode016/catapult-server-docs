@@ -1,0 +1,4 @@
+<map id="catapult::utils::ParseByte" name="catapult::utils::ParseByte">
+<area shape="rect" id="node1" title="Parses two characters (ch1 and ch2) into a byte." alt="" coords="5,5,173,31"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a44d8e76440776b081c70bc4545d024c2" title="Tries to parse two characters (ch1 and ch2) into a byte (by)." alt="" coords="221,5,408,31"/>
+</map>

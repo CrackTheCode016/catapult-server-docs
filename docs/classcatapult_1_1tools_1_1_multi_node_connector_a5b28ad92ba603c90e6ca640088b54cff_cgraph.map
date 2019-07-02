@@ -1,0 +1,11 @@
+<map id="catapult::tools::MultiNodeConnector::connect" name="catapult::tools::MultiNodeConnector::connect">
+<area shape="rect" id="node1" title="Connects to node." alt="" coords="5,96,176,135"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tools.html#a6abad602aeeb87e2e0bf1c7edd48ba8c" title="Connects to node as a client with clientKeyPair using pPool." alt="" coords="224,96,385,135"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1ionet.html#aa11c9abeca802a27837c75b2670bd217" title="Adds buffering to pIo using strand for synchronization." alt="" coords="433,5,635,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1net.html#a60a49231499bf85e1eb8454576a1ce7d" title="Creates a server connector for a server with a key pair of keyPair using pPool and configured with se..." alt="" coords="444,68,624,107"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1crypto.html#a1d34163b8bb36325d6661a676ad729e9" title="Formats a public key for printing." alt="" coords="442,131,626,156"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1ionet_1_1_node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="462,180,606,219"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_byte_array.html#aba9b7f8b1f716e8719c21e02473cbee3" title="Returns a const iterator to the first byte." alt="" coords="687,61,852,100"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_byte_array.html#a79ef47736964cb180440d5efd52e0281" title="Returns a const iterator to one past the last byte." alt="" coords="687,124,852,163"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1utils.html#a508395bb4e89df8a51c25694ae908313" title=" " alt="" coords="683,187,856,212"/>
+</map>

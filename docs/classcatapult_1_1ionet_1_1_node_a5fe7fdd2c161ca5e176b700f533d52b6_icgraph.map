@@ -1,0 +1,8 @@
+<map id="catapult::ionet::Node::metadata" name="catapult::ionet::Node::metadata">
+<area shape="rect" id="node1" title="Gets tne metadata." alt="" coords="498,148,642,187"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1nodediscovery.html#a2501c61ddd42ee3c4cf9e3e0994e6971" title="Determines if node is compatible with expected network (networkIdentifier) and identity (identityKey)..." alt="" coords="283,85,444,124"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1handlers.html#a8fe97c2f3f31ac6d7315c0fa5e20ee3c" title=" " alt="" coords="18,144,217,196"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1ionet.html#a17567852bf57ceac6dca747d87b74db8" title="Packs a node model into a network node." alt="" coords="277,205,450,231"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1nodediscovery_1_1_node_ping_response_compatibility_checker.html#a9e70973c2a0d651d6c6ce3db6ec906d2" title="Returns true if requestNode and responseNode are compatible nodes." alt="" coords="5,5,229,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1nodediscovery_1_1_peers_processor.html#af45c7ddf97c36ee291d2f009873ed0dc" title=" " alt="" coords="28,81,206,120"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::cache::BasicAccountStateCacheDelta::addAccount" name="catapult::cache::BasicAccountStateCacheDelta::addAccount">
+<area shape="rect" id="node1" title="If not present, adds an account to the cache at given height (addressHeight) using address." alt="" coords="5,5,205,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_contains_mixin.html#ad4c0b4591f043896fb4c8e35df48fe38" title="Gets a value indicating whether or not the cache contains an element with key." alt="" coords="253,5,424,44"/>
+</map>

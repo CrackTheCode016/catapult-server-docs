@@ -1,0 +1,13 @@
+<map id="catapult::validators::ValidatorContext" name="catapult::validators::ValidatorContext">
+<area shape="rect" id="node1" title="Contextual information passed to stateful validators." alt="" coords="965,107,1097,145"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title="Immutable wrapper for basic types, to provide some type&#45;safety." alt="" coords="674,12,844,51"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="277,5,491,57"/>
+<area shape="rect" id="node4" title=" " alt="" coords="79,19,130,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1_resolver_context.html" title="Context used to resolve unresolved types." alt="" coords="673,75,844,113"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_read_only_catapult_cache.html" title="A read&#45;only overlay on top of a catapult cache." alt="" coords="670,137,847,176"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1model_1_1_network_info.html" title="Information about a network." alt="" coords="663,200,854,225"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="253,167,515,205"/>
+<area shape="rect" id="node9" href="$structcatapult_1_1_generation_hash__tag.html" title=" " alt="" coords="5,173,204,199"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="301,229,466,268"/>
+<area shape="rect" id="node11" href="$structcatapult_1_1_key__tag.html" title=" " alt="" coords="42,236,167,261"/>
+</map>

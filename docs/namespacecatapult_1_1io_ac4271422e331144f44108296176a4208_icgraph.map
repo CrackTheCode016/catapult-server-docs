@@ -1,0 +1,9 @@
+<map id="catapult::io::Write8" name="catapult::io::Write8">
+<area shape="rect" id="node1" title="Writes value into output." alt="" coords="565,151,696,176"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_secret_lock_info_extended_data_serializer.html#ae6321237094ffa8ea61cdc2d4b2db311" title="Saves lockInfo extended data to output." alt="" coords="254,5,476,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_lock_info_serializer.html#adae960685100b6dfb4c44164c3b620ad" title="Saves lockInfo to output." alt="" coords="213,68,517,120"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1_account_restrictions_serializer.html#a898eefb1bc3267fa639c224cba246a95" title="Saves restrictions to output." alt="" coords="273,144,457,183"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1state_1_1_multisig_entry_serializer.html#a296cadb684b960ade4a6fd3902cff675" title="Saves entry to output." alt="" coords="286,207,443,245"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1state_1_1_account_state_non_historical_serializer.html#ad281db9730de4a014c0c3b6b1a7db833" title="Saves accountState to output." alt="" coords="252,269,478,308"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1state_1_1_account_state_serializer.html#a0222b98ca9ca1cdeb04e14686eb21d2d" title="Saves accountState to output." alt="" coords="5,269,165,308"/>
+</map>

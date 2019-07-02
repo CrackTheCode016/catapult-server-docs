@@ -1,0 +1,6 @@
+<map id="catapult::validators::NotificationValidatorT::validate" name="catapult::validators::NotificationValidatorT::validate">
+<area shape="rect" id="node1" title="Validates a single notification with contextual information args." alt="" coords="508,44,662,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1validators_1_1_validating_notification_subscriber.html#a699481dce8a8546ea8d957c78b7f38da" title="Notifies the subscriber of notification." alt="" coords="244,5,460,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1_processing_notification_subscriber.html#a9451b8154d02b347289d3f61d1985c30" title=" " alt="" coords="261,81,442,133"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1chain_1_1_processing_notification_subscriber.html#a80cd22c6c7fb7693b00a55611b21cea7" title="Notifies the subscriber of notification." alt="" coords="5,88,196,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::cache::LockableCacheDelta::tryLock" name="catapult::cache::LockableCacheDelta::tryLock">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,177,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="225,5,449,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="497,5,662,44"/>
+</map>

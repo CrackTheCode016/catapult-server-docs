@@ -1,0 +1,8 @@
+<map id="catapult::extensions::AggregateConsumers" name="catapult::extensions::AggregateConsumers">
+<area shape="rect" id="node1" title="Aggregates multiple consumers into a single consumer." alt="" coords="293,131,451,169"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a4572abe08a0ee641de3c2158d98d8a52" title="Gets the new block sink." alt="" coords="27,5,223,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a87923bca26ebe1528c19d95a5e5aee07" title="Gets the new transactions sink." alt="" coords="5,68,245,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a6a516390f0aa5a9f77a58ad6b60a86c9" title="Gets the packet payload sink." alt="" coords="12,131,238,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a8b7459dac51b7351bad3bdc13e59a3c9" title="Gets the transaction event handler." alt="" coords="19,193,231,245"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1extensions_1_1_server_hooks.html#af0352c531fc750bb9ba85eb2ff8e4368" title="Gets the transactions change handler." alt="" coords="33,269,218,321"/>
+</map>

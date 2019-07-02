@@ -1,0 +1,9 @@
+<map id="catapult::sync::AddSupplementalDataResiliency" name="catapult::sync::AddSupplementalDataResiliency">
+<area shape="rect" id="node1" title="Updates syncHandlers to support supplemental data resiliency given dataDirectory, cache and score." alt="" coords="5,109,221,148"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_local_node_chain_score.html#a4e7acbe976f2d11f6cc2214748eb5000" title="Gets the current chain score." alt="" coords="282,5,470,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1extensions_1_1_local_node_state_serializer.html#ac541dc4474637dfbf48a380c8fde4bfe" title="Moves serialized state to destinationDirectory." alt="" coords="287,68,466,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1extensions_1_1_local_node_state_serializer.html#a0399b05c3630ddab31a63c203f35a0e1" title="Saves state composed of cache, state and score." alt="" coords="269,144,484,183"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_catapult_cache.html#ac1f046ec9e6780a8914d3ce6c3f89cd9" title="Gets cache storages for all sub caches." alt="" coords="292,207,460,245"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="532,5,755,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="803,5,969,44"/>
+</map>

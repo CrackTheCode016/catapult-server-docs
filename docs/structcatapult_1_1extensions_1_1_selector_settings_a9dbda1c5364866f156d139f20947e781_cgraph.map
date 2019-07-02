@@ -1,0 +1,7 @@
+<map id="catapult::extensions::SelectorSettings::SelectorSettings" name="catapult::extensions::SelectorSettings::SelectorSettings">
+<area shape="rect" id="node1" title="Creates settings around cache, totalChainImportance, nodes, serviceId, requiredRole and config." alt="" coords="5,61,187,113"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_catapult_cache.html#ab19733e38d7ac7580503f5177994dad1" title="Returns a locked cache view based on this cache." alt="" coords="275,5,443,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_importance_view.html#a12c7e3b42baba60c53e1fee91674056f" title="Gets the importance for publicKey at height or a default importance if no importance is set." alt="" coords="235,68,483,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_catapult_cache_view.html#a905ab9bbad288bb63930cc5086c0845e" title="Gets a specific sub cache view." alt="" coords="275,131,443,169"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_importance_view.html#aa88a70d0fe6047d1f5536280e63bfe3a" title="Tries to populate importance with the importance for publicKey at height." alt="" coords="531,68,740,107"/>
+</map>

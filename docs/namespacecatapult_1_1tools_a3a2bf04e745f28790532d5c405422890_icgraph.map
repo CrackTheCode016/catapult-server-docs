@@ -1,0 +1,4 @@
+<map id="catapult::tools::RandomByte" name="catapult::tools::RandomByte">
+<area shape="rect" id="node1" title="Generates a uint8_t random number." alt="" coords="220,12,408,37"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tools.html#af5e089ba0926b2b73fc84b11b3febe96" title="Returns random key pair." alt="" coords="5,5,172,44"/>
+</map>

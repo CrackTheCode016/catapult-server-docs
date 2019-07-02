@@ -1,0 +1,4 @@
+<map id="catapult::cache::StateVersion::ReadAndCheck" name="catapult::cache::StateVersion::ReadAndCheck">
+<area shape="rect" id="node1" title="Reads state version from input and verifies it." alt="" coords="5,5,199,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#ad8ed0dfb2530c60b3c03c2a956bdbc9a" title="Reads value from input." alt="" coords="247,12,387,37"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServerHooks::remoteChainHeightsRetriever" name="catapult::extensions::ServerHooks::remoteChainHeightsRetriever">
+<area shape="rect" id="node1" title="Gets the remote chain heights retriever." alt="" coords="5,5,240,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a1ba3236a6ee3676530f450d3c8e73a77" title="Returns func if and only if it is set." alt="" coords="288,12,427,51"/>
+</map>

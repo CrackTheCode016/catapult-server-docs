@@ -1,0 +1,10 @@
+<map id="catapult::utils::as_const" name="catapult::utils::as_const">
+<area shape="rect" id="node1" title="Coerces a reference (ref) to a const reference." alt="" coords="729,81,850,120"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_account_state_cache_types_1_1_composed_lookup_adapter.html#a1b3878409f38da1f7904ac6465628612" title=" " alt="" coords="433,5,675,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_compact_mosaic_map.html#aa2ceebac9f7c406719e6b79555bb1373" title="Inserts a mosaic pair." alt="" coords="471,81,636,120"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html#ae0d0a0c3cfc1d0203582bed3c4127333" title="Processes all unused lock infos that expired at height by passing them to consumer." alt="" coords="426,144,681,209"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_account_balances.html#a84236be04d6b47ef0e193b079cb7bd21" title="Adds amount funds to a given mosaic (mosaicId)." alt="" coords="216,24,376,63"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_account_balances.html#acad1ebd7c7f56cdfa9cb8a5f475af78b" title="Assignment operator that makes a deep copy of accountBalances." alt="" coords="5,81,165,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1_compact_mosaic_map.html#a47d5a87cef7d131d317a60b5c82314ed" title="Optimizes access of the mosaic with id." alt="" coords="213,139,378,177"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1state_1_1_account_balances.html#acc0ecc5e24c5125135d84e9dc4980439" title="Optimizes access of the mosaic with id." alt="" coords="5,144,165,183"/>
+</map>

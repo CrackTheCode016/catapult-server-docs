@@ -1,0 +1,7 @@
+<map id="catapult::model::TransactionStatement::addReceipt" name="catapult::model::TransactionStatement::addReceipt">
+<area shape="rect" id="node1" title="Adds receipt to this transaction statement." alt="" coords="739,40,927,79"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_block_statement_builder.html#a7dff4c3542a7a8df1edefc0eb5992f8f" title="Adds receipt to this builder." alt="" coords="478,40,691,79"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1observers_1_1_observer_statement_builder.html#a77a803a413b2dd51acb95bea65f228c0" title="Adds receipt to this builder." alt="" coords="244,33,430,85"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1observers.html#adaa4faa89fab3ceb529a077f6e1f2eef" title="Creates a rental fee observer with name that adds receipts with receiptType." alt="" coords="8,5,193,44"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1observers.html#aa7a3e2e8a38edfeb262563ec709e4fcf" title=" " alt="" coords="5,68,196,120"/>
+</map>

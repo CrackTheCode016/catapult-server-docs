@@ -1,0 +1,7 @@
+<map id="catapult::cache::SubCachePluginAdapter&lt; TCache, TStorageTraits &gt;" name="catapult::cache::SubCachePluginAdapter&lt; TCache, TStorageTraits &gt;">
+<area shape="rect" id="node1" title="A SubCachePlugin implementation that wraps a SynchronizedCache." alt="" coords="234,67,415,119"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_summary_aware_sub_cache_plugin_adapter.html" title="Specialized sub cache plugin adapter that provides proper handling of summary cache state." alt="" coords="463,67,668,119"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_sub_cache_plugin.html" title="Sub cache plugin that can be added to the main catapult cache." alt="" coords="5,73,186,112"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_account_state_cache_sub_cache_plugin.html" title="Specialized account state cache sub cache plugin." alt="" coords="716,5,1004,84"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_namespace_cache_sub_cache_plugin.html" title="Specialized namespace cache sub cache plugin." alt="" coords="716,108,1004,173"/>
+</map>

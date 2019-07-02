@@ -1,0 +1,6 @@
+<map id="catapult::chain::CreateRemoteNodeSynchronizer" name="catapult::chain::CreateRemoteNodeSynchronizer">
+<area shape="rect" id="node1" title="Creates a remote node synchronizer around pSynchronizer." alt="" coords="243,68,444,107"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1chain.html#a3c9d5898c8b240385eebc0cdb65753f6" title=" " alt="" coords="5,5,195,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1chain.html#a204f6307622212305d4feda6d24a9bfc" title=" " alt="" coords="16,68,184,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1chain.html#a7e3515847edcce57393c390cadcc045c" title=" " alt="" coords="16,131,184,169"/>
+</map>

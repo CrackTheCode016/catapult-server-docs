@@ -1,0 +1,4 @@
+<map id="catapult::ionet::PacketPayloadBuilder::appendRange" name="catapult::ionet::PacketPayloadBuilder::appendRange">
+<area shape="rect" id="node1" title="Appends a fixed size range to the payload." alt="" coords="255,5,456,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_payload_factory.html#abcb79c10751d938198c46e582c42ad55" title="Creates a packet payload with the specified packet type around a fixed size structure range." alt="" coords="5,5,207,44"/>
+</map>

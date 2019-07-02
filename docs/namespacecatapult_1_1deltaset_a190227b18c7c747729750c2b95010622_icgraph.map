@@ -1,0 +1,6 @@
+<map id="catapult::deltaset::RemoveAll" name="catapult::deltaset::RemoveAll">
+<area shape="rect" id="node1" title="Removes all elements from the container (pContainer)." alt="" coords="546,37,668,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#ac59718570eaf02df72dffca232a5c71b" title="Inserts the root namespace ns into the cache." alt="" coords="276,5,498,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#a2b36e4873682162a2361b95717582aeb" title=" " alt="" coords="276,68,498,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#a5deffdb747199d3f8e381a66fa5a9fea" title="Removes the namespace specified by its id from the cache." alt="" coords="5,68,228,107"/>
+</map>

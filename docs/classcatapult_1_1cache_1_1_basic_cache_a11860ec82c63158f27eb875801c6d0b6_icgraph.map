@@ -1,0 +1,5 @@
+<map id="catapult::cache::BasicCache::commit" name="catapult::cache::BasicCache::commit">
+<area shape="rect" id="node1" title="Commits all pending changes from delta to the underlying storage." alt="" coords="276,37,465,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_account_state_cache.html#a4e11a7cf42d665ff9f85c2cc56044ec8" title=" " alt="" coords="17,5,216,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_namespace_cache.html#af170cde6279ce0c4ab1ddbfb6f942f0b" title=" " alt="" coords="5,68,228,107"/>
+</map>

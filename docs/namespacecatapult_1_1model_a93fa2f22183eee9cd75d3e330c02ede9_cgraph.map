@@ -1,0 +1,4 @@
+<map id="catapult::model::GetNotificationChannel" name="catapult::model::GetNotificationChannel">
+<area shape="rect" id="node1" title="Gets the notification channel set in type." alt="" coords="5,5,212,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="260,5,383,44"/>
+</map>

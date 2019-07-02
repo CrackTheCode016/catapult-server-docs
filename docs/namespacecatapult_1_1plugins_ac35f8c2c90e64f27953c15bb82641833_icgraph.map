@@ -1,0 +1,7 @@
+<map id="catapult::plugins::CreateMosaicDefinitionTransactionPlugin" name="catapult::plugins::CreateMosaicDefinitionTransactionPlugin">
+<area shape="rect" id="node1" title="Creates a mosaic definition transaction plugin given the rental fee configuration (config)." alt="" coords="490,31,719,83"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tools_1_1nemgen.html#a3b11fe8d1492167f1c3c0d00fe9493dd" title="Creates a transaction registry that has basic transaction types registered." alt="" coords="255,5,442,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1plugins.html#a695b10210a6231e989f361d63b4417ba" title="Registers mosaic support with manager." alt="" coords="259,68,438,107"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1tools_1_1nemgen.html#a9991f2c958985fd13d74fcca079bcd53" title="Wraps a block element around block according to config." alt="" coords="5,5,207,44"/>
+<area shape="rect" id="node5" href="$_mosaic_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="38,75,175,100"/>
+</map>

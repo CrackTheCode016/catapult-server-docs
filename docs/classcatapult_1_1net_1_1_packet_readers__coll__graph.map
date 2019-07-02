@@ -1,0 +1,4 @@
+<map id="catapult::net::PacketReaders" name="catapult::net::PacketReaders">
+<area shape="rect" id="node1" title="Manages a collection of connections that receive data from external nodes." alt="" coords="5,92,198,117"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1net_1_1_connection_container.html" title="Manages a collection of connections." alt="" coords="17,5,186,44"/>
+</map>

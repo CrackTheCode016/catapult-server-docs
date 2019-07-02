@@ -1,0 +1,5 @@
+<map id="catapult::tools::NetworkCensusTool::getNodeInfoFutures" name="catapult::tools::NetworkCensusTool::getNodeInfoFutures">
+<area shape="rect" id="node1" title="Gets all futures to fill nodeInfo using pool and io." alt="" coords="489,5,706,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a0fc99b014b5992e09fe8cc85c0fc931c" title=" " alt="" coords="213,5,441,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,5,165,44"/>
+</map>

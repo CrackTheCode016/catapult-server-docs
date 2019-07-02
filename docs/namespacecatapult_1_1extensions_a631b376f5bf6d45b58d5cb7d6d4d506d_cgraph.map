@@ -1,0 +1,6 @@
+<map id="catapult::extensions::CreateBlockPushEntityCallback" name="catapult::extensions::CreateBlockPushEntityCallback">
+<area shape="rect" id="node1" title="Creates a block push entity callback from hooks that only pushes when synced." alt="" coords="5,47,222,85"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_server_hooks.html#ad027e02b384a5a2c0c5b245175a391f5" title="Gets the factory for creating a BlockRangeConsumerFunc bound to an input source." alt="" coords="270,5,515,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a765a9ec76b4812eb3156cd89cf0bd4c0" title="Gets the chain synced predicate." alt="" coords="270,81,515,120"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a1ba3236a6ee3676530f450d3c8e73a77" title="Returns func if and only if it is set." alt="" coords="563,12,703,51"/>
+</map>

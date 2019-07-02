@@ -1,0 +1,4 @@
+<map id="catapult::model::ChainScore::toArray" name="catapult::model::ChainScore::toArray">
+<area shape="rect" id="node1" title="Gets an array representing the underlying score." alt="" coords="312,5,501,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1cache.html#a2392f0677afddac5dcb23cbd9f0635ab" title="Saves supplementalData and chainHeight to output." alt="" coords="5,12,264,37"/>
+</map>

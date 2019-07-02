@@ -1,0 +1,11 @@
+<map id="catapult::model::AggregateTransaction" name="catapult::model::AggregateTransaction">
+<area shape="rect" id="node1" title="Binary layout for an aggregate transaction." alt="" coords="1891,12,2072,51"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_transaction_container.html" title=" " alt="" coords="1623,5,1843,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1_aggregate_transaction_header.html" title="Binary layout for an aggregate transaction header." alt="" coords="1394,12,1575,51"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1_transaction.html" title="Binary layout for a transaction." alt="" coords="1158,19,1346,44"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1model_1_1_verifiable_entity.html" title="Binary layout for a verifiable (with signature) entity." alt="" coords="936,12,1110,51"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1model_1_1_entity_body.html" title=" " alt="" coords="705,12,888,51"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1model_1_1_verifiable_entity_header.html" title="Binary layout for a verifiable entity header." alt="" coords="483,12,657,51"/>
+<area shape="rect" id="node8" href="$structcatapult_1_1model_1_1_size_prefixed_entity.html" title="Binary layout for a size prefixed entity." alt="" coords="241,12,435,51"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,19,193,44"/>
+</map>

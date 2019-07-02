@@ -1,0 +1,4 @@
+<map id="catapult::cache::BlockDifficultyCacheSubCachePlugin::createStorage" name="catapult::cache::BlockDifficultyCacheSubCachePlugin::createStorage">
+<area shape="rect" id="node1" title="Returns a cache storage based on this cache." alt="" coords="5,19,256,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_sub_cache_plugin_adapter.html#a23c74b0a67c4783d3d28c41a1b006f70" title="Gets a typed reference to the underlying cache." alt="" coords="304,5,539,71"/>
+</map>

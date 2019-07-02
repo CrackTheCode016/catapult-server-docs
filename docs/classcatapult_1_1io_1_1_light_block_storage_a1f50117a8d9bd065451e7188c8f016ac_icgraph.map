@@ -1,0 +1,7 @@
+<map id="catapult::io::LightBlockStorage::dropBlocksAfter" name="catapult::io::LightBlockStorage::dropBlocksAfter">
+<area shape="rect" id="node1" title="Drops all blocks after height." alt="" coords="491,37,660,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_block_storage_modifier.html#ad89681d59ec2b0fd8ce5f66f2d15e590" title="Drops all blocks after height." alt="" coords="263,8,436,47"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1io.html#a5fdd349a81e8473d5b9d5147c309ccde" title="Moves block files starting at startHeight from sourceStorage to destinationStorage." alt="" coords="256,72,443,97"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_block_storage_modifier.html#ad83fc8e1cb38c1c6b865c18276174c7e" title="Creates a view around storage, stagingStorage and cache data (cachedData) with lock context readLock." alt="" coords="5,5,208,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1_block_storage_modifier.html#a68ed3955b979e23c82d8ca86d6e2e6cb" title="Commits all staged changes to the primary storage." alt="" coords="21,68,193,107"/>
+</map>

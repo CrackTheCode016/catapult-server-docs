@@ -1,0 +1,6 @@
+<map id="catapult::local::CatapultSystemState::shouldRecoverBroker" name="catapult::local::CatapultSystemState::shouldRecoverBroker">
+<area shape="rect" id="node1" title="true if broker should be recovered." alt="" coords="5,37,238,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1local_1_1_catapult_system_state.html#af13403ea6b57d9062e2f7fbf00fa079b" title=" " alt="" coords="286,37,478,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1config_1_1_catapult_directory.html#a14589c15e2939c16cd32d3eec7e1c4f3" title="Gets the path for the file with name." alt="" coords="526,5,694,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1config_1_1_catapult_data_directory.html#acbe9365e29127dc0951a09655f06a49e" title="Gets the root data directory." alt="" coords="526,68,694,107"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="catapult::tree::TreeNode::isBranch" name="catapult::tree::TreeNode::isBranch">
+<area shape="rect" id="node1" title="Returns true if this node represents a branch node." alt="" coords="808,676,973,715"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_tree_node.html#a3e947b1deef95587199cdd1aa6086868" title="Gets a branch node interface to this node." alt="" coords="596,857,760,896"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a716e1a11c4bf41eac444126b6543914d" title=" " alt="" coords="282,576,542,641"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1_patricia_tree.html#ae202523ae31e404037ecd5c57a890779" title=" " alt="" coords="282,1023,542,1088"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1tree_1_1_patricia_tree_serializer.html#a6791a0c328e64eb8df0b4f4efcdc4988" title="Serializes value to string." alt="" coords="314,1112,510,1151"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a3a504798d0164aa1db3d706278102120" title=" " alt="" coords="282,755,542,820"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1tree_1_1_tree_node.html#aa27574e2a3af79a0009fff64f715bf2b" title="Creates a copy of this node." alt="" coords="596,348,760,387"/>
+<area shape="rect" id="node16" href="$classcatapult_1_1tree_1_1_tree_node.html#a6c77d49eac52156ff1632134661b962c" title="Returns true if this node represents an empty node." alt="" coords="596,704,760,743"/>
+<area shape="rect" id="node18" href="$classcatapult_1_1tree_1_1_tree_node.html#a930a5c55f68c551352d1e83136eca884" title="Gets the hash representation of this node." alt="" coords="596,127,760,165"/>
+<area shape="rect" id="node21" href="$classcatapult_1_1tree_1_1_tree_node.html#afce3068ecfe939bb16c8c0ba22e76041" title="Gets the node path." alt="" coords="596,589,760,628"/>
+<area shape="rect" id="node22" href="$classcatapult_1_1tree_1_1_tree_node.html#a8427e47a3fc7eb6df69bffc13cae4a24" title="Sets the node path." alt="" coords="330,513,494,552"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a6ee10f7fa5406b40ee5a21e672904ea6" title=" " alt="" coords="282,933,542,999"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a128da184199fa59afe13a53f8abdd0b1" title=" " alt="" coords="282,844,542,909"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1handlers.html#a93084a93e4e2b034fedd19e13a936875" title="Registers a handler in handlers that responds with serialized state path produced by querying cache." alt="" coords="25,1112,209,1151"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1_patricia_tree_rdb_data_source.html#ac88323c7953a58eecef80a259b3704f0" title=" " alt="" coords="328,157,496,196"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1tree_1_1_branch_tree_node.html#ac05ae2b22ffb0df952a46c0501000121" title="Sets the branch link at index to node." alt="" coords="325,272,500,311"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a1dc6bcde27bfc3903680b368bb609f09" title="Sets the root to rootNode." alt="" coords="282,335,542,400"/>
+<area shape="rect" id="node14" href="$structcatapult_1_1cache_1_1_patricia_tree_column_descriptor.html#a3712ad619d3a26d27968a655926b32d0" title="Converts a value type (treeNode) to a storage type." alt="" coords="5,155,228,193"/>
+<area shape="rect" id="node15" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a6682f0f7a0ed2d25e6b24695a4cf783c" title="Loads the node with hash rootHash and sets it as the root node." alt="" coords="282,424,542,489"/>
+<area shape="rect" id="node17" href="$classcatapult_1_1tree_1_1_patricia_tree.html#aedc5316613a2598329b1d6c6e7a0d2b6" title="Saves all tree nodes to the underlying data source." alt="" coords="282,665,542,731"/>
+<area shape="rect" id="node19" href="$structcatapult_1_1cache_1_1_patricia_tree_column_descriptor.html#a2f66f6cdde4e2ba1e436b5d4fd81d8c5" title="Gets the key corresponding to treeNode." alt="" coords="276,95,548,133"/>
+<area shape="rect" id="node20" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a0273e1f135ea1937e95375e49c2ac0d4" title="Gets the root hash that uniquely identifies this tree." alt="" coords="282,5,542,71"/>
+</map>

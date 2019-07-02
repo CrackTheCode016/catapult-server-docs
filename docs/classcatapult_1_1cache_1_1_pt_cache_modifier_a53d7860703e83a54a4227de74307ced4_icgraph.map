@@ -1,0 +1,4 @@
+<map id="catapult::cache::PtCacheModifier::prune" name="catapult::cache::PtCacheModifier::prune">
+<area shape="rect" id="node1" title="Removes all partial transactions that have deadlines at or before the given timestamp." alt="" coords="223,5,392,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_pt_cache_modifier_proxy.html#afd0ef4efd157923252ff1b3d5dc639ed" title="Removes all partial transactions that have deadlines at or before the given timestamp." alt="" coords="5,5,175,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="catapult::extensions::ServiceLocator::service" name="catapult::extensions::ServiceLocator::service">
+<area shape="rect" id="node1" title="Gets the service with serviceName." alt="" coords="230,100,398,139"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a712d68aa1a29bea879085f66f6d3bf1f" title="Creates a sink that pushes entities using a service identified by serviceName in locator." alt="" coords="15,5,173,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1partialtransaction.html#aa803cd0bd9e93daa9c7f759fa9e05a96" title="Gets the memory partial transactions cache stored in locator." alt="" coords="5,68,182,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1sync.html#a1453519c341e97d8e485441e4184a41c" title="Gets the packet writers service from locator." alt="" coords="8,131,180,169"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1partialtransaction.html#afd00c97346acebcc87f5f0e2ffc9ed19" title="Gets the partial transactions server hooks stored in locator." alt="" coords="5,193,182,232"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="catapult::io::OutputStream::write" name="catapult::io::OutputStream::write">
+<area shape="rect" id="node1" title=" " alt="" coords="599,332,775,371"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_hash_cache_storage.html#ac82c93d25a4d108495ede9b23086bafe" title="Saves timestampedHash to output." alt="" coords="305,5,493,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_hash_lock_info_extended_data_serializer.html#a7a5cafb50a158956b720353bfc071cd6" title="Saves lockInfo extended data to output." alt="" coords="288,68,510,107"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1_secret_lock_info_extended_data_serializer.html#ae6321237094ffa8ea61cdc2d4b2db311" title="Saves lockInfo extended data to output." alt="" coords="288,131,510,169"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1state_1_1_lock_info_serializer.html#adae960685100b6dfb4c44164c3b620ad" title="Saves lockInfo to output." alt="" coords="247,193,551,245"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1state_1_1_multisig_entry_serializer.html#a296cadb684b960ade4a6fd3902cff675" title="Saves entry to output." alt="" coords="321,269,477,308"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1state_1_1_account_restrictions_serializer.html#a898eefb1bc3267fa639c224cba246a95" title="Saves restrictions to output." alt="" coords="307,332,491,371"/>
+<area shape="rect" id="node8" href="$structcatapult_1_1state_1_1_account_state_non_historical_serializer.html#ad281db9730de4a014c0c3b6b1a7db833" title="Saves accountState to output." alt="" coords="286,395,512,433"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1_account_state_cache_summary_cache_storage.html#a8b934363d983968b70ef8409756e7b36" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="282,457,516,509"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1_identifier_group_serializer.html#a9d79d45d84ace8514f6c64110844a9d3" title=" " alt="" coords="253,533,545,599"/>
+<area shape="rect" id="node12" href="$namespacecatapult_1_1io.html#a513061abb14cbbad7f60aadfae25acda" title="Writes blockElement into outputStream." alt="" coords="321,623,477,661"/>
+<area shape="rect" id="node14" href="$namespacecatapult_1_1io.html#afc802990f181960e6c9b6959f096d469" title="Writes transactionInfo into outputStream." alt="" coords="291,687,507,712"/>
+<area shape="rect" id="node9" href="$structcatapult_1_1state_1_1_account_state_serializer.html#a0222b98ca9ca1cdeb04e14686eb21d2d" title="Saves accountState to output." alt="" coords="22,395,182,433"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1io_1_1_file_block_storage.html#a6c981ab30cc4644b3c2e25865f6fda96" title="Saves blockElement." alt="" coords="5,620,199,659"/>
+<area shape="rect" id="node15" href="$namespacecatapult_1_1io.html#a336661bbde1de3d6777f8714ed251a05" title="Writes transactionInfos into outputStream." alt="" coords="6,683,199,721"/>
+</map>

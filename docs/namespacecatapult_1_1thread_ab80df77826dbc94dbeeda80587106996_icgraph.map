@@ -1,0 +1,12 @@
+<map id="catapult::thread::make_ready_future" name="catapult::thread::make_ready_future">
+<area shape="rect" id="node1" title="Produces a future that is ready immediately and holds the given value." alt="" coords="510,200,663,239"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_mongo_bulk_writer.html#a0b11b5ba5450c0877d995134c4c2cfcb" title=" " alt="" coords="242,5,433,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#ae724b0a19f16874911190db347f8f49a" title=" " alt="" coords="260,68,415,107"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1extensions.html#a43373300d407f59cb43fccfa2b1b7e54" title="Creates a task with name that dispatches all transactions batched in dispatcher." alt="" coords="238,131,437,169"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1extensions.html#a7d93674277b28565eb8e00cfe71e9124" title=" " alt="" coords="213,193,462,245"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a0fc99b014b5992e09fe8cc85c0fc931c" title=" " alt="" coords="223,269,452,308"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1chain_1_1_pt_updater_1_1_impl.html#a5bf98d04a0eeaef746aecf20527abf6c" title=" " alt="" coords="250,332,425,371"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1chain_1_1_pt_updater_1_1_impl.html#a39c16409f72d6006d4dd1369c9e29cab" title=" " alt="" coords="250,395,425,433"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1extensions.html#a5f872f3c789603e8add4c58b2ca4c1ca" title="Creates a task for the specified service that ages nodes given settings and connectionContainer." alt="" coords="8,68,163,107"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,269,165,308"/>
+</map>

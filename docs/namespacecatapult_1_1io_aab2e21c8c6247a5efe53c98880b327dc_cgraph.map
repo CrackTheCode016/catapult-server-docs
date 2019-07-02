@@ -1,0 +1,4 @@
+<map id="catapult::io::ReadEntity" name="catapult::io::ReadEntity">
+<area shape="rect" id="node1" title="Reads size prefixed entity from input." alt="" coords="5,5,164,31"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#acf81a286806cb47a476bf4e9e8b5dd65" title="Reads value from input." alt="" coords="212,5,352,31"/>
+</map>

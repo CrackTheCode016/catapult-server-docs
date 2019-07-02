@@ -1,0 +1,6 @@
+<map id="catapult::utils::BasicSpinReaderWriterLock::ReaderLockGuard::markActiveWriter" name="catapult::utils::BasicSpinReaderWriterLock::ReaderLockGuard::markActiveWriter">
+<area shape="rect" id="node1" title=" " alt="" coords="534,40,778,92"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1utils_1_1_basic_spin_reader_writer_lock_1_1_reader_lock_guard.html#a97be4eaa0ee8f7c1af272273374ed1d7" title=" " alt="" coords="241,40,486,92"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_local_node_chain_score.html#a36646a52513e0db986137dcc0c1c27d5" title="Adds rhs to this chain score." alt="" coords="18,5,180,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_local_node_chain_score.html#aa1c74f285213cd0fcfc56b9724c6eb61" title="Sets the current chain score to chainScore." alt="" coords="5,81,193,120"/>
+</map>

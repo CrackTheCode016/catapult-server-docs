@@ -1,0 +1,6 @@
+<map id="catapult::io::FileBlockStorage::requireHeight" name="catapult::io::FileBlockStorage::requireHeight">
+<area shape="rect" id="node1" title=" " alt="" coords="247,68,441,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_file_block_storage.html#ac6f21d41fce2034f7438d712e896e7ee" title="Returns the block at height." alt="" coords="5,5,199,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_file_block_storage.html#a2e0e3e1c24a2d40d2850abe5d67bca57" title="Returns the block element (owning a block) at height." alt="" coords="5,68,199,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_file_block_storage.html#aef2f29cadb297523a710773176d7db3f" title="Returns the optional block statement data at height." alt="" coords="5,131,199,169"/>
+</map>

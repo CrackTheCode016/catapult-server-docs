@@ -1,0 +1,6 @@
+<map id="catapult::state::AccountRestrictions::address" name="catapult::state::AccountRestrictions::address">
+<area shape="rect" id="node1" title="Gets the account address." alt="" coords="238,81,398,120"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_account_restriction_cache_descriptor.html#ab0d96ce0fe99ad74725608d788202755" title="Gets the key corresponding to entry." alt="" coords="6,5,189,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_account_restrictions_serializer.html#a898eefb1bc3267fa639c224cba246a95" title="Saves restrictions to output." alt="" coords="5,81,190,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1plugins.html#a5687e82d40ad61696ae678c86ee59da8" title="Maps a restrictions to the corresponding db model value." alt="" coords="15,144,180,183"/>
+</map>

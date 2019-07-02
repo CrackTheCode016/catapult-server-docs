@@ -1,0 +1,7 @@
+<map id="catapult::io::FileBlockStorage" name="catapult::io::FileBlockStorage">
+<area shape="rect" id="node1" title="File&#45;based block storage." alt="" coords="5,325,199,351"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_prunable_block_storage.html" title="Interface that allows saving, loading and pruning blocks." alt="" coords="13,239,192,277"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_block_storage.html" title="Interface for saving and loading blocks." alt="" coords="16,165,189,191"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_light_block_storage.html" title="Minimalistic interface for block storage (does not allow block loading)." alt="" coords="25,79,180,117"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="9,5,196,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::api::RemoteRequestDispatcher" name="catapult::api::RemoteRequestDispatcher">
+<area shape="rect" id="node1" title="Dispatches requests to a remote node." alt="" coords="5,92,202,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_io.html" title="An interface for reading and writing packets." alt="" coords="22,5,186,31"/>
+</map>

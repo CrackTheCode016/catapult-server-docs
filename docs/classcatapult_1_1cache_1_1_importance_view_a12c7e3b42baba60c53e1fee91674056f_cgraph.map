@@ -1,0 +1,4 @@
+<map id="catapult::cache::ImportanceView::getAccountImportanceOrDefault" name="catapult::cache::ImportanceView::getAccountImportanceOrDefault">
+<area shape="rect" id="node1" title="Gets the importance for publicKey at height or a default importance if no importance is set." alt="" coords="5,5,253,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_importance_view.html#aa88a70d0fe6047d1f5536280e63bfe3a" title="Tries to populate importance with the importance for publicKey at height." alt="" coords="301,5,510,44"/>
+</map>

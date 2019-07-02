@@ -1,0 +1,12 @@
+<map id="catapult::harvesting::FeePolicy" name="catapult::harvesting::FeePolicy">
+<area shape="rect" id="node1" title="Information about a fee policy." alt="" coords="1287,80,1424,119"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="957,45,1128,84"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="620,29,790,95"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1_amount__tag.html" title=" " alt="" coords="253,5,400,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="242,55,411,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,93,172,119"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="242,117,411,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="925,111,1159,149"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="534,119,876,171"/>
+<area shape="rect" id="node9" href="$structcatapult_1_1_block_fee_multiplier__tag.html" title=" " alt="" coords="221,180,432,205"/>
+</map>

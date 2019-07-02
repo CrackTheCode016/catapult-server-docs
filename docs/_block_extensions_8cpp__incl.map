@@ -1,0 +1,52 @@
+<map id="catapult&#45;server/sdk/src/extensions/BlockExtensions.cpp" name="catapult&#45;server/sdk/src/extensions/BlockExtensions.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="760,5,997,44"/>
+<area shape="rect" id="node2" href="$_block_extensions_8h.html" title=" " alt="" coords="904,92,1034,117"/>
+<area shape="rect" id="node4" href="$_block_8h.html" title=" " alt="" coords="495,319,560,344"/>
+<area shape="rect" id="node40" href="$_transaction_extensions_8h.html" title=" " alt="" coords="5,165,172,191"/>
+<area shape="rect" id="node41" href="$_hashes_8h.html" title=" " alt="" coords="1126,165,1294,191"/>
+<area shape="rect" id="node42" href="$_merkle_hash_builder_8h.html" title=" " alt="" coords="1508,545,1691,584"/>
+<area shape="rect" id="node43" href="$_block_utils_8h.html" title=" " alt="" coords="698,92,879,117"/>
+<area shape="rect" id="node44" href="$_entity_hasher_8h.html" title=" " alt="" coords="426,92,624,117"/>
+<area shape="rect" id="node45" href="$_transaction_plugin_8h.html" title=" " alt="" coords="1334,312,1515,351"/>
+<area shape="rect" id="node3" href="$_elements_8h.html" title=" " alt="" coords="856,165,1034,191"/>
+<area shape="rect" id="node29" href="$_block_statement_8h.html" title=" " alt="" coords="882,239,1008,264"/>
+<area shape="rect" id="node33" href="$_container_types_8h.html" title=" " alt="" coords="585,319,710,344"/>
+<area shape="rect" id="node35" title=" " alt="" coords="955,399,1062,424"/>
+<area shape="rect" id="node36" href="$_entity_info_8h.html" title=" " alt="" coords="407,239,495,264"/>
+<area shape="rect" id="node37" href="$_weak_entity_info_8h.html" title=" " alt="" coords="1137,399,1259,424"/>
+<area shape="rect" id="node38" href="$functions_8h.html" title=" " alt="" coords="1145,239,1281,264"/>
+<area shape="rect" id="node5" href="$_transaction_8h.html" title=" " alt="" coords="202,399,304,424"/>
+<area shape="rect" id="node11" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="950,632,1065,657"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1356,852,1414,877"/>
+<area shape="rect" id="node25" href="$_verifiable_entity_8h.html" title=" " alt="" coords="312,472,431,497"/>
+<area shape="rect" id="node26" href="$_transaction_container_8h.html" title=" " alt="" coords="455,472,613,497"/>
+<area shape="rect" id="node28" title=" " alt="" coords="657,552,726,577"/>
+<area shape="rect" id="node6" href="$_embedded_transaction_8h.html" title=" " alt="" coords="71,472,237,497"/>
+<area shape="rect" id="node7" href="$_entity_body_8h.html" title=" " alt="" coords="324,552,419,577"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1238,1085,1297,1111"/>
+<area shape="rect" id="node23" href="$_size_prefixed_entity_8h.html" title=" " alt="" coords="160,552,300,577"/>
+<area shape="rect" id="node8" href="$_entity_type_8h.html" title=" " alt="" coords="1084,705,1179,731"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1115,779,1180,804"/>
+<area shape="rect" id="node12" href="$_byte_array_8h.html" title=" " alt="" coords="393,705,510,731"/>
+<area shape="rect" id="node15" href="$_clamped_base_value_8h.html" title=" " alt="" coords="1047,925,1230,964"/>
+<area shape="rect" id="node17" title=" " alt="" coords="522,852,573,877"/>
+<area shape="rect" id="node19" href="$_raw_buffer_8h.html" title=" " alt="" coords="915,705,1009,731"/>
+<area shape="rect" id="node13" href="$_hex_formatter_8h.html" title=" " alt="" coords="585,779,726,804"/>
+<area shape="rect" id="node14" href="$_traits_8h.html" title=" " alt="" coords="765,852,863,877"/>
+<area shape="rect" id="node16" href="$_base_value_8h.html" title=" " alt="" coords="1091,1012,1214,1037"/>
+<area shape="rect" id="node20" title=" " alt="" coords="851,779,921,804"/>
+<area shape="rect" id="node21" title=" " alt="" coords="944,779,998,804"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1022,779,1091,804"/>
+<area shape="rect" id="node24" href="$_non_copyable_8h.html" title=" " alt="" coords="141,632,255,657"/>
+<area shape="rect" id="node27" href="$_contiguous_entity_container_8h.html" title=" " alt="" coords="443,552,633,577"/>
+<area shape="rect" id="node30" href="$_resolution_statement_8h.html" title=" " alt="" coords="903,472,1059,497"/>
+<area shape="rect" id="node31" href="$_transaction_statement_8h.html" title=" " alt="" coords="734,319,897,344"/>
+<area shape="rect" id="node32" title=" " alt="" coords="921,319,968,344"/>
+<area shape="rect" id="node34" href="$_hashers_8h.html" title=" " alt="" coords="327,399,487,424"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1286,472,1364,497"/>
+<area shape="rect" id="node46" href="$_resolver_context_8h.html" title=" " alt="" coords="1334,399,1465,424"/>
+<area shape="rect" id="node47" href="$_transaction_registry_8h.html" title=" " alt="" coords="1489,399,1638,424"/>
+<area shape="rect" id="node49" href="$_time_span_8h.html" title=" " alt="" coords="1715,552,1886,577"/>
+<area shape="rect" id="node48" href="$_plugin_registry_8h.html" title=" " alt="" coords="1438,472,1555,497"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1702,632,1764,657"/>
+</map>

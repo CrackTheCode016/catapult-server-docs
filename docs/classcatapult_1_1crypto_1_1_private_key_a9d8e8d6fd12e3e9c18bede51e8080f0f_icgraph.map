@@ -1,0 +1,4 @@
+<map id="catapult::crypto::PrivateKey::Generate" name="catapult::crypto::PrivateKey::Generate">
+<area shape="rect" id="node1" title="Generates a new private key using the specified byte generator." alt="" coords="220,5,381,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tools.html#af5e089ba0926b2b73fc84b11b3febe96" title="Returns random key pair." alt="" coords="5,5,172,44"/>
+</map>

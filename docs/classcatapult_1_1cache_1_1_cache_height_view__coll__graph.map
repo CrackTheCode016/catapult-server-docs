@@ -1,0 +1,10 @@
+<map id="catapult::cache::CacheHeightView" name="catapult::cache::CacheHeightView">
+<area shape="rect" id="node1" title="A read only view on top of a cache height." alt="" coords="1182,63,1406,89"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,22,172,47"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,43,390,82"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="843,57,1013,95"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="536,43,706,109"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1_height__tag.html" title=" " alt="" coords="236,106,376,131"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1utils_1_1_basic_spin_reader_writer_lock_1_1_reader_lock_guard.html" title="A reader lock guard." alt="" coords="799,126,1057,178"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock_1_1_lock_guard.html" title="Base class for RAII lock guards." alt="" coords="492,133,750,185"/>
+</map>

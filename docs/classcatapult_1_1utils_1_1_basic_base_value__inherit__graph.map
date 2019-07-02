@@ -1,0 +1,6 @@
+<map id="catapult::utils::BasicBaseValue&lt; TValue, TTag, TBaseValue &gt;" name="catapult::utils::BasicBaseValue&lt; TValue, TTag, TBaseValue &gt;">
+<area shape="rect" id="node1" title="Base class for immutable wrappers of basic types, to provide some type&#45;safety." alt="" coords="104,47,338,85"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1utils_1_1_clamped_base_value.html" title="Base values that are constrained to a range of values." alt="" coords="386,5,624,57"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1utils_1_1_clamped_base_value.html" title=" " alt="" coords="412,81,598,120"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,53,56,79"/>
+</map>

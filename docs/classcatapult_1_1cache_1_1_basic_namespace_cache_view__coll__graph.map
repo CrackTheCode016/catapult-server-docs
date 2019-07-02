@@ -1,0 +1,11 @@
+<map id="catapult::cache::BasicNamespaceCacheView" name="catapult::cache::BasicNamespaceCacheView">
+<area shape="rect" id="node1" title="Basic view on top of the namespace cache." alt="" coords="542,180,764,219"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="311,5,478,31"/>
+<area shape="rect" id="node3" title=" " alt="" coords="296,55,493,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_contains_mixin.html" title="A mixin for adding contains support to a cache." alt="" coords="296,117,493,156"/>
+<area shape="rect" id="node5" title=" " alt="" coords="296,180,493,219"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_patricia_tree_mixin.html" title="A mixin for adding patricia tree support to a cache." alt="" coords="296,243,493,281"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html" title="A mixin for calculating the deep size of namespaces." alt="" coords="296,305,493,344"/>
+<area shape="rect" id="node8" href="$structcatapult_1_1cache_1_1_namespace_sizes.html" title="Extended namespace sizes." alt="" coords="5,305,195,344"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1_namespace_lookup_mixin.html" title=" " alt="" coords="296,368,493,407"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="catapult::cache::BasicBlockDifficultyCacheDelta::checkInsert" name="catapult::cache::BasicBlockDifficultyCacheDelta::checkInsert">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,222,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_block_difficulty_cache_delta.html#a0e32e88152ea370804fc2d4662f367bc" title=" " alt="" coords="270,37,483,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_size_mixin.html#afc1d503716779cb07a5ba691459e6d17" title="Gets the number of elements in the cache." alt="" coords="531,5,706,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="534,68,703,107"/>
+</map>

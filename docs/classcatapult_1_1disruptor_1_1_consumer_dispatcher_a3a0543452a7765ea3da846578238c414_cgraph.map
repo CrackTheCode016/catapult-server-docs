@@ -1,0 +1,4 @@
+<map id="catapult::disruptor::ConsumerDispatcher::numAddedElements" name="catapult::disruptor::ConsumerDispatcher::numAddedElements">
+<area shape="rect" id="node1" title="Returns the total number of elements added to the disruptor." alt="" coords="5,5,159,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1_disruptor.html#aae15c92f502775b0024a4e12fe4a6188" title="Gets the number of total elements added to the disruptor." alt="" coords="207,12,335,51"/>
+</map>

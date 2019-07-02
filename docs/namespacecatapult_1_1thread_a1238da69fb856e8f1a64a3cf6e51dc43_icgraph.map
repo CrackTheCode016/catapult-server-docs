@@ -1,0 +1,8 @@
+<map id="catapult::thread::CreateNamedTask" name="catapult::thread::CreateNamedTask">
+<area shape="rect" id="node1" title="Creates an unscheduled task with name and callback." alt="" coords="456,100,616,139"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#ae724b0a19f16874911190db347f8f49a" title=" " alt="" coords="230,5,385,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1extensions.html#a43373300d407f59cb43fccfa2b1b7e54" title="Creates a task with name that dispatches all transactions batched in dispatcher." alt="" coords="208,68,408,107"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1extensions.html#a554a0b3be3aefd8a76bcf8d99e04ae70" title=" " alt="" coords="217,131,398,169"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1timesync.html#aa4945d3c267ffac0c896cb86ed6cc2d7" title=" " alt="" coords="230,193,385,232"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a5f872f3c789603e8add4c58b2ca4c1ca" title="Creates a task for the specified service that ages nodes given settings and connectionContainer." alt="" coords="5,5,160,44"/>
+</map>

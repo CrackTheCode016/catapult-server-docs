@@ -1,0 +1,8 @@
+<map id="catapult::mongo::DatabaseConfiguration::LoadFromBag" name="catapult::mongo::DatabaseConfiguration::LoadFromBag">
+<area shape="rect" id="node1" title="Loads a database configuration from bag." alt="" coords="5,37,198,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#aee486184c34bb3b992a87845d30d7d5a" title=" " alt="" coords="246,5,410,44"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1utils.html#ac7459f500db81f130e507ce1366e8a65" title="Verifies that the number of properties in bag is no greater than expectedSize." alt="" coords="246,68,410,107"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#aeea26c269e4e4210bd8c5c01812118d9" title=" " alt="" coords="467,5,635,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_configuration_bag.html#a56cc68ffa582740fcc5f47050475e9e3" title="Gets all section properties from this bag preserving source order." alt="" coords="692,5,878,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_configuration_bag.html#a0f43155a38e4cad0ca8383306c38c562" title="Returns the number of properties in this bag." alt="" coords="458,68,644,107"/>
+</map>

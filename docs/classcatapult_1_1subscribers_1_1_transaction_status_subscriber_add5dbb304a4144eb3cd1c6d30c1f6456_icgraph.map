@@ -1,0 +1,5 @@
+<map id="catapult::subscribers::TransactionStatusSubscriber::notifyStatus" name="catapult::subscribers::TransactionStatusSubscriber::notifyStatus">
+<area shape="rect" id="node1" title="Indicates transaction with hash completed with status." alt="" coords="248,31,448,83"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1subscribers.html#a8e80809fcdc1f08339fd08f5f2ff438c" title="Reads next transaction status from inputStream and forwards it to subscriber." alt="" coords="5,5,200,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#ad210a88d4d205313151b1c7b43390335" title="Converts subscriber to a sink." alt="" coords="33,68,172,107"/>
+</map>

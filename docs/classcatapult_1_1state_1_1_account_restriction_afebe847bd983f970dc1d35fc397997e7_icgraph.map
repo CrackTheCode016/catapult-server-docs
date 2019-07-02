@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountRestriction::descriptor" name="catapult::state::AccountRestriction::descriptor">
+<area shape="rect" id="node1" title="Gets the restriction descriptor." alt="" coords="250,5,410,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_typed_account_restriction.html#a15683cb6a714f6110441372a34f5e326" title="Gets the descriptor of the underlying account restriction." alt="" coords="5,5,202,44"/>
+</map>

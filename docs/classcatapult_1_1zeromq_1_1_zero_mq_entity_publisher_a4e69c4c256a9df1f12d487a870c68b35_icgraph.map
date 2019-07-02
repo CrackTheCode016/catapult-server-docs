@@ -1,0 +1,7 @@
+<map id="catapult::zeromq::ZeroMqEntityPublisher::publish" name="catapult::zeromq::ZeroMqEntityPublisher::publish">
+<area shape="rect" id="node1" title=" " alt="" coords="314,100,487,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1zeromq_1_1_zero_mq_entity_publisher.html#aae4d308e4464bcfad8e61b3b2a791107" title="Publishes a cosignature composed of transaction info (parentTransactionInfo), signer and signature." alt="" coords="20,5,251,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1zeromq_1_1_zero_mq_entity_publisher.html#a36f7e1fd30e160aef42930959b11e951" title=" " alt="" coords="21,68,250,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1zeromq_1_1_zero_mq_entity_publisher.html#aaab904e12d8347b600d45c1f01ca830e" title="Publishes a transaction hash using topicMarker and transactionInfo." alt="" coords="5,131,266,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1zeromq_1_1_zero_mq_entity_publisher.html#a90cb87c565aa50207f3be2f2e88db97f" title="Publishes a transaction status composed of transaction, hash and status." alt="" coords="21,193,250,245"/>
+</map>

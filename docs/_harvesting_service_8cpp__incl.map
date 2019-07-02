@@ -1,0 +1,52 @@
+<map id="catapult&#45;server/extensions/harvesting/src/HarvestingService.cpp" name="catapult&#45;server/extensions/harvesting/src/HarvestingService.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1501,5,1746,44"/>
+<area shape="rect" id="node2" href="$_harvesting_service_8h.html" title=" " alt="" coords="208,99,349,124"/>
+<area shape="rect" id="node6" href="$_harvester_block_generator_8h.html" title=" " alt="" coords="248,272,431,297"/>
+<area shape="rect" id="node11" href="$_harvesting_ut_facade_factory_8h.html" title=" " alt="" coords="1747,185,1945,211"/>
+<area shape="rect" id="node16" href="$_scheduled_harvester_task_8h.html" title=" " alt="" coords="776,99,957,124"/>
+<area shape="rect" id="node18" href="$_unlocked_accounts_8h.html" title=" " alt="" coords="143,359,286,384"/>
+<area shape="rect" id="node28" href="$_importance_view_8h.html" title=" " alt="" coords="2659,92,2799,131"/>
+<area shape="rect" id="node29" href="$_memory_ut_cache_8h.html" title=" " alt="" coords="1742,265,1919,304"/>
+<area shape="rect" id="node37" href="$_key_utils_8h.html" title=" " alt="" coords="2528,445,2700,471"/>
+<area shape="rect" id="node38" href="$extensions_2_configuration_utils_8h.html" title=" " alt="" coords="1635,92,1777,131"/>
+<area shape="rect" id="node39" href="$_execution_configuration_factory_8h.html" title=" " alt="" coords="2415,92,2632,131"/>
+<area shape="rect" id="node40" href="$_service_locator_8h.html" title=" " alt="" coords="1582,265,1718,304"/>
+<area shape="rect" id="node42" href="$_service_state_8h.html" title=" " alt="" coords="2226,92,2362,131"/>
+<area shape="rect" id="node48" href="$_block_storage_cache_8h.html" title=" " alt="" coords="1368,92,1533,131"/>
+<area shape="rect" id="node50" href="$_plugin_manager_8h.html" title=" " alt="" coords="1969,185,2187,211"/>
+<area shape="rect" id="node3" href="$_harvesting_configuration_8h.html" title=" " alt="" coords="65,185,241,211"/>
+<area shape="rect" id="node4" href="$_service_registrar_8h.html" title=" " alt="" coords="38,265,174,304"/>
+<area shape="rect" id="node5" title=" " alt="" coords="883,532,953,557"/>
+<area shape="rect" id="node7" href="$_block_8h.html" title=" " alt="" coords="747,445,903,471"/>
+<area shape="rect" id="node10" href="$_transaction_selection_strategy_8h.html" title=" " alt="" coords="309,352,490,391"/>
+<area shape="rect" id="node8" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="2253,532,2368,557"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2073,612,2131,637"/>
+<area shape="rect" id="node12" href="$_catapult_cache_8h.html" title=" " alt="" coords="961,272,1171,297"/>
+<area shape="rect" id="node13" href="$_execution_configuration_8h.html" title=" " alt="" coords="2534,265,2700,304"/>
+<area shape="rect" id="node14" href="$_block_chain_configuration_8h.html" title=" " alt="" coords="1993,265,2172,304"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1950,359,2065,384"/>
+<area shape="rect" id="node17" href="$_harvester_8h.html" title=" " alt="" coords="496,185,586,211"/>
+<area shape="rect" id="node22" href="$_elements_8h.html" title=" " alt="" coords="556,272,734,297"/>
+<area shape="rect" id="node23" href="$_entity_info_8h.html" title=" " alt="" coords="601,359,689,384"/>
+<area shape="rect" id="node24" href="$functions_8h.html" title=" " alt="" coords="1211,445,1348,471"/>
+<area shape="rect" id="node25" href="$_chain_functions_8h.html" title=" " alt="" coords="1246,272,1457,297"/>
+<area shape="rect" id="node26" href="$_disruptor_types_8h.html" title=" " alt="" coords="610,179,736,217"/>
+<area shape="rect" id="node27" href="$_range_types_8h.html" title=" " alt="" coords="910,359,1108,384"/>
+<area shape="rect" id="node19" href="$_account_state_cache_8h.html" title=" " alt="" coords="143,439,297,477"/>
+<area shape="rect" id="node20" href="$_key_pair_8h.html" title=" " alt="" coords="320,445,489,471"/>
+<area shape="rect" id="node21" href="$_hashers_8h.html" title=" " alt="" coords="513,445,673,471"/>
+<area shape="rect" id="node30" href="$_memory_cache_options_8h.html" title=" " alt="" coords="1752,445,1917,471"/>
+<area shape="rect" id="node31" href="$_memory_cache_proxy_8h.html" title=" " alt="" coords="1673,359,1825,384"/>
+<area shape="rect" id="node32" href="$_ut_cache_8h.html" title=" " alt="" coords="2060,532,2144,557"/>
+<area shape="rect" id="node33" href="$_spin_reader_writer_lock_8h.html" title=" " alt="" coords="2203,352,2372,391"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2140,359,2179,384"/>
+<area shape="rect" id="node34" href="$exceptions_8h.html" title=" " alt="" coords="2206,445,2353,471"/>
+<area shape="rect" id="node35" href="$_hex_formatter_8h.html" title=" " alt="" coords="2392,532,2533,557"/>
+<area shape="rect" id="node41" href="$_diagnostic_counter_8h.html" title=" " alt="" coords="1284,352,1446,391"/>
+<area shape="rect" id="node43" href="$_server_hooks_8h.html" title=" " alt="" coords="1513,185,1622,211"/>
+<area shape="rect" id="node44" href="$_catapult_configuration_8h.html" title=" " alt="" coords="2211,179,2372,217"/>
+<area shape="rect" id="node45" href="$_packet_handlers_8h.html" title=" " alt="" coords="2448,359,2658,384"/>
+<area shape="rect" id="node46" href="$_packet_io_picker_container_8h.html" title=" " alt="" coords="2775,525,2958,564"/>
+<area shape="rect" id="node47" href="$_task_8h.html" title=" " alt="" coords="2396,185,2547,211"/>
+<area shape="rect" id="node49" href="$_block_storage_8h.html" title=" " alt="" coords="810,185,922,211"/>
+</map>

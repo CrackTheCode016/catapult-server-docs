@@ -1,0 +1,4 @@
+<map id="catapult::ionet::PacketPayloadBuilder::appendEntities" name="catapult::ionet::PacketPayloadBuilder::appendEntities">
+<area shape="rect" id="node1" title="Appends all entities to the payload." alt="" coords="254,5,455,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_payload_factory.html#af2fa99caec5c6bcf2411c10d11a56ba8" title="Creates a packet payload with the specified packet type around multiple entities." alt="" coords="5,5,206,44"/>
+</map>

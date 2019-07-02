@@ -1,0 +1,6 @@
+<map id="catapult::state::MultisigEntry::key" name="catapult::state::MultisigEntry::key">
+<area shape="rect" id="node1" title="Gets the account public key." alt="" coords="290,68,447,107"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_multisig_cache_descriptor.html#a7274d3da74944c8ba678a5fb9b972949" title="Gets the key corresponding to entry." alt="" coords="5,5,242,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_multisig_entry_serializer.html#a296cadb684b960ade4a6fd3902cff675" title="Saves entry to output." alt="" coords="45,68,202,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1plugins.html#af4275de52fea6d639176b6d0249783e3" title="Maps a multisig entry and accountAddress to the corresponding db model value." alt="" coords="41,131,207,169"/>
+</map>

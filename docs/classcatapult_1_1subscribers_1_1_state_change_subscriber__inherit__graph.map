@@ -1,0 +1,5 @@
+<map id="catapult::subscribers::StateChangeSubscriber" name="catapult::subscribers::StateChangeSubscriber">
+<area shape="rect" id="node1" title="State change subscriber." alt="" coords="5,40,176,79"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_api_state_change_subscriber.html" title="Api state change subscriber." alt="" coords="253,5,427,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1subscribers_1_1_aggregate_state_change_subscriber.html" title="Aggregate state change subscriber." alt="" coords="224,68,455,120"/>
+</map>

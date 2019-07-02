@@ -1,0 +1,5 @@
+<map id="catapult::model::BalanceTransferNotification" name="catapult::model::BalanceTransferNotification">
+<area shape="rect" id="node1" title="Notifies a balance transfer from sender to recipient." alt="" coords="58,165,226,204"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_basic_balance_notification.html" title=" " alt="" coords="5,79,279,117"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1_notification.html" title="A basic notification." alt="" coords="50,5,235,31"/>
+</map>

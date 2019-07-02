@@ -1,0 +1,4 @@
+<map id="catapult::state::MultisigCosignatoriesMixin::setMinApproval" name="catapult::state::MultisigCosignatoriesMixin::setMinApproval">
+<area shape="rect" id="node1" title="Sets the number of cosignatories required (minApproval) when approving (any) transaction." alt="" coords="5,5,239,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html#af3acdd84c36366f6fe485965d617fba6" title="Gets the number of cosignatories required when approving (any) transaction." alt="" coords="287,5,502,44"/>
+</map>

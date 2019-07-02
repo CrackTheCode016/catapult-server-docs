@@ -1,0 +1,4 @@
+<map id="catapult::api::CreateRemoteNodeApi" name="catapult::api::CreateRemoteNodeApi">
+<area shape="rect" id="node1" title="Creates a node api for interacting with a remote node with the specified io." alt="" coords="226,12,413,51"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1nodediscovery_1_1_node_ping_request_policy.html#aa07094b053b2af8b4794437aadf3f6e5" title=" " alt="" coords="5,5,178,57"/>
+</map>

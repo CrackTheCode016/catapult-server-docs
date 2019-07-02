@@ -1,0 +1,6 @@
+<map id="catapult::state::HashLockInfoSerializer" name="catapult::state::HashLockInfoSerializer">
+<area shape="rect" id="node1" title="Policy for saving and loading hash lock info data." alt="" coords="311,12,483,51"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_lock_info_cache_storage.html" title=" " alt="" coords="531,5,804,57"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_lock_info_serializer.html" title=" " alt="" coords="5,5,263,57"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1_hash_lock_info_cache_storage.html" title="Policy for saving and loading hash lock info cache data." alt="" coords="852,12,1030,51"/>
+</map>

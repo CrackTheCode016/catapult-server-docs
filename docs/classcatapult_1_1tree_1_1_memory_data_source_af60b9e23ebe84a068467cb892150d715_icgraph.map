@@ -1,0 +1,4 @@
+<map id="catapult::tree::MemoryDataSource::clear" name="catapult::tree::MemoryDataSource::clear">
+<area shape="rect" id="node1" title="Clears all nodes." alt="" coords="283,12,465,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_read_through_memory_data_source.html#ac3caf04793a6f8fd555165c3e3d305f7" title="Clears all cached memory nodes." alt="" coords="5,5,235,57"/>
+</map>

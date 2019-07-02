@@ -1,0 +1,6 @@
+<map id="catapult::io::StringOutputStream::str" name="catapult::io::StringOutputStream::str">
+<area shape="rect" id="node1" title="Returns underlying string." alt="" coords="346,95,514,133"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_identifier_group_serializer.html#ab1a7d8348ea822f928e8b627c5fe6703" title="Serializes value to string." alt="" coords="5,5,298,71"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_key_address_pair_serializer.html#a1db363ac3ee419907e0f829d4191c5e0" title="Serializes value to string." alt="" coords="55,95,248,133"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1_namespace_flat_map_types_serializer.html#a173929ef6ca09eb5e40f1fc934237392" title="Serializes element to string." alt="" coords="57,157,246,209"/>
+</map>

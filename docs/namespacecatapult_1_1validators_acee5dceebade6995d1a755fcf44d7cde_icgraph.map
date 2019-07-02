@@ -1,0 +1,7 @@
+<map id="catapult::validators::IsValidationResultFailure" name="catapult::validators::IsValidationResultFailure">
+<area shape="rect" id="node1" title="Returns a value indicating whether the validation result is a failure." alt="" coords="303,113,479,152"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1_ut_updater_1_1_impl.html#a165effc0ff1a7535a6ba0d70c3c19d52" title=" " alt="" coords="43,5,218,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1consumers.html#a2e05df45c1f8c787bfa5261b9bb82101" title=" " alt="" coords="34,68,227,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1validators_1_1_validating_notification_subscriber.html#a699481dce8a8546ea8d957c78b7f38da" title="Notifies the subscriber of notification." alt="" coords="22,144,238,196"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1validators_1_1_aggregate_validator_builder_1_1_default_aggregate_notification_validator.html#aa0905c9c818ac5ba6c5bd88dc717d70c" title="Validates a single notification with contextual information args." alt="" coords="5,220,255,285"/>
+</map>

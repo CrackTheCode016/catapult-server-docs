@@ -1,0 +1,8 @@
+<map id="catapult::observers::CreateRentalFeeObserver" name="catapult::observers::CreateRentalFeeObserver">
+<area shape="rect" id="node1" title="Creates a rental fee observer with name that adds receipts with receiptType." alt="" coords="5,81,190,120"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1observers_1_1_observer_statement_builder.html#a77a803a413b2dd51acb95bea65f228c0" title="Adds receipt to this builder." alt="" coords="244,5,430,57"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1_resolver_context.html#a78f35bf5b5bab9edbe8250f6f51b13eb" title="Resolves mosaic id (mosaicId)." alt="" coords="251,81,423,120"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1observers_1_1_observer_context.html#a3d450b334b1dc597c4e98204aaf16408" title="Statement builder." alt="" coords="238,144,436,196"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_block_statement_builder.html#a7dff4c3542a7a8df1edefc0eb5992f8f" title="Adds receipt to this builder." alt="" coords="484,12,697,51"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_transaction_statement.html#a4438c2434b00ce99a519395440e7b9d3" title="Adds receipt to this transaction statement." alt="" coords="745,12,933,51"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="catapult::extensions::ImportanceDescriptor" name="catapult::extensions::ImportanceDescriptor">
+<area shape="rect" id="node1" title="Describes an importance value." alt="" coords="1102,27,1258,65"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="729,27,921,65"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,13,680,79"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1_importance__tag.html" title=" " alt="" coords="222,5,390,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,55,390,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="catapult::tree::TreeNodePath::size" name="catapult::tree::TreeNodePath::size">
+<area shape="rect" id="node1" title="Gets the number of nibbles in this path." alt="" coords="561,341,726,380"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tree.html#a1c9bcd5f4da9c7f53dc436567bd30837" title="Compares two paths (lhs and rhs) and returns the index of the first non&#45;equal nibble." alt="" coords="349,187,507,225"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a716e1a11c4bf41eac444126b6543914d" title=" " alt="" coords="20,247,279,312"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1_tree_node_path.html#a52661a36afa0c9327c1791336408cffd" title="Returns true if this path is equal to rhs." alt="" coords="68,5,232,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a3a504798d0164aa1db3d706278102120" title=" " alt="" coords="20,425,279,491"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1tree_1_1_tree_node_path.html#ab607054c0970edd623e2575188b20543" title="Joins lhs and rhs into a new path." alt="" coords="346,512,510,551"/>
+<area shape="rect" id="node10" href="$namespacecatapult_1_1tree.html#af27df3e25be64ac8515e768bcf66efd6" title="Insertion operator for outputting path to out." alt="" coords="342,456,513,481"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1tree_1_1_tree_node_path.html#a535d2c0736f29aed8995b272d66d2392" title="Creates a subpath starting at nibble offset." alt="" coords="346,341,510,380"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a7525f8ebec2a6d07a45a6b76d1e6b851" title=" " alt="" coords="20,157,279,223"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a55271f4c960fe08dbcfd80d408e4257d" title=" " alt="" coords="20,68,279,133"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1tree_1_1_patricia_tree.html#adc312f5c7ce5d83682d8bbea6126c70e" title=" " alt="" coords="20,515,279,580"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1tree_1_1_patricia_tree.html#abb948a95110959bbccf546bacbc615bd" title=" " alt="" coords="5,336,294,401"/>
+</map>

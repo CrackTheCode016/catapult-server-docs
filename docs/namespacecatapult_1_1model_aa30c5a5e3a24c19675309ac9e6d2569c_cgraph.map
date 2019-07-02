@@ -1,0 +1,4 @@
+<map id="catapult::model::ToBasicEntityType" name="catapult::model::ToBasicEntityType">
+<area shape="rect" id="node1" title="Converts an entity type into a basic entity type." alt="" coords="5,5,171,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="219,5,342,44"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="catapult::sync::RollbackStats::prune" name="catapult::sync::RollbackStats::prune">
+<area shape="rect" id="node1" title="Prunes statistics below time threshold." alt="" coords="424,37,586,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1sync_1_1_rollback_info.html#aa849ca0a576a0a455b17e9be978b8f8b" title=" " alt="" coords="215,37,376,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1sync_1_1_rollback_info.html#abe7188c745ab42d416b22a44b683491f" title="Adds counter to ignored statistics and resets the counter." alt="" coords="5,5,167,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1sync_1_1_rollback_info.html#ae28c69946304acbb7f7b311d8b1225b7" title="Adds counter to committed statistics and resets the counter." alt="" coords="5,68,167,107"/>
+</map>

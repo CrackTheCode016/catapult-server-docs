@@ -1,0 +1,4 @@
+<map id="catapult::mongo::mappers::StreamVerifiableEntity" name="catapult::mongo::mappers::StreamVerifiableEntity">
+<area shape="rect" id="node1" title="Streams a verifiable entity to builder." alt="" coords="229,5,404,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1mongo_1_1mappers.html#a58177103e3bfffada88e7318d1d57752" title="Maps a blockElement to the corresponding db model entity." alt="" coords="5,5,181,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="catapult::consumers::CreateTransactionStatelessValidationConsumer" name="catapult::consumers::CreateTransactionStatelessValidationConsumer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,198,145"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1validators.html#a0c5084676f9c51f91e95b32eed5d3128" title="Aggregates result into aggregate." alt="" coords="246,5,432,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1consumers.html#a2de83c6d22b35aff27d6277a395ef251" title=" " alt="" coords="269,68,409,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1validators.html#acee5dceebade6995d1a755fcf44d7cde" title="Returns a value indicating whether the validation result is a failure." alt="" coords="251,131,427,169"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1validators.html#a1bd864fb9206e75c7ec827b3ef42d3cc" title="Returns a value indicating whether the validation result is a success." alt="" coords="246,193,431,232"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1validators.html#a5cfd898ef74a17421d8470007a70e49a" title="Extracts the encoded result severity from result." alt="" coords="480,163,612,201"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="660,163,783,201"/>
+</map>

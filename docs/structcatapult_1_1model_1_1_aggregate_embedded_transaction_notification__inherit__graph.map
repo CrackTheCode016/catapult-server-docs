@@ -1,0 +1,5 @@
+<map id="catapult::model::AggregateEmbeddedTransactionNotification" name="catapult::model::AggregateEmbeddedTransactionNotification">
+<area shape="rect" id="node1" title="Notification of an embedded aggregate transaction with cosignatures." alt="" coords="580,12,801,51"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_basic_aggregate_notification.html" title=" " alt="" coords="238,5,532,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1_notification.html" title="A basic notification." alt="" coords="5,19,190,44"/>
+</map>

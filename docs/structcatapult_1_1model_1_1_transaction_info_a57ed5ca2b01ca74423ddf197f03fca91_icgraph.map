@@ -1,0 +1,9 @@
+<map id="catapult::model::TransactionInfo::TransactionInfo" name="catapult::model::TransactionInfo::TransactionInfo">
+<area shape="rect" id="node1" title="Creates a transaction info." alt="" coords="761,75,949,113"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_transaction_info.html#a584d2073227eb80f653c9ca2439b520c" title="Creates a (shallow) copy of this info." alt="" coords="525,75,713,113"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_transaction_change_tracker.html#a6fd69c6a6e11a648036638100b53cade" title="Marks transaction info (transactionInfo) as added." alt="" coords="288,5,477,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1harvesting_1_1_harvesting_ut_facade.html#a9d8c9ff199ddc1b1083a745e8b178f92" title="Attempts to apply transactionInfo to the cache." alt="" coords="307,68,458,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1_transaction_change_tracker.html#ac38a86dc3cdbd102d1626a4e1502539e" title="Marks transaction info (transactionInfo) as removed." alt="" coords="288,144,477,183"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_aggregate_transactions_cache_modifier.html#a185c504b1a1e3c1c1e1c45991d5194e1" title=" " alt="" coords="16,5,229,44"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_basic_aggregate_transactions_cache_modifier.html#a77964c7be8f27a2674006c2560e62624" title="Removes transactionInfo from the cache." alt="" coords="5,144,240,183"/>
+</map>

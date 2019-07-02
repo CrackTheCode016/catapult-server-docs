@@ -1,0 +1,9 @@
+<map id="catapult::sync::RollbackInfo::reset" name="catapult::sync::RollbackInfo::reset">
+<area shape="rect" id="node1" title="Adds counter to ignored statistics and resets the counter." alt="" coords="5,37,167,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1sync_1_1_rollback_stats.html#a14fc384cb0c57d2f53ed652a0a6ae1dc" title="Adds info about rollbackSize at timestamp to current statistics." alt="" coords="215,5,376,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1sync_1_1_rollback_info.html#aa849ca0a576a0a455b17e9be978b8f8b" title=" " alt="" coords="215,68,376,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1sync_1_1_rollback_stats.html#af62b6ae061c7366e3c68f74fc42799b2" title="Prunes statistics below time threshold." alt="" coords="424,36,586,75"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1utils.html#a46e60abd2092c06dc53c62d138f74aba" title="Subtracts timeSpan from timestamp and returns the maximum of the difference and zero." alt="" coords="427,99,583,137"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_time_span.html#a108f936a27b57fcfce207a0db30dd12d" title="Returns the number of milliseconds." alt="" coords="635,67,802,105"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="634,129,803,168"/>
+</map>

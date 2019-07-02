@@ -1,0 +1,9 @@
+<map id="catapult::cache::PatriciaTreeColumnDescriptor::ToStorage" name="catapult::cache::PatriciaTreeColumnDescriptor::ToStorage">
+<area shape="rect" id="node1" title="Converts a value type (treeNode) to a storage type." alt="" coords="5,37,228,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_tree_node.html#aa27574e2a3af79a0009fff64f715bf2b" title="Creates a copy of this node." alt="" coords="596,68,760,107"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1cache_1_1_patricia_tree_column_descriptor.html#a2f66f6cdde4e2ba1e436b5d4fd81d8c5" title="Gets the key corresponding to treeNode." alt="" coords="276,7,548,45"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_tree_node.html#a1cc8411f5a12c6abfdcf67bff2fc10a6" title="Returns true if this node represents a branch node." alt="" coords="808,68,973,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1_tree_node.html#ac79c06c7e9e84b71f43595d5dc713174" title="Returns true if this node represents a leaf node." alt="" coords="808,5,973,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1_tree_node.html#ad6a7b79003cfd7168365630d9d147632" title="Creates an empty tree node." alt="" coords="808,131,973,169"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1tree_1_1_tree_node.html#a930a5c55f68c551352d1e83136eca884" title="Gets the hash representation of this node." alt="" coords="596,5,760,44"/>
+</map>

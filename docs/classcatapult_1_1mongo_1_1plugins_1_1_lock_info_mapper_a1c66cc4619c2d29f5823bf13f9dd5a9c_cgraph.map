@@ -1,0 +1,6 @@
+<map id="catapult::mongo::plugins::LockInfoMapper::StreamLockInfo" name="catapult::mongo::plugins::LockInfoMapper::StreamLockInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,230,107"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="305,5,428,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1mongo_1_1mappers.html#abe995238cacf9b478fd4c7eb08357792" title="Converts raw array (pData) of size elements into bson binary type." alt="" coords="278,68,454,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1mappers.html#aa06da8a74993f2239f74f4e43014edd6" title="Converts base value to int64_t." alt="" coords="278,131,454,169"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="catapult::model::MosaicSupplyChangeNotification" name="catapult::model::MosaicSupplyChangeNotification">
+<area shape="rect" id="node1" title="Notification of a mosaic supply change." alt="" coords="1139,91,1341,129"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_notification.html" title="A basic notification." alt="" coords="819,5,1004,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="829,55,994,93"/>
+<area shape="rect" id="node4" title=" " alt="" coords="598,55,649,80"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="826,117,996,156"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="539,104,708,169"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1_amount__tag.html" title=" " alt="" coords="240,108,387,133"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="229,159,398,197"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="508,193,739,259"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,165,172,191"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="788,187,1034,225"/>
+<area shape="rect" id="node12" href="$structcatapult_1_1_unresolved_mosaic_id__tag.html" title=" " alt="" coords="221,223,406,261"/>
+</map>

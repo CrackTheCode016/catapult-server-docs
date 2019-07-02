@@ -1,0 +1,6 @@
+<map id="catapult::state::MultisigCosignatoriesMixin::minApproval" name="catapult::state::MultisigCosignatoriesMixin::minApproval">
+<area shape="rect" id="node1" title="Gets the number of cosignatories required when approving (any) transaction." alt="" coords="287,68,502,107"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_multisig_entry_serializer.html#a296cadb684b960ade4a6fd3902cff675" title="Saves entry to output." alt="" coords="43,5,200,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html#afaefe78d4d8c264e29f8eff8e58b1de1" title="Sets the number of cosignatories required (minApproval) when approving (any) transaction." alt="" coords="5,68,239,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1plugins.html#af4275de52fea6d639176b6d0249783e3" title="Maps a multisig entry and accountAddress to the corresponding db model value." alt="" coords="39,131,205,169"/>
+</map>

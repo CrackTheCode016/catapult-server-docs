@@ -1,0 +1,4 @@
+<map id="catapult::utils::FileSize::FromMegabytes" name="catapult::utils::FileSize::FromMegabytes">
+<area shape="rect" id="node1" title="Creates a file size from the given number of megabytes." alt="" coords="213,5,367,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a6862daa058be1c9b797ece9a2e9c6bf2" title="Tries to parse str into a FileSize (parsedValue)." alt="" coords="5,5,165,44"/>
+</map>

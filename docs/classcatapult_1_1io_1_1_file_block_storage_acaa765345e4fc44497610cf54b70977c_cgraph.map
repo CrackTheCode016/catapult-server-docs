@@ -1,0 +1,5 @@
+<map id="catapult::io::FileBlockStorage::purge" name="catapult::io::FileBlockStorage::purge">
+<area shape="rect" id="node1" title="Purges all blocks from storage." alt="" coords="5,27,199,65"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#a825fd6fa2257c653c10acce09447d002" title="Deletes everything in directory but does not delete the directory itself." alt="" coords="253,5,435,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_file_block_storage_1_1_hash_file.html#ac048868af05231d797829b45b861c6ce" title=" " alt="" coords="247,55,441,93"/>
+</map>

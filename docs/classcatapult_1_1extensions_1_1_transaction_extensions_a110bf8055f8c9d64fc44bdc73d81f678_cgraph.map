@@ -1,0 +1,4 @@
+<map id="catapult::extensions::TransactionExtensions::sign" name="catapult::extensions::TransactionExtensions::sign">
+<area shape="rect" id="node1" title="Signs the transaction using signer private key." alt="" coords="5,5,200,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1crypto.html#abc359df38fb7f7f4bfd6cc2cd1a544b6" title=" " alt="" coords="248,12,394,37"/>
+</map>

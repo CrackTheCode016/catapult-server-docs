@@ -1,0 +1,4 @@
+<map id="catapult::extensions::CreateStatelessValidator" name="catapult::extensions::CreateStatelessValidator">
+<area shape="rect" id="node1" title="Creates an entity stateless validator using pluginManager." alt="" coords="5,12,181,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#ada3952efc27918dc98d2c63b38706444" title="Creates a stateless validator that ignores suppressed failures according to isSuppressedFailure." alt="" coords="229,5,439,57"/>
+</map>

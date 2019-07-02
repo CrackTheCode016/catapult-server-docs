@@ -1,0 +1,4 @@
+<map id="catapult::chain::IsRemoteEvil" name="catapult::chain::IsRemoteEvil">
+<area shape="rect" id="node1" title="Gets a value indicating whether or not code indicates that the remote node is evil." alt="" coords="5,12,199,37"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="247,5,369,44"/>
+</map>

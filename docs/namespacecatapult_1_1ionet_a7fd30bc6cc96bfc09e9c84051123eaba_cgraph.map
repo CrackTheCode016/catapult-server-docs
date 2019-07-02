@@ -1,0 +1,8 @@
+<map id="catapult::ionet::CreateBroadcastPayload" name="catapult::ionet::CreateBroadcastPayload">
+<area shape="rect" id="node1" title="Creates a payload around transactionInfos for broadcasting using packetType." alt="" coords="5,59,217,97"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_payload_builder.html#a88bda1a2f062b32a4ae1ce1cf6a4d52e" title="Appends a single entity (pEntity) to the payload." alt="" coords="265,27,466,65"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1ionet_1_1_packet_payload_builder.html#a6b96015e8a151cc4a46e82feeef5b5e7" title="Builds the packet payload." alt="" coords="265,89,466,128"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_packet_payload_builder.html#a65276e4a918c1faf8e96bb8ff006845a" title=" " alt="" coords="514,27,715,65"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#ac6cdc88d1c0ed86a60963ef46f04c035" title="Adds delta to value if and only if there is no overflow." alt="" coords="763,5,945,31"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1ionet.html#ac3d4996594403f0c327116d1f5e2b5b0" title="Determines if header indicates a valid packet data size no greater than maxPacketDataSize." alt="" coords="773,55,935,93"/>
+</map>

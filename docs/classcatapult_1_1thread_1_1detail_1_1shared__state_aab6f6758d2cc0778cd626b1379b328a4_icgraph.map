@@ -1,0 +1,7 @@
+<map id="catapult::thread::detail::shared_state::is_ready" name="catapult::thread::detail::shared_state::is_ready">
+<area shape="rect" id="node1" title="Returns true if this shared state has completed and get will not block." alt="" coords="507,71,671,109"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#a9e7c867b97d926404d709b054f8d2314" title=" " alt="" coords="278,29,430,81"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#a6bfffc8e0a22fc538ec759cb418fe9c1" title="Configures continuation to run at the completion of this shared state." alt="" coords="249,105,459,144"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#abc9e7a5893d12e309fdf623b629a7f25" title="Sets the result of this shared state to pException." alt="" coords="5,5,201,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#af0a927ff156baf589744ec3121f9face" title="Sets the result of this shared state to value." alt="" coords="18,68,188,107"/>
+</map>

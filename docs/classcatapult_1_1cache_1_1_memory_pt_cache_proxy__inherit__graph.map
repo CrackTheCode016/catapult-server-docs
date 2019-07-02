@@ -1,0 +1,7 @@
+<map id="catapult::cache::MemoryPtCacheProxy" name="catapult::cache::MemoryPtCacheProxy">
+<area shape="rect" id="node1" title="A delegating proxy around a MemoryPtCache." alt="" coords="1010,12,1189,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_memory_cache_proxy.html" title=" " alt="" coords="733,5,962,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_pt_cache.html" title="An interface for caching partial transactions." alt="" coords="516,19,685,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_transactions_cache.html" title=" " alt="" coords="241,12,468,51"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,19,193,44"/>
+</map>

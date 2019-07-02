@@ -1,0 +1,6 @@
+<map id="catapult::harvesting::TransactionFeeMaximizer::apply" name="catapult::harvesting::TransactionFeeMaximizer::apply">
+<area shape="rect" id="node1" title="Applies transactionInfo to the maximizer to include in the best fee policy calculation." alt="" coords="5,31,187,83"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a832c1b78aeb20ec2066b2fff8ad4e69d" title="Calculates the fee for transaction contained in block with feeMultiplier." alt="" coords="244,5,418,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1model.html#a3fffacf076b1b8df2c66813200354eab" title="Calculates the maximum fee multiplier for transaction." alt="" coords="235,68,427,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="475,37,645,76"/>
+</map>

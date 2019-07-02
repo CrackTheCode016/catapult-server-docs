@@ -1,0 +1,52 @@
+<map id="catapult&#45;server/src/catapult/api/LocalChainApi.cpp" name="catapult&#45;server/src/catapult/api/LocalChainApi.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="632,5,840,44"/>
+<area shape="rect" id="node2" href="$_local_chain_api_8h.html" title=" " alt="" coords="563,179,682,204"/>
+<area shape="rect" id="node37" href="$_block_storage_cache_8h.html" title=" " alt="" coords="765,92,930,131"/>
+<area shape="rect" id="node3" href="$_chain_api_8h.html" title=" " alt="" coords="579,252,666,277"/>
+<area shape="rect" id="node18" href="$functions_8h.html" title=" " alt="" coords="186,492,323,517"/>
+<area shape="rect" id="node4" href="$_api_types_8h.html" title=" " alt="" coords="660,325,748,351"/>
+<area shape="rect" id="node11" href="$_non_copyable_8h.html" title=" " alt="" coords="314,572,427,597"/>
+<area shape="rect" id="node17" href="$_chain_score_8h.html" title=" " alt="" coords="13,405,205,431"/>
+<area shape="rect" id="node21" href="$_range_types_8h.html" title=" " alt="" coords="1472,325,1669,351"/>
+<area shape="rect" id="node33" href="$_future_8h.html" title=" " alt="" coords="422,325,585,351"/>
+<area shape="rect" id="node5" href="$exceptions_8h.html" title=" " alt="" coords="1000,492,1147,517"/>
+<area shape="rect" id="node6" href="$_base_value_8h.html" title=" " alt="" coords="1682,572,1806,597"/>
+<area shape="rect" id="node8" href="$_hex_formatter_8h.html" title=" " alt="" coords="2018,645,2158,671"/>
+<area shape="rect" id="node10" href="$_logging_8h.html" title=" " alt="" coords="638,572,746,597"/>
+<area shape="rect" id="node12" title=" " alt="" coords="770,572,971,597"/>
+<area shape="rect" id="node13" title=" " alt="" coords="996,572,1162,597"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1186,572,1366,597"/>
+<area shape="rect" id="node15" title=" " alt="" coords="451,572,512,597"/>
+<area shape="rect" id="node16" title=" " alt="" coords="535,572,614,597"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1630,645,1689,671"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2004,719,2062,744"/>
+<area shape="rect" id="node20" title=" " alt="" coords="24,485,163,524"/>
+<area shape="rect" id="node19" title=" " alt="" coords="211,572,290,597"/>
+<area shape="rect" id="node22" href="$_block_8h.html" title=" " alt="" coords="1683,405,1748,431"/>
+<area shape="rect" id="node30" href="$_entity_range_8h.html" title=" " alt="" coords="1293,405,1398,431"/>
+<area shape="rect" id="node31" href="$_short_hash_8h.html" title=" " alt="" coords="1772,405,1945,431"/>
+<area shape="rect" id="node23" href="$_transaction_8h.html" title=" " alt="" coords="1524,492,1625,517"/>
+<area shape="rect" id="node25" href="$_verifiable_entity_8h.html" title=" " alt="" coords="1829,572,1949,597"/>
+<area shape="rect" id="node26" href="$_transaction_container_8h.html" title=" " alt="" coords="1650,492,1809,517"/>
+<area shape="rect" id="node27" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="2132,492,2247,517"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1430,492,1500,517"/>
+<area shape="rect" id="node24" href="$_embedded_transaction_8h.html" title=" " alt="" coords="1491,572,1658,597"/>
+<area shape="rect" id="node28" href="$_byte_array_8h.html" title=" " alt="" coords="2233,572,2351,597"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2454,492,2562,517"/>
+<area shape="rect" id="node34" href="$_future_shared_state_8h.html" title=" " alt="" coords="354,405,534,431"/>
+<area shape="rect" id="node35" title=" " alt="" coords="428,492,484,517"/>
+<area shape="rect" id="node36" title=" " alt="" coords="347,492,405,517"/>
+<area shape="rect" id="node38" href="$_block_storage_8h.html" title=" " alt="" coords="1425,179,1537,204"/>
+<area shape="rect" id="node49" href="$_spin_reader_writer_lock_8h.html" title=" " alt="" coords="763,399,933,437"/>
+<area shape="rect" id="node39" href="$_elements_8h.html" title=" " alt="" coords="1855,252,2033,277"/>
+<area shape="rect" id="node47" href="$_entity_info_8h.html" title=" " alt="" coords="1693,325,1781,351"/>
+<area shape="rect" id="node40" href="$_block_statement_8h.html" title=" " alt="" coords="2246,325,2372,351"/>
+<area shape="rect" id="node44" href="$_container_types_8h.html" title=" " alt="" coords="2070,405,2196,431"/>
+<area shape="rect" id="node48" href="$_weak_entity_info_8h.html" title=" " alt="" coords="1986,492,2108,517"/>
+<area shape="rect" id="node41" href="$_resolution_statement_8h.html" title=" " alt="" coords="2478,405,2634,431"/>
+<area shape="rect" id="node42" href="$_transaction_statement_8h.html" title=" " alt="" coords="2292,405,2454,431"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2220,405,2268,431"/>
+<area shape="rect" id="node45" href="$_hashers_8h.html" title=" " alt="" coords="2271,492,2431,517"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2375,572,2436,597"/>
+<area shape="rect" id="node50" title=" " alt="" coords="765,492,824,517"/>
+</map>

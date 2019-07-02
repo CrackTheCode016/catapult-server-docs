@@ -1,0 +1,7 @@
+<map id="catapult::ionet::Node::endpoint" name="catapult::ionet::Node::endpoint">
+<area shape="rect" id="node1" title="Gets the endpoint." alt="" coords="269,89,412,128"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tools_1_1health.html#a90a092efd0fd78367d9b50ae86c1f80f" title=" " alt="" coords="5,5,221,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1ionet.html#a17567852bf57ceac6dca747d87b74db8" title="Packs a node model into a network node." alt="" coords="26,68,200,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1nodediscovery_1_1_peers_processor.html#af45c7ddf97c36ee291d2f009873ed0dc" title=" " alt="" coords="24,117,202,156"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1handlers.html#a8fe97c2f3f31ac6d7315c0fa5e20ee3c" title=" " alt="" coords="14,180,213,232"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::state::RootNamespaceHistory::historyDepth" name="catapult::state::RootNamespaceHistory::historyDepth">
+<area shape="rect" id="node1" title="Gets the root namespace history size." alt="" coords="289,37,500,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_root_namespace_history.html#ab3c7c9e104c85f3bed3ae431b3283eb1" title="Gets the number of root namespaces with the same owner starting at the active history." alt="" coords="12,5,234,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_root_namespace_history_non_historical_serializer.html#af179ed01161215e241f4131cbc2c3336" title="Saves history to output." alt="" coords="5,68,241,107"/>
+</map>

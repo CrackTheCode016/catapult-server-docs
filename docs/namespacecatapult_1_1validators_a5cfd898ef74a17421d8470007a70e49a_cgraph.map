@@ -1,0 +1,4 @@
+<map id="catapult::validators::GetSeverity" name="catapult::validators::GetSeverity">
+<area shape="rect" id="node1" title="Extracts the encoded result severity from result." alt="" coords="5,5,138,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="186,5,309,44"/>
+</map>

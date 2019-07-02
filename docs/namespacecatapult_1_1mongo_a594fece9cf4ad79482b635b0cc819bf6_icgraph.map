@@ -1,0 +1,4 @@
+<map id="catapult::mongo::CreateBalanceTransferReceiptMongoPlugin" name="catapult::mongo::CreateBalanceTransferReceiptMongoPlugin">
+<area shape="rect" id="node1" title="Creates a mongo balance transfer receipt plugin around type." alt="" coords="231,5,443,44"/>
+<area shape="rect" id="node2" href="$_mongo_mosaic_plugin_8cpp.html#af2a241600d5e0ac986f77f0126143877" title="Entry point for registering a dynamic module with manager." alt="" coords="5,12,183,37"/>
+</map>

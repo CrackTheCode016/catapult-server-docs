@@ -1,0 +1,14 @@
+<map id="catapult::cache::BasicLockInfoCacheDelta&lt; TDescriptor, TCacheTypes &gt;" name="catapult::cache::BasicLockInfoCacheDelta&lt; TDescriptor, TCacheTypes &gt;">
+<area shape="rect" id="node1" title="Basic delta on top of the lock info cache." alt="" coords="288,345,485,397"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="40,5,206,31"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,55,240,93"/>
+<area shape="rect" id="node4" title=" " alt="" coords="33,117,212,169"/>
+<area shape="rect" id="node5" title=" " alt="" coords="22,193,224,245"/>
+<area shape="rect" id="node6" title=" " alt="" coords="16,269,230,321"/>
+<area shape="rect" id="node7" title=" " alt="" coords="16,345,230,397"/>
+<area shape="rect" id="node8" title=" " alt="" coords="21,421,225,473"/>
+<area shape="rect" id="node9" title=" " alt="" coords="9,497,237,549"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1_height_based_touch_mixin.html" title="A mixin for height&#45;based touching." alt="" coords="28,573,218,625"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1_height_based_pruning_mixin.html" title="A mixin for height&#45;based pruning." alt="" coords="28,649,218,701"/>
+<area shape="rect" id="node12" title=" " alt="" coords="24,725,222,777"/>
+</map>

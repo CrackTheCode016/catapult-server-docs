@@ -1,0 +1,4 @@
+<map id="catapult::model::TransactionStatement::source" name="catapult::model::TransactionStatement::source">
+<area shape="rect" id="node1" title="Gets statement source." alt="" coords="229,5,417,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1mongo_1_1mappers.html#a26dbb7d7ca831967fe07c9ad1b1f31fb" title="Maps a statement at height to the corresponding db model value using receiptRegistry for mapping deri..." alt="" coords="5,5,181,44"/>
+</map>

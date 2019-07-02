@@ -1,0 +1,5 @@
+<map id="catapult::utils::BasicSpinReaderWriterLock::ReaderLockGuard::promoteToWriter" name="catapult::utils::BasicSpinReaderWriterLock::ReaderLockGuard::promoteToWriter">
+<area shape="rect" id="node1" title=" " alt="" coords="241,40,486,92"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_local_node_chain_score.html#a36646a52513e0db986137dcc0c1c27d5" title="Adds rhs to this chain score." alt="" coords="18,5,180,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_local_node_chain_score.html#aa1c74f285213cd0fcfc56b9724c6eb61" title="Sets the current chain score to chainScore." alt="" coords="5,81,193,120"/>
+</map>

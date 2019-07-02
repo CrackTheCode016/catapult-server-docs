@@ -1,0 +1,4 @@
+<map id="catapult::deltaset::PruneBaseSet" name="catapult::deltaset::PruneBaseSet">
+<area shape="rect" id="node1" title="Optionally prunes elements using pruningBoundary, which indicates the upper bound of elements to remo..." alt="" coords="5,5,127,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1deltaset_1_1_pruning_boundary.html#a31c2353873725bd4b2f2d8898f31439d" title="Returns the pruning boundary value." alt="" coords="175,5,347,44"/>
+</map>

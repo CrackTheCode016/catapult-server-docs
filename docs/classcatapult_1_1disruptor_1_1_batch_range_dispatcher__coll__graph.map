@@ -1,0 +1,10 @@
+<map id="catapult::disruptor::BatchRangeDispatcher&lt; TAnnotatedEntityRange &gt;" name="catapult::disruptor::BatchRangeDispatcher&lt; TAnnotatedEntityRange &gt;">
+<area shape="rect" id="node1" title="Batches entity ranges for processing by a ConsumerDispatcher." alt="" coords="939,189,1124,241"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html" title="Dispatcher for disruptor consumers." alt="" coords="653,140,807,179"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_named_object_mixin.html" title="Mixin to have named objects." alt="" coords="318,92,506,131"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1disruptor_1_1_disruptor_barriers.html" title="Container for disruptor barriers." alt="" coords="347,155,477,193"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_spin_lock.html" title=" " alt="" coords="331,219,493,244"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1disruptor_1_1_disruptor.html" title="Disruptor wraps around CircularBuffer for usage within Consumer Dispatcher." alt="" coords="348,29,475,68"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,5,193,31"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_circular_buffer.html" title=" " alt="" coords="12,55,186,107"/>
+</map>

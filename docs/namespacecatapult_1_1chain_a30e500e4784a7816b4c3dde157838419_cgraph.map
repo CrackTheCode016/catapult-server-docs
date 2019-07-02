@@ -1,0 +1,5 @@
+<map id="catapult::chain::CalculateDifficulty" name="catapult::chain::CalculateDifficulty">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,176,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_time_span.html#a108f936a27b57fcfce207a0db30dd12d" title="Returns the number of milliseconds." alt="" coords="225,5,392,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="224,68,393,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="catapult::utils::BasicSpinReaderWriterLock::isSet" name="catapult::utils::BasicSpinReaderWriterLock::isSet">
+<area shape="rect" id="node1" title=" " alt="" coords="283,68,449,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a0605ef27ac48474df294c7c25b661913" title="Returns true if there is an active reader." alt="" coords="7,5,233,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a69450715c0cb64b2176d0f521c3b7632" title="Returns true if there is an active writer." alt="" coords="12,68,229,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#af79a66dba26591f318bc02b9c2d44bbe" title="Returns true if there is a pending (or active) writer." alt="" coords="5,131,235,169"/>
+</map>

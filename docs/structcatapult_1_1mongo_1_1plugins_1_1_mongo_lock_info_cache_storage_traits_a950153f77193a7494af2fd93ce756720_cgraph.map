@@ -1,0 +1,4 @@
+<map id="catapult::mongo::plugins::MongoLockInfoCacheStorageTraits::MapToMongoId" name="catapult::mongo::plugins::MongoLockInfoCacheStorageTraits::MapToMongoId">
+<area shape="rect" id="node1" title="Maps key to a mongo identifier." alt="" coords="5,5,243,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1mongo_1_1mappers.html#abe995238cacf9b478fd4c7eb08357792" title="Converts raw array (pData) of size elements into bson binary type." alt="" coords="291,12,467,51"/>
+</map>

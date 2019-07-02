@@ -1,0 +1,4 @@
+<map id="catapult::utils::IsPowerMultiple" name="catapult::utils::IsPowerMultiple">
+<area shape="rect" id="node1" title="Returns true if rhs is equal to lhs multipled by a power of base." alt="" coords="5,5,160,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#aad9df4f7d5d2f391313136f383c2e603" title="Divides value by divisor and returns the remainder." alt="" coords="208,5,375,44"/>
+</map>

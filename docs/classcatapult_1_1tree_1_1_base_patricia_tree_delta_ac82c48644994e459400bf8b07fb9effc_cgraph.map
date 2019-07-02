@@ -1,0 +1,4 @@
+<map id="catapult::tree::BasePatriciaTreeDelta::copyPendingChangesTo" name="catapult::tree::BasePatriciaTreeDelta::copyPendingChangesTo">
+<area shape="rect" id="node1" title="Copies all pending changes to dataSource." alt="" coords="5,5,237,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_read_through_memory_data_source.html#a7680c41259ca77c06abe39de697cbab5" title="Gets all nodes in memory and passes them to consumer." alt="" coords="285,5,478,44"/>
+</map>

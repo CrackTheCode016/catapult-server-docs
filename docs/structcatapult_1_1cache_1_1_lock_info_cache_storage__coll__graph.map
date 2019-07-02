@@ -1,0 +1,6 @@
+<map id="catapult::cache::LockInfoCacheStorage&lt; TDescriptor, TLockInfoSerializer &gt;" name="catapult::cache::LockInfoCacheStorage&lt; TDescriptor, TLockInfoSerializer &gt;">
+<area shape="rect" id="node1" title="Policy for saving and loading lock info cache data." alt="" coords="510,37,700,89"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_cache_storage_for_basic_insert_remove_cache.html" title="Defines cache storage for cache with basic insert remove support." alt="" coords="258,5,462,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_cache_storage_from_descriptor.html" title="Defines types for cache storage given a cache descriptor." alt="" coords="5,12,210,51"/>
+<area shape="rect" id="node4" title=" " alt="" coords="292,81,428,107"/>
+</map>

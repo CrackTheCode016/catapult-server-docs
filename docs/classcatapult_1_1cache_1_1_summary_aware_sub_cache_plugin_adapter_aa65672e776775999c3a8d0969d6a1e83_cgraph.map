@@ -1,0 +1,5 @@
+<map id="catapult::cache::SummaryAwareSubCachePluginAdapter::createStorage" name="catapult::cache::SummaryAwareSubCachePluginAdapter::createStorage">
+<area shape="rect" id="node1" title="Returns a cache storage based on this cache." alt="" coords="5,31,210,83"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_sub_cache_plugin_adapter.html#a23c74b0a67c4783d3d28c41a1b006f70" title="Gets a typed reference to the underlying cache." alt="" coords="266,5,447,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_sub_cache_plugin_adapter.html#a3e6c9334954c7c9df0f9df10c47576fc" title="Returns a cache storage based on this cache." alt="" coords="258,68,455,107"/>
+</map>

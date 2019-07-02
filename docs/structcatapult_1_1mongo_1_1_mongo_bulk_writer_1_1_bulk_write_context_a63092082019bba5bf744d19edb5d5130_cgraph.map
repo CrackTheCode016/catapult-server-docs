@@ -1,0 +1,5 @@
+<map id="catapult::mongo::MongoBulkWriter::BulkWriteContext::aggregateFuture" name="catapult::mongo::MongoBulkWriter::BulkWriteContext::aggregateFuture">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,196,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1thread.html#a0fff5e8091d4c126961774f093930327" title="Returns a future that is signaled when all futures in allFutures complete." alt="" coords="244,19,417,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1future.html#ac0a0fbdbf594c5c70dc503923bf9c7a7" title="Configures continuation to run at the completion of this future." alt="" coords="465,12,620,51"/>
+</map>

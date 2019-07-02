@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServerHooks::newBlockSink" name="catapult::extensions::ServerHooks::newBlockSink">
+<area shape="rect" id="node1" title="Gets the new block sink." alt="" coords="5,5,202,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a1490330fda5bc46dfe293f25145aef37" title="Aggregates multiple consumers into a single consumer." alt="" coords="250,5,408,44"/>
+</map>

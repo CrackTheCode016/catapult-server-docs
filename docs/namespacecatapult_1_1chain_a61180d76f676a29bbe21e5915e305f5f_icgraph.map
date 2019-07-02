@@ -1,0 +1,4 @@
+<map id="catapult::chain::CalculateScore" name="catapult::chain::CalculateScore">
+<area shape="rect" id="node1" title="Calculates the score of currentBlock with parent parentBlock." alt="" coords="224,5,394,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1chain.html#a621f2d54d9f51e119dccfe781a06d61c" title="Calculates the partial chain score of blocks starting at parent." alt="" coords="5,5,176,44"/>
+</map>

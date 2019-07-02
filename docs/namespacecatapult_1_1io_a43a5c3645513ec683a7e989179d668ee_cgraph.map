@@ -1,0 +1,9 @@
+<map id="catapult::io::ReadTransactionInfos" name="catapult::io::ReadTransactionInfos">
+<area shape="rect" id="node1" title="Reads transaction infos from inputStream into transactionInfos." alt="" coords="5,72,200,111"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#acf81a286806cb47a476bf4e9e8b5dd65" title="Reads value from input." alt="" coords="286,53,426,79"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1io.html#ac618db7fb4512e43871c11b0a32b6b25" title="Reads transaction info from inputStream into transactionInfo." alt="" coords="248,103,464,128"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="513,5,678,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1_input_stream.html#aa10d1d3d15ae047bdc5e91947a405936" title=" " alt="" coords="512,68,678,107"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="525,131,665,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_byte_array.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="513,180,678,219"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::crypto::PrivateKey" name="catapult::crypto::PrivateKey">
+<area shape="rect" id="node1" title="Represents a private key." alt="" coords="5,180,189,205"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="15,80,180,119"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1_key__tag.html" title=" " alt="" coords="35,5,159,31"/>
+</map>

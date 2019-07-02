@@ -1,0 +1,52 @@
+<map id="catapult&#45;server/plugins/txes/namespace/src/cache/NamespaceCacheStorage.h" name="catapult&#45;server/plugins/txes/namespace/src/cache/NamespaceCacheStorage.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1897,5,2090,57"/>
+<area shape="rect" id="node2" href="$_namespace_cache_types_8h.html" title=" " alt="" coords="1599,112,1777,137"/>
+<area shape="rect" id="node48" href="$_root_namespace_history_serializer_8h.html" title=" " alt="" coords="2116,105,2332,144"/>
+<area shape="rect" id="node50" href="$src_2catapult_2cache_2_cache_storage_include_8h.html" title=" " alt="" coords="1896,105,2092,144"/>
+<area shape="rect" id="node3" href="$_namespace_8h.html" title=" " alt="" coords="1665,365,1823,391"/>
+<area shape="rect" id="node17" href="$_namespace_entry_8h.html" title=" " alt="" coords="1725,199,1913,224"/>
+<area shape="rect" id="node20" href="$_hashers_8h.html" title=" " alt="" coords="2030,365,2190,391"/>
+<area shape="rect" id="node25" href="$_root_namespace_history_8h.html" title=" " alt="" coords="1987,199,2214,224"/>
+<area shape="rect" id="node30" href="$_cache_database_mixin_8h.html" title=" " alt="" coords="560,192,766,231"/>
+<area shape="rect" id="node39" href="$_cache_descriptor_adapters_8h.html" title=" " alt="" coords="865,192,1075,231"/>
+<area shape="rect" id="node45" href="$_base_set_delta_8h.html" title=" " alt="" coords="1039,279,1212,317"/>
+<area shape="rect" id="node46" href="$_identifier_group_8h.html" title=" " alt="" coords="185,192,335,231"/>
+<area shape="rect" id="node4" href="$_namespace_lifetime_8h.html" title=" " alt="" coords="1617,599,1767,624"/>
+<area shape="rect" id="node5" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="1850,672,1964,697"/>
+<area shape="rect" id="node11" href="$_namespace_constants_8h.html" title=" " alt="" coords="1680,439,1905,464"/>
+<area shape="rect" id="node14" href="$_checked_array_8h.html" title=" " alt="" coords="1411,439,1605,464"/>
+<area shape="rect" id="node6" href="$_byte_array_8h.html" title=" " alt="" coords="1992,752,2110,777"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1977,832,2029,857"/>
+<area shape="rect" id="node8" href="$_clamped_base_value_8h.html" title=" " alt="" coords="1590,745,1773,784"/>
+<area shape="rect" id="node9" href="$_raw_buffer_8h.html" title=" " alt="" coords="1797,752,1918,777"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1051,832,1105,857"/>
+<area shape="rect" id="node12" href="$plugins_2txes_2namespace_2src_2constants_8h.html" title=" " alt="" coords="1685,512,1849,551"/>
+<area shape="rect" id="node13" href="$plugins_2txes_2namespace_2src_2types_8h.html" title=" " alt="" coords="1840,599,1904,624"/>
+<area shape="rect" id="node15" href="$exceptions_8h.html" title=" " alt="" coords="1016,519,1163,544"/>
+<area shape="rect" id="node16" href="$_non_copyable_8h.html" title=" " alt="" coords="1088,599,1201,624"/>
+<area shape="rect" id="node18" href="$_root_namespace_8h.html" title=" " alt="" coords="1781,285,1913,311"/>
+<area shape="rect" id="node19" href="$_namespace_alias_8h.html" title=" " alt="" coords="1979,599,2112,624"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1847,365,1887,391"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1527,365,1642,391"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2105,439,2165,464"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2030,439,2080,464"/>
+<area shape="rect" id="node26" href="$_functional_8h.html" title=" " alt="" coords="1432,285,1604,311"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1987,285,2117,311"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2141,285,2180,311"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1368,365,1451,391"/>
+<area shape="rect" id="node31" href="$_cache_configuration_8h.html" title=" " alt="" coords="137,285,287,311"/>
+<area shape="rect" id="node33" href="$_cache_database_8h.html" title=" " alt="" coords="311,285,551,311"/>
+<area shape="rect" id="node35" href="$_update_set_8h.html" title=" " alt="" coords="575,279,751,317"/>
+<area shape="rect" id="node37" href="$_conditional_container_8h.html" title=" " alt="" coords="775,279,964,317"/>
+<area shape="rect" id="node32" href="$_file_size_8h.html" title=" " alt="" coords="239,365,397,391"/>
+<area shape="rect" id="node34" href="$_rdb_typed_column_container_8h.html" title=" " alt="" coords="336,439,532,464"/>
+<area shape="rect" id="node36" href="$_delta_elements_8h.html" title=" " alt="" coords="584,365,804,391"/>
+<area shape="rect" id="node38" title=" " alt="" coords="871,519,940,544"/>
+<area shape="rect" id="node40" href="$_base_set_8h.html" title=" " alt="" coords="878,365,1061,391"/>
+<area shape="rect" id="node44" href="$_ordered_set_8h.html" title=" " alt="" coords="1236,279,1407,317"/>
+<area shape="rect" id="node41" href="$_base_set_default_traits_8h.html" title=" " alt="" coords="775,439,933,464"/>
+<area shape="rect" id="node42" href="$_base_set_find_iterator_8h.html" title=" " alt="" coords="1237,439,1387,464"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2240,519,2292,544"/>
+<area shape="rect" id="node47" title=" " alt="" coords="5,285,113,311"/>
+<area shape="rect" id="node49" href="$_stream_8h.html" title=" " alt="" coords="2316,519,2456,544"/>
+</map>

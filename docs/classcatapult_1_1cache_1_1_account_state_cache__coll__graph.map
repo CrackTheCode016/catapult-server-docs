@@ -1,0 +1,8 @@
+<map id="catapult::cache::AccountStateCache" name="catapult::cache::AccountStateCache">
+<area shape="rect" id="node1" title="Synchronized cache composed of stateful account information." alt="" coords="39,444,205,483"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache_with_init.html" title=" " alt="" coords="8,343,236,395"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_synchronized_cache.html" title=" " alt="" coords="5,255,239,293"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_account_state_cache.html" title="Cache composed of stateful account information." alt="" coords="22,155,222,193"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_basic_cache.html" title=" " alt="" coords="36,80,208,105"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="39,5,205,31"/>
+</map>

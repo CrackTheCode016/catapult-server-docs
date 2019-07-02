@@ -1,0 +1,4 @@
+<map id="catapult::parsers::ParseBlockElement" name="catapult::parsers::ParseBlockElement">
+<area shape="rect" id="node1" title="Parses a block element out of buffer and updates numBytesConsumed with the number of buffer bytes con..." alt="" coords="5,5,143,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_transaction_container.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="191,5,379,44"/>
+</map>

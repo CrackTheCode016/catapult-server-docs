@@ -1,0 +1,7 @@
+<map id="catapult::importance::CalculateImportances" name="catapult::importance::CalculateImportances">
+<area shape="rect" id="node1" title="Calculates stake and activity importances using context and config and stores resulting importances i..." alt="" coords="5,37,163,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_balances.html#ab3dc6d601f0a011011b2183743b7919b" title="Returns amount of funds of a given mosaic (mosaicId)." alt="" coords="216,5,376,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="211,68,381,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_compact_mosaic_map.html#a2f2ad2f7e4e0bb40c281a863d75b8490" title="Returns a const iterator to the element following the last element of the underlying container." alt="" coords="642,7,807,45"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_compact_mosaic_map.html#a61206ad9e549b928dc19aab4f265b011" title="Finds the mosaic with id." alt="" coords="429,35,594,73"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::cache::SubCachePluginAdapter::SubCacheViewAdapter::trySetMerkleRoot" name="catapult::cache::SubCachePluginAdapter::SubCacheViewAdapter::trySetMerkleRoot">
+<area shape="rect" id="node1" title="Sets the cache merkle root (merkleRoot) if supported." alt="" coords="5,44,255,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_sub_cache_plugin_adapter_1_1_sub_cache_view_adapter.html#a553054fc92f48911193588646c300e55" title=" " alt="" coords="303,5,554,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_sub_cache_plugin_adapter_1_1_sub_cache_view_adapter.html#a8edbc715f06b0ecf44465370103cd575" title=" " alt="" coords="303,81,554,133"/>
+</map>

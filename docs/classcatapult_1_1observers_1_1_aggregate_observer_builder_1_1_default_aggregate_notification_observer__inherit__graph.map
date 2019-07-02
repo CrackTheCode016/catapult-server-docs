@@ -1,0 +1,5 @@
+<map id="catapult::observers::AggregateObserverBuilder&lt; TNotification &gt;::DefaultAggregateNotificationObserver" name="catapult::observers::AggregateObserverBuilder&lt; TNotification &gt;::DefaultAggregateNotificationObserver">
+<area shape="rect" id="node1" title=" " alt="" coords="5,205,235,271"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1observers_1_1_aggregate_notification_observer_t.html" title="A strongly typed aggregate notification observer." alt="" coords="14,105,226,157"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1observers_1_1_notification_observer_t.html" title="A strongly typed notification observer." alt="" coords="41,5,199,57"/>
+</map>

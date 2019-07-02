@@ -1,0 +1,4 @@
+<map id="catapult::chain::CalculateHit" name="catapult::chain::CalculateHit">
+<area shape="rect" id="node1" title="Calculates the hit for a generationHash." alt="" coords="5,12,192,37"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a264632a1c79dd0a29ca6655a40d21537" title="Calculates log2(value^(2^n))." alt="" coords="240,5,412,44"/>
+</map>

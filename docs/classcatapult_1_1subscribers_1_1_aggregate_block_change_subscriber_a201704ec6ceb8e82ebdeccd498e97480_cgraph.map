@@ -1,0 +1,4 @@
+<map id="catapult::subscribers::AggregateBlockChangeSubscriber::notifyDropBlocksAfter" name="catapult::subscribers::AggregateBlockChangeSubscriber::notifyDropBlocksAfter">
+<area shape="rect" id="node1" title="Indicates all blocks after height were invalidated." alt="" coords="5,12,239,64"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_basic_aggregate_subscriber.html#a2dedfcd373056055be93d28a97925c46" title=" " alt="" coords="287,5,473,71"/>
+</map>

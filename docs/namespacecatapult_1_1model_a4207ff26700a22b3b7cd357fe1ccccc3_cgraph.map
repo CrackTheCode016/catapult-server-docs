@@ -1,0 +1,5 @@
+<map id="catapult::model::CalculateMerkleTree" name="catapult::model::CalculateMerkleTree">
+<area shape="rect" id="node1" title="Calculates the merkle tree from transactionElements." alt="" coords="5,37,180,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1_merkle_hash_builder.html#ac6464c676bcae4b32d851444dfe0fc77" title="Finalizes the merkle hash into hash." alt="" coords="228,5,387,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1crypto_1_1_merkle_hash_builder.html#a7d46636c1f99ddb7937023f3edd7b8dd" title="Adds hash to the merkle hash." alt="" coords="228,68,387,107"/>
+</map>

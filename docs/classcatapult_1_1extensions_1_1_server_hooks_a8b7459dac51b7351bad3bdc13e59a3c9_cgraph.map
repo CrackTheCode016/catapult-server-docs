@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServerHooks::transactionEventHandler" name="catapult::extensions::ServerHooks::transactionEventHandler">
+<area shape="rect" id="node1" title="Gets the transaction event handler." alt="" coords="5,5,218,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a1490330fda5bc46dfe293f25145aef37" title="Aggregates multiple consumers into a single consumer." alt="" coords="266,12,424,51"/>
+</map>

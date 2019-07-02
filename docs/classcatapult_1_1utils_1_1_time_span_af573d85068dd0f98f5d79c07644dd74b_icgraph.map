@@ -1,0 +1,5 @@
+<map id="catapult::utils::TimeSpan::minutes" name="catapult::utils::TimeSpan::minutes">
+<area shape="rect" id="node1" title="Returns the number of minutes." alt="" coords="428,5,595,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_time_span.html#aa0ef045eaac8110084557d7ece60794e" title="Creates a time span from the given number of minutes." alt="" coords="213,5,380,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a7e146e588c04baf3a95726c2ca4cb655" title="Tries to parse str into a TimeSpan (parsedValue)." alt="" coords="5,5,165,44"/>
+</map>

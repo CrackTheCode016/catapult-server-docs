@@ -1,0 +1,5 @@
+<map id="catapult::tree::FindFirstDifferenceIndex" name="catapult::tree::FindFirstDifferenceIndex">
+<area shape="rect" id="node1" title="Compares two paths (lhs and rhs) and returns the index of the first non&#45;equal nibble." alt="" coords="5,37,163,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_tree_node_path.html#af97cd7e2f17a393f0aba2b8c1a3920d1" title="Gets the nibble at index." alt="" coords="211,5,376,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_tree_node_path.html#af4c4d521e885f93f05660a4d2b59dae0" title="Gets the number of nibbles in this path." alt="" coords="211,68,376,107"/>
+</map>

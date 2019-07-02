@@ -1,0 +1,4 @@
+<map id="catapult::model::VerifyBlockHeaderSignature" name="catapult::model::VerifyBlockHeaderSignature">
+<area shape="rect" id="node1" title="Validates signature of block header." alt="" coords="5,5,190,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1crypto.html#a1018e06d8c0660dee234fc6963f3958c" title=" " alt="" coords="238,12,391,37"/>
+</map>

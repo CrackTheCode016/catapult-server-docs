@@ -1,0 +1,6 @@
+<map id="catapult::io::BlockStorageModifier::BlockStorageModifier" name="catapult::io::BlockStorageModifier::BlockStorageModifier">
+<area shape="rect" id="node1" title="Creates a view around storage, stagingStorage and cache data (cachedData) with lock context readLock." alt="" coords="5,37,208,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_light_block_storage.html#a49b0c865abd519f57eaef3dcd440d54d" title="Gets the number of blocks." alt="" coords="265,5,420,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_block_storage_modifier.html#ad89681d59ec2b0fd8ce5f66f2d15e590" title="Drops all blocks after height." alt="" coords="256,68,429,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_light_block_storage.html#a1f50117a8d9bd065451e7188c8f016ac" title="Drops all blocks after height." alt="" coords="477,68,646,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::extensions::SelectNodesForRemoval" name="catapult::extensions::SelectNodesForRemoval">
+<area shape="rect" id="node1" title=" " alt="" coords="483,5,660,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#abd26e876be66c4a60e9651f6c555eeea" title=" " alt="" coords="208,5,435,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a5f872f3c789603e8add4c58b2ca4c1ca" title="Creates a task for the specified service that ages nodes given settings and connectionContainer." alt="" coords="5,5,160,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::model::NotificationSubscriber::notify" name="catapult::model::NotificationSubscriber::notify">
+<area shape="rect" id="node1" title="Notifies the subscriber of notification." alt="" coords="256,47,441,85"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1_aggregate_cosigners_notification_publisher.html#a2f6c8da8e5bb88937a6a63d8690292f3" title="Sends all notifications from an aggregate transactionInfo to sub." alt="" coords="5,5,208,57"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1model.html#a92aef3fd1d32d464d2aa9d468e2672e1" title="Sends all notifications from transaction to sub." alt="" coords="25,81,188,120"/>
+</map>

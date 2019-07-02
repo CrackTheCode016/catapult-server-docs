@@ -1,0 +1,4 @@
+<map id="catapult::cache::ReadCacheChanges" name="catapult::cache::ReadCacheChanges">
+<area shape="rect" id="node1" title="Reads serialized cache changes from inputStream." alt="" coords="5,5,194,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="242,12,382,37"/>
+</map>

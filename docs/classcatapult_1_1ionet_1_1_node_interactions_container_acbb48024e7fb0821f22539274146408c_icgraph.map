@@ -1,0 +1,4 @@
+<map id="catapult::ionet::NodeInteractionsContainer::incrementFailures" name="catapult::ionet::NodeInteractionsContainer::incrementFailures">
+<area shape="rect" id="node1" title="Increments failed interactions at timestamp." alt="" coords="219,5,432,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1_node_info.html#abb4fea6f5fb6b603e10cb5249e0834c9" title="Increments the number of failed interactions at timestamp." alt="" coords="5,5,171,44"/>
+</map>

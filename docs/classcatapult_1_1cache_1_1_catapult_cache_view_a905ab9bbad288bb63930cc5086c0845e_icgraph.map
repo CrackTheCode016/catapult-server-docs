@@ -1,0 +1,5 @@
+<map id="catapult::cache::CatapultCacheView::sub" name="catapult::cache::CatapultCacheView::sub">
+<area shape="rect" id="node1" title="Gets a specific sub cache view." alt="" coords="258,60,426,99"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_cache_storage_adapter.html#a5614ee8bd165e12cd8d22d44f828686d" title=" " alt="" coords="5,5,210,71"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1extensions_1_1_selector_settings.html#a9dbda1c5364866f156d139f20947e781" title="Creates settings around cache, totalChainImportance, nodes, serviceId, requiredRole and config." alt="" coords="17,95,199,147"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="catapult::model::SignBlockHeader" name="catapult::model::SignBlockHeader">
+<area shape="rect" id="node1" title=" " alt="" coords="440,40,619,79"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1_harvester.html#a08b592dcdab16be8c308543326575026" title=" " alt="" coords="234,5,371,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_block_extensions.html#a5bc0495b0571c381f21380e516738393" title="Cryptographically signs a full block with signer." alt="" coords="213,68,392,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1tools_1_1nemgen.html#a4306ba3a656335b9a1db8e97bcc395a3" title="Creates a nemesis block according to config." alt="" coords="5,43,165,81"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1tools_1_1nemgen.html#afcb8201dc3b3809c3ab0dee7ccc5c11f" title="Updates nemesis block according to config with executionHashesDescriptor." alt="" coords="5,105,165,144"/>
+</map>

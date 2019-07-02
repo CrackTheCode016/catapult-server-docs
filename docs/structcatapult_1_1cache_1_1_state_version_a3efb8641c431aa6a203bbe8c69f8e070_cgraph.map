@@ -1,0 +1,4 @@
+<map id="catapult::cache::StateVersion::Write" name="catapult::cache::StateVersion::Write">
+<area shape="rect" id="node1" title="Writes state version to output." alt="" coords="5,5,199,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#a9be563794abf273198048f1cfd6d5ec6" title="Writes value into output." alt="" coords="247,12,386,37"/>
+</map>

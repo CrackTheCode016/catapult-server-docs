@@ -1,0 +1,4 @@
+<map id="catapult::config::NodeConfiguration::ConnectionsSubConfiguration" name="catapult::config::NodeConfiguration::ConnectionsSubConfiguration">
+<area shape="rect" id="node1" title="Connections configuration." alt="" coords="21,5,250,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1config_1_1_node_configuration_1_1_incoming_connections_sub_configuration.html" title="Incoming connections configuration." alt="" coords="5,92,265,131"/>
+</map>

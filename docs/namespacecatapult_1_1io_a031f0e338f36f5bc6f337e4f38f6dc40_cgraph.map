@@ -1,0 +1,4 @@
+<map id="catapult::io::Read" name="catapult::io::Read">
+<area shape="rect" id="node1" title="Reads data of type TValue from input." alt="" coords="5,5,130,31"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#ad1b2ea00494b16b43db7317fd54edaaa" title="Reads base value from input." alt="" coords="178,5,304,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::mongo::MongoErrorPolicy::checkUpserted" name="catapult::mongo::MongoErrorPolicy::checkUpserted">
+<area shape="rect" id="node1" title="Checks that result indicates exactly numExpected upsertions occurred given itemsDescription." alt="" coords="5,37,199,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_mongo_error_policy.html#a8ff7a69853f6b4bca718777feb9e455d" title=" " alt="" coords="247,5,464,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1mongo_1_1mappers.html#a457dc107fff0b5b5c87e00ff11b3e27c" title="Converts a 32 bit signed value to a 32 bit unsigned value." alt="" coords="268,68,444,107"/>
+</map>

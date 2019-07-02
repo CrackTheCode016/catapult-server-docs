@@ -1,0 +1,4 @@
+<map id="catapult::mongo::mappers::StreamReceipt" name="catapult::mongo::mappers::StreamReceipt">
+<area shape="rect" id="node1" title="Streams a receipt to builder." alt="" coords="5,5,181,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="229,5,352,44"/>
+</map>

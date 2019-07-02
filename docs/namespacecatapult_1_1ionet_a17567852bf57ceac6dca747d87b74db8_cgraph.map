@@ -1,0 +1,6 @@
+<map id="catapult::ionet::PackNode" name="catapult::ionet::PackNode">
+<area shape="rect" id="node1" title="Packs a node model into a network node." alt="" coords="5,75,179,100"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node.html#aa7a6deb3194815056c6ac62ef7f43945" title="Gets the endpoint." alt="" coords="227,5,370,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="227,68,370,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1ionet_1_1_node.html#a5fe7fdd2c161ca5e176b700f533d52b6" title="Gets tne metadata." alt="" coords="227,131,370,169"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::cache::UtCache" name="catapult::cache::UtCache">
+<area shape="rect" id="node1" title="An interface for caching unconfirmed transactions." alt="" coords="34,165,204,191"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_transactions_cache.html" title=" " alt="" coords="5,79,232,117"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="25,5,212,31"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="catapult::cache::CacheStorage" name="catapult::cache::CacheStorage">
+<area shape="rect" id="node1" title="Interface for loading and saving cache data." alt="" coords="5,151,209,176"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_cache_storage_adapter.html" title=" " alt="" coords="278,5,483,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_cache_storage_adapter.html" title="A CacheStorage implementation that wraps a cache and associated storage traits." alt="" coords="264,81,497,120"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_summary_cache_storage.html" title="CacheStorage implementation for saving and loading summary cache data." alt="" coords="292,144,468,183"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_summary_cache_storage.html" title=" " alt="" coords="257,207,504,245"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1_summary_cache_storage.html" title=" " alt="" coords="261,269,500,308"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_block_difficulty_cache_summary_cache_storage.html" title="CacheStorage implementation for saving and loading summary block difficulty cache data." alt="" coords="567,12,769,51"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_account_state_cache_summary_cache_storage.html" title="CacheStorage implementation for saving and loading summary account state cache data." alt="" coords="552,207,785,245"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1_namespace_cache_summary_cache_storage.html" title="CacheStorage implementation for saving and loading summary namespace cache data." alt="" coords="567,269,769,308"/>
+</map>

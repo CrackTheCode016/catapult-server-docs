@@ -1,0 +1,5 @@
+<map id="catapult::cache::BlockDifficultyCacheStorage::Load" name="catapult::cache::BlockDifficultyCacheStorage::Load">
+<area shape="rect" id="node1" title="Loads a single value from input." alt="" coords="5,24,207,63"/>
+<area shape="rect" id="node2" href="$namespaceforwards_validation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="255,5,410,31"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1io.html#ad1b2ea00494b16b43db7317fd54edaaa" title="Reads base value from input." alt="" coords="270,55,395,80"/>
+</map>

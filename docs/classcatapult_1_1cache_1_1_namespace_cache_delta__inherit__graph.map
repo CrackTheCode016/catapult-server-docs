@@ -1,0 +1,13 @@
+<map id="catapult::cache::NamespaceCacheDelta" name="catapult::cache::NamespaceCacheDelta">
+<area shape="rect" id="node1" title="Delta on top of the namespace cache." alt="" coords="824,212,1014,251"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_read_only_view_supplier.html" title=" " alt="" coords="523,205,776,257"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html" title="Basic delta on top of the namespace cache." alt="" coords="253,212,475,251"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="22,5,189,31"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,55,205,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_contains_mixin.html" title="A mixin for adding contains support to a cache." alt="" coords="5,117,205,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_patricia_tree_delta_mixin.html" title="A mixin for adding patricia tree support to a delta cache." alt="" coords="5,180,205,219"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1_height_based_touch_mixin.html" title="A mixin for height&#45;based touching." alt="" coords="5,243,205,281"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,305,205,344"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html" title="A mixin for calculating the deep size of namespaces." alt="" coords="5,368,205,407"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1_namespace_lookup_mixin.html" title=" " alt="" coords="5,431,205,469"/>
+</map>

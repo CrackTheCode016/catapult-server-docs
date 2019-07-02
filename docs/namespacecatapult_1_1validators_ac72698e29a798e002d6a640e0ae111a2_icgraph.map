@@ -1,0 +1,5 @@
+<map id="catapult::validators::CreateModifyMultisigMaxCosignersValidator" name="catapult::validators::CreateModifyMultisigMaxCosignersValidator">
+<area shape="rect" id="node1" title=" " alt="" coords="420,5,659,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a06ef8cea21dcf8bf4c3b40e5b3a73979" title="Registers multisig support with manager." alt="" coords="190,12,372,51"/>
+<area shape="rect" id="node3" href="$_multisig_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,142,44"/>
+</map>

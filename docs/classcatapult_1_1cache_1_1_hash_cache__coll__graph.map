@@ -1,0 +1,7 @@
+<map id="catapult::cache::HashCache" name="catapult::cache::HashCache">
+<area shape="rect" id="node1" title="Synchronized cache composed of timestamped hashes of (transaction) elements." alt="" coords="11,343,199,368"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache.html" title=" " alt="" coords="5,255,205,293"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_hash_cache.html" title=" " alt="" coords="14,155,196,193"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_cache.html" title=" " alt="" coords="43,80,167,105"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="22,5,188,31"/>
+</map>

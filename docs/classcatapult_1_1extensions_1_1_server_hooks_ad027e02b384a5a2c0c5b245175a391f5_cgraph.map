@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServerHooks::blockRangeConsumerFactory" name="catapult::extensions::ServerHooks::blockRangeConsumerFactory">
+<area shape="rect" id="node1" title="Gets the factory for creating a BlockRangeConsumerFunc bound to an input source." alt="" coords="5,5,250,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a1ba3236a6ee3676530f450d3c8e73a77" title="Returns func if and only if it is set." alt="" coords="298,12,438,51"/>
+</map>

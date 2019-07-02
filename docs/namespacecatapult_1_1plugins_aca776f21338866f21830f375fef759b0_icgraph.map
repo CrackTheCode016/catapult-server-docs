@@ -1,0 +1,4 @@
+<map id="catapult::plugins::RegisterMemoryHashCacheSystem" name="catapult::plugins::RegisterMemoryHashCacheSystem">
+<area shape="rect" id="node1" title="Registers the in&#45;memory hash cache with manager." alt="" coords="190,5,424,44"/>
+<area shape="rect" id="node2" href="$_plugin_manager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,12,142,37"/>
+</map>

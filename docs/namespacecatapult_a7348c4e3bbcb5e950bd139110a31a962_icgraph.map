@@ -1,0 +1,8 @@
+<map id="catapult::Eternal_Artifact_Duration" name="catapult::Eternal_Artifact_Duration">
+<area shape="rect" id="node1" title="Duration of eternal artifact." alt="" coords="754,37,920,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1tools_1_1nemgen.html#a4306ba3a656335b9a1db8e97bcc395a3" title="Creates a nemesis block according to config." alt="" coords="521,5,680,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_mosaic_definition.html#a1e6c225e7f0db07663952249aa7bce8c" title="Returns true if the mosaic definition has eternal duration." alt="" coords="496,68,706,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_mosaic_definition.html#ac0dd119e2ee5962b4ece26a6435269b6" title="Returns true if the mosaic definition is active at height." alt="" coords="238,36,448,75"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1_mosaic_definition.html#a474d5dd9f50f85858885aa6253ece36b" title="Returns true if the mosaic definition is expired at height." alt="" coords="238,99,448,137"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_mosaic_entry.html#a94ce70dcb2c37faf6f9e16b2c2d47448" title="Returns true if entry is active at height." alt="" coords="5,36,190,75"/>
+</map>

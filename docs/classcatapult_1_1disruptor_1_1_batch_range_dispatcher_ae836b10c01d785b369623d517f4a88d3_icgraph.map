@@ -1,0 +1,4 @@
+<map id="catapult::disruptor::BatchRangeDispatcher::dispatch" name="catapult::disruptor::BatchRangeDispatcher::dispatch">
+<area shape="rect" id="node1" title="Dispatches all queued elements to the underlying dispatcher." alt="" coords="253,5,419,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a43373300d407f59cb43fccfa2b1b7e54" title="Creates a task with name that dispatches all transactions batched in dispatcher." alt="" coords="5,12,205,51"/>
+</map>

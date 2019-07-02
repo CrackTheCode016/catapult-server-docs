@@ -1,0 +1,6 @@
+<map id="catapult::deltaset::IsSetIterable" name="catapult::deltaset::IsSetIterable">
+<area shape="rect" id="node1" title="Returns true if set is iterable." alt="" coords="416,37,538,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1deltaset.html#a1fbe5bd27d7ce878772a4730ca18944f" title="Returns true if set is iterable." alt="" coords="234,5,368,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1deltaset.html#a89106d8e8ff5977031bb537d8563082c" title=" " alt="" coords="236,68,366,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_iteration_mixin.html#a609fe49a98135321c741a349664d5661" title=" " alt="" coords="5,5,186,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::local::NemesisBlockNotifier::raise" name="catapult::local::NemesisBlockNotifier::raise">
+<area shape="rect" id="node1" title="Raises and forwards block change notifications to subscriber." alt="" coords="5,5,167,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_block_change_subscriber.html#accc21c5dedc3df675a30a53806997c4b" title="Indicates blockElement was saved." alt="" coords="215,5,388,44"/>
+</map>

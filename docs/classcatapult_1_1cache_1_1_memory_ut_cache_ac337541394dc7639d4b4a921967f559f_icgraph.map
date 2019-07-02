@@ -1,0 +1,6 @@
+<map id="catapult::cache::MemoryUtCache::view" name="catapult::cache::MemoryUtCache::view">
+<area shape="rect" id="node1" title="Gets a read only view based on this cache." alt="" coords="560,37,740,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1harvesting.html#a34669085920e5180d6da31f14fde193d" title="Creates a default transactions info supplier aroundutCache for specified transaction strategy." alt="" coords="284,5,500,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a29ef7cb572c3c118f9b6d7c9e9a3006b" title="Gets the known hash predicate augmented with a check in utCache." alt="" coords="273,68,512,107"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1harvesting.html#a9fb4e1d5aff013aae5e274fb09a8891e" title="Creates a default block generator around utFacadeFactory and utCache for specified transaction strate..." alt="" coords="5,5,225,44"/>
+</map>

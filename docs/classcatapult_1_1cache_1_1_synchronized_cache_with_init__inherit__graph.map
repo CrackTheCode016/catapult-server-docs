@@ -1,0 +1,4 @@
+<map id="catapult::cache::SynchronizedCacheWithInit&lt; TCache &gt;" name="catapult::cache::SynchronizedCacheWithInit&lt; TCache &gt;">
+<area shape="rect" id="node1" title="Decorator that synchronizes access to a cache and allows custom cache initialization." alt="" coords="5,92,205,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache.html" title="Decorator that synchronizes access to a cache." alt="" coords="5,5,205,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::state::CompactMosaicMap::optimize" name="catapult::state::CompactMosaicMap::optimize">
+<area shape="rect" id="node1" title="Optimizes access of the mosaic with id." alt="" coords="213,37,378,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_balances.html#acad1ebd7c7f56cdfa9cb8a5f475af78b" title="Assignment operator that makes a deep copy of accountBalances." alt="" coords="5,5,165,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_balances.html#acc0ecc5e24c5125135d84e9dc4980439" title="Optimizes access of the mosaic with id." alt="" coords="5,68,165,107"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="catapult::plugins::PluginManager::createNotificationPublisher" name="catapult::plugins::PluginManager::createNotificationPublisher">
+<area shape="rect" id="node1" title="Creates a notification publisher for the specified mode." alt="" coords="5,31,227,83"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a8991823d12bfa57e4e021e7902ca61ed" title=" " alt="" coords="275,5,500,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1model.html#ae62d014c8b10fb3eaf2f7cf03a565c61" title="Gets unresolved currency mosaic id from config." alt="" coords="283,68,491,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="548,68,717,107"/>
+</map>

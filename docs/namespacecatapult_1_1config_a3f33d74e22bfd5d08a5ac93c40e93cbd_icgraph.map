@@ -1,0 +1,10 @@
+<map id="catapult::config::LoadPeersFromStream" name="catapult::config::LoadPeersFromStream">
+<area shape="rect" id="node1" title="Loads peers from the specified stream (input) for the network identified by networkIdentifier." alt="" coords="913,37,1096,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1config.html#a54603550adbf6b0056aa0eeaa288ed9d" title="Loads peers from the specified path for the network identified by networkIdentifier." alt="" coords="683,37,865,76"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a9dd32dd449ad9ba00da09ba827f7bced" title="Adds static nodes from path to bootstrapper." alt="" coords="452,5,634,44"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1config.html#a4d64556ea0af1a17360adc68be4b8866" title="Loads peers configuration from path for network networkIdentifier." alt="" coords="452,68,635,107"/>
+<area shape="rect" id="node4" href="$src_2catapult_2process_2server_2main_8cpp.html#a217dbf8b442f20279ea00b898af96f52" title=" " alt="" coords="283,12,334,37"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1tools.html#a5e1dc0e2a96be906c6c8c2a242821238" title="Loads optional api peers configuration from resourcesPath for network networkIdentifier." alt="" coords="213,64,404,103"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1tools.html#ab9db32124adb85d59e6ddbb3d6468ad5" title="Loads p2p peers configuration from resourcesPath for network networkIdentifier." alt="" coords="221,127,396,152"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,92,165,131"/>
+</map>

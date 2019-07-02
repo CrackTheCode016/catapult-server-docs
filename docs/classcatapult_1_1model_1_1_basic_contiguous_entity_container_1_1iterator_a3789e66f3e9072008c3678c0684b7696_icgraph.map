@@ -1,0 +1,12 @@
+<map id="catapult::model::BasicContiguousEntityContainer::iterator::ToBytePointer" name="catapult::model::BasicContiguousEntityContainer::iterator::ToBytePointer">
+<area shape="rect" id="node1" title=" " alt="" coords="1074,101,1293,153"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#a12618113d1361dd581fa9c40b2c36a38" title=" " alt="" coords="807,197,1026,249"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#a49e43a2cf2e86122fb8426427f799663" title=" " alt="" coords="807,69,1026,121"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#a633c9ddb131eb8096d1626a090729ad6" title=" " alt="" coords="540,133,759,172"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#ae7aeddab1d21905ac1ca3f6a9dfe2244" title=" " alt="" coords="540,5,759,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#abb452b0764fd271ac684a70f2be3c9db" title="Advances the iterator to the next position." alt="" coords="5,97,225,149"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#aaa2f76f12b3a1de04cda6b53ece808eb" title=" " alt="" coords="273,33,492,85"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#af3ffc9702bc00e3d2457f74377fb7dc0" title="Creates an iterator around pStart and state with specified current position (pCurrent)." alt="" coords="5,21,225,73"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#a1b856cec3fd0c2daf9a771d9feb17ce9" title="Returns a pointer to the current entity." alt="" coords="273,161,492,213"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#a3d89905587edb90b0a3e855d997eba18" title="Returns a reference to the current entity." alt="" coords="5,173,225,225"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="catapult::extensions::SelectorSettings" name="catapult::extensions::SelectorSettings">
+<area shape="rect" id="node1" title="Settings used to initialize a selector task." alt="" coords="1207,89,1347,128"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="875,27,1096,65"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,20,821,72"/>
+<area shape="rect" id="node4" title=" " alt="" coords="234,5,377,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,55,390,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1config_1_1_node_configuration_1_1_connections_sub_configuration.html" title="Connections configuration." alt="" coords="871,89,1100,128"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1ionet_1_1_node_container.html" title="A collection of nodes." alt="" coords="885,152,1086,177"/>
+</map>

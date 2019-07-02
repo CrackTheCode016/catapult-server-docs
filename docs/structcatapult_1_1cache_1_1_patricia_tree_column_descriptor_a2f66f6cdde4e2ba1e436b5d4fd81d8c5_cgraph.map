@@ -1,0 +1,6 @@
+<map id="catapult::cache::PatriciaTreeColumnDescriptor::GetKeyFromValue" name="catapult::cache::PatriciaTreeColumnDescriptor::GetKeyFromValue">
+<area shape="rect" id="node1" title="Gets the key corresponding to treeNode." alt="" coords="5,37,276,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_tree_node.html#a930a5c55f68c551352d1e83136eca884" title="Gets the hash representation of this node." alt="" coords="324,37,489,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_tree_node.html#a1cc8411f5a12c6abfdcf67bff2fc10a6" title="Returns true if this node represents a branch node." alt="" coords="537,5,702,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1_tree_node.html#ac79c06c7e9e84b71f43595d5dc713174" title="Returns true if this node represents a leaf node." alt="" coords="537,68,702,107"/>
+</map>

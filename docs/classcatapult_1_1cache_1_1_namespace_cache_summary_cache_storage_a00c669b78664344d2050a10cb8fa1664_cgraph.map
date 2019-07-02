@@ -1,0 +1,6 @@
+<map id="catapult::cache::NamespaceCacheSummaryCacheStorage::saveSummary" name="catapult::cache::NamespaceCacheSummaryCacheStorage::saveSummary">
+<area shape="rect" id="node1" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="5,61,207,113"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_output_stream.html#a61d553bfed97f20ce1bd7c38490debc7" title=" " alt="" coords="255,5,432,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_catapult_cache_delta.html#aaf215397ffb3b1616d20ce453dde43a4" title="Gets a specific sub cache delta view." alt="" coords="260,68,428,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1io.html#a8613aa5dbcb9b6bb71adf19a828c495a" title="Writes value into output." alt="" coords="274,131,413,156"/>
+</map>

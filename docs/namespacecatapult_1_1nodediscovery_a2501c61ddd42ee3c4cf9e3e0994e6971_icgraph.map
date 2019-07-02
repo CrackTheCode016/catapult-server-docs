@@ -1,0 +1,6 @@
+<map id="catapult::nodediscovery::IsNodeCompatible" name="catapult::nodediscovery::IsNodeCompatible">
+<area shape="rect" id="node1" title="Determines if node is compatible with expected network (networkIdentifier) and identity (identityKey)..." alt="" coords="277,81,438,120"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1nodediscovery_1_1_node_ping_response_compatibility_checker.html#a9e70973c2a0d651d6c6ce3db6ec906d2" title="Returns true if requestNode and responseNode are compatible nodes." alt="" coords="5,5,229,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1nodediscovery_1_1_peers_processor.html#af45c7ddf97c36ee291d2f009873ed0dc" title=" " alt="" coords="28,81,206,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1handlers.html#a8fe97c2f3f31ac6d7315c0fa5e20ee3c" title=" " alt="" coords="18,144,217,196"/>
+</map>

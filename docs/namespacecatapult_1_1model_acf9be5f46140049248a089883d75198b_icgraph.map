@@ -1,0 +1,4 @@
+<map id="catapult::model::MakeVersion" name="catapult::model::MakeVersion">
+<area shape="rect" id="node1" title="Creates a version field out of given entity version and networkIdentifier." alt="" coords="193,19,389,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_transaction_builder.html#a8db908884adbf3761e8bf84a16650e17" title=" " alt="" coords="5,5,145,57"/>
+</map>

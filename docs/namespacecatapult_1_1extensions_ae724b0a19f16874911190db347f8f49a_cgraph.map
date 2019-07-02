@@ -1,0 +1,12 @@
+<map id="catapult::extensions::CreateAgePeersTask" name="catapult::extensions::CreateAgePeersTask">
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,160,169"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1net_1_1_connection_container.html#a1baabd2fc7d5481b72a3abbc0e7e6c41" title="Closes any active connections to the node identified by identityKey." alt="" coords="208,5,377,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1thread.html#a1238da69fb856e8f1a64a3cf6e51dc43" title="Creates an unscheduled task with name and callback." alt="" coords="212,68,373,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1extensions.html#a7e3a4b7d15783e5a3fc30c29dc3352bb" title="Creates and prepares a node ager that ages all serviceId connections in nodes given config." alt="" coords="223,131,362,169"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1net_1_1_connection_container.html#af70db39b2d03e182b4021194b1caa5be" title="Gets the identities of active connections." alt="" coords="208,193,377,232"/>
+<area shape="rect" id="node10" href="$namespacecatapult_1_1thread.html#ab80df77826dbc94dbeeda80587106996" title="Produces a future that is ready immediately and holds the given value." alt="" coords="216,256,369,295"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1ionet_1_1_node_container_modifier.html#a63005ffcb1f0e9dc58d1780fb1f99bab" title="Ages all connections for the service identified by serviceId for nodes with identities." alt="" coords="425,100,626,139"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1ionet_1_1_node_container.html#a1381c01fadfc5027cf44e1f8633efcf6" title="Gets a write only view of the nodes." alt="" coords="425,163,626,201"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="674,163,898,201"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="946,163,1112,201"/>
+</map>

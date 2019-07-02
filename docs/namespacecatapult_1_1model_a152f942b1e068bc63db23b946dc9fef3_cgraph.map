@@ -1,0 +1,6 @@
+<map id="catapult::model::ExtractAllProperties" name="catapult::model::ExtractAllProperties">
+<area shape="rect" id="node1" title="Extracts all properties from header and pProperties." alt="" coords="5,37,166,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_mosaic_properties.html#a8166d1f5231ae629a6f8b66cc50b880e" title="Creates mosaic properties from values." alt="" coords="214,5,436,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="264,68,387,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_mosaic_properties.html#a4cd936c95e978875bb2c05a491a218e5" title=" " alt="" coords="484,5,706,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::model::CalculateTransactionCacheDuration" name="catapult::model::CalculateTransactionCacheDuration">
+<area shape="rect" id="node1" title="Calculates the duration of time that expired transactions should be cached for the block chain descri..." alt="" coords="472,5,651,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="190,5,424,44"/>
+<area shape="rect" id="node3" href="$_plugin_manager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,12,142,37"/>
+</map>

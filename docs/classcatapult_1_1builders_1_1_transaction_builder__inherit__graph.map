@@ -1,0 +1,18 @@
+<map id="catapult::builders::TransactionBuilder" name="catapult::builders::TransactionBuilder">
+<area shape="rect" id="node1" title="Base transaction builder." alt="" coords="5,484,145,523"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_account_address_restriction_builder.html" title="Builder for an account address restriction transaction." alt="" coords="200,5,389,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1builders_1_1_account_link_builder.html" title="Builder for an account link transaction." alt="" coords="223,81,366,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1builders_1_1_account_mosaic_restriction_builder.html" title="Builder for an account mosaic restriction transaction." alt="" coords="203,144,385,196"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1builders_1_1_account_operation_restriction_builder.html" title="Builder for an account operation restriction transaction." alt="" coords="195,220,393,272"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1builders_1_1_address_alias_builder.html" title="Builder for an address alias transaction." alt="" coords="220,296,368,335"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1builders_1_1_aggregate_transaction_builder.html" title="Builder for an aggregate transaction." alt="" coords="194,359,395,397"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1builders_1_1_hash_lock_builder.html" title="Builder for a hash lock transaction." alt="" coords="229,421,359,460"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1builders_1_1_modify_multisig_account_builder.html" title="Builder for a modify multisig account transaction." alt="" coords="193,484,396,523"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1builders_1_1_mosaic_alias_builder.html" title="Builder for a mosaic alias transaction." alt="" coords="224,547,365,585"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1builders_1_1_mosaic_definition_builder.html" title="Builder for a mosaic definition transaction." alt="" coords="210,609,378,648"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1builders_1_1_mosaic_supply_change_builder.html" title="Builder for a mosaic supply change transaction." alt="" coords="194,672,394,711"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1builders_1_1_register_namespace_builder.html" title="Builder for a register namespace transaction." alt="" coords="199,735,390,773"/>
+<area shape="rect" id="node14" href="$classcatapult_1_1builders_1_1_secret_lock_builder.html" title="Builder for a secret lock transaction." alt="" coords="226,797,363,836"/>
+<area shape="rect" id="node15" href="$classcatapult_1_1builders_1_1_secret_proof_builder.html" title="Builder for a secret proof transaction." alt="" coords="224,860,365,899"/>
+<area shape="rect" id="node16" href="$classcatapult_1_1builders_1_1_transfer_builder.html" title="Builder for a transfer transaction." alt="" coords="233,923,355,961"/>
+</map>

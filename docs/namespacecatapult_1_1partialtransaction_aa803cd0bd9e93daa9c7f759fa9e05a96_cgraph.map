@@ -1,0 +1,5 @@
+<map id="catapult::partialtransaction::GetMemoryPtCache" name="catapult::partialtransaction::GetMemoryPtCache">
+<area shape="rect" id="node1" title="Gets the memory partial transactions cache stored in locator." alt="" coords="5,5,182,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_service_locator.html#ac9b1a47dc1ffdb9774f39fe1de5166fc" title="Gets the service with serviceName." alt="" coords="230,5,398,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_service_locator.html#ae980dc64fab6acecbe0c3e4c3cc83f43" title=" " alt="" coords="446,5,651,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::nodediscovery::TryParseNodesPacket" name="catapult::nodediscovery::TryParseNodesPacket">
+<area shape="rect" id="node1" title="Tries to parse packet into nodes." alt="" coords="253,12,414,51"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1handlers.html#a9859f119383baa73c71e970a058996e7" title="Registers a node discovery push peers handler in handlers that forwards received nodes to nodesConsum..." alt="" coords="5,5,205,57"/>
+</map>

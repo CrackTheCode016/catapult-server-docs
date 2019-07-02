@@ -1,0 +1,10 @@
+<map id="catapult::state::MultisigEntrySerializer::Save" name="catapult::state::MultisigEntrySerializer::Save">
+<area shape="rect" id="node1" title="Saves entry to output." alt="" coords="5,193,162,232"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html#aa5ba82ee1e19e803b4b9d5d3dc256ea1" title="Gets cosignatory account keys." alt="" coords="223,5,443,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_multisig_entry.html#a4c67485c741bb86e106b3b452a923d3f" title="Gets the account public key." alt="" coords="254,68,411,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html#af3acdd84c36366f6fe485965d617fba6" title="Gets the number of cosignatories required when approving (any) transaction." alt="" coords="225,131,441,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html#ad1e6c7a75aec80d9109458dd2ee332b8" title="Gets the number of cosignatories required when removing an account." alt="" coords="225,193,441,232"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1_multisig_cosignatory_of_mixin.html#ab340c051d5e4df67eac61b5b131cf9e2" title="Gets multisig account keys." alt="" coords="210,256,455,295"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1io_1_1_output_stream.html#a8f7566bae8036ce924dae00bc3b6cd69" title=" " alt="" coords="245,319,421,357"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1io.html#ac4271422e331144f44108296176a4208" title="Writes value into output." alt="" coords="267,381,399,407"/>
+</map>

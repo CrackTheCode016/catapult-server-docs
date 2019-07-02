@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ExtensionManager::networkTimeSupplier" name="catapult::extensions::ExtensionManager::networkTimeSupplier">
+<area shape="rect" id="node1" title="Gets the network time supplier." alt="" coords="5,5,199,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a434e3ecc8515f4cf1b79a09962c57ea7" title="Returns the network time, i.e. the number of milliseconds since Epoch_Time." alt="" coords="247,19,432,44"/>
+</map>

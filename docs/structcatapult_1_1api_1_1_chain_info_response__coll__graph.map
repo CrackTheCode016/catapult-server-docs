@@ -1,0 +1,11 @@
+<map id="catapult::api::ChainInfoResponse" name="catapult::api::ChainInfoResponse">
+<area shape="rect" id="node1" title="A chain info response." alt="" coords="998,80,1156,119"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1_packet.html" title="A packet header with a data payload." alt="" coords="747,55,899,80"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1ionet_1_1_packet_header.html" title="A packet header that all transferable information is expected to have." alt="" coords="492,5,688,31"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="497,55,684,80"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="738,107,908,145"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="506,104,675,169"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1_height__tag.html" title=" " alt="" coords="236,96,376,121"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,145,390,184"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,152,172,177"/>
+</map>

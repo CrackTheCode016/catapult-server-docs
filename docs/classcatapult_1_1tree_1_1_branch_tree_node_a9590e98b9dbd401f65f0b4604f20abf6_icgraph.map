@@ -1,0 +1,7 @@
+<map id="catapult::tree::BranchTreeNode::path" name="catapult::tree::BranchTreeNode::path">
+<area shape="rect" id="node1" title="Gets the node path." alt="" coords="650,68,825,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_memory_data_source.html#a130d5da19565e2376355e0625d6f5925" title="Saves a branch tree node." alt="" coords="381,5,563,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_branch_tree_node.html#a6724422194340e67eec4b1519d98c878" title="Sets the branch node path." alt="" coords="384,68,559,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a55271f4c960fe08dbcfd80d408e4257d" title=" " alt="" coords="342,131,602,196"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1_patricia_tree.html#abb948a95110959bbccf546bacbc615bd" title=" " alt="" coords="5,55,294,120"/>
+</map>

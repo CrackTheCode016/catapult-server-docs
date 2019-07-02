@@ -1,0 +1,9 @@
+<map id="catapult::model::CalculateRollbackVariabilityBufferDuration" name="catapult::model::CalculateRollbackVariabilityBufferDuration">
+<area shape="rect" id="node1" title="Calculates the duration of the rollback variability buffer for the block chain described by config." alt="" coords="5,67,220,105"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a77e9b842c0a53402f296cc6b8206760f" title="Calculates the duration of a full rollback for the block chain described by config." alt="" coords="268,37,443,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_time_span.html#a14789d6cac33667820722add65f0f8ad" title="Creates a time span from the given number of milliseconds." alt="" coords="491,5,658,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_time_span.html#a108f936a27b57fcfce207a0db30dd12d" title="Returns the number of milliseconds." alt="" coords="491,68,658,107"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_time_span.html#adf3213fc223f0f3fdebdddc152fd0f09" title="Creates a time span from the given number of hours." alt="" coords="272,152,439,191"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_time_span.html#abed2663576b21626ff234f40ceffe563" title="Creates a default (zero) time span." alt="" coords="706,65,873,104"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_time_span.html#a3b98e3ec2ccc27c77db8fc17d6e5c309" title="Returns the number of hours." alt="" coords="491,183,658,221"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::partialtransaction::PtServerHooks::setCosignedTransactionInfosConsumer" name="catapult::partialtransaction::PtServerHooks::setCosignedTransactionInfosConsumer">
+<area shape="rect" id="node1" title="Sets the cosigned transaction infos consumer." alt="" coords="5,5,274,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a3ca7f0d7e0b5d96e1e8443ce191a2af2" title="Sets dest to source if and only if dest is unset." alt="" coords="322,12,462,51"/>
+</map>

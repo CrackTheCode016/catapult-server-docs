@@ -1,0 +1,11 @@
+<map id="catapult::thread::future::get" name="catapult::thread::future::get">
+<area shape="rect" id="node1" title="Returns the result of this future and blocks until the result is available." alt="" coords="797,151,977,176"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a0fc99b014b5992e09fe8cc85c0fc931c" title=" " alt="" coords="520,12,749,51"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1thread.html#a252c94a37592f2f8d09811bb3701824b" title=" " alt="" coords="555,151,715,176"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_flat_cache_storage.html#a08d88db298db8bc26e9c7a53cbc70274" title=" " alt="" coords="279,68,456,120"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_flat_cache_storage.html#a06568f9c2ba4424f5f6dd38efbceba6e" title=" " alt="" coords="279,220,456,272"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1thread.html#a97cd7d999b888b3802d417e6b2a24591" title=" " alt="" coords="554,252,715,291"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="288,5,448,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_historical_cache_storage.html#a798e7460f6bd498e3d19e9d227e38529" title=" " alt="" coords="263,144,472,196"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_historical_cache_storage.html#a6be5f402245bd0f5735c38a84c088f1b" title="Saves cache changes to external storage." alt="" coords="5,144,215,196"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="catapult::cache::BasicAccountRestrictionCacheView" name="catapult::cache::BasicAccountRestrictionCacheView">
+<area shape="rect" id="node1" title="Basic view on top of the account restriction cache." alt="" coords="253,149,452,188"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="22,5,188,31"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,55,205,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_contains_mixin.html" title="A mixin for adding contains support to a cache." alt="" coords="5,117,205,156"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,180,205,219"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_const_accessor_mixin.html" title="A mixin for adding const access support to a cache." alt="" coords="5,243,205,281"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_patricia_tree_mixin.html" title="A mixin for adding patricia tree support to a cache." alt="" coords="5,305,205,344"/>
+</map>

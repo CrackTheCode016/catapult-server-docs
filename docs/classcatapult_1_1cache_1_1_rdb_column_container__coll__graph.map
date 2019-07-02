@@ -1,0 +1,7 @@
+<map id="catapult::cache::RdbColumnContainer" name="catapult::cache::RdbColumnContainer">
+<area shape="rect" id="node1" title="RocksDb&#45;backed container adapter." alt="" coords="189,279,378,317"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_rocks_database.html" title="RocksDb&#45;backed database." alt="" coords="177,192,390,217"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_rocks_database_settings.html" title="RocksDb settings." alt="" coords="5,92,218,131"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_file_size.html" title="Represents a file size." alt="" coords="35,5,189,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_rocks_pruning_filter.html" title="Rocks pruning filter." alt="" coords="242,92,443,131"/>
+</map>

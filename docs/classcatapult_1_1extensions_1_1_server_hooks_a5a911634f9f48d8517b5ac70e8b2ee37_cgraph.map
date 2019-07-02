@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServerHooks::setChainSyncedPredicate" name="catapult::extensions::ServerHooks::setChainSyncedPredicate">
+<area shape="rect" id="node1" title="Sets the chain synced predicate." alt="" coords="5,5,216,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a3ca7f0d7e0b5d96e1e8443ce191a2af2" title="Sets dest to source if and only if dest is unset." alt="" coords="264,12,403,51"/>
+</map>

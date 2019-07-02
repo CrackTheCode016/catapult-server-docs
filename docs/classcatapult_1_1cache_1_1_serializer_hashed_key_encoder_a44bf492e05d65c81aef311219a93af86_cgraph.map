@@ -1,0 +1,5 @@
+<map id="catapult::cache::SerializerHashedKeyEncoder::EncodeKey" name="catapult::cache::SerializerHashedKeyEncoder::EncodeKey">
+<area shape="rect" id="node1" title="Encodes key by hashing it." alt="" coords="5,24,221,63"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1cache.html#aa5c8d1d9bd3d6a9222e50667c9306aef" title="Serializes value&#45;based key (value)." alt="" coords="269,5,461,31"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1crypto.html#a66aad84b21ea4a9e761e828aa84be790" title="Calculates the 256&#45;bit SHA3 hash of dataBuffer into hash." alt="" coords="275,55,455,80"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::cache::RdbTypedColumnContainer::prune" name="catapult::cache::RdbTypedColumnContainer::prune">
+<area shape="rect" id="node1" title="Prunes elements with keys smaller than key. Returns number of pruned elements." alt="" coords="258,5,437,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1cache.html#a2a5660ae8483f37ca04306cf416b6b6d" title="Optionally prunes elements using pruningBoundary, which indicates the upper bound of elements to remo..." alt="" coords="5,12,210,37"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="catapult::local::CatapultSystemState::commitStep" name="catapult::local::CatapultSystemState::commitStep">
+<area shape="rect" id="node1" title="Last server commit operation step that succeeded." alt="" coords="5,61,180,100"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_index_file.html#a47835027fd86fa37a1f5a0e265c5de55" title="true if the index file exists." alt="" coords="251,5,398,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_index_file.html#abf04a75491d6a2b7d696539703ea6711" title="Gets the index value." alt="" coords="238,68,411,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1local_1_1_catapult_system_state.html#af13403ea6b57d9062e2f7fbf00fa079b" title=" " alt="" coords="228,117,421,156"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_index_file.html#adad14744c9d6b1ba0f202fa803d6ec7f" title=" " alt="" coords="479,5,626,44"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="483,68,623,93"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1config_1_1_catapult_directory.html#a14589c15e2939c16cd32d3eec7e1c4f3" title="Gets the path for the file with name." alt="" coords="469,117,637,156"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1config_1_1_catapult_data_directory.html#acbe9365e29127dc0951a09655f06a49e" title="Gets the root data directory." alt="" coords="469,180,637,219"/>
+</map>

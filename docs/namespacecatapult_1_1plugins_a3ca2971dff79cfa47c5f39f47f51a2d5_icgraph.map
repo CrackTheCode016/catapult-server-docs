@@ -1,0 +1,5 @@
+<map id="catapult::plugins::CreateAccountLinkTransactionPlugin" name="catapult::plugins::CreateAccountLinkTransactionPlugin">
+<area shape="rect" id="node1" title="Creates an account link transaction plugin." alt="" coords="448,5,651,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#ac34308261fb4204bd98475d9954970b8" title="Registers account link support with manager." alt="" coords="190,12,400,51"/>
+<area shape="rect" id="node3" href="$_account_link_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,142,44"/>
+</map>

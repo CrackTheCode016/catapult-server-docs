@@ -1,0 +1,13 @@
+<map id="catapult::chain::PtUpdater::Impl::addCosignature" name="catapult::chain::PtUpdater::Impl::addCosignature">
+<area shape="rect" id="node1" title=" " alt="" coords="5,221,180,260"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1_pt_updater_1_1_impl.html#a436fb4b5e93ff0715216ec102ecc19e8" title=" " alt="" coords="228,161,409,200"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1_memory_cache_proxy.html#a3a98cca9b709f3cec2df078b0a5a56ea" title=" " alt="" coords="721,252,927,291"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1_pt_updater_1_1_impl.html#a614e8c2ab45ae191f98c00464726d515" title=" " alt="" coords="473,36,647,75"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1chain_1_1_pt_updater_1_1_impl.html#a4f97cdb3c32593030fd05f983b660841" title=" " alt="" coords="473,99,647,137"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1chain_1_1_pt_updater_1_1_impl.html#a2534872e7a7ad8ed05dd22e7e346ff59" title=" " alt="" coords="473,161,647,200"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1_memory_cache_proxy.html#af4babccc091c51d69a231201508c3893" title="Gets a read only view based on this cache." alt="" coords="457,224,663,263"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1partialtransaction.html#a143289bb6891ad6005ba5b6911bd3c5e" title="Stitches a weak cosigned transaction info into a full aggregate transaction." alt="" coords="736,36,913,75"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1_weak_cosigned_transaction_info.html#ad350a72b1f0db059c1062dc4d0b57e77" title="Gets the cosignatures." alt="" coords="985,5,1195,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1_weak_cosigned_transaction_info.html#a960f29cfd1cdd66e239cff14895237f3" title="Gets the transaction." alt="" coords="985,68,1195,107"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1_basic_transactions_cache_modifier_proxy.html#ab307e969debdaf7dbc60103e6aa4d8ac" title="Removes the transaction identified by hash from the cache." alt="" coords="711,161,937,200"/>
+</map>

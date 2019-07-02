@@ -1,0 +1,4 @@
+<map id="catapult::model::AreEqualExcludingChannel" name="catapult::model::AreEqualExcludingChannel">
+<area shape="rect" id="node1" title="Returns true if lhs and rhs have the same source (facility and code)." alt="" coords="5,5,179,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="227,5,350,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::nodediscovery::BatchPeersRequestor" name="catapult::nodediscovery::BatchPeersRequestor">
+<area shape="rect" id="node1" title="Creates a batch peers requestor." alt="" coords="20,105,181,144"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1net_1_1_packet_io_picker_container.html" title="A collection of packet io pickers." alt="" coords="5,5,196,44"/>
+</map>

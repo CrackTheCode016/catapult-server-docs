@@ -1,0 +1,4 @@
+<map id="catapult::builders::HashLockBuilder" name="catapult::builders::HashLockBuilder">
+<area shape="rect" id="node1" title="Builder for a hash lock transaction." alt="" coords="10,92,140,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_transaction_builder.html" title="Base transaction builder." alt="" coords="5,5,145,44"/>
+</map>

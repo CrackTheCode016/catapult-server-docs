@@ -1,0 +1,8 @@
+<map id="catapult::extensions::CreateNodeSelector" name="catapult::extensions::CreateNodeSelector">
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,155,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node_container_modifier.html#ae7a7184fb05dfe96a6935e69a62a5f2e" title="Adds connection states for the service identified by serviceId to all nodes with role." alt="" coords="203,5,407,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_node_container.html#a1381c01fadfc5027cf44e1f8633efcf6" title="Gets a write only view of the nodes." alt="" coords="204,68,405,107"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1extensions.html#a128a45c96e01fb4e30052993af519e5d" title=" " alt="" coords="235,131,374,169"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="455,68,678,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="726,68,892,107"/>
+</map>

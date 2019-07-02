@@ -1,0 +1,4 @@
+<map id="catapult::consumers::Continue" name="catapult::consumers::Continue">
+<area shape="rect" id="node1" title="Creates a continuation consumer result." alt="" coords="269,12,409,51"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1consumers.html#ab5b07f56280bc03c283bfe1a5567d7ee" title="Creates a consumer that cleans up temporary state produced by the block chain sync consumer given dat..." alt="" coords="5,5,221,57"/>
+</map>

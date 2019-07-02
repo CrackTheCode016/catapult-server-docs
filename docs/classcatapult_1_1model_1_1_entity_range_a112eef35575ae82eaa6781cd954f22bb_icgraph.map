@@ -1,0 +1,6 @@
+<map id="catapult::model::EntityRange::cbegin" name="catapult::model::EntityRange::cbegin">
+<area shape="rect" id="node1" title="Returns a const iterator that represents the first entity." alt="" coords="245,68,437,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_entity_range.html#a61bd0c035dd26c7810cbd93624eca50c" title="Returns a const iterator that represents the first entity." alt="" coords="5,5,197,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_entity_range.html#a5773379210f7137f3cda069d5758c244" title=" " alt="" coords="5,68,197,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1model.html#acac53f75da611f23ca1afd6296d63291" title="Compares two entity ranges (lhs and rhs) and returns the index of the first non&#45;equal element." alt="" coords="16,131,187,169"/>
+</map>

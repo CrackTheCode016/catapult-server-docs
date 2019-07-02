@@ -1,0 +1,6 @@
+<map id="catapult::cache::ForEachIdentifierWithGroup" name="catapult::cache::ForEachIdentifierWithGroup">
+<area shape="rect" id="node1" title="Calls action for each value in set with grouping key according to groupedSet." alt="" coords="308,95,477,133"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html#ae0d0a0c3cfc1d0203582bed3c4127333" title="Processes all unused lock infos that expired at height by passing them to consumer." alt="" coords="5,5,260,71"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#a2895bcd73c8e19622b3f0cf99b334ecb" title="Prunes the namespace cache at height." alt="" coords="22,95,244,133"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_height_based_touch_mixin.html#aa19887af123929cdbd8910e0798538c1" title="Touches the cache at height and returns identifiers of all deactivating elements." alt="" coords="35,157,230,196"/>
+</map>

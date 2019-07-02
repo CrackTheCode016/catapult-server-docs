@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountActivityBuckets::update" name="catapult::state::AccountActivityBuckets::update">
+<area shape="rect" id="node1" title=" " alt="" coords="218,5,378,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1importance.html#a4c47ca4f3d743643f76f1e268d9e685a" title="Finalizes account activity information contained in buckets at height with specified importance." alt="" coords="5,5,170,44"/>
+</map>

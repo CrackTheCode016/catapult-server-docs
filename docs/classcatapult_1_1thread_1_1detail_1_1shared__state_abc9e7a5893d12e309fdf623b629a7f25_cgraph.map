@@ -1,0 +1,7 @@
+<map id="catapult::thread::detail::shared_state::set_exception" name="catapult::thread::detail::shared_state::set_exception">
+<area shape="rect" id="node1" title="Sets the result of this shared state to pException." alt="" coords="5,47,201,85"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#a9e7c867b97d926404d709b054f8d2314" title=" " alt="" coords="249,5,401,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#adee789c1101b7eb3434301de491d0adb" title=" " alt="" coords="249,81,401,120"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#aab6f6758d2cc0778cd626b1379b328a4" title="Returns true if this shared state has completed and get will not block." alt="" coords="481,12,645,51"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#af796b474841876424b27ac1f174ddb31" title=" " alt="" coords="449,81,676,120"/>
+</map>

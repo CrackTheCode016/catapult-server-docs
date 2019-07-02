@@ -1,0 +1,4 @@
+<map id="catapult::cache::BasicAggregateTransactionsCache&lt; TCacheTraits, TAggregateCacheModifier &gt;" name="catapult::cache::BasicAggregateTransactionsCache&lt; TCacheTraits, TAggregateCacheModifier &gt;">
+<area shape="rect" id="node1" title="A basic aggregate transactions cache that delegates to a wrapped cache and raises notifications on a ..." alt="" coords="5,79,236,131"/>
+<area shape="rect" id="node2" title=" " alt="" coords="33,5,208,31"/>
+</map>

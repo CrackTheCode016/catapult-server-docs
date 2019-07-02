@@ -1,0 +1,8 @@
+<map id="catapult::cache::NamespaceCache" name="catapult::cache::NamespaceCache">
+<area shape="rect" id="node1" title="Synchronized cache composed of namespace information." alt="" coords="45,431,235,469"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache_with_init.html" title=" " alt="" coords="5,343,275,381"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_synchronized_cache.html" title=" " alt="" coords="28,255,253,293"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_namespace_cache.html" title="Cache composed of namespace information." alt="" coords="29,155,251,193"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_basic_cache.html" title=" " alt="" coords="58,80,222,105"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="57,5,223,31"/>
+</map>

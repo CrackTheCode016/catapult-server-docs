@@ -1,0 +1,4 @@
+<map id="catapult::io::FileQueueReader::tryReadNextMessage" name="catapult::io::FileQueueReader::tryReadNextMessage">
+<area shape="rect" id="node1" title="Tries to read the next message and forwards it to consumer if successful." alt="" coords="197,5,395,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1subscribers.html#a7ad542fdc2dec0f88e17d62f78a44e69" title="Reads all messages from reader into subscriber using readNextMessage." alt="" coords="5,5,149,44"/>
+</map>

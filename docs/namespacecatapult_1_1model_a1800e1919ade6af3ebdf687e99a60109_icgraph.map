@@ -1,0 +1,4 @@
+<map id="catapult::model::ExtractMatchingEntityInfos" name="catapult::model::ExtractMatchingEntityInfos">
+<area shape="rect" id="node1" title="Extracts all entity infos for which predicate returns true from elements into entityInfos." alt="" coords="267,12,428,51"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1consumers.html#a664cc311212eed19dfc9649c0044d592" title=" " alt="" coords="5,5,219,57"/>
+</map>

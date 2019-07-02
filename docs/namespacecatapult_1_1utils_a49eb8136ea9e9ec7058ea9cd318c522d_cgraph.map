@@ -1,0 +1,4 @@
+<map id="catapult::utils::operator+" name="catapult::utils::operator+">
+<area shape="rect" id="node1" title="Adds timestamp and a timeSpan resulting in new timestamp." alt="" coords="5,12,169,37"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_time_span.html#a108f936a27b57fcfce207a0db30dd12d" title="Returns the number of milliseconds." alt="" coords="217,5,384,44"/>
+</map>

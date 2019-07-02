@@ -1,0 +1,16 @@
+<map id="catapult::model::BalanceChangeReceipt" name="catapult::model::BalanceChangeReceipt">
+<area shape="rect" id="node1" title="Binary layout for a balance change receipt." alt="" coords="1038,140,1205,179"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_receipt.html" title="Binary layout for a receipt entity." alt="" coords="761,56,925,81"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1_size_prefixed_entity.html" title="Binary layout for a size prefixed entity." alt="" coords="511,5,705,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="221,12,409,37"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="758,107,928,145"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="523,68,692,133"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1_amount__tag.html" title=" " alt="" coords="241,75,389,100"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="231,128,399,167"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="517,157,698,223"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,135,172,160"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="754,171,933,209"/>
+<area shape="rect" id="node12" href="$structcatapult_1_1_mosaic_id__tag.html" title=" " alt="" coords="238,196,392,221"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="761,236,926,275"/>
+<area shape="rect" id="node14" href="$structcatapult_1_1_key__tag.html" title=" " alt="" coords="546,247,670,272"/>
+</map>

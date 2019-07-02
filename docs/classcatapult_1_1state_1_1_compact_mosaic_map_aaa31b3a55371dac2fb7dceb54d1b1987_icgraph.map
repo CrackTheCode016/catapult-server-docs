@@ -1,0 +1,6 @@
+<map id="catapult::state::CompactMosaicMap::size" name="catapult::state::CompactMosaicMap::size">
+<area shape="rect" id="node1" title="Gets the number of mosaics in the map." alt="" coords="694,5,859,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_balances.html#a5f1b2b2d93fc0b2ca25d5e823a81ace2" title="Returns the number of mosaics owned." alt="" coords="486,5,646,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_account_state_non_historical_serializer.html#ad281db9730de4a014c0c3b6b1a7db833" title="Saves accountState to output." alt="" coords="213,5,438,44"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1_account_state_serializer.html#a0222b98ca9ca1cdeb04e14686eb21d2d" title="Saves accountState to output." alt="" coords="5,5,165,44"/>
+</map>

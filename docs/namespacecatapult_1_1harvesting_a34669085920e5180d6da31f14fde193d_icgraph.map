@@ -1,0 +1,4 @@
+<map id="catapult::harvesting::CreateTransactionsInfoSupplier" name="catapult::harvesting::CreateTransactionsInfoSupplier">
+<area shape="rect" id="node1" title="Creates a default transactions info supplier aroundutCache for specified transaction strategy." alt="" coords="273,5,488,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1harvesting.html#a9fb4e1d5aff013aae5e274fb09a8891e" title="Creates a default block generator around utFacadeFactory and utCache for specified transaction strate..." alt="" coords="5,5,225,44"/>
+</map>

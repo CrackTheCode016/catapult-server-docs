@@ -1,0 +1,4 @@
+<map id="catapult::timesync::filters::CreateClampingFilter" name="catapult::timesync::filters::CreateClampingFilter">
+<area shape="rect" id="node1" title="Creates a filter that filters out out samples that have a non tolerable high time offset." alt="" coords="5,5,199,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1mongo_1_1mappers.html#aa06da8a74993f2239f74f4e43014edd6" title="Converts base value to int64_t." alt="" coords="247,5,423,44"/>
+</map>

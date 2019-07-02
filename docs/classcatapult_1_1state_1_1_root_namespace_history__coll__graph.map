@@ -1,0 +1,8 @@
+<map id="catapult::state::RootNamespaceHistory" name="catapult::state::RootNamespaceHistory">
+<area shape="rect" id="node1" title="A root namespace history." alt="" coords="1047,27,1258,65"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="759,27,967,65"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="507,13,710,79"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1_namespace_id__tag.html" title="Namespace identifier." alt="" coords="221,5,405,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="229,55,397,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
+</map>

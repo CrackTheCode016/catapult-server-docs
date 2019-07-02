@@ -1,0 +1,9 @@
+<map id="catapult::model::CalculateTransactionFee" name="catapult::model::CalculateTransactionFee">
+<area shape="rect" id="node1" title="Calculates the fee for transaction contained in block with feeMultiplier." alt="" coords="502,144,677,183"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1_transaction_fee_maximizer.html#a84001e8374a2e2dc24e8f7a4ea15ae00" title="Applies transactionInfo to the maximizer to include in the best fee policy calculation." alt="" coords="251,5,432,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1_ut_updater_1_1_impl.html#a165effc0ff1a7535a6ba0d70c3c19d52" title=" " alt="" coords="254,81,429,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1model.html#a2e8df44bbbf4f5bca164315065d87383" title="Calculates information about transactions stored in block." alt="" coords="254,144,429,183"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1harvesting_1_1_harvesting_ut_facade_1_1_impl.html#afa92b4e2577623943a96b8e048e45d6d" title=" " alt="" coords="266,207,417,259"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_memory_ut_cache_view.html#a6395bb0d06b63cb148f8ce7c4fca6731" title=" " alt="" coords="229,283,454,321"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1mongo_1_1mappers.html#a58177103e3bfffada88e7318d1d57752" title="Maps a blockElement to the corresponding db model entity." alt="" coords="5,144,181,183"/>
+</map>

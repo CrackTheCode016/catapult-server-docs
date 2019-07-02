@@ -1,0 +1,4 @@
+<map id="catapult::subscribers::ReadNextBlockChange" name="catapult::subscribers::ReadNextBlockChange">
+<area shape="rect" id="node1" title="Reads next block change from inputStream and forwards it to subscriber." alt="" coords="5,5,173,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#aac66f8080fea9c0e50ef9d8665f3a098" title="Reads value from input." alt="" coords="221,12,353,37"/>
+</map>

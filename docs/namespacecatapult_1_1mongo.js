@@ -1,0 +1,28 @@
+var namespacecatapult_1_1mongo =
+[
+    [ "mappers", "namespacecatapult_1_1mongo_1_1mappers.html", null ],
+    [ "plugins", "namespacecatapult_1_1mongo_1_1plugins.html", "namespacecatapult_1_1mongo_1_1plugins" ],
+    [ "storages", "namespacecatapult_1_1mongo_1_1storages.html", "namespacecatapult_1_1mongo_1_1storages" ],
+    [ "AggregateExternalCacheStorage", "classcatapult_1_1mongo_1_1_aggregate_external_cache_storage.html", "classcatapult_1_1mongo_1_1_aggregate_external_cache_storage" ],
+    [ "ApiStateChangeSubscriber", "classcatapult_1_1mongo_1_1_api_state_change_subscriber.html", "classcatapult_1_1mongo_1_1_api_state_change_subscriber" ],
+    [ "BulkWriteResult", "structcatapult_1_1mongo_1_1_bulk_write_result.html", "structcatapult_1_1mongo_1_1_bulk_write_result" ],
+    [ "ChainScoreProvider", "classcatapult_1_1mongo_1_1_chain_score_provider.html", "classcatapult_1_1mongo_1_1_chain_score_provider" ],
+    [ "DatabaseConfiguration", "structcatapult_1_1mongo_1_1_database_configuration.html", "structcatapult_1_1mongo_1_1_database_configuration" ],
+    [ "EmbeddedMongoTransactionPlugin", "classcatapult_1_1mongo_1_1_embedded_mongo_transaction_plugin.html", null ],
+    [ "ExternalCacheStorage", "classcatapult_1_1mongo_1_1_external_cache_storage.html", "classcatapult_1_1mongo_1_1_external_cache_storage" ],
+    [ "ExternalCacheStorageBuilder", "classcatapult_1_1mongo_1_1_external_cache_storage_builder.html", "classcatapult_1_1mongo_1_1_external_cache_storage_builder" ],
+    [ "ExternalCacheStorageT", "classcatapult_1_1mongo_1_1_external_cache_storage_t.html", "classcatapult_1_1mongo_1_1_external_cache_storage_t" ],
+    [ "MongoBulkWriter", "classcatapult_1_1mongo_1_1_mongo_bulk_writer.html", "classcatapult_1_1mongo_1_1_mongo_bulk_writer" ],
+    [ "MongoDatabase", "classcatapult_1_1mongo_1_1_mongo_database.html", "classcatapult_1_1mongo_1_1_mongo_database" ],
+    [ "MongoErrorPolicy", "classcatapult_1_1mongo_1_1_mongo_error_policy.html", "classcatapult_1_1mongo_1_1_mongo_error_policy" ],
+    [ "MongoPluginManager", "classcatapult_1_1mongo_1_1_mongo_plugin_manager.html", "classcatapult_1_1mongo_1_1_mongo_plugin_manager" ],
+    [ "MongoReceiptPlugin", "classcatapult_1_1mongo_1_1_mongo_receipt_plugin.html", "classcatapult_1_1mongo_1_1_mongo_receipt_plugin" ],
+    [ "MongoReceiptPluginFactory", "classcatapult_1_1mongo_1_1_mongo_receipt_plugin_factory.html", "classcatapult_1_1mongo_1_1_mongo_receipt_plugin_factory" ],
+    [ "MongoReceiptRegistry", "classcatapult_1_1mongo_1_1_mongo_receipt_registry.html", null ],
+    [ "MongoStorageContext", "classcatapult_1_1mongo_1_1_mongo_storage_context.html", "classcatapult_1_1mongo_1_1_mongo_storage_context" ],
+    [ "MongoTransactionMetadata", "structcatapult_1_1mongo_1_1_mongo_transaction_metadata.html", "structcatapult_1_1mongo_1_1_mongo_transaction_metadata" ],
+    [ "MongoTransactionPlugin", "classcatapult_1_1mongo_1_1_mongo_transaction_plugin.html", "classcatapult_1_1mongo_1_1_mongo_transaction_plugin" ],
+    [ "MongoTransactionPluginFactory", "classcatapult_1_1mongo_1_1_mongo_transaction_plugin_factory.html", "classcatapult_1_1mongo_1_1_mongo_transaction_plugin_factory" ],
+    [ "MongoTransactionPluginT", "classcatapult_1_1mongo_1_1_mongo_transaction_plugin_t.html", "classcatapult_1_1mongo_1_1_mongo_transaction_plugin_t" ],
+    [ "MongoTransactionRegistry", "classcatapult_1_1mongo_1_1_mongo_transaction_registry.html", null ]
+];

@@ -1,0 +1,4 @@
+<map id="catapult::crypto::PrivateKey::begin" name="catapult::crypto::PrivateKey::begin">
+<area shape="rect" id="node1" title="Returns a const iterator to the beginning of the raw key." alt="" coords="5,5,166,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html#aba9b7f8b1f716e8719c21e02473cbee3" title="Returns a const iterator to the first byte." alt="" coords="214,5,379,44"/>
+</map>

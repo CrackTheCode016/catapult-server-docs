@@ -1,0 +1,4 @@
+<map id="catapult::cache::ChunkedDataLoader&lt; TStorageTraits &gt;" name="catapult::cache::ChunkedDataLoader&lt; TStorageTraits &gt;">
+<area shape="rect" id="node1" title="Loads data from an input stream in chunks." alt="" coords="5,92,207,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_input_stream.html" title="Reader interface." alt="" coords="23,5,189,31"/>
+</map>

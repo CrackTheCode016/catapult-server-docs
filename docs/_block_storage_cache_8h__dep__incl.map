@@ -1,0 +1,19 @@
+<map id="catapult&#45;server/src/catapult/io/BlockStorageCache.h" name="catapult&#45;server/src/catapult/io/BlockStorageCache.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1576,5,1794,44"/>
+<area shape="rect" id="node2" href="$_harvesting_service_8cpp.html" title=" " alt="" coords="5,99,250,137"/>
+<area shape="rect" id="node3" href="$_network_height_service_8cpp.html" title=" " alt="" coords="275,92,496,144"/>
+<area shape="rect" id="node4" href="$_time_synchronization_utils_8cpp.html" title=" " alt="" coords="520,92,747,144"/>
+<area shape="rect" id="node5" href="$_local_chain_api_8cpp.html" title=" " alt="" coords="771,99,979,137"/>
+<area shape="rect" id="node6" href="$_block_chain_sync_consumer_8cpp.html" title=" " alt="" coords="1003,92,1211,144"/>
+<area shape="rect" id="node7" href="$_local_node_state_file_storage_8cpp.html" title=" " alt="" coords="1235,92,1448,144"/>
+<area shape="rect" id="node8" href="$_nemesis_block_loader_8cpp.html" title=" " alt="" coords="1472,92,1648,144"/>
+<area shape="rect" id="node9" href="$_height_request_processor_8h.html" title=" " alt="" coords="1723,92,1941,144"/>
+<area shape="rect" id="node10" href="$_chain_handlers_8cpp.html" title=" " alt="" coords="1467,199,1711,237"/>
+<area shape="rect" id="node12" href="$_merkle_handlers_8cpp.html" title=" " alt="" coords="1953,199,2202,237"/>
+<area shape="rect" id="node13" href="$_block_storage_cache_8cpp.html" title=" " alt="" coords="2016,99,2248,137"/>
+<area shape="rect" id="node14" href="$_multi_block_loader_8cpp.html" title=" " alt="" coords="2272,92,2429,144"/>
+<area shape="rect" id="node15" href="$_recovery_orchestrator_8cpp.html" title=" " alt="" coords="2454,92,2634,144"/>
+<area shape="rect" id="node16" href="$_local_node_8cpp.html" title=" " alt="" coords="2657,92,2801,144"/>
+<area shape="rect" id="node17" href="$_nemesis_block_notifier_8cpp.html" title=" " alt="" coords="2825,92,3001,144"/>
+<area shape="rect" id="node11" href="$_diagnostic_handlers_8cpp.html" title=" " alt="" coords="1736,192,1928,244"/>
+</map>

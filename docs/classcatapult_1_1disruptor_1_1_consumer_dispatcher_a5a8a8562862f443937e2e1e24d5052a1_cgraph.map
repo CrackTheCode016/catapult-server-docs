@@ -1,0 +1,8 @@
+<map id="catapult::disruptor::ConsumerDispatcher::advance" name="catapult::disruptor::ConsumerDispatcher::advance">
+<area shape="rect" id="node1" title=" " alt="" coords="5,124,159,176"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1_consumer_entry.html#aab660b9f868149ba5711338338669b88" title="Advances the position." alt="" coords="207,5,386,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1disruptor_1_1_disruptor.html#a9d24a4e04f96a654b96f8c76e982e2a0" title="Gets element at given position." alt="" coords="222,68,372,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1disruptor_1_1_consumer_entry.html#a1fe39e6b84e4eddaa735fd4900f4bb00" title="Returns consumer level." alt="" coords="219,131,375,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1disruptor_1_1_consumer_entry.html#abf6185786b0250d8c5d974a30463ce82" title="Returns current position (in the circular buffer)." alt="" coords="210,193,384,232"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1disruptor_1_1_disruptor_barriers.html#a1769e0b9138cfadaadd3586ff738387b" title="Returns number of barriers." alt="" coords="217,256,377,295"/>
+</map>

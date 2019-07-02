@@ -1,0 +1,6 @@
+<map id="catapult::model::CalculateBlockTransactionsInfo" name="catapult::model::CalculateBlockTransactionsInfo">
+<area shape="rect" id="node1" title="Calculates information about transactions stored in block." alt="" coords="5,37,180,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a832c1b78aeb20ec2066b2fff8ad4e69d" title="Calculates the fee for transaction contained in block with feeMultiplier." alt="" coords="235,5,410,44"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1_transaction_container.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="228,68,416,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="464,5,634,44"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="catapult::cache::HashLockInfoCache" name="catapult::cache::HashLockInfoCache">
+<area shape="rect" id="node1" title="Synchronized cache composed of hash lock info information." alt="" coords="34,281,212,320"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache.html" title=" " alt="" coords="5,193,241,232"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_cache.html" title=" " alt="" coords="19,80,227,132"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="40,5,206,31"/>
+</map>

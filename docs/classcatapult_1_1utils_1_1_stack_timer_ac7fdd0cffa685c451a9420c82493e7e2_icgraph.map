@@ -1,0 +1,5 @@
+<map id="catapult::utils::StackTimer::millis" name="catapult::utils::StackTimer::millis">
+<area shape="rect" id="node1" title="Gets the number of elapsed milliseconds since this logger was created." alt="" coords="260,37,434,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_slow_operation_logger.html#a49b94f304383ac1e39a17edc7719d1d3" title="Destructor." alt="" coords="5,5,212,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_stack_logger.html#ab670ce7a10905995963a2ea898f4af08" title="Destructor." alt="" coords="18,68,200,107"/>
+</map>

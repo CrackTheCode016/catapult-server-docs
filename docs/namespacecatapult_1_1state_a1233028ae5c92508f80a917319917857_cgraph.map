@@ -1,0 +1,5 @@
+<map id="catapult::state::RequireLinkedRemoteAndMainAccounts" name="catapult::state::RequireLinkedRemoteAndMainAccounts">
+<area shape="rect" id="node1" title="Requires that remoteAccountState and mainAccountState state are linked." alt="" coords="5,5,220,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#ad38590910f93b13b4563bf02c275bdb7" title="Creates an encoded address from an address." alt="" coords="268,5,436,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a6df7a03546b149e9dbbf3b2a0aea7a13" title=" " alt="" coords="484,12,681,37"/>
+</map>

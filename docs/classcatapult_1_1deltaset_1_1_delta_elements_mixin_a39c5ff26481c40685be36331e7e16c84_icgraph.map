@@ -1,0 +1,6 @@
+<map id="catapult::deltaset::DeltaElementsMixin::CollectAllPointers" name="catapult::deltaset::DeltaElementsMixin::CollectAllPointers">
+<area shape="rect" id="node1" title=" " alt="" coords="200,81,346,133"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1deltaset_1_1_delta_elements_mixin.html#ae211129591dbc5f1c01a8def8d165123" title="Gets pointers to all added elements." alt="" coords="5,5,152,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1deltaset_1_1_delta_elements_mixin.html#a4f5e8c545fee540c08a82afdffd04052" title="Gets pointers to all modified elements." alt="" coords="5,81,152,133"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1deltaset_1_1_delta_elements_mixin.html#a4a6510aca21c1dd897bae47dac92ac80" title="Gets pointers to all removed elements." alt="" coords="5,157,152,209"/>
+</map>

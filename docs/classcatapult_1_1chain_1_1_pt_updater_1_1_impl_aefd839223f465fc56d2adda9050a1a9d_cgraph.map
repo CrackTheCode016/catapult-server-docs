@@ -1,0 +1,5 @@
+<map id="catapult::chain::PtUpdater::Impl::refreshStaleCacheEntry" name="catapult::chain::PtUpdater::Impl::refreshStaleCacheEntry">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,208,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_memory_cache_proxy.html#a3a98cca9b709f3cec2df078b0a5a56ea" title=" " alt="" coords="267,5,472,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_transactions_cache_modifier_proxy.html#ab307e969debdaf7dbc60103e6aa4d8ac" title="Removes the transaction identified by hash from the cache." alt="" coords="256,68,483,107"/>
+</map>

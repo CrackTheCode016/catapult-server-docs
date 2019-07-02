@@ -1,0 +1,4 @@
+<map id="catapult::mongo::mappers::StreamReceipt" name="catapult::mongo::mappers::StreamReceipt">
+<area shape="rect" id="node1" title="Streams a receipt to builder." alt="" coords="229,5,404,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1mongo_1_1mappers.html#a9dc3a85ecdc73bcbd3e1655b886cdc3b" title="Streams a receipt into builder using receiptRegistry for mapping derived receipt types." alt="" coords="5,5,181,44"/>
+</map>

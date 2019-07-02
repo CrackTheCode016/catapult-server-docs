@@ -1,0 +1,5 @@
+<map id="catapult::cache::ReadOnlyArtifactCache&lt; TCache, TCacheDelta, TKey, TValue &gt;::ReadOnlyFindIterator&lt; TCacheIterator, TCacheDeltaIterator &gt;" name="catapult::cache::ReadOnlyArtifactCache&lt; TCache, TCacheDelta, TKey, TValue &gt;::ReadOnlyFindIterator&lt; TCacheIterator, TCacheDeltaIterator &gt;">
+<area shape="rect" id="node1" title="Find iterator returned by ReadOnlyArtifactCache::find." alt="" coords="9,92,261,171"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,116,31"/>
+<area shape="rect" id="node3" title=" " alt="" coords="139,5,280,31"/>
+</map>

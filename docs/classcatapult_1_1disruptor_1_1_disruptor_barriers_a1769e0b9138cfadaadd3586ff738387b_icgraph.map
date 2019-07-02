@@ -1,0 +1,10 @@
+<map id="catapult::disruptor::DisruptorBarriers::size" name="catapult::disruptor::DisruptorBarriers::size">
+<area shape="rect" id="node1" title="Returns number of barriers." alt="" coords="891,51,1052,89"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html#a5a8a8562862f443937e2e1e24d5052a1" title=" " alt="" coords="679,5,833,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html#ae151a46a4723703f5658feb5797b60ad" title=" " alt="" coords="669,81,843,133"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html#a8095059e0f532a056c75544763afb1bb" title=" " alt="" coords="467,5,621,57"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html#a9b93ca3bb7e9dda7287454590b2eb84e" title=" " alt="" coords="467,81,621,133"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1disruptor_1_1_batch_range_dispatcher.html#ae836b10c01d785b369623d517f4a88d3" title="Dispatches all queued elements to the underlying dispatcher." alt="" coords="253,43,419,95"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1disruptor_1_1_consumer_dispatcher.html#a89880e8ab9556623cf671af6bc50fe10" title="Pushes the input into underlying disruptor and returns the assigned element id." alt="" coords="259,119,413,171"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1extensions.html#a43373300d407f59cb43fccfa2b1b7e54" title="Creates a task with name that dispatches all transactions batched in dispatcher." alt="" coords="5,49,205,88"/>
+</map>

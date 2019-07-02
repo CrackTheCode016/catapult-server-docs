@@ -1,0 +1,4 @@
+<map id="catapult::thread::MultiServicePool::pushIsolatedPool" name="catapult::thread::MultiServicePool::pushIsolatedPool">
+<area shape="rect" id="node1" title="Creates a new isolated thread pool with a default number of threads and name." alt="" coords="5,5,199,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a10bd9d4e6476b00d506ce51fa984d71a" title="A default pool concurrency level based on the local hardware configuration." alt="" coords="247,5,447,44"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="catapult&#45;server/extensions/mongo/plugins/namespace/src/mappers/NamespaceDescriptorMapper.cpp" name="catapult&#45;server/extensions/mongo/plugins/namespace/src/mappers/NamespaceDescriptorMapper.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="913,5,1147,71"/>
+<area shape="rect" id="node2" href="$_namespace_descriptor_mapper_8h.html" title=" " alt="" coords="784,119,993,144"/>
+<area shape="rect" id="node4" href="$_root_namespace_8h.html" title=" " alt="" coords="349,279,538,317"/>
+<area shape="rect" id="node44" href="$_mapper_utils_8h.html" title=" " alt="" coords="935,439,1123,477"/>
+<area shape="rect" id="node47" href="$_namespace_types_8h.html" title=" " alt="" coords="1283,279,1487,317"/>
+<area shape="rect" id="node48" href="$_casting_8h.html" title=" " alt="" coords="1669,445,1824,471"/>
+<area shape="rect" id="node3" href="$_namespace_descriptor_8h.html" title=" " alt="" coords="576,199,740,224"/>
+<area shape="rect" id="node43" href="$_mapper_include_8h.html" title=" " alt="" coords="796,192,984,231"/>
+<area shape="rect" id="node5" href="$_namespace_8h.html" title=" " alt="" coords="548,365,651,391"/>
+<area shape="rect" id="node37" href="$_namespace_alias_8h.html" title=" " alt="" coords="5,365,138,391"/>
+<area shape="rect" id="node38" href="$_hashers_8h.html" title=" " alt="" coords="364,365,524,391"/>
+<area shape="rect" id="node41" title=" " alt="" coords="161,365,200,391"/>
+<area shape="rect" id="node42" title=" " alt="" coords="225,365,340,391"/>
+<area shape="rect" id="node6" href="$_namespace_lifetime_8h.html" title=" " alt="" coords="707,445,857,471"/>
+<area shape="rect" id="node7" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="408,532,522,557"/>
+<area shape="rect" id="node24" href="$_namespace_constants_8h.html" title=" " alt="" coords="458,445,683,471"/>
+<area shape="rect" id="node25" href="$_checked_array_8h.html" title=" " alt="" coords="1147,445,1340,471"/>
+<area shape="rect" id="node8" href="$_byte_array_8h.html" title=" " alt="" coords="281,612,398,637"/>
+<area shape="rect" id="node13" href="$_clamped_base_value_8h.html" title=" " alt="" coords="473,919,656,957"/>
+<area shape="rect" id="node19" title=" " alt="" coords="314,772,365,797"/>
+<area shape="rect" id="node22" href="$_raw_buffer_8h.html" title=" " alt="" coords="1082,772,1203,797"/>
+<area shape="rect" id="node9" href="$_hex_formatter_8h.html" title=" " alt="" coords="472,692,586,717"/>
+<area shape="rect" id="node10" href="$_stream_format_guard_8h.html" title=" " alt="" coords="644,1005,798,1031"/>
+<area shape="rect" id="node12" href="$_traits_8h.html" title=" " alt="" coords="1039,845,1137,871"/>
+<area shape="rect" id="node20" title=" " alt="" coords="482,772,554,797"/>
+<area shape="rect" id="node21" title=" " alt="" coords="579,772,636,797"/>
+<area shape="rect" id="node11" href="$_non_copyable_8h.html" title=" " alt="" coords="696,1152,810,1177"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1539,925,1622,951"/>
+<area shape="rect" id="node14" href="$_base_value_8h.html" title=" " alt="" coords="490,1005,586,1031"/>
+<area shape="rect" id="node15" href="$_immutable_value_8h.html" title=" " alt="" coords="588,1079,715,1104"/>
+<area shape="rect" id="node16" title=" " alt="" coords="429,1079,488,1104"/>
+<area shape="rect" id="node17" title=" " alt="" coords="512,1079,564,1104"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1347,845,1412,871"/>
+<area shape="rect" id="node26" href="$exceptions_8h.html" title=" " alt="" coords="1149,532,1296,557"/>
+<area shape="rect" id="node27" href="$_logging_8h.html" title=" " alt="" coords="1431,612,1539,637"/>
+<area shape="rect" id="node32" title=" " alt="" coords="575,612,776,637"/>
+<area shape="rect" id="node33" title=" " alt="" coords="801,612,967,637"/>
+<area shape="rect" id="node34" title=" " alt="" coords="991,612,1171,637"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1195,612,1255,637"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1279,612,1357,637"/>
+<area shape="rect" id="node28" href="$_path_utils_8h.html" title=" " alt="" coords="1146,692,1232,717"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1255,685,1389,724"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1413,692,1544,717"/>
+<area shape="rect" id="node31" title=" " alt="" coords="983,685,1123,724"/>
+<area shape="rect" id="node39" title=" " alt="" coords="272,445,333,471"/>
+<area shape="rect" id="node40" title=" " alt="" coords="197,445,247,471"/>
+<area shape="rect" id="node45" title=" " alt="" coords="776,525,935,564"/>
+<area shape="rect" id="node46" title=" " alt="" coords="959,532,1102,557"/>
+<area shape="rect" id="node49" title=" " alt="" coords="1668,532,1720,557"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1744,532,1823,557"/>
+</map>

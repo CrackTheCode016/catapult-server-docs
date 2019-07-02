@@ -1,0 +1,5 @@
+<map id="catapult::validators::MapToLogLevel" name="catapult::validators::MapToLogLevel">
+<area shape="rect" id="node1" title="Maps validation result to an appropriate logging level." alt="" coords="5,5,138,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1validators.html#acde08ccd2810b858004dd74b1858cdbd" title="Checks if result has all flags set." alt="" coords="186,5,318,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="366,5,489,44"/>
+</map>

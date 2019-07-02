@@ -1,0 +1,8 @@
+<map id="catapult::subscribers::SubscriptionManager::createTransactionStatusSubscriber" name="catapult::subscribers::SubscriptionManager::createTransactionStatusSubscriber">
+<area shape="rect" id="node1" title="Creates the transaction status subscriber." alt="" coords="5,33,242,85"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1validators.html#ab1ec8c228a28375f47193d6adb524c69" title="Maps validation result to an appropriate logging level." alt="" coords="301,5,433,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1subscribers_1_1_subscription_manager.html#ae9a37d2eaa50150b35c30b4952bbf6ae" title=" " alt="" coords="290,68,445,120"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1validators.html#acde08ccd2810b858004dd74b1858cdbd" title="Checks if result has all flags set." alt="" coords="504,5,636,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="695,63,818,101"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1subscribers_1_1_subscription_manager.html#a5b7c8d3979ea5240425888e57af02ddc" title=" " alt="" coords="493,120,647,172"/>
+</map>

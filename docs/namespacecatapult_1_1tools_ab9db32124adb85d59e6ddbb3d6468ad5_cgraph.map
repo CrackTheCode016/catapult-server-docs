@@ -1,0 +1,7 @@
+<map id="catapult::tools::LoadPeers" name="catapult::tools::LoadPeers">
+<area shape="rect" id="node1" title="Loads p2p peers configuration from resourcesPath for network networkIdentifier." alt="" coords="5,33,181,59"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1config.html#a4d64556ea0af1a17360adc68be4b8866" title="Loads peers configuration from path for network networkIdentifier." alt="" coords="229,27,412,65"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1config.html#adae3d4f6704fbbb5d81bd55d7739e0ee" title="Loads configuration from path using loader." alt="" coords="460,5,687,31"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1config.html#a54603550adbf6b0056aa0eeaa288ed9d" title="Loads peers from the specified path for the network identified by networkIdentifier." alt="" coords="482,55,665,93"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1config.html#a3f33d74e22bfd5d08a5ac93c40e93cbd" title="Loads peers from the specified stream (input) for the network identified by networkIdentifier." alt="" coords="735,55,918,93"/>
+</map>

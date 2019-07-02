@@ -1,0 +1,4 @@
+<map id="catapult::cache::PruneBaseSet" name="catapult::cache::PruneBaseSet">
+<area shape="rect" id="node1" title="Optionally prunes elements using pruningBoundary, which indicates the upper bound of elements to remo..." alt="" coords="5,12,210,37"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_rdb_typed_column_container.html#ac22a0c5cd6f921da20aba37df9f31377" title="Prunes elements with keys smaller than key. Returns number of pruned elements." alt="" coords="258,5,437,44"/>
+</map>

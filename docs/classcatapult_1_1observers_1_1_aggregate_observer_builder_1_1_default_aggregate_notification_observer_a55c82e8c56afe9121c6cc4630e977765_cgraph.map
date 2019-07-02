@@ -1,0 +1,4 @@
+<map id="catapult::observers::AggregateObserverBuilder::DefaultAggregateNotificationObserver::names" name="catapult::observers::AggregateObserverBuilder::DefaultAggregateNotificationObserver::names">
+<area shape="rect" id="node1" title="Gets the names of all sub observers." alt="" coords="5,5,306,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a67207bd5083ee95f96ef4b1b7d62ce01" title="Extracts all names from namedObjects." alt="" coords="354,12,502,51"/>
+</map>

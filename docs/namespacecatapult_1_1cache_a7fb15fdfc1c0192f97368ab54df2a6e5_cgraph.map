@@ -1,0 +1,6 @@
+<map id="catapult::cache::UpdateSet" name="catapult::cache::UpdateSet">
+<area shape="rect" id="node1" title="Applies all changes in deltas to elements." alt="" coords="5,75,187,100"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1deltaset_1_1_delta_elements.html#ac4cba444fccfff0551255d90e77dcfb6" title="Returns true if there are any pending changes." alt="" coords="235,5,435,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_rdb_typed_column_container.html#ae2cb7efd749d15e44ca676a93bf1e4f1" title="Inserts element into container." alt="" coords="245,68,424,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_rdb_typed_column_container.html#a810004f2659dc619fe76c5d36bc03041" title="Removes element with key." alt="" coords="245,131,424,169"/>
+</map>

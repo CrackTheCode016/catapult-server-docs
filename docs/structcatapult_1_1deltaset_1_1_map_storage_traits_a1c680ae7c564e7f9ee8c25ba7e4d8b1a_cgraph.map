@@ -1,0 +1,5 @@
+<map id="catapult::deltaset::MapStorageTraits::ToStorage" name="catapult::deltaset::MapStorageTraits::ToStorage">
+<area shape="rect" id="node1" title="Converts a value type (value) to a storage type." alt="" coords="5,5,147,57"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1deltaset_1_1_map_storage_traits.html#a8ee4dc38b6888c2b0b3938d73c8b05b9" title="Converts a storage type (element) to a key." alt="" coords="195,12,374,51"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1deltaset_1_1_map_key_traits.html#aeb129196d521c795cf39c24187848bf9" title="Converts a storage type (element) to a key." alt="" coords="422,12,577,51"/>
+</map>

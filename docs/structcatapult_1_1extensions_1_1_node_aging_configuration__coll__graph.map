@@ -1,0 +1,8 @@
+<map id="catapult::extensions::NodeAgingConfiguration" name="catapult::extensions::NodeAgingConfiguration">
+<area shape="rect" id="node1" title="Node aging configuration." alt="" coords="1199,27,1373,65"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="871,27,1091,65"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,20,821,72"/>
+<area shape="rect" id="node4" title=" " alt="" coords="234,5,377,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,55,390,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
+</map>

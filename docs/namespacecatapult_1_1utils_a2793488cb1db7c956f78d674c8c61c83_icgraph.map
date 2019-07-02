@@ -1,0 +1,4 @@
+<map id="catapult::utils::Base32Decode" name="catapult::utils::Base32Decode">
+<area shape="rect" id="node1" title=" " alt="" coords="251,5,449,31"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#aa5965678700ab5f1d6b9f1e775677680" title="Decodes a base32 encoded string pointed to by encodedData. The string length must be a multiple of 8." alt="" coords="5,5,203,31"/>
+</map>

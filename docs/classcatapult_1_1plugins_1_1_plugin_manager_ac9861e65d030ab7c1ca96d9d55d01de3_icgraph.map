@@ -1,0 +1,4 @@
+<map id="catapult::plugins::PluginManager::createStatefulValidator" name="catapult::plugins::PluginManager::createStatefulValidator">
+<area shape="rect" id="node1" title="Creates a stateful validator that ignores suppressed failures according to isSuppressedFailure." alt="" coords="260,5,461,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a44c7d7f7857993f882c283d3b2c9419d" title="Creates an execution configuration based on pluginManager." alt="" coords="5,12,212,51"/>
+</map>

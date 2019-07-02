@@ -1,0 +1,8 @@
+<map id="catapult::cache::WriteCacheChanges" name="catapult::cache::WriteCacheChanges">
+<area shape="rect" id="node1" title="Writes serialized cache changes into outputStream." alt="" coords="5,100,193,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_single_cache_changes_t.html#a7e9d2412b493461c71f4fc2f0762ce91" title="Gets pointers to all added elements." alt="" coords="242,5,436,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_single_cache_changes_t.html#a33a447dac9d15f9f882bca68df0ce874" title="Gets pointers to all modified elements." alt="" coords="242,68,437,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_single_cache_changes_t.html#ad93e0b2d66adb7139dd4a9d818c82a88" title="Gets pointers to all removed elements." alt="" coords="241,131,437,169"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1io.html#a8613aa5dbcb9b6bb71adf19a828c495a" title="Writes value into output." alt="" coords="270,193,409,219"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_single_cache_changes_t.html#a26fc28cf5d31833a842768cf9f7badd1" title=" " alt="" coords="485,68,679,107"/>
+</map>

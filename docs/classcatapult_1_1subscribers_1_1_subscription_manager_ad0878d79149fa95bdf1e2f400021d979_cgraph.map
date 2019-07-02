@@ -1,0 +1,6 @@
+<map id="catapult::subscribers::SubscriptionManager::createPtChangeSubscriber" name="catapult::subscribers::SubscriptionManager::createPtChangeSubscriber">
+<area shape="rect" id="node1" title="Creates the pt change subscriber." alt="" coords="5,37,194,89"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_subscription_manager.html#ae9a37d2eaa50150b35c30b4952bbf6ae" title=" " alt="" coords="242,37,397,89"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1subscribers_1_1_subscription_manager.html#a5b7c8d3979ea5240425888e57af02ddc" title=" " alt="" coords="445,5,600,57"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="648,44,771,83"/>
+</map>

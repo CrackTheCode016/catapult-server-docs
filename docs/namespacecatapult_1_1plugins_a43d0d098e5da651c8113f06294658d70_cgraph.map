@@ -1,0 +1,8 @@
+<map id="catapult::plugins::RegisterTransferSubsystem" name="catapult::plugins::RegisterTransferSubsystem">
+<area shape="rect" id="node1" title="Registers transfer support with manager." alt="" coords="5,123,191,161"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="250,5,446,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="243,81,453,133"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="271,157,425,196"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1plugins.html#ac0912acd0af3fd75b2d1c06fba6efd31" title="Creates a transfer transaction plugin." alt="" coords="239,220,456,259"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_plugin_registry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="504,88,709,127"/>
+</map>

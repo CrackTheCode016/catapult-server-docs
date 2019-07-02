@@ -1,0 +1,4 @@
+<map id="catapult::ionet::ServerPacketHandlers::registerHandler" name="catapult::ionet::ServerPacketHandlers::registerHandler">
+<area shape="rect" id="node1" title="Registers a handler for the specified packet type." alt="" coords="5,5,197,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="245,5,368,44"/>
+</map>

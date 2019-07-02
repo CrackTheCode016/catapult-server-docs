@@ -1,0 +1,7 @@
+<map id="catapult::state::AccountRestriction::block" name="catapult::state::AccountRestriction::block">
+<area shape="rect" id="node1" title="Applies modification to the the blocked values." alt="" coords="5,47,165,85"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_restriction_descriptor.html#aaa3cb32eed3d6e27deedcc4972708931" title="Gets the value specific part of the restriction type." alt="" coords="213,5,373,57"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_account_restriction.html#ad4e639ade922ad3f423a85bcb7358a78" title=" " alt="" coords="213,81,373,120"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_restriction_descriptor.html#afcd9eaf120a257979ba9d112a7c4b0c0" title=" " alt="" coords="421,5,581,57"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="629,12,752,51"/>
+</map>

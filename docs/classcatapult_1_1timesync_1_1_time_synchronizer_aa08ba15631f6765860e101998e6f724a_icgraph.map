@@ -1,0 +1,4 @@
+<map id="catapult::timesync::TimeSynchronizer::calculateTimeOffset" name="catapult::timesync::TimeSynchronizer::calculateTimeOffset">
+<area shape="rect" id="node1" title="Calculates a time offset from samples using accountStateCacheView, height and nodeAge." alt="" coords="208,5,351,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1timesync.html#aa4945d3c267ffac0c896cb86ed6cc2d7" title=" " alt="" coords="5,12,160,51"/>
+</map>

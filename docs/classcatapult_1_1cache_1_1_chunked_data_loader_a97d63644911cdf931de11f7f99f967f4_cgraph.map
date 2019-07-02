@@ -1,0 +1,4 @@
+<map id="catapult::cache::ChunkedDataLoader::ChunkedDataLoader" name="catapult::cache::ChunkedDataLoader::ChunkedDataLoader">
+<area shape="rect" id="node1" title="Creates a chunked loader around input." alt="" coords="5,5,227,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="275,12,415,37"/>
+</map>

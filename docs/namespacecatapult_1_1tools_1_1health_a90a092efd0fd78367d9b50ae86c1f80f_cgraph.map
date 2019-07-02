@@ -1,0 +1,5 @@
+<map id="catapult::tools::health::CreateApiNodeChainInfoFuture" name="catapult::tools::health::CreateApiNodeChainInfoFuture">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,221,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node.html#aa7a6deb3194815056c6ac62ef7f43945" title="Gets the endpoint." alt="" coords="284,5,428,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1_io_thread_pool.html#ab82a41d2255646aaf1d7c21738b05a49" title="Gets the underlying io_context." alt="" coords="269,68,443,107"/>
+</map>

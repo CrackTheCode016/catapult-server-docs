@@ -1,0 +1,5 @@
+<map id="catapult::thread::detail::shared_state::set_continuation" name="catapult::thread::detail::shared_state::set_continuation">
+<area shape="rect" id="node1" title="Configures continuation to run at the completion of this shared state." alt="" coords="5,37,216,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#af796b474841876424b27ac1f174ddb31" title=" " alt="" coords="264,5,490,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1detail_1_1shared__state.html#aab6f6758d2cc0778cd626b1379b328a4" title="Returns true if this shared state has completed and get will not block." alt="" coords="295,68,459,107"/>
+</map>

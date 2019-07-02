@@ -1,0 +1,4 @@
+<map id="catapult::extensions::LocalNodeStateSerializer::moveTo" name="catapult::extensions::LocalNodeStateSerializer::moveTo">
+<area shape="rect" id="node1" title="Moves serialized state to destinationDirectory." alt="" coords="269,5,448,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1sync.html#a41faaaf95114d7dafd8cda2d766fcc0a" title="Updates syncHandlers to support supplemental data resiliency given dataDirectory, cache and score." alt="" coords="5,12,221,51"/>
+</map>

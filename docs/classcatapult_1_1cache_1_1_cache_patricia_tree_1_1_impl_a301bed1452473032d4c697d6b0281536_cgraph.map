@@ -1,0 +1,10 @@
+<map id="catapult::cache::CachePatriciaTree::Impl::Impl" name="catapult::cache::CachePatriciaTree::Impl::Impl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,72,207,111"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_rdb_column_container.html#afed292aa2438157f8313fa1d278c408f" title=" " alt="" coords="255,72,444,111"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_rdb_column_container.html#a8df70ceb2f945a5e8bbc87a9c0b925c5" title=" " alt="" coords="492,72,680,111"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_rdb_data_iterator.html#a4410eb8ab76660f9d47a5cadedb6fd82" title="Iterator representing no match." alt="" coords="762,11,933,49"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_rocks_database.html#a89e8e282f27387d7175b497ca1c0462a" title="Gets key from columnId returning data in result." alt="" coords="728,79,967,104"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1_rdb_data_iterator.html#a2829b962d0c8cd0af344bb0a4295caa4" title="Returns storage associated with iterator." alt="" coords="1015,131,1186,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_rdb_data_iterator.html#aeb8a0179327878102912bbc35e317f37" title="Creates an iterator." alt="" coords="1015,5,1186,44"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_rdb_data_iterator.html#a403acb0d7aaf4c0ed05afab789719ba5" title="Sets flag to found indicating that iterator contains data." alt="" coords="1015,68,1186,107"/>
+</map>

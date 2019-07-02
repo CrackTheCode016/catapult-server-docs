@@ -1,0 +1,10 @@
+<map id="catapult::ionet::NodeInteractionsContainer::incrementFailures" name="catapult::ionet::NodeInteractionsContainer::incrementFailures">
+<area shape="rect" id="node1" title="Increments failed interactions at timestamp." alt="" coords="5,37,218,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node_interactions_container.html#ad00b6c08b018a4e09453ef63903af9af" title=" " alt="" coords="266,37,478,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_node_interactions_container.html#a8f0e0c3cde55d6cb39360c7f1e9471a4" title="Maximum duration of an interaction bucket." alt="" coords="526,5,739,44"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_time_span.html#a592c24dc4e583cb85039154821a6912e" title="Creates a time span from the difference between start and end." alt="" coords="549,68,716,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_time_span.html#adf3213fc223f0f3fdebdddc152fd0f09" title="Creates a time span from the given number of hours." alt="" coords="787,5,954,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_time_span.html#a3b98e3ec2ccc27c77db8fc17d6e5c309" title="Returns the number of hours." alt="" coords="1002,5,1169,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_time_span.html#abed2663576b21626ff234f40ceffe563" title="Creates a default (zero) time span." alt="" coords="1002,68,1169,107"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_time_span.html#a14789d6cac33667820722add65f0f8ad" title="Creates a time span from the given number of milliseconds." alt="" coords="787,68,954,107"/>
+</map>

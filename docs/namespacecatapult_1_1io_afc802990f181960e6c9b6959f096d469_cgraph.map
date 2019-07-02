@@ -1,0 +1,6 @@
+<map id="catapult::io::WriteTransactionInfo" name="catapult::io::WriteTransactionInfo">
+<area shape="rect" id="node1" title="Writes transactionInfo into outputStream." alt="" coords="5,68,221,93"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_output_stream.html#a8f7566bae8036ce924dae00bc3b6cd69" title=" " alt="" coords="269,5,445,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1io.html#a8613aa5dbcb9b6bb71adf19a828c495a" title="Writes value into output." alt="" coords="287,68,426,93"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1io.html#a1cd1e9ec859a642fe532fd3a21e679da" title="Writes size prefixed entity into output." alt="" coords="278,117,436,143"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::parsers::TryParseTransactionElements" name="catapult::parsers::TryParseTransactionElements">
+<area shape="rect" id="node1" title="Tries to parse transaction elements out of packet and into elements with a validity check (isValid)." alt="" coords="5,33,205,72"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1_packet.html#a26bd36a8a62b26f68fcf00963652aad2" title="Returns a non&#45;const pointer to data contained in this packet." alt="" coords="253,5,406,44"/>
+<area shape="rect" id="node3" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="279,68,380,93"/>
+</map>

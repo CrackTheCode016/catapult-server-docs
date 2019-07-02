@@ -1,0 +1,5 @@
+<map id="catapult::mongo::storages::MongoHistoricalCacheStorage&lt; TCacheTraits &gt;" name="catapult::mongo::storages::MongoHistoricalCacheStorage&lt; TCacheTraits &gt;">
+<area shape="rect" id="node1" title="A mongo cache storage that persists historical cache data using delete and insert." alt="" coords="5,192,215,244"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_external_cache_storage_t.html" title=" " alt="" coords="7,92,213,144"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1_external_cache_storage.html" title="Abstract class for saving cache data to external storage." alt="" coords="24,5,196,44"/>
+</map>

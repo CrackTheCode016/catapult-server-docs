@@ -1,0 +1,10 @@
+<map id="catapult::crypto::Sign" name="catapult::crypto::Sign">
+<area shape="rect" id="node1" title=" " alt="" coords="708,88,854,113"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_aggregate_cosignature_appender.html#a78be4047218b25049d1b2630eb7bac78" title="Cosigns an aggregate transaction using cosigner key pair." alt="" coords="440,5,660,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_transaction_extensions.html#a110bf8055f8c9d64fc44bdc73d81f678" title="Signs the transaction using signer private key." alt="" coords="453,81,648,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1model.html#ae0269705b4dd4b89fb4423371936b2bd" title=" " alt="" coords="461,144,640,183"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1harvesting_1_1_harvester.html#a08b592dcdab16be8c308543326575026" title=" " alt="" coords="234,109,371,148"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1extensions_1_1_block_extensions.html#a5bc0495b0571c381f21380e516738393" title="Cryptographically signs a full block with signer." alt="" coords="213,172,392,224"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1tools_1_1nemgen.html#a4306ba3a656335b9a1db8e97bcc395a3" title="Creates a nemesis block according to config." alt="" coords="5,147,165,185"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1tools_1_1nemgen.html#afcb8201dc3b3809c3ab0dee7ccc5c11f" title="Updates nemesis block according to config with executionHashesDescriptor." alt="" coords="5,209,165,248"/>
+</map>

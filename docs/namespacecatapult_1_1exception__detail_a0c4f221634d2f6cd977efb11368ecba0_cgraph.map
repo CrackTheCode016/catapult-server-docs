@@ -1,0 +1,4 @@
+<map id="catapult::exception_detail::ConvertToValue" name="catapult::exception_detail::ConvertToValue">
+<area shape="rect" id="node1" title="Converts value into a value that can be stored in a catapult exception." alt="" coords="5,12,167,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="215,5,430,57"/>
+</map>

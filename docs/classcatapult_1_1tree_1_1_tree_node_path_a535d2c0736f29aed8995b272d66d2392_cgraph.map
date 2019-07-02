@@ -1,0 +1,4 @@
+<map id="catapult::tree::TreeNodePath::subpath" name="catapult::tree::TreeNodePath::subpath">
+<area shape="rect" id="node1" title="Creates a subpath starting at nibble offset." alt="" coords="5,5,170,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_tree_node_path.html#af4c4d521e885f93f05660a4d2b59dae0" title="Gets the number of nibbles in this path." alt="" coords="218,5,383,44"/>
+</map>

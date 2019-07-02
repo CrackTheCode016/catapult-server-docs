@@ -1,0 +1,27 @@
+var namespacevalidation =
+[
+    [ "BasicFunctionAliasValidator", "classvalidation_1_1_basic_function_alias_validator.html", "classvalidation_1_1_basic_function_alias_validator" ],
+    [ "CatchWithoutClosingTryBrace", "classvalidation_1_1_catch_without_closing_try_brace.html", "classvalidation_1_1_catch_without_closing_try_brace" ],
+    [ "ClosingBraceVerticalSpacingValidator", "classvalidation_1_1_closing_brace_vertical_spacing_validator.html", "classvalidation_1_1_closing_brace_vertical_spacing_validator" ],
+    [ "CopyrightCommentValidator", "classvalidation_1_1_copyright_comment_validator.html", "classvalidation_1_1_copyright_comment_validator" ],
+    [ "Cpp17TraitsValidator", "classvalidation_1_1_cpp17_traits_validator.html", "classvalidation_1_1_cpp17_traits_validator" ],
+    [ "DocumentationVerticalSpacingValidator", "classvalidation_1_1_documentation_vertical_spacing_validator.html", "classvalidation_1_1_documentation_vertical_spacing_validator" ],
+    [ "EmptyStatementValidator", "classvalidation_1_1_empty_statement_validator.html", "classvalidation_1_1_empty_statement_validator" ],
+    [ "EnumValueBlankLineValidator", "classvalidation_1_1_enum_value_blank_line_validator.html", "classvalidation_1_1_enum_value_blank_line_validator" ],
+    [ "InsertionOperatorFormattingValidator", "classvalidation_1_1_insertion_operator_formatting_validator.html", "classvalidation_1_1_insertion_operator_formatting_validator" ],
+    [ "LineLengthValidator", "classvalidation_1_1_line_length_validator.html", "classvalidation_1_1_line_length_validator" ],
+    [ "MacroSemicolonValidator", "classvalidation_1_1_macro_semicolon_validator.html", "classvalidation_1_1_macro_semicolon_validator" ],
+    [ "MultiConditionChecker", "classvalidation_1_1_multi_condition_checker.html", "classvalidation_1_1_multi_condition_checker" ],
+    [ "NamespaceOpeningBraceVerticalSpacingValidator", "classvalidation_1_1_namespace_opening_brace_vertical_spacing_validator.html", "classvalidation_1_1_namespace_opening_brace_vertical_spacing_validator" ],
+    [ "PragmaOnceValidator", "classvalidation_1_1_pragma_once_validator.html", "classvalidation_1_1_pragma_once_validator" ],
+    [ "RegionValidator", "classvalidation_1_1_region_validator.html", "classvalidation_1_1_region_validator" ],
+    [ "ReturnOnNewLineValidator", "classvalidation_1_1_return_on_new_line_validator.html", "classvalidation_1_1_return_on_new_line_validator" ],
+    [ "SingleLineValidator", "classvalidation_1_1_single_line_validator.html", "classvalidation_1_1_single_line_validator" ],
+    [ "SpaceBraceValidator", "classvalidation_1_1_space_brace_validator.html", "classvalidation_1_1_space_brace_validator" ],
+    [ "StressTestNameValidator", "classvalidation_1_1_stress_test_name_validator.html", "classvalidation_1_1_stress_test_name_validator" ],
+    [ "TemplateSpaceValidator", "classvalidation_1_1_template_space_validator.html", "classvalidation_1_1_template_space_validator" ],
+    [ "TestClassMacroValidator", "classvalidation_1_1_test_class_macro_validator.html", "classvalidation_1_1_test_class_macro_validator" ],
+    [ "TypoChecker", "classvalidation_1_1_typo_checker.html", "classvalidation_1_1_typo_checker" ],
+    [ "UtilsSubdirValidator", "classvalidation_1_1_utils_subdir_validator.html", "classvalidation_1_1_utils_subdir_validator" ],
+    [ "WhitespaceLineValidator", "classvalidation_1_1_whitespace_line_validator.html", "classvalidation_1_1_whitespace_line_validator" ]
+];

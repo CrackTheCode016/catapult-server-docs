@@ -1,0 +1,5 @@
+<map id="catapult::net::ConnectionSettings::toSocketOptions" name="catapult::net::ConnectionSettings::toSocketOptions">
+<area shape="rect" id="node1" title="Gets the packet socket options represented by the configured settings." alt="" coords="457,5,632,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a36c4e1c84d6b159b665a9b7a6eb60667" title="Updates settings with values in config." alt="" coords="193,5,409,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a318ba6ad17303b0191a9ca5a6b4fe399" title=" " alt="" coords="5,5,145,44"/>
+</map>

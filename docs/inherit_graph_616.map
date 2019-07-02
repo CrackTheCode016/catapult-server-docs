@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,88,56,113"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="114,5,329,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title="Base class for immutable wrappers of basic types, to provide some type&#45;safety." alt="" coords="104,81,338,120"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_byte_array.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="139,144,304,183"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_base_value.html" title="Immutable wrapper for basic types, to provide some type&#45;safety." alt="" coords="421,12,591,51"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1utils_1_1_clamped_base_value.html" title="Base values that are constrained to a range of values." alt="" coords="404,77,608,116"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1utils_1_1_clamped_base_value.html" title=" " alt="" coords="386,140,625,179"/>
+</map>

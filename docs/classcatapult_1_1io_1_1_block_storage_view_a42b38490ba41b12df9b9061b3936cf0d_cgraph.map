@@ -1,0 +1,4 @@
+<map id="catapult::io::BlockStorageView::chainHeight" name="catapult::io::BlockStorageView::chainHeight">
+<area shape="rect" id="node1" title="Gets the number of blocks." alt="" coords="5,5,178,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1io_1_1_cached_data.html#a5138b51363f7570f329935f4c23c6c4a" title=" " alt="" coords="226,5,393,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::plugins::RegisterSecretLockSubsystem" name="catapult::plugins::RegisterSecretLockSubsystem">
+<area shape="rect" id="node1" title="Registers secret lock support with manager." alt="" coords="190,5,394,44"/>
+<area shape="rect" id="node2" href="$_secret_lock_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,12,142,37"/>
+</map>

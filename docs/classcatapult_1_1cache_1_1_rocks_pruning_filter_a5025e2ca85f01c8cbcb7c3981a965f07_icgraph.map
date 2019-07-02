@@ -1,0 +1,5 @@
+<map id="catapult::cache::RocksPruningFilter::numRemoved" name="catapult::cache::RocksPruningFilter::numRemoved">
+<area shape="rect" id="node1" title="Returns number of pruned entries since last prune." alt="" coords="503,5,704,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_rocks_database.html#a92e7400af49431f5eb805b9ae8a122bb" title="Prunes elements from columnId below boundary. Returns number of pruned elements." alt="" coords="242,5,455,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_rdb_column_container.html#a7758ac69f6959cddc2a604ae3d66f142" title="Prunes elements below pruningBoundary. Returns number of pruned elements." alt="" coords="5,5,194,44"/>
+</map>

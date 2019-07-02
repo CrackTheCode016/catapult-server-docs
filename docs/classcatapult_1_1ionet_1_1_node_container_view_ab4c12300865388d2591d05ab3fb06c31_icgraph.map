@@ -1,0 +1,5 @@
+<map id="catapult::ionet::NodeContainerView::forEach" name="catapult::ionet::NodeContainerView::forEach">
+<area shape="rect" id="node1" title="Iterates over all nodes and passes them to consumer." alt="" coords="480,5,681,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#ad47e0d74a0a8655e47fc07597e17f4cb" title="Finds all active nodes in view." alt="" coords="279,5,432,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1handlers.html#adf95e852bce73e9b6457e77cf10475cc" title="Registers a diagnostic nodes handler in handlers that responds with info about all (active) partner n..." alt="" coords="5,5,231,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="catapult::cache::SerializeKey" name="catapult::cache::SerializeKey">
+<area shape="rect" id="node1" title="Serializes value&#45;based key (value)." alt="" coords="307,120,500,145"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_serializer_hashed_key_encoder.html#a44bf492e05d65c81aef311219a93af86" title="Encodes key by hashing it." alt="" coords="25,5,240,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_rdb_typed_column_container.html#a4065d44ea352fc9ad5038a1272cba4bb" title="Finds element with key. Returns cend() if key has not been found." alt="" coords="5,68,259,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_rdb_typed_column_container.html#ae2cb7efd749d15e44ca676a93bf1e4f1" title="Inserts element into container." alt="" coords="5,144,259,196"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_rdb_typed_column_container.html#a810004f2659dc619fe76c5d36bc03041" title="Removes element with key." alt="" coords="5,220,259,272"/>
+</map>

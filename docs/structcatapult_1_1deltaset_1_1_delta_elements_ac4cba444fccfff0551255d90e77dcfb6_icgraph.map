@@ -1,0 +1,4 @@
+<map id="catapult::deltaset::DeltaElements::HasChanges" name="catapult::deltaset::DeltaElements::HasChanges">
+<area shape="rect" id="node1" title="Returns true if there are any pending changes." alt="" coords="235,5,435,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1cache.html#a7fb15fdfc1c0192f97368ab54df2a6e5" title="Applies all changes in deltas to elements." alt="" coords="5,12,187,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::ionet::PacketPayloadBuilder::increaseSize" name="catapult::ionet::PacketPayloadBuilder::increaseSize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,206,65"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#ac6cdc88d1c0ed86a60963ef46f04c035" title="Adds delta to value if and only if there is no overflow." alt="" coords="254,5,437,31"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1ionet.html#ac3d4996594403f0c327116d1f5e2b5b0" title="Determines if header indicates a valid packet data size no greater than maxPacketDataSize." alt="" coords="264,55,427,93"/>
+</map>

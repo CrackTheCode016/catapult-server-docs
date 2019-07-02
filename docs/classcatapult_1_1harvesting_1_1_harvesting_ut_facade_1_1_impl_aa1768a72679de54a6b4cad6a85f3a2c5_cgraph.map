@@ -1,0 +1,16 @@
+<map id="catapult::harvesting::HarvestingUtFacade::Impl::apply" name="catapult::harvesting::HarvestingUtFacade::Impl::apply">
+<area shape="rect" id="node1" title=" " alt="" coords="5,144,156,196"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1_processing_notification_subscriber.html#a369ca4a351f6ef6b433dd751481e05ea" title="Enables subsequent notifications to be undone." alt="" coords="209,5,389,57"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1validators.html#a1bd864fb9206e75c7ec827b3ef42d3cc" title="Returns a value indicating whether the validation result is a success." alt="" coords="207,81,392,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1harvesting_1_1_harvesting_ut_facade_1_1_impl.html#a5d09487c655dc185ef19dc3dbd23e5c4" title=" " alt="" coords="224,144,374,196"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1chain_1_1_processing_notification_subscriber.html#a745f5ecd1450e75c92c84184ddda34ed" title="Gets the aggregate result of processed notifications." alt="" coords="204,220,395,259"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1chain_1_1_processing_notification_subscriber.html#a64be3e2a20b72551e640dd5cb677a272" title="Undoes all executions since enableUndo was first called." alt="" coords="205,283,393,321"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1validators.html#a5cfd898ef74a17421d8470007a70e49a" title="Extracts the encoded result severity from result." alt="" coords="486,81,619,120"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="750,81,873,120"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1model.html#aab800752b52b32bcb5190ad5a15fdcb3" title=" " alt="" coords="470,144,636,183"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1harvesting_1_1_harvesting_ut_facade_1_1_impl.html#a63bf5d72e0b6096c77dcca7a4aebc3ce" title=" " alt="" coords="477,207,628,259"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="727,144,896,183"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1_catapult_cache_detachable_delta.html#ac120f1475ced74467c6700ac908117f3" title="Gets the cache height associated with this delta." alt="" coords="711,213,913,252"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1chain_1_1_processing_undo_notification_subscriber.html#a33bac3a2d99680f40afba212904c348f" title="Undoes all executions." alt="" coords="443,283,663,321"/>
+<area shape="rect" id="node14" href="$classcatapult_1_1observers_1_1_notification_observer_t.html#a0a8fb7e9e35f09539b92d3deef2d81e0" title="Notifies the observer with a notification to process and an observer context." alt="" coords="733,276,891,328"/>
+</map>

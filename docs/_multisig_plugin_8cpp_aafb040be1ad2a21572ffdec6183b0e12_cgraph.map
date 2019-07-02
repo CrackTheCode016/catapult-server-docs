@@ -1,0 +1,25 @@
+<map id="RegisterSubsystem" name="RegisterSubsystem">
+<area shape="rect" id="node1" title="Entry point for registering a dynamic module with manager." alt="" coords="5,649,142,675"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a06ef8cea21dcf8bf4c3b40e5b3a73979" title="Registers multisig support with manager." alt="" coords="190,643,372,681"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a93ef30f395418b820bcf53c5b2573cbe" title="Adds support for a sub cache described by pSubCache." alt="" coords="427,5,653,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a44b626f44afa4b8c99292836df29a8b5" title="Adds a diagnostic counter hook." alt="" coords="438,68,641,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#ade167f60b0bc7eaa07e2a4adde4bfea9" title="Adds an observer hook." alt="" coords="426,144,653,183"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a7f21a94da7a0ae3d2f5f3dcc69ec7e8f" title="Adds a stateful validator hook." alt="" coords="447,207,633,259"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="442,283,637,335"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="435,359,645,411"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#ad3dc9345709b4cdb83cd6a4606609d0d" title="Gets the cache configuration for cache with name." alt="" coords="443,435,636,473"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="463,497,617,536"/>
+<area shape="rect" id="node13" href="$namespacecatapult_1_1plugins.html#aefa55fc26e3472a69c17a38ce9ef7355" title="Creates a modify multisig account transaction plugin." alt="" coords="443,560,637,612"/>
+<area shape="rect" id="node14" href="$namespacecatapult_1_1validators.html#a9c41a43ae4e0158251fd5682b70de6eb" title=" " alt="" coords="433,636,646,688"/>
+<area shape="rect" id="node15" href="$namespacecatapult_1_1validators.html#ae6a6b78d4dd8ea5016f3ba7ae4efedb9" title=" " alt="" coords="444,712,635,764"/>
+<area shape="rect" id="node16" href="$namespacecatapult_1_1validators.html#af1846fe9f5efbfc8379f71296a6450f6" title=" " alt="" coords="444,788,635,840"/>
+<area shape="rect" id="node17" href="$namespacecatapult_1_1validators.html#ae09c480bdbcf310e0a4e3f2cacb5bfd1" title=" " alt="" coords="436,864,643,916"/>
+<area shape="rect" id="node18" href="$namespacecatapult_1_1validators.html#a025f034119a895b13955dff8d2a79e5a" title=" " alt="" coords="422,940,657,992"/>
+<area shape="rect" id="node19" href="$namespacecatapult_1_1validators.html#ac72698e29a798e002d6a640e0ae111a2" title=" " alt="" coords="420,1016,659,1068"/>
+<area shape="rect" id="node20" href="$namespacecatapult_1_1validators.html#a3ccf9047949f1f5b9c54fa5c3ded86dc" title=" " alt="" coords="430,1092,649,1144"/>
+<area shape="rect" id="node21" href="$namespacecatapult_1_1validators.html#a561b26be1e0192f3886511733ed97d14" title=" " alt="" coords="424,1168,655,1220"/>
+<area shape="rect" id="node22" href="$namespacecatapult_1_1validators.html#a3d2952db3ef1eb8c7d63f4722b381108" title=" " alt="" coords="425,1244,654,1296"/>
+<area shape="rect" id="node23" href="$classcatapult_1_1cache_1_1_catapult_cache.html#ab29534a0c56ad0958c9bd78f88cf82c7" title="Gets a specific sub cache." alt="" coords="456,1320,624,1359"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_catapult_cache_builder.html#a3c3bbf959d2ca82fe354eb342b4f7111" title="Adds pSubCache to the builder with the specified storage traits." alt="" coords="725,5,893,44"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1model_1_1_plugin_registry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="707,365,912,404"/>
+</map>

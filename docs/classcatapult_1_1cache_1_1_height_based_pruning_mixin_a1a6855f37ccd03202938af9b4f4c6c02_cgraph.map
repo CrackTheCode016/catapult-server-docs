@@ -1,0 +1,4 @@
+<map id="catapult::cache::HeightBasedPruningMixin::prune" name="catapult::cache::HeightBasedPruningMixin::prune">
+<area shape="rect" id="node1" title="Prunes the cache at height." alt="" coords="5,5,200,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1cache.html#a08c8b0e92aa1f62b5f38c62dcbd41f7c" title="Removes all values in set with grouping key according to groupedSet." alt="" coords="248,5,431,44"/>
+</map>

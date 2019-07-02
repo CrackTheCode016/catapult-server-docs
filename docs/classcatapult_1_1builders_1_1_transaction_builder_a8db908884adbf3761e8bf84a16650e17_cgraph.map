@@ -1,0 +1,6 @@
+<map id="catapult::builders::TransactionBuilder::createTransaction" name="catapult::builders::TransactionBuilder::createTransaction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,145,83"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#acf9be5f46140049248a089883d75198b" title="Creates a version field out of given entity version and networkIdentifier." alt="" coords="193,12,389,37"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1builders_1_1_transaction_builder.html#a271e3b6705cb7c3cd2a60c114d232790" title=" " alt="" coords="221,61,361,113"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="437,5,560,44"/>
+</map>

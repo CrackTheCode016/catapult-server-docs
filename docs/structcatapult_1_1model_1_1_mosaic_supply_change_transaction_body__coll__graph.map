@@ -1,0 +1,12 @@
+<map id="catapult::model::MosaicSupplyChangeTransactionBody&lt; THeader &gt;" name="catapult::model::MosaicSupplyChangeTransactionBody&lt; THeader &gt;">
+<area shape="rect" id="node1" title="Binary layout for a mosaic supply change transaction body." alt="" coords="1139,55,1381,93"/>
+<area shape="rect" id="node2" title=" " alt="" coords="875,5,948,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="826,55,996,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="539,37,708,103"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1_amount__tag.html" title=" " alt="" coords="240,41,387,67"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="229,92,398,131"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="508,127,739,192"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,99,172,124"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="788,120,1034,159"/>
+<area shape="rect" id="node10" href="$structcatapult_1_1_unresolved_mosaic_id__tag.html" title=" " alt="" coords="221,156,406,195"/>
+</map>

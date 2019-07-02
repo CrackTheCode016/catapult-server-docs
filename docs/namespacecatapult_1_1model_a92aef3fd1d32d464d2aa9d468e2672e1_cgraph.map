@@ -1,0 +1,4 @@
+<map id="catapult::model::PublishNotifications" name="catapult::model::PublishNotifications">
+<area shape="rect" id="node1" title="Sends all notifications from transaction to sub." alt="" coords="5,5,168,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_notification_subscriber.html#a743a50bb8a85245d6d973c84334f33e2" title="Notifies the subscriber of notification." alt="" coords="216,5,401,44"/>
+</map>

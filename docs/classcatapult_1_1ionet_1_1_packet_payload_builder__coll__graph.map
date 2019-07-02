@@ -1,0 +1,5 @@
+<map id="catapult::ionet::PacketPayloadBuilder" name="catapult::ionet::PacketPayloadBuilder">
+<area shape="rect" id="node1" title="A packet payload builder for creating payloads composed of heterogeneous data." alt="" coords="5,179,206,217"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_payload.html" title="A packet payload that can be written." alt="" coords="5,92,206,117"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1ionet_1_1_packet_header.html" title="A packet header that all transferable information is expected to have." alt="" coords="8,5,204,31"/>
+</map>

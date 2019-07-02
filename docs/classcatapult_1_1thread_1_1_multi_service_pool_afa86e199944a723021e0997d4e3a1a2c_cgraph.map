@@ -1,0 +1,11 @@
+<map id="catapult::thread::MultiServicePool::pushIsolatedPool" name="catapult::thread::MultiServicePool::pushIsolatedPool">
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,199,225"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a2cbb192dfdb682d116f94e79ed74b6c2" title=" " alt="" coords="247,69,440,108"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a6d2fa0b4961f8338a49d35a33a3b1686" title="Gets the number of active worker threads." alt="" coords="491,131,684,169"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a1227aa435f2b99d66a03500c65d46862" title=" " alt="" coords="247,187,440,225"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#af10b0edae807e360753207c918f71ea2" title=" " alt="" coords="491,244,684,283"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a947be758c139d93b1eebea8246899942" title="Safely shuts down the thread pool and its dependent services." alt="" coords="247,301,440,340"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1thread.html#a898e8075b18cda345233e85f5c14fe24" title=" " alt="" coords="508,5,668,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a10bd9d4e6476b00d506ce51fa984d71a" title="A default pool concurrency level based on the local hardware configuration." alt="" coords="488,68,688,107"/>
+<area shape="rect" id="node7" href="$namespaceforwards_validation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="510,193,665,219"/>
+</map>

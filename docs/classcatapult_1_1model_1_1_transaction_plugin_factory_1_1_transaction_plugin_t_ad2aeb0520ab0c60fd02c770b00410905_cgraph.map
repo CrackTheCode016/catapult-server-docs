@@ -1,0 +1,5 @@
+<map id="catapult::model::TransactionPluginFactory::TransactionPluginT::publish" name="catapult::model::TransactionPluginFactory::TransactionPluginT::publish">
+<area shape="rect" id="node1" title="Sends all notifications from transactionInfo to sub." alt="" coords="5,37,222,89"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_weak_entity_info_t.html#aabcf01bd6894fe3021efa0d2b89e602d" title="Gets the entity." alt="" coords="294,5,481,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_transaction_plugin_factory_1_1_basic_transaction_plugin_t.html#af81971cd9bbfc994ae84452ac089be51" title=" " alt="" coords="270,68,505,133"/>
+</map>

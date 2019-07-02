@@ -1,0 +1,11 @@
+<map id="catapult::io::FileBlockStorage::loadHashesFrom" name="catapult::io::FileBlockStorage::loadHashesFrom">
+<area shape="rect" id="node1" title="Returns a range of at most maxHashes hashes starting at height." alt="" coords="5,91,199,129"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_file_block_storage.html#a24e4e5ea5b7f0b2690a30e07fe27bdc5" title="Gets the number of blocks." alt="" coords="247,59,441,97"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1io_1_1_file_block_storage_1_1_hash_file.html#a4dafbb3f111a18e6bdf54ecc9c59ba33" title=" " alt="" coords="247,121,441,160"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_index_file.html#a47835027fd86fa37a1f5a0e265c5de55" title="true if the index file exists." alt="" coords="512,5,659,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_index_file.html#abf04a75491d6a2b7d696539703ea6711" title="Gets the index value." alt="" coords="499,68,672,93"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1_index_file.html#adad14744c9d6b1ba0f202fa803d6ec7f" title=" " alt="" coords="729,33,876,72"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="733,96,873,121"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1model_1_1_entity_range.html#a3af196b6f22546dff7f79f380e42ce65" title=" " alt="" coords="489,119,681,157"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="500,181,670,220"/>
+</map>

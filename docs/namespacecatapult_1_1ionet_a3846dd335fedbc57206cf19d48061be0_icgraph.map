@@ -1,0 +1,4 @@
+<map id="catapult::ionet::Accept" name="catapult::ionet::Accept">
+<area shape="rect" id="node1" title=" " alt="" coords="206,5,358,31"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#a5b95c2c44ed0029e9d1f91781dea7d79" title="Accepts a connection using acceptor and calls accept on completion configuring the socket with option..." alt="" coords="5,5,158,31"/>
+</map>

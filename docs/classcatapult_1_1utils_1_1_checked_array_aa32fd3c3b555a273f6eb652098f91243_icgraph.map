@@ -1,0 +1,7 @@
+<map id="catapult::utils::CheckedArray::push_back" name="catapult::utils::CheckedArray::push_back">
+<area shape="rect" id="node1" title=" " alt="" coords="293,109,452,148"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_namespace.html#a845cec068627cb1879f2bbeb1f362635" title="Creates a child namespace of this namespace with namespace identifier id." alt="" coords="34,5,217,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_namespace_flat_map_types_serializer.html#a4c9cca92ab72d42355f353117d6155a4" title="Deserializes value from buffer." alt="" coords="30,68,220,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#ac59718570eaf02df72dffca232a5c71b" title="Inserts the root namespace ns into the cache." alt="" coords="14,144,236,183"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1mongo_1_1plugins.html#a8810f78d2b89d97ee12db96785359bd4" title="Converts the root namespace history into a vector of namespace descriptors using networkIdentifier fo..." alt="" coords="5,207,245,245"/>
+</map>

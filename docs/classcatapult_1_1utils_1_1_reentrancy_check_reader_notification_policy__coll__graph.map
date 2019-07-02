@@ -1,0 +1,4 @@
+<map id="catapult::utils::ReentrancyCheckReaderNotificationPolicy" name="catapult::utils::ReentrancyCheckReaderNotificationPolicy">
+<area shape="rect" id="node1" title="A reentrancy check reader notification policy." alt="" coords="5,92,210,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_spin_lock.html" title=" " alt="" coords="27,5,188,31"/>
+</map>

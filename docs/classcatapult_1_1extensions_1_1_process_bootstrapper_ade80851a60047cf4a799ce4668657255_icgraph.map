@@ -1,0 +1,6 @@
+<map id="catapult::extensions::ProcessBootstrapper::config" name="catapult::extensions::ProcessBootstrapper::config">
+<area shape="rect" id="node1" title="Gets the configuration." alt="" coords="334,31,488,83"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a9dd32dd449ad9ba00da09ba827f7bced" title="Adds static nodes from path to bootstrapper." alt="" coords="104,5,286,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1local.html#aa119bf8614b0d034d73f132358c56a23" title="Seeds nodes with node information from bootstrapper." alt="" coords="108,68,282,107"/>
+<area shape="rect" id="node3" href="$src_2catapult_2process_2server_2main_8cpp.html#a217dbf8b442f20279ea00b898af96f52" title=" " alt="" coords="5,12,56,37"/>
+</map>

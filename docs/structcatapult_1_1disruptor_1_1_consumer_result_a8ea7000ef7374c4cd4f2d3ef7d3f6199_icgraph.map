@@ -1,0 +1,5 @@
+<map id="catapult::disruptor::ConsumerResult::Complete" name="catapult::disruptor::ConsumerResult::Complete">
+<area shape="rect" id="node1" title="Creates a consumer result indicating that processing has completed with the specified code." alt="" coords="194,37,386,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1consumers.html#aac0e5519fd448f9095a7059789dbb374" title="Creates a completed neutral consumer result." alt="" coords="5,5,146,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1consumers.html#a62863f742b4197548db77782912ecbe7" title="Creates a completed success consumer result." alt="" coords="5,68,146,107"/>
+</map>

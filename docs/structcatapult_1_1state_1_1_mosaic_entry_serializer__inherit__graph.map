@@ -1,0 +1,4 @@
+<map id="catapult::state::MosaicEntrySerializer" name="catapult::state::MosaicEntrySerializer">
+<area shape="rect" id="node1" title="Policy for saving and loading mosaic entry data." alt="" coords="12,5,197,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_mosaic_cache_storage.html" title="Policy for saving and loading mosaic cache data." alt="" coords="5,92,205,131"/>
+</map>

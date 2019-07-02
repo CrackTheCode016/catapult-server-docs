@@ -1,0 +1,9 @@
+<map id="catapult::consumers::RecentHashCache" name="catapult::consumers::RecentHashCache">
+<area shape="rect" id="node1" title="A hash cache that holds recently seen hashes." alt="" coords="1074,37,1214,76"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1consumers_1_1_hash_check_options.html" title="Options for configuring the hash check consumer." alt="" coords="751,5,894,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="728,68,918,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,55,678,120"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1_timestamp__tag.html" title=" " alt="" coords="222,47,389,72"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,96,390,135"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,103,172,128"/>
+</map>

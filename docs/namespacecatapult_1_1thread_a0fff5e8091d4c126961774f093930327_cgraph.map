@@ -1,0 +1,4 @@
+<map id="catapult::thread::when_all" name="catapult::thread::when_all">
+<area shape="rect" id="node1" title="Returns a future that is signaled when all futures in allFutures complete." alt="" coords="5,12,179,37"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1future.html#ac0a0fbdbf594c5c70dc503923bf9c7a7" title="Configures continuation to run at the completion of this future." alt="" coords="227,5,381,44"/>
+</map>

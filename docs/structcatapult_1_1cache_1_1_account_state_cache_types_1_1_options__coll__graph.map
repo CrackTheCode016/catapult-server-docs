@@ -1,0 +1,11 @@
+<map id="catapult::cache::AccountStateCacheTypes::Options" name="catapult::cache::AccountStateCacheTypes::Options">
+<area shape="rect" id="node1" title="Custom sub view options." alt="" coords="1080,57,1260,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="726,23,897,61"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="498,5,667,71"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1_amount__tag.html" title=" " alt="" coords="232,9,379,35"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,63,390,101"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,95,673,160"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,69,172,95"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="722,88,901,127"/>
+<area shape="rect" id="node9" href="$structcatapult_1_1_mosaic_id__tag.html" title=" " alt="" coords="228,131,383,156"/>
+</map>

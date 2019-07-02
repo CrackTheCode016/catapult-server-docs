@@ -1,0 +1,9 @@
+<map id="catapult::tools::nemgen::CreateTransactionRegistry" name="catapult::tools::nemgen::CreateTransactionRegistry">
+<area shape="rect" id="node1" title="Creates a transaction registry that has basic transaction types registered." alt="" coords="5,203,192,241"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a296a5d6893c775ca7ec302186de3adfb" title="Creates a mosaic alias transaction plugin." alt="" coords="269,5,471,57"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1plugins.html#ac35f8c2c90e64f27953c15bb82641833" title="Creates a mosaic definition transaction plugin given the rental fee configuration (config)." alt="" coords="256,81,484,133"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1plugins.html#ae3f45da01f0d1e95dd1248a8f1e471a5" title="Creates a mosaic supply change transaction plugin." alt="" coords="240,157,500,209"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1plugins.html#a0a0625792174ddc83dd8866881f92b72" title="Creates a register namespace transaction plugin given the rental fee configuration (config)." alt="" coords="245,233,496,285"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1plugins.html#ac0912acd0af3fd75b2d1c06fba6efd31" title="Creates a transfer transaction plugin." alt="" coords="262,309,479,348"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1model_1_1_plugin_registry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="268,372,473,411"/>
+</map>

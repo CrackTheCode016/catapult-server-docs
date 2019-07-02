@@ -1,0 +1,4 @@
+<map id="catapult::utils::BlockSpan::FromHours" name="catapult::utils::BlockSpan::FromHours">
+<area shape="rect" id="node1" title="Creates a block span from the given number of hours." alt="" coords="213,5,384,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#ac921272a796a29006b270b446534e595" title="Tries to parse str into a BlockSpan (parsedValue)." alt="" coords="5,5,165,44"/>
+</map>

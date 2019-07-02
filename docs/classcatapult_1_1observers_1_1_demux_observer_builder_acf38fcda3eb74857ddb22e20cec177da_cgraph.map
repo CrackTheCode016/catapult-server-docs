@@ -1,0 +1,5 @@
+<map id="catapult::observers::DemuxObserverBuilder::add" name="catapult::observers::DemuxObserverBuilder::add">
+<area shape="rect" id="node1" title="Adds an observer (pObserver) to the builder that is invoked only when matching notifications are proc..." alt="" coords="5,5,202,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a74e6eca4ef171263b94deacb61614a3d" title="Returns true if lhs and rhs have the same source (facility and code)." alt="" coords="250,5,424,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="472,5,595,44"/>
+</map>

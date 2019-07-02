@@ -1,0 +1,12 @@
+<map id="catapult::catapult_error&lt; TStlException &gt;" name="catapult::catapult_error&lt; TStlException &gt;">
+<area shape="rect" id="node1" title="Base class for all catapult exceptions that derives from both std::exception and boost::exception." alt="" coords="241,176,403,215"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1api_1_1catapult__api__error.html" title="Exception class that is thrown when a catapult api operation produces an error." alt="" coords="455,5,602,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1catapult__error_3_01catapult__error_3_01_t_stl_exception_01_4_01_4.html" title=" " alt="" coords="453,68,604,120"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1plugins_1_1plugin__load__error.html" title="Exception class that is thrown when an error is encountered while loading a plugin." alt="" coords="466,144,591,183"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1property__malformed__error.html" title="Exception class that is thrown when a configuration property is malformed." alt="" coords="451,207,606,245"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1property__not__found__error.html" title="Exception class that is thrown when a required configuration property is missing." alt="" coords="451,269,606,308"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1reader__reentrancy__error.html" title="Exception class that is thrown when reader reentrancy is detected." alt="" coords="456,332,601,371"/>
+<area shape="rect" id="node2" title=" " alt="" coords="47,133,151,159"/>
+<area shape="rect" id="node3" title=" " alt="" coords="40,183,158,208"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,232,193,257"/>
+</map>

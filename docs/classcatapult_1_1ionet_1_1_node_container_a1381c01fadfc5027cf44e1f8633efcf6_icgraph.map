@@ -1,0 +1,13 @@
+<map id="catapult::ionet::NodeContainer::modifier" name="catapult::ionet::NodeContainer::modifier">
+<area shape="rect" id="node1" title="Gets a write only view of the nodes." alt="" coords="805,163,1007,201"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a7e3a4b7d15783e5a3fc30c29dc3352bb" title="Creates and prepares a node ager that ages all serviceId connections in nodes given config." alt="" coords="597,68,736,107"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1extensions.html#a5f31d545dbfc4425c056e56debe4c5ab" title=" " alt="" coords="591,131,741,169"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1extensions.html#a04466b965f6ad93c7875458e55d618dd" title="Increments the interaction counter indicated by result in the node container (nodes)." alt="" coords="575,193,757,232"/>
+<area shape="rect" id="node11" href="$namespacecatapult_1_1local.html#aa119bf8614b0d034d73f132358c56a23" title="Seeds nodes with node information from bootstrapper." alt="" coords="580,256,753,295"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#ae724b0a19f16874911190db347f8f49a" title=" " alt="" coords="337,5,492,44"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1extensions.html#a554a0b3be3aefd8a76bcf8d99e04ae70" title=" " alt="" coords="324,68,505,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1extensions.html#a5f872f3c789603e8add4c58b2ca4c1ca" title="Creates a task for the specified service that ages nodes given settings and connectionContainer." alt="" coords="52,5,207,44"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1extensions.html#abe45b21fc5f5f27fa06a3a8bb8800504" title="Creates a task for the specified service that connects to nodes with the specified role given setting..." alt="" coords="324,131,505,169"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1extensions.html#ac342a0919682ad28717a4fa94daaa853" title=" " alt="" coords="302,193,527,232"/>
+<area shape="rect" id="node10" href="$namespacecatapult_1_1extensions.html#a7d93674277b28565eb8e00cfe71e9124" title=" " alt="" coords="5,187,254,239"/>
+</map>

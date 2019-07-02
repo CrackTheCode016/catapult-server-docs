@@ -1,0 +1,9 @@
+<map id="catapult::model::Receipt" name="catapult::model::Receipt">
+<area shape="rect" id="node1" title="Binary layout for a receipt entity." alt="" coords="483,107,647,132"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1_artifact_expiry_receipt.html" title="Binary layout for an artifact expiry receipt." alt="" coords="695,5,881,44"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1model_1_1_balance_change_receipt.html" title="Binary layout for a balance change receipt." alt="" coords="704,68,872,107"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1model_1_1_balance_transfer_receipt.html" title="Binary layout for a balance transfer receipt." alt="" coords="704,131,872,169"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1model_1_1_inflation_receipt.html" title="Binary layout for an inflation receipt." alt="" coords="705,193,871,232"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_size_prefixed_entity.html" title="Binary layout for a size prefixed entity." alt="" coords="241,100,435,139"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,107,193,132"/>
+</map>

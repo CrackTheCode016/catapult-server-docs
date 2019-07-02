@@ -1,0 +1,4 @@
+<map id="catapult::utils::traits::is_base_of_ignore_reference&lt; X, Y &gt;" name="catapult::utils::traits::is_base_of_ignore_reference&lt; X, Y &gt;">
+<area shape="rect" id="node1" title="Determines if X is a base of or same as Y (after stripping Y of references)." alt="" coords="5,105,207,157"/>
+<area shape="rect" id="node2" title=" " alt="" coords="27,5,185,57"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::cache::PtCacheModifierProxy::add" name="catapult::cache::PtCacheModifierProxy::add">
+<area shape="rect" id="node1" title="Adds a cosignature (composed of signer and signature) for a partial transaction with hash parentHash ..." alt="" coords="5,44,175,83"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_pt_cache_modifier.html#ae7325bdadfd4f58f24b032f860d47429" title="Adds a cosignature (composed of signer and signature) for a partial transaction with hash parentHash ..." alt="" coords="276,5,446,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_transactions_cache_modifier_proxy.html#a24946e5f9dd9afc6475844d5926fa9d1" title="Gets the modifier." alt="" coords="223,68,499,133"/>
+</map>

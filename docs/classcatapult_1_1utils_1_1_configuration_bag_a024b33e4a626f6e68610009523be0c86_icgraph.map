@@ -1,0 +1,5 @@
+<map id="catapult::utils::ConfigurationBag::FromPath" name="catapult::utils::ConfigurationBag::FromPath">
+<area shape="rect" id="node1" title="Loads a configuration bag from the specified path." alt="" coords="243,37,429,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1config.html#a8ffbe19bc38bdd7758db3a1695725b9a" title="Loads ini configuration from path." alt="" coords="19,5,181,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1tools_1_1nemgen.html#a3ed47409f17901e5b2a607485ae80c19" title="Loads nemesis configuration from configPath." alt="" coords="5,68,195,107"/>
+</map>

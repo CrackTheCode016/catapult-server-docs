@@ -1,0 +1,4 @@
+<map id="catapult::io::FileQueueReader::pending" name="catapult::io::FileQueueReader::pending">
+<area shape="rect" id="node1" title="Gets the number of pending messages." alt="" coords="197,5,395,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1subscribers.html#aee3cd35a707419efa351ef3ba739069f" title="Reads all messages from queue described by descriptor into subscriber using readNextMessage." alt="" coords="5,5,149,44"/>
+</map>

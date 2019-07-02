@@ -1,0 +1,4 @@
+<map id="catapult::sync::RollbackStats::total" name="catapult::sync::RollbackStats::total">
+<area shape="rect" id="node1" title="Returns statistics for a type (rollbackCounterType)." alt="" coords="215,5,376,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1sync_1_1_rollback_info.html#a49fe9c3b104dd97cd1ee7ec80b1d6df6" title="Returns rollback counter for result (rollbackResult) and counter type (rollbackCounterType)." alt="" coords="5,5,167,44"/>
+</map>

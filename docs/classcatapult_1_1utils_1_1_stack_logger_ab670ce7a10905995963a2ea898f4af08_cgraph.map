@@ -1,0 +1,4 @@
+<map id="catapult::utils::StackLogger::~StackLogger" name="catapult::utils::StackLogger::~StackLogger">
+<area shape="rect" id="node1" title="Destructor." alt="" coords="5,5,187,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_stack_timer.html#ac7fdd0cffa685c451a9420c82493e7e2" title="Gets the number of elapsed milliseconds since this logger was created." alt="" coords="235,5,408,44"/>
+</map>

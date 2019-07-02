@@ -1,0 +1,6 @@
+<map id="catapult::extensions::SelectNodes" name="catapult::extensions::SelectNodes">
+<area shape="rect" id="node1" title=" " alt="" coords="437,37,576,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a5f31d545dbfc4425c056e56debe4c5ab" title=" " alt="" coords="237,5,386,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1timesync.html#aa4945d3c267ffac0c896cb86ed6cc2d7" title=" " alt="" coords="234,68,389,107"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#abe45b21fc5f5f27fa06a3a8bb8800504" title="Creates a task for the specified service that connects to nodes with the specified role given setting..." alt="" coords="5,5,186,44"/>
+</map>

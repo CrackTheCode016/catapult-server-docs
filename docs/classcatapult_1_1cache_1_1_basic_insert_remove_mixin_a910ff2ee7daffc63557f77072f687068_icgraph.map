@@ -1,0 +1,5 @@
+<map id="catapult::cache::BasicInsertRemoveMixin::insert" name="catapult::cache::BasicInsertRemoveMixin::insert">
+<area shape="rect" id="node1" title="Inserts value into the cache." alt="" coords="308,44,493,83"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html#a8d93391640fed004d984f5333be50db2" title="Inserts the mosaic entry into the cache." alt="" coords="36,5,229,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html#aae11047351b910af4643b199c86fc24d" title="Inserts value into the cache." alt="" coords="5,68,260,133"/>
+</map>

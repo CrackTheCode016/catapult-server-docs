@@ -1,0 +1,5 @@
+<map id="catapult::handlers::BatchHandlerFactory::RegisterZero" name="catapult::handlers::BatchHandlerFactory::RegisterZero">
+<area shape="rect" id="node1" title=" " alt="" coords="279,33,433,85"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1handlers.html#adf95e852bce73e9b6457e77cf10475cc" title="Registers a diagnostic nodes handler in handlers that responds with info about all (active) partner n..." alt="" coords="5,5,231,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1handlers.html#a9d3a9bf6c1b6dc6dce0a39cb790c81f6" title="Registers a node discovery pull peers handler in handlers that responds with nodes from nodesSupplier..." alt="" coords="23,68,214,120"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::cache::AddIdentifierWithGroup" name="catapult::cache::AddIdentifierWithGroup">
+<area shape="rect" id="node1" title="Adds an identifier with with grouping key to groupedSet." alt="" coords="308,44,501,83"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#ac59718570eaf02df72dffca232a5c71b" title="Inserts the root namespace ns into the cache." alt="" coords="22,5,244,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html#aae11047351b910af4643b199c86fc24d" title="Inserts value into the cache." alt="" coords="5,68,260,133"/>
+</map>

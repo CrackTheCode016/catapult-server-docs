@@ -1,0 +1,10 @@
+<map id="catapult::mongo::MongoTransactionMetadata" name="catapult::mongo::MongoTransactionMetadata">
+<area shape="rect" id="node1" title="Mongo transaction metadata." alt="" coords="1073,39,1306,77"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="714,5,879,44"/>
+<area shape="rect" id="node3" title=" " alt="" coords="551,11,602,36"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="711,69,881,108"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,60,662,125"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1_height__tag.html" title=" " alt="" coords="236,52,376,77"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,101,390,140"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,108,172,133"/>
+</map>

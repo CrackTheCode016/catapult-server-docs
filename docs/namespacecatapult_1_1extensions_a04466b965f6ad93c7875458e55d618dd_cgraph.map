@@ -1,0 +1,10 @@
+<map id="catapult::extensions::IncrementNodeInteraction" name="catapult::extensions::IncrementNodeInteraction">
+<area shape="rect" id="node1" title="Increments the interaction counter indicated by result in the node container (nodes)." alt="" coords="5,68,187,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node_container_modifier.html#ac86a5488efdc4082a06d1bdb0de4662b" title="Increments the number of failed interactions for the node identified by identityKey." alt="" coords="235,68,437,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1ionet_1_1_node_container_modifier.html#a3addf91006fe9387f9ad00605959da48" title="Increments the number of successful interactions for the node identified by identityKey." alt="" coords="235,5,437,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1ionet_1_1_node_container.html#a1381c01fadfc5027cf44e1f8633efcf6" title="Gets a write only view of the nodes." alt="" coords="235,131,437,169"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_node_container_modifier.html#af1d1d925ee7f27f3af8f95cf35d9aa9a" title=" " alt="" coords="496,65,697,104"/>
+<area shape="rect" id="node4" href="$namespaceforwards_validation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="519,15,674,40"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="485,131,708,169"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="756,131,922,169"/>
+</map>
