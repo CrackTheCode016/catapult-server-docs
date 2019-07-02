@@ -1,0 +1,3 @@
+[submodule "catapult-server"]
+	path = catapult-server
+	url = https://github.com/nemtech/catapult-server.git
