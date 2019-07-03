@@ -1,0 +1,12 @@
+<map id="catapult::io::IndexFile::set" name="catapult::io::IndexFile::set">
+<area shape="rect" id="node1" title="Sets the index value to value." alt="" coords="1004,75,1176,100"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a897c5fbe37df2cb872f3676224f9ff74" title="Drops all blocks after height." alt="" coords="762,5,956,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1IndexFile.html#a49fbbf549573362717f1266c10c99fe7" title="Increments the index value by one and returns the new value." alt="" coords="785,68,932,107"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a6c981ab30cc4644b3c2e25865f6fda96" title="Saves blockElement." alt="" coords="762,131,956,169"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1FileQueueWriter.html#a5cff4cd2e58510871f7fff08404e8d95" title=" " alt="" coords="520,37,710,76"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1FileQueueReader.html#adf6c9116b9e3cab8a85e5856e2f4af98" title=" " alt="" coords="515,100,714,139"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1FileQueueReader.html#aee77e2e3727979357d565cff54ebaae0" title="Skips at most the next count messages." alt="" coords="269,67,467,105"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1io_1_1FileQueueReader.html#a28d106aa56e2446549d9b1dd04bdd214" title="Tries to read the next message and forwards it to consumer if successful." alt="" coords="269,131,467,169"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1consumers.html#ab5b07f56280bc03c283bfe1a5567d7ee" title="Creates a consumer that cleans up temporary state produced by the block chain sync consumer given dat..." alt="" coords="5,57,221,109"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1subscribers.html#a7ad542fdc2dec0f88e17d62f78a44e69" title="Reads all messages from reader into subscriber using readNextMessage." alt="" coords="41,133,185,172"/>
+</map>

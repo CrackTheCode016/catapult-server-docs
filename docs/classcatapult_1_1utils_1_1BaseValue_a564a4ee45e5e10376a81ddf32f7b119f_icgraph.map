@@ -1,0 +1,5 @@
+<map id="catapult::utils::BaseValue::BaseValue" name="catapult::utils::BaseValue::BaseValue">
+<area shape="rect" id="node1" title="Creates a base value from a raw value." alt="" coords="223,51,393,89"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BaseValue.html#ac257f24bd701a97bc55e60dac702f028" title="Adds rhs and this value and returns a new value." alt="" coords="5,5,175,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BaseValue.html#a867aa9e764607cfc4a7dddc0c494f542" title="Subtracts rhs from this value and returns a new value." alt="" coords="5,81,175,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="catapult::state::AccountImportanceSnapshots::ImportanceSnapshot" name="catapult::state::AccountImportanceSnapshots::ImportanceSnapshot">
+<area shape="rect" id="node1" title="Temporal importance information." alt="" coords="1194,76,1419,128"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="872,44,1064,83"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="566,28,754,93"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1Importance__tag.html" title=" " alt="" coords="230,5,398,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="230,55,398,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,93,172,119"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,117,407,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="860,109,1075,161"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="509,117,811,183"/>
+<area shape="rect" id="node9" title=" " alt="" coords="238,180,390,205"/>
+</map>

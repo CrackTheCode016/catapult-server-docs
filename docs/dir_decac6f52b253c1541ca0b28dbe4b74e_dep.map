@@ -1,7 +1,7 @@
-<map id="catapult&#45;server/extensions/timesync" name="catapult&#45;server/extensions/timesync">
+<map id="timesync" name="timesync">
 <area shape="rect" id="node2" href="dir_0f230b319b16fdcadef3610a5484e880.html" title="src" alt="" coords="37,61,109,109"/>
 <area shape="rect" id="node3" href="dir_b029c1933000b647493fc184aa72bc64.html" title="src" alt="" coords="37,157,109,205"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000076_000051.html" title="48" alt="" coords="74,132,89,145"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000075_000004.html" title="48" alt="" coords="74,132,89,145"/>
 <area shape="rect" id="clust2" href="dir_decac6f52b253c1541ca0b28dbe4b74e.html" alt="" coords="27,51,219,120"/>
 <area shape="rect" id="clust1" href="dir_e2d31cf0b82612ae486700e2c578b532.html" title="extensions" alt="" coords="16,16,229,131"/>
 </map>

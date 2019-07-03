@@ -1,4 +1,0 @@
-<map id="catapult::utils::SpinLock::SpinLock" name="catapult::utils::SpinLock::SpinLock">
-<area shape="rect" id="node1" title="Creates an unlocked lock." alt="" coords="5,5,167,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_spin_lock.html#a9ec13e5a721e60db05d913963a01e156" title="Releases the lock held by the execution agent. Throws no exceptions." alt="" coords="215,5,376,44"/>
-</map>

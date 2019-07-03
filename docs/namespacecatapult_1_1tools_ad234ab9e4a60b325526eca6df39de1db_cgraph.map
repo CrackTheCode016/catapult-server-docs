@@ -1,5 +1,5 @@
 <map id="catapult::tools::LoadConfiguration" name="catapult::tools::LoadConfiguration">
 <area shape="rect" id="node1" title="Loads the configuration from resourcesPath." alt="" coords="5,12,225,37"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1config_1_1_catapult_configuration.html#ae3888bef596dfa867097c76a7717c36e" title=" " alt="" coords="273,5,470,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1config_1_1_catapult_configuration.html#a663bc4f193038833bf80597affeea5c2" title=" " alt="" coords="518,5,755,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1config_1_1CatapultConfiguration.html#ae3888bef596dfa867097c76a7717c36e" title=" " alt="" coords="273,5,470,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1config_1_1CatapultConfiguration.html#a663bc4f193038833bf80597affeea5c2" title=" " alt="" coords="518,5,755,44"/>
 </map>

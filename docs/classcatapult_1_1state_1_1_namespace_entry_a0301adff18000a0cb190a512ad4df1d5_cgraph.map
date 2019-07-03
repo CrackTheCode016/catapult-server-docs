@@ -1,5 +1,0 @@
-<map id="catapult::state::NamespaceEntry::NamespaceEntry" name="catapult::state::NamespaceEntry::NamespaceEntry">
-<area shape="rect" id="node1" title="Creates an entry around ns and root." alt="" coords="5,27,188,65"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_root_namespace.html#a2784abdb31eeb5487e024d6fd7e0c4ef" title="Gets the namespace id." alt="" coords="236,5,465,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_namespace.html#ae47b05fc83ad48ced4146f46b0aa9f29" title="Gets the corresponding root namespace id." alt="" coords="259,55,442,93"/>
-</map>

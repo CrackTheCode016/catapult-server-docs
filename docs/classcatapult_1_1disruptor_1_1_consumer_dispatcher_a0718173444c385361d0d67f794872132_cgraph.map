@@ -1,8 +1,0 @@
-<map id="catapult::disruptor::ConsumerDispatcher::ConsumerDispatcher" name="catapult::disruptor::ConsumerDispatcher::ConsumerDispatcher">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,159,132"/>
-<area shape="rect" id="node2" href="$namespaceforwards_validation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="239,5,394,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1disruptor_1_1_consumer_entry.html#a1fe39e6b84e4eddaa735fd4900f4bb00" title="Returns consumer level." alt="" coords="238,55,395,93"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1disruptor_1_1_consumer_entry.html#abf6185786b0250d8c5d974a30463ce82" title="Returns current position (in the circular buffer)." alt="" coords="229,117,404,156"/>
-<area shape="rect" id="node5" href="$namespacecatapult_1_1thread.html#a7067b8be6d66ed95ea8f4058bf117fb6" title=" " alt="" coords="207,180,426,205"/>
-<area shape="rect" id="node6" href="$namespacecatapult_1_1thread.html#ad39b4a512159d72096deaa5fe027e1cb" title="Gets the maximum supported thread name length (excluding NUL&#45;terminator)." alt="" coords="474,173,641,212"/>
-</map>

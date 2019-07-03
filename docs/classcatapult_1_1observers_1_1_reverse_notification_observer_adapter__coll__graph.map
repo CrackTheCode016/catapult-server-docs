@@ -1,4 +1,0 @@
-<map id="catapult::observers::ReverseNotificationObserverAdapter" name="catapult::observers::ReverseNotificationObserverAdapter">
-<area shape="rect" id="node1" title="A notification observer to entity observer adapter that reverses the order of raised notifications." alt="" coords="5,92,205,144"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1observers_1_1_entity_observer.html" title=" " alt="" coords="38,5,172,44"/>
-</map>

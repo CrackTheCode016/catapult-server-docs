@@ -1,6 +1,0 @@
-<map id="catapult::utils::SlowOperationLogger::~SlowOperationLogger" name="catapult::utils::SlowOperationLogger::~SlowOperationLogger">
-<area shape="rect" id="node1" title="Destructor." alt="" coords="5,37,212,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_time_span.html#a14789d6cac33667820722add65f0f8ad" title="Creates a time span from the given number of milliseconds." alt="" coords="264,5,431,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_stack_timer.html#ac7fdd0cffa685c451a9420c82493e7e2" title="Gets the number of elapsed milliseconds since this logger was created." alt="" coords="260,68,434,107"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_time_span.html#abed2663576b21626ff234f40ceffe563" title="Creates a default (zero) time span." alt="" coords="482,5,649,44"/>
-</map>

@@ -1,0 +1,11 @@
+<map id="catapult::api::HeightPacket&lt; PacketType &gt;" name="catapult::api::HeightPacket&lt; PacketType &gt;">
+<area shape="rect" id="node1" title="A packet containing header information and a height." alt="" coords="998,80,1178,119"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1Packet.html" title="A packet header with a data payload." alt="" coords="747,55,899,80"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1ionet_1_1PacketHeader.html" title="A packet header that all transferable information is expected to have." alt="" coords="492,5,688,31"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="497,55,684,80"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="738,107,908,145"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="506,104,675,169"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1Height__tag.html" title=" " alt="" coords="236,96,376,121"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,145,390,184"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,152,172,177"/>
+</map>

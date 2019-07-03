@@ -1,4 +1,4 @@
 <map id="catapult::unbondedpruning::FindDependentTransactionHashes" name="catapult::unbondedpruning::FindDependentTransactionHashes">
 <area shape="rect" id="node1" title=" " alt="" coords="5,5,240,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_notification_publisher.html#ac2c154d57c3a78c9a5593d16613e8b73" title="Sends all notifications from entityInfo to sub." alt="" coords="288,5,473,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1NotificationPublisher.html#ac2c154d57c3a78c9a5593d16613e8b73" title="Sends all notifications from entityInfo to sub." alt="" coords="288,5,473,44"/>
 </map>

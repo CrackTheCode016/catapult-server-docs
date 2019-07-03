@@ -1,12 +1,12 @@
 <map id="catapult::subscribers::ReadAll" name="catapult::subscribers::ReadAll">
 <area shape="rect" id="node1" title="Reads all messages from queue described by descriptor into subscriber using readNextMessage." alt="" coords="5,55,149,93"/>
-<area shape="rect" id="node2" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="246,5,347,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_file_queue_reader.html#a02a867dfd66c2ceea408ec61e1363ddf" title="Gets the number of pending messages." alt="" coords="197,55,395,93"/>
+<area shape="rect" id="node2" href="$namespaceParser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="246,5,347,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1FileQueueReader.html#a02a867dfd66c2ceea408ec61e1363ddf" title="Gets the number of pending messages." alt="" coords="197,55,395,93"/>
 <area shape="rect" id="node8" href="$namespacecatapult_1_1subscribers.html#af807111ce101483851e77658da5c16de" title="Reads all messages from inputStream into subscriber using readNextMessage." alt="" coords="224,117,368,156"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_index_file.html#a47835027fd86fa37a1f5a0e265c5de55" title="true if the index file exists." alt="" coords="466,5,613,44"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1_index_file.html#abf04a75491d6a2b7d696539703ea6711" title="Gets the index value." alt="" coords="453,68,626,93"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1_index_file.html#adad14744c9d6b1ba0f202fa803d6ec7f" title=" " alt="" coords="683,33,831,72"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1IndexFile.html#a47835027fd86fa37a1f5a0e265c5de55" title="true if the index file exists." alt="" coords="466,5,613,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1IndexFile.html#abf04a75491d6a2b7d696539703ea6711" title="Gets the index value." alt="" coords="453,68,626,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1IndexFile.html#adad14744c9d6b1ba0f202fa803d6ec7f" title=" " alt="" coords="683,33,831,72"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="687,96,827,121"/>
-<area shape="rect" id="node9" href="$classcatapult_1_1io_1_1_input_stream.html#ab768a25ff2912e1d96388c9552e5caa9" title="Returns true if no data is left in the stream." alt="" coords="443,120,635,145"/>
-<area shape="rect" id="node10" href="$structcatapult_1_1subscribers_1_1detail_1_1_flusher.html#ad8b95cd4ab7e2c837e0c7cb76309f364" title=" " alt="" coords="463,169,616,208"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1io_1_1InputStream.html#ab768a25ff2912e1d96388c9552e5caa9" title="Returns true if no data is left in the stream." alt="" coords="443,120,635,145"/>
+<area shape="rect" id="node10" href="$structcatapult_1_1subscribers_1_1detail_1_1Flusher.html#ad8b95cd4ab7e2c837e0c7cb76309f364" title=" " alt="" coords="463,169,616,208"/>
 </map>

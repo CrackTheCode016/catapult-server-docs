@@ -1,0 +1,12 @@
+<map id="catapult::deltaset::DeltaElementsMixin&lt; TSetDelta &gt;" name="catapult::deltaset::DeltaElementsMixin&lt; TSetDelta &gt;">
+<area shape="rect" id="node1" title="Mixin that wraps BaseSetDelta and provides a facade on top of BaseSetDelta::deltas()." alt="" coords="5,75,152,127"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicBlockDifficultyCacheDelta.html" title="Basic delta on top of the block difficulty cache." alt="" coords="202,16,394,55"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1BasicHashCacheDelta.html" title="Basic delta on top of the hash cache." alt="" coords="207,81,389,120"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1BasicMultisigCacheDelta.html" title="Basic delta on top of the multisig cache." alt="" coords="200,147,396,185"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="459,5,685,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1BlockDifficultyCacheDelta.html" title="Delta on top of the block difficulty cache." alt="" coords="747,12,949,51"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="444,81,699,120"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1HashCacheDelta.html" title="Delta on top of the hash cache." alt="" coords="754,81,942,120"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="458,144,685,196"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1MultisigCacheDelta.html" title="Delta on top of the multisig cache." alt="" coords="766,151,930,189"/>
+</map>

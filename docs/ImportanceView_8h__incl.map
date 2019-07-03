@@ -1,0 +1,24 @@
+<map id="ImportanceView.h" name="ImportanceView.h">
+<area shape="rect" id="node1" title=" " alt="" coords="423,5,550,31"/>
+<area shape="rect" id="node2" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="429,79,544,104"/>
+<area shape="rect" id="node3" href="$ByteArray_8h.html" title=" " alt="" coords="528,152,645,177"/>
+<area shape="rect" id="node9" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="23,372,206,411"/>
+<area shape="rect" id="node15" title=" " alt="" coords="659,299,711,324"/>
+<area shape="rect" id="node18" href="$RawBuffer_8h.html" title=" " alt="" coords="283,152,404,177"/>
+<area shape="rect" id="node4" href="$HexFormatter_8h.html" title=" " alt="" coords="530,225,643,251"/>
+<area shape="rect" id="node5" href="$StreamFormatGuard_8h.html" title=" " alt="" coords="384,299,539,324"/>
+<area shape="rect" id="node8" href="$Traits_8h.html" title=" " alt="" coords="180,299,278,324"/>
+<area shape="rect" id="node16" title=" " alt="" coords="562,299,635,324"/>
+<area shape="rect" id="node17" title=" " alt="" coords="302,299,359,324"/>
+<area shape="rect" id="node6" href="$NonCopyable_8h.html" title=" " alt="" coords="142,605,255,631"/>
+<area shape="rect" id="node7" title=" " alt="" coords="427,379,495,404"/>
+<area shape="rect" id="node14" title=" " alt="" coords="230,379,313,404"/>
+<area shape="rect" id="node10" href="$BaseValue_8h.html" title=" " alt="" coords="80,459,176,484"/>
+<area shape="rect" id="node11" href="$ImmutableValue_8h.html" title=" " alt="" coords="5,532,133,557"/>
+<area shape="rect" id="node12" title=" " alt="" coords="157,532,216,557"/>
+<area shape="rect" id="node13" title=" " alt="" coords="241,532,292,557"/>
+<area shape="rect" id="node19" title=" " alt="" coords="266,225,336,251"/>
+<area shape="rect" id="node20" title=" " alt="" coords="360,225,414,251"/>
+<area shape="rect" id="node21" title=" " alt="" coords="438,225,506,251"/>
+<area shape="rect" id="node22" title=" " alt="" coords="128,225,192,251"/>
+</map>

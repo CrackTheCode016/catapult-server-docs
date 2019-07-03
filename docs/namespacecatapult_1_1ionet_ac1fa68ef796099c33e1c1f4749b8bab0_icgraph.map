@@ -2,7 +2,7 @@
 <area shape="rect" id="node1" title="Checks if packet is valid with type." alt="" coords="542,88,705,127"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1handlers.html#a869034c91b6fea9ea0a06eb23f0a4b20" title=" " alt="" coords="291,5,482,57"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1handlers.html#aa5871c86abac460ce8226f3980ac3345" title="Registers a time sync network time handler in handlers that responds with communication timestamps us..." alt="" coords="279,81,494,133"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1handlers_1_1_batch_handler_factory.html#a8dd7f3922c5c00ff62cd27f7411658e0" title=" " alt="" coords="310,157,464,209"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1handlers_1_1BatchHandlerFactory.html#a8dd7f3922c5c00ff62cd27f7411658e0" title=" " alt="" coords="310,157,464,209"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1handlers.html#adf95e852bce73e9b6457e77cf10475cc" title="Registers a diagnostic nodes handler in handlers that responds with info about all (active) partner n..." alt="" coords="5,129,231,168"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1handlers.html#a9d3a9bf6c1b6dc6dce0a39cb790c81f6" title="Registers a node discovery pull peers handler in handlers that responds with nodes from nodesSupplier..." alt="" coords="23,192,214,244"/>
 </map>

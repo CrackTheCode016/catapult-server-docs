@@ -1,6 +1,0 @@
-<map id="catapult::deltaset::BaseSet::rebase" name="catapult::deltaset::BaseSet::rebase">
-<area shape="rect" id="node1" title="Returns a delta based on the same original elements as this set." alt="" coords="244,68,372,107"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_mosaic_base_sets.html#ad52f44be6db720efe2669b09d95fac82" title=" " alt="" coords="5,5,196,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_account_state_base_sets.html#a3d714dca767edcdb7f320d50b7022645" title=" " alt="" coords="18,68,184,107"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1_namespace_base_sets.html#aad5b528f17e9e7a3155904ff3718b1bd" title=" " alt="" coords="6,131,196,169"/>
-</map>

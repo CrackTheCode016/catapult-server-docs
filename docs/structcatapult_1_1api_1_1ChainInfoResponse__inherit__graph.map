@@ -1,0 +1,6 @@
+<map id="catapult::api::ChainInfoResponse" name="catapult::api::ChainInfoResponse">
+<area shape="rect" id="node1" title="A chain info response." alt="" coords="133,152,290,191"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1Packet.html" title="A packet header with a data payload." alt="" coords="135,79,288,104"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1ionet_1_1PacketHeader.html" title="A packet header that all transferable information is expected to have." alt="" coords="5,5,202,31"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="226,5,413,31"/>
+</map>

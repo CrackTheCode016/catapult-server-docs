@@ -1,0 +1,8 @@
+<map id="catapult::ionet::ServerPacketHandlerContext" name="catapult::ionet::ServerPacketHandlerContext">
+<area shape="rect" id="node1" title="Context passed to a server packet handler function." alt="" coords="631,55,823,93"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="330,5,497,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="331,55,496,93"/>
+<area shape="rect" id="node4" title=" " alt="" coords="78,61,129,87"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1ionet_1_1PacketPayload.html" title="A packet payload that can be written." alt="" coords="313,117,514,143"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1ionet_1_1PacketHeader.html" title="A packet header that all transferable information is expected to have." alt="" coords="5,117,202,143"/>
+</map>

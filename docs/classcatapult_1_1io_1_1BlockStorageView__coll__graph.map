@@ -1,0 +1,10 @@
+<map id="catapult::io::BlockStorageView" name="catapult::io::BlockStorageView">
+<area shape="rect" id="node1" title="A read only view on top of block storage." alt="" coords="948,80,1149,105"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="595,5,761,31"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1io_1_1CachedData.html" title=" " alt="" coords="594,55,761,80"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1BlockStorage.html" title="Interface for saving and loading blocks." alt="" coords="592,104,764,129"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1LightBlockStorage.html" title="Minimalistic interface for block storage (does not allow block loading)." alt="" coords="293,95,448,133"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,101,193,127"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1utils_1_1BasicSpinReaderWriterLock_1_1ReaderLockGuard.html" title="A reader lock guard." alt="" coords="549,155,807,207"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1BasicSpinReaderWriterLock_1_1LockGuard.html" title="Base class for RAII lock guards." alt="" coords="242,157,500,209"/>
+</map>

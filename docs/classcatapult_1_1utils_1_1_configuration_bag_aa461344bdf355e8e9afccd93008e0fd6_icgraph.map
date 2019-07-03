@@ -1,5 +1,0 @@
-<map id="catapult::utils::ConfigurationBag::sections" name="catapult::utils::ConfigurationBag::sections">
-<area shape="rect" id="node1" title="Gets the names of all sections in this bag." alt="" coords="277,37,463,76"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_block_chain_configuration.html#a7716e575e468328d0e283c5fee0a47e9" title="Loads a block chain configuration from bag." alt="" coords="21,5,213,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1sync_1_1_tasks_configuration.html#a2e5fdd474574e2f2526ab614a2f2f339" title="Loads a tasks configuration from bag." alt="" coords="5,68,229,107"/>
-</map>

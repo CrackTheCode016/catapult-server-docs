@@ -1,0 +1,6 @@
+<map id="catapult::model::BaseAliasNotification" name="catapult::model::BaseAliasNotification">
+<area shape="rect" id="node1" title="Base alias notification." alt="" coords="238,47,417,85"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1AliasedDataNotification.html" title="Notification of aliased data." alt="" coords="465,5,674,57"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1AliasOwnerNotification.html" title="Notification of alias owner." alt="" coords="476,81,663,120"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="5,53,190,79"/>
+</map>

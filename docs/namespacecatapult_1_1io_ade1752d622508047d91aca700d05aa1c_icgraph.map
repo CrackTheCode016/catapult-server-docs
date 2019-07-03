@@ -1,14 +1,14 @@
 <map id="catapult::io::Write" name="catapult::io::Write">
-<area shape="rect" id="node1" title="Writes base value into output." alt="" coords="614,276,738,301"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_hash_cache_storage.html#ac82c93d25a4d108495ede9b23086bafe" title="Saves timestampedHash to output." alt="" coords="321,5,509,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_block_difficulty_cache_storage.html#ac49b084df56800f344c81c09cb1e332e" title="Saves info to output." alt="" coords="314,68,515,107"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1state_1_1_lock_info_serializer.html#adae960685100b6dfb4c44164c3b620ad" title="Saves lockInfo to output." alt="" coords="263,131,566,183"/>
-<area shape="rect" id="node6" href="$structcatapult_1_1state_1_1_mosaic_entry_serializer.html#a84816d872bbad66674874ad83e1dca65" title="Saves entry to output." alt="" coords="322,207,507,245"/>
-<area shape="rect" id="node7" href="$structcatapult_1_1state_1_1_account_state_non_historical_serializer.html#ad281db9730de4a014c0c3b6b1a7db833" title="Saves accountState to output." alt="" coords="302,269,527,308"/>
-<area shape="rect" id="node9" href="$namespacecatapult_1_1cache.html#a2392f0677afddac5dcb23cbd9f0635ab" title="Saves supplementalData and chainHeight to output." alt="" coords="285,332,544,357"/>
-<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1_identifier_group_serializer.html#ab1a7d8348ea822f928e8b627c5fe6703" title="Serializes value to string." alt="" coords="268,381,561,447"/>
-<area shape="rect" id="node11" href="$structcatapult_1_1cache_1_1_namespace_flat_map_types_serializer.html#a173929ef6ca09eb5e40f1fc934237392" title="Serializes element to string." alt="" coords="320,471,509,523"/>
-<area shape="rect" id="node12" href="$classcatapult_1_1cache_1_1_identifier_group_serializer.html#a2bfffb3e411272b3708f4a0fd63b31be" title=" " alt="" coords="268,547,561,612"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_block_difficulty_cache_summary_cache_storage.html#af1f416fcad5bb21f01a2e2c08e92d13a" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="5,61,215,113"/>
-<area shape="rect" id="node8" href="$structcatapult_1_1state_1_1_account_state_serializer.html#a0222b98ca9ca1cdeb04e14686eb21d2d" title="Saves accountState to output." alt="" coords="30,269,190,308"/>
+<area shape="rect" id="node1" title="Writes base value into output." alt="" coords="614,283,738,308"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1BlockDifficultyCacheStorage.html#ac49b084df56800f344c81c09cb1e332e" title="Saves info to output." alt="" coords="314,12,515,51"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1HashCacheStorage.html#ac82c93d25a4d108495ede9b23086bafe" title="Saves timestampedHash to output." alt="" coords="321,75,509,113"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1state_1_1LockInfoSerializer.html#adae960685100b6dfb4c44164c3b620ad" title="Saves lockInfo to output." alt="" coords="263,137,566,189"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1state_1_1MosaicEntrySerializer.html#a84816d872bbad66674874ad83e1dca65" title="Saves entry to output." alt="" coords="322,213,507,252"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1state_1_1AccountStateNonHistoricalSerializer.html#ad281db9730de4a014c0c3b6b1a7db833" title="Saves accountState to output." alt="" coords="302,276,527,315"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1cache.html#a2392f0677afddac5dcb23cbd9f0635ab" title="Saves supplementalData and chainHeight to output." alt="" coords="285,339,544,364"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1IdentifierGroupSerializer.html#ab1a7d8348ea822f928e8b627c5fe6703" title="Serializes value to string." alt="" coords="268,388,561,453"/>
+<area shape="rect" id="node11" href="$structcatapult_1_1cache_1_1NamespaceFlatMapTypesSerializer.html#a173929ef6ca09eb5e40f1fc934237392" title="Serializes element to string." alt="" coords="320,477,509,529"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1cache_1_1IdentifierGroupSerializer.html#a2bfffb3e411272b3708f4a0fd63b31be" title=" " alt="" coords="268,553,561,619"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BlockDifficultyCacheSummaryCacheStorage.html#af1f416fcad5bb21f01a2e2c08e92d13a" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="5,5,215,57"/>
+<area shape="rect" id="node8" href="$structcatapult_1_1state_1_1AccountStateSerializer.html#a0222b98ca9ca1cdeb04e14686eb21d2d" title="Saves accountState to output." alt="" coords="30,276,190,315"/>
 </map>

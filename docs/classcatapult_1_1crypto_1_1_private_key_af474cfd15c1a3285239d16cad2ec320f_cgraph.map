@@ -1,4 +1,0 @@
-<map id="catapult::crypto::PrivateKey::end" name="catapult::crypto::PrivateKey::end">
-<area shape="rect" id="node1" title="Returns a const iterator to the end of the raw key." alt="" coords="5,5,166,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html#a79ef47736964cb180440d5efd52e0281" title="Returns a const iterator to one past the last byte." alt="" coords="214,5,379,44"/>
-</map>

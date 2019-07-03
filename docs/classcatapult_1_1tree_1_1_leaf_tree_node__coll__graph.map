@@ -1,6 +1,0 @@
-<map id="catapult::tree::LeafTreeNode" name="catapult::tree::LeafTreeNode">
-<area shape="rect" id="node1" title="Represents a leaf tree node." alt="" coords="526,47,717,72"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="209,5,427,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1_hash256__tag.html" title=" " alt="" coords="5,12,160,37"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1_tree_node_path.html" title="Represents a path in a tree." alt="" coords="222,68,414,93"/>
-</map>

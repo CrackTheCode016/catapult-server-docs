@@ -1,4 +1,4 @@
 <map id="catapult::mongo::plugins::CreateTransferTransactionMongoPlugin" name="catapult::mongo::plugins::CreateTransferTransactionMongoPlugin">
 <area shape="rect" id="node1" title="Creates a mongo transfer transaction plugin." alt="" coords="231,5,459,57"/>
-<area shape="rect" id="node2" href="$_mongo_transfer_plugin_8cpp.html#af2a241600d5e0ac986f77f0126143877" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,183,44"/>
+<area shape="rect" id="node2" href="$MongoTransferPlugin_8cpp.html#af2a241600d5e0ac986f77f0126143877" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,183,44"/>
 </map>

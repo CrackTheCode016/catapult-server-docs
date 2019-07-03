@@ -1,5 +1,5 @@
 <map id="catapult::model::DeepCopyTo" name="catapult::model::DeepCopyTo">
 <area shape="rect" id="node1" title="Creates a deep copy of source into destination." alt="" coords="464,19,660,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_block_statement_builder.html#a12991062d3a19591356018b1c707fcdd" title="Decrements the current primary source and removes all receipts associated with it." alt="" coords="204,12,416,51"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1harvesting_1_1_harvesting_ut_facade_1_1_impl.html#a52ccf2b1f5758daa7881475f9737229a" title=" " alt="" coords="5,5,156,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1BlockStatementBuilder.html#a12991062d3a19591356018b1c707fcdd" title="Decrements the current primary source and removes all receipts associated with it." alt="" coords="204,12,416,51"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1harvesting_1_1HarvestingUtFacade_1_1Impl.html#a52ccf2b1f5758daa7881475f9737229a" title=" " alt="" coords="5,5,156,57"/>
 </map>

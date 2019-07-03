@@ -1,5 +1,0 @@
-<map id="catapult::cache::ReadOnlyAccountStateCache::importanceGrouping" name="catapult::cache::ReadOnlyAccountStateCache::importanceGrouping">
-<area shape="rect" id="node1" title="Gets the network importance grouping." alt="" coords="5,37,273,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_view.html#ab9383068eea44533bad8a12314eefddb" title="Gets the network importance grouping." alt="" coords="322,5,570,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_delta.html#ac348d529f075da585cd7fa726b70065d" title="Gets the network importance grouping." alt="" coords="321,68,571,107"/>
-</map>

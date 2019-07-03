@@ -1,5 +1,0 @@
-<map id="catapult::state::LockInfo" name="catapult::state::LockInfo">
-<area shape="rect" id="node1" title="A lock info." alt="" coords="132,5,294,31"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_hash_lock_info.html" title="A hash lock info." alt="" coords="5,79,199,104"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_secret_lock_info.html" title="A secret lock info." alt="" coords="223,79,424,104"/>
-</map>

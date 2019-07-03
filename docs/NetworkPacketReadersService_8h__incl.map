@@ -1,0 +1,52 @@
+<map id="NetworkPacketReadersService.h" name="NetworkPacketReadersService.h">
+<area shape="rect" id="node1" title=" " alt="" coords="641,5,858,31"/>
+<area shape="rect" id="node2" href="$ServiceRegistrar_8h.html" title=" " alt="" coords="423,385,558,424"/>
+<area shape="rect" id="node6" href="$PacketReaders_8h.html" title=" " alt="" coords="951,79,1147,104"/>
+<area shape="rect" id="node3" href="$ServiceRegistrarPhase_8h.html" title=" " alt="" coords="321,472,490,497"/>
+<area shape="rect" id="node4" title=" " alt="" coords="828,472,897,497"/>
+<area shape="rect" id="node5" title=" " alt="" coords="486,545,540,571"/>
+<area shape="rect" id="node7" href="$ConnectionContainer_8h.html" title=" " alt="" coords="1492,152,1649,177"/>
+<area shape="rect" id="node29" href="$ConnectionSettings_8h.html" title=" " alt="" coords="571,152,719,177"/>
+<area shape="rect" id="node42" href="$PeerConnectResult_8h.html" title=" " alt="" coords="863,312,1011,337"/>
+<area shape="rect" id="node44" href="$PacketHandlers_8h.html" title=" " alt="" coords="1305,232,1514,257"/>
+<area shape="rect" id="node50" title=" " alt="" coords="1214,392,1293,417"/>
+<area shape="rect" id="node8" href="$ArraySet_8h.html" title=" " alt="" coords="1806,312,1968,337"/>
+<area shape="rect" id="node9" href="$Hashers_8h.html" title=" " alt="" coords="2020,392,2102,417"/>
+<area shape="rect" id="node21" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="1076,392,1191,417"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2126,392,2165,417"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1749,392,1864,417"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1889,392,1996,417"/>
+<area shape="rect" id="node10" href="$ByteArray_8h.html" title=" " alt="" coords="1439,472,1529,497"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2071,472,2132,497"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1996,472,2046,497"/>
+<area shape="rect" id="node11" href="$HexFormatter_8h.html" title=" " alt="" coords="1366,545,1479,571"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1397,619,1449,644"/>
+<area shape="rect" id="node12" href="$Traits_8h.html" title=" " alt="" coords="891,619,989,644"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1630,619,1687,644"/>
+<area shape="rect" id="node13" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="854,692,1037,731"/>
+<area shape="rect" id="node16" title=" " alt="" coords="612,699,695,724"/>
+<area shape="rect" id="node14" href="$BaseValue_8h.html" title=" " alt="" coords="897,779,993,804"/>
+<area shape="rect" id="node15" title=" " alt="" coords="254,852,314,877"/>
+<area shape="rect" id="node22" href="$RawBuffer_8h.html" title=" " alt="" coords="921,472,1042,497"/>
+<area shape="rect" id="node23" title=" " alt="" coords="972,545,1041,571"/>
+<area shape="rect" id="node24" title=" " alt="" coords="615,545,684,571"/>
+<area shape="rect" id="node25" title=" " alt="" coords="708,545,772,571"/>
+<area shape="rect" id="node30" href="$ConnectionSecurityMode_8h.html" title=" " alt="" coords="51,225,223,264"/>
+<area shape="rect" id="node37" href="$PacketSocketOptions_8h.html" title=" " alt="" coords="487,225,673,264"/>
+<area shape="rect" id="node38" href="$NetworkInfo_8h.html" title=" " alt="" coords="748,232,942,257"/>
+<area shape="rect" id="node39" href="$FileSize_8h.html" title=" " alt="" coords="254,312,412,337"/>
+<area shape="rect" id="node40" href="$TimeSpan_8h.html" title=" " alt="" coords="617,312,788,337"/>
+<area shape="rect" id="node31" href="$BitwiseEnum_8h.html" title=" " alt="" coords="44,312,231,337"/>
+<area shape="rect" id="node32" href="$Casting_8h.html" title=" " alt="" coords="193,392,271,417"/>
+<area shape="rect" id="node33" href="$exceptions_8h.html" title=" " alt="" coords="1116,472,1263,497"/>
+<area shape="rect" id="node35" title=" " alt="" coords="93,472,145,497"/>
+<area shape="rect" id="node36" title=" " alt="" coords="169,472,247,497"/>
+<area shape="rect" id="node34" href="$NonCopyable_8h.html" title=" " alt="" coords="1229,545,1342,571"/>
+<area shape="rect" id="node41" title=" " alt="" coords="641,392,703,417"/>
+<area shape="rect" id="node43" href="$PeerConnectCode_8h.html" title=" " alt="" coords="526,779,668,804"/>
+<area shape="rect" id="node45" href="$IoTypes_8h.html" title=" " alt="" coords="1612,472,1692,497"/>
+<area shape="rect" id="node47" href="$PacketPayload_8h.html" title=" " alt="" coords="1349,312,1470,337"/>
+<area shape="rect" id="node49" href="$functions_8h.html" title=" " alt="" coords="1188,312,1324,337"/>
+<area shape="rect" id="node46" title=" " alt="" coords="1605,545,1713,571"/>
+<area shape="rect" id="node48" href="$Packet_8h.html" title=" " alt="" coords="1317,392,1390,417"/>
+</map>

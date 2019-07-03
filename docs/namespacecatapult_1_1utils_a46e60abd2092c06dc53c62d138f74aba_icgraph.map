@@ -1,7 +1,7 @@
 <map id="catapult::utils::SubtractNonNegative" name="catapult::utils::SubtractNonNegative">
 <area shape="rect" id="node1" title="Subtracts timeSpan from timestamp and returns the maximum of the difference and zero." alt="" coords="445,37,601,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_hash_cache_delta.html#a18e9ecf3fc800b09dfc36f3e3a42ca9d" title="Removes all timestamped hashes that have timestamps prior to the given timestamp minus the retention ..." alt="" coords="215,5,397,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1sync_1_1_rollback_info.html#aa849ca0a576a0a455b17e9be978b8f8b" title=" " alt="" coords="225,68,387,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1sync_1_1_rollback_info.html#abe7188c745ab42d416b22a44b683491f" title="Adds counter to ignored statistics and resets the counter." alt="" coords="5,36,167,75"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1sync_1_1_rollback_info.html#ae28c69946304acbb7f7b311d8b1225b7" title="Adds counter to committed statistics and resets the counter." alt="" coords="5,99,167,137"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicHashCacheDelta.html#a18e9ecf3fc800b09dfc36f3e3a42ca9d" title="Removes all timestamped hashes that have timestamps prior to the given timestamp minus the retention ..." alt="" coords="215,5,397,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1sync_1_1RollbackInfo.html#aa849ca0a576a0a455b17e9be978b8f8b" title=" " alt="" coords="225,68,387,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1sync_1_1RollbackInfo.html#abe7188c745ab42d416b22a44b683491f" title="Adds counter to ignored statistics and resets the counter." alt="" coords="5,36,167,75"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1sync_1_1RollbackInfo.html#ae28c69946304acbb7f7b311d8b1225b7" title="Adds counter to committed statistics and resets the counter." alt="" coords="5,99,167,137"/>
 </map>

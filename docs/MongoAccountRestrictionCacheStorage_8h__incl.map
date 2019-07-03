@@ -1,0 +1,35 @@
+<map id="MongoAccountRestrictionCacheStorage.h" name="MongoAccountRestrictionCacheStorage.h">
+<area shape="rect" id="node1" title=" " alt="" coords="190,5,402,44"/>
+<area shape="rect" id="node2" href="$extensions_2mongo_2src_2CacheStorageInclude_8h.html" title=" " alt="" coords="183,92,409,117"/>
+<area shape="rect" id="node3" href="$ExternalCacheStorage_8h.html" title=" " alt="" coords="515,165,682,191"/>
+<area shape="rect" id="node29" title=" " alt="" coords="5,459,75,484"/>
+<area shape="rect" id="node33" href="$NetworkInfo_8h.html" title=" " alt="" coords="199,165,393,191"/>
+<area shape="rect" id="node4" href="$CacheChanges_8h.html" title=" " alt="" coords="492,239,706,264"/>
+<area shape="rect" id="node31" href="$functions_8h.html" title=" " alt="" coords="800,239,936,264"/>
+<area shape="rect" id="node5" href="$CatapultCacheDelta_8h.html" title=" " alt="" coords="334,312,485,337"/>
+<area shape="rect" id="node22" title=" " alt="" coords="749,679,806,704"/>
+<area shape="rect" id="node30" title=" " alt="" coords="545,312,652,337"/>
+<area shape="rect" id="node6" href="$StateHashInfo_8h.html" title=" " alt="" coords="351,385,468,411"/>
+<area shape="rect" id="node28" href="$SubCachePlugin_8h.html" title=" " alt="" coords="128,385,259,411"/>
+<area shape="rect" id="node7" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="239,459,353,484"/>
+<area shape="rect" id="node8" href="$ByteArray_8h.html" title=" " alt="" coords="524,532,641,557"/>
+<area shape="rect" id="node14" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="79,752,262,791"/>
+<area shape="rect" id="node20" title=" " alt="" coords="661,679,713,704"/>
+<area shape="rect" id="node23" href="$RawBuffer_8h.html" title=" " alt="" coords="230,532,351,557"/>
+<area shape="rect" id="node9" href="$HexFormatter_8h.html" title=" " alt="" coords="526,605,639,631"/>
+<area shape="rect" id="node10" href="$StreamFormatGuard_8h.html" title=" " alt="" coords="483,679,637,704"/>
+<area shape="rect" id="node13" href="$Traits_8h.html" title=" " alt="" coords="238,679,336,704"/>
+<area shape="rect" id="node21" title=" " alt="" coords="387,679,459,704"/>
+<area shape="rect" id="node11" href="$NonCopyable_8h.html" title=" " alt="" coords="369,985,482,1011"/>
+<area shape="rect" id="node12" title=" " alt="" coords="526,759,594,784"/>
+<area shape="rect" id="node19" title=" " alt="" coords="287,759,369,784"/>
+<area shape="rect" id="node15" href="$BaseValue_8h.html" title=" " alt="" coords="137,839,233,864"/>
+<area shape="rect" id="node16" href="$ImmutableValue_8h.html" title=" " alt="" coords="304,912,432,937"/>
+<area shape="rect" id="node17" title=" " alt="" coords="116,912,175,937"/>
+<area shape="rect" id="node18" title=" " alt="" coords="200,912,251,937"/>
+<area shape="rect" id="node24" title=" " alt="" coords="251,605,320,631"/>
+<area shape="rect" id="node25" title=" " alt="" coords="72,605,126,631"/>
+<area shape="rect" id="node26" title=" " alt="" coords="344,605,413,631"/>
+<area shape="rect" id="node27" title=" " alt="" coords="437,605,502,631"/>
+<area shape="rect" id="node32" title=" " alt="" coords="865,312,943,337"/>
+</map>

@@ -1,4 +1,4 @@
 <map id="catapult::thread::promise&lt; T &gt;" name="catapult::thread::promise&lt; T &gt;">
 <area shape="rect" id="node1" title="Stores the result of an asynchronous operation." alt="" coords="5,79,204,104"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="21,5,188,31"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="21,5,188,31"/>
 </map>

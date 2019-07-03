@@ -1,0 +1,5 @@
+<map id="catapult::state::CompactMosaicMap::basic_iterator::current" name="catapult::state::CompactMosaicMap::basic_iterator::current">
+<area shape="rect" id="node1" title="Gets a reference to the current value." alt="" coords="230,44,407,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1CompactMosaicMap_1_1basic__iterator__t.html#aa3b4d49d2e9c8a3768f5e3650cf1e03a" title="Returns a reference to the current value." alt="" coords="5,5,182,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1CompactMosaicMap_1_1basic__iterator__t.html#a49af92b13df6aa69d6765ed1c2d46ce6" title="Returns a pointer to the current value." alt="" coords="5,81,182,133"/>
+</map>

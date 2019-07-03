@@ -1,0 +1,9 @@
+<map id="catapult::chain::PtUpdater::Impl::checkEligibility" name="catapult::chain::PtUpdater::Impl::checkEligibility">
+<area shape="rect" id="node1" title=" " alt="" coords="5,87,180,125"/>
+<area shape="rect" id="node2" href="$namespaceParser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="281,5,381,31"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1chain_1_1CheckEligibilityResult.html#a536f920f33567bc580f7816bf53f6094" title=" " alt="" coords="228,55,434,93"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a781eb2c00749500bc663eb3801e7b712" title=" " alt="" coords="244,117,419,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1MemoryCacheProxy.html#af4babccc091c51d69a231201508c3893" title="Gets a read only view based on this cache." alt="" coords="229,180,434,219"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1chain_1_1CheckEligibilityResult.html#acab9d4f0636fe85499e3cf4bc16f330e" title=" " alt="" coords="485,55,689,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1WeakCosignedTransactionInfo.html#a960f29cfd1cdd66e239cff14895237f3" title="Gets the transaction." alt="" coords="482,117,692,156"/>
+</map>

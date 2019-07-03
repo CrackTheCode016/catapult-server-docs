@@ -1,0 +1,6 @@
+<map id="catapult::cache::BasicAggregateTransactionsCacheModifier::flush" name="catapult::cache::BasicAggregateTransactionsCacheModifier::flush">
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,224,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1TransactionChangeTracker.html#aba817f96ffe7400abbdc747e7823fae0" title="Gets the infos of net added transactions." alt="" coords="279,5,535,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1TransactionChangeTracker.html#ae60320531b0a672e26a9104aca17694a" title="Gets the infos of net removed transactions." alt="" coords="272,68,542,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1TransactionChangeTracker.html#a3661a6e78e33b742e3ca8f91611a4249" title="Clears all added and removed transactions." alt="" coords="313,131,501,169"/>
+</map>

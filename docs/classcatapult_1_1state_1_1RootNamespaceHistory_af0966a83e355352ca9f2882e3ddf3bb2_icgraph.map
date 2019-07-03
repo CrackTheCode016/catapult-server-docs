@@ -1,0 +1,4 @@
+<map id="catapult::state::RootNamespaceHistory::prune" name="catapult::state::RootNamespaceHistory::prune">
+<area shape="rect" id="node1" title="Prunes all root namespaces that are not active at height." alt="" coords="276,5,487,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#a2895bcd73c8e19622b3f0cf99b334ecb" title="Prunes the namespace cache at height." alt="" coords="5,5,228,44"/>
+</map>

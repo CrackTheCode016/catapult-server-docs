@@ -1,4 +1,4 @@
 <map id="catapult::mongo::mappers::ToDbDocuments" name="catapult::mongo::mappers::ToDbDocuments">
 <area shape="rect" id="node1" title=" " alt="" coords="5,5,181,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_plugin_registry.html#a5c0c2c3a04861e9031d6e48a130e540d" title="Finds the plugin corresponding to type or nullptr if none is registered." alt="" coords="229,5,434,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1PluginRegistry.html#a5c0c2c3a04861e9031d6e48a130e540d" title="Finds the plugin corresponding to type or nullptr if none is registered." alt="" coords="229,5,434,44"/>
 </map>

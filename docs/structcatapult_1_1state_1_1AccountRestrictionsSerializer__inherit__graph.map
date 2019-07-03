@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountRestrictionsSerializer" name="catapult::state::AccountRestrictionsSerializer">
+<area shape="rect" id="node1" title="Policy for saving and loading account restrictions data." alt="" coords="10,5,170,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1AccountRestrictionCacheStorage.html" title="Policy for saving and loading account restriction cache data." alt="" coords="5,92,175,131"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="catapult::cache::HashCacheStorage" name="catapult::cache::HashCacheStorage">
-<area shape="rect" id="node1" title="Policy for saving and loading hash cache data." alt="" coords="45,192,233,231"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_cache_storage_for_basic_insert_remove_cache.html" title=" " alt="" coords="37,92,240,144"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_cache_storage_from_descriptor.html" title=" " alt="" coords="5,5,272,44"/>
-</map>

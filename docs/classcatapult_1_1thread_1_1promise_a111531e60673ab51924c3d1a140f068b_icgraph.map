@@ -1,4 +1,4 @@
 <map id="catapult::thread::promise::set_value" name="catapult::thread::promise::set_value">
 <area shape="rect" id="node1" title="Sets the result of this promise to value." alt="" coords="244,5,412,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_mongo_bulk_writer.html#a122d52c7aa2f3ecae9726c67afd0b681" title=" " alt="" coords="5,5,196,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1MongoBulkWriter.html#a122d52c7aa2f3ecae9726c67afd0b681" title=" " alt="" coords="5,5,196,44"/>
 </map>

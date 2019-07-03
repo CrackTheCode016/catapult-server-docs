@@ -1,0 +1,6 @@
+<map id="catapult::config::LoggingConfiguration::LoadFromBag" name="catapult::config::LoggingConfiguration::LoadFromBag">
+<area shape="rect" id="node1" title="Loads a logging configuration from bag." alt="" coords="5,37,198,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ConfigurationBag.html#a1e7f0cf70f2f2921ea5dcf449cff2fb8" title="Gets all section properties from this bag." alt="" coords="246,5,432,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#ac7459f500db81f130e507ce1366e8a65" title="Verifies that the number of properties in bag is no greater than expectedSize." alt="" coords="257,68,421,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1ConfigurationBag.html#a0f43155a38e4cad0ca8383306c38c562" title="Returns the number of properties in this bag." alt="" coords="480,68,666,107"/>
+</map>

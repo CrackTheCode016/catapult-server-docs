@@ -1,6 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structcatapult_1_1cache_1_1_cache_storage_from_descriptor.html" title=" " alt="" coords="5,12,283,51"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_cache_storage_for_basic_insert_remove_cache.html" title=" " alt="" coords="331,5,535,57"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_mosaic_cache_storage.html" title="Policy for saving and loading mosaic cache data." alt="" coords="583,47,782,85"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1_mosaic_entry_serializer.html" title="Policy for saving and loading mosaic entry data." alt="" coords="340,81,525,120"/>
+<area shape="rect" id="node1" href="$structcatapult_1_1cache_1_1CacheStorageFromDescriptor.html" title=" " alt="" coords="5,12,283,51"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1CacheStorageForBasicInsertRemoveCache.html" title=" " alt="" coords="331,5,535,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1MosaicCacheStorage.html" title="Policy for saving and loading mosaic cache data." alt="" coords="583,47,782,85"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1MosaicEntrySerializer.html" title="Policy for saving and loading mosaic entry data." alt="" coords="340,81,525,120"/>
 </map>

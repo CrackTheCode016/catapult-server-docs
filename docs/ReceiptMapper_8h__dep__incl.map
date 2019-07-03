@@ -1,0 +1,8 @@
+<map id="ReceiptMapper.h" name="ReceiptMapper.h">
+<area shape="rect" id="node1" title=" " alt="" coords="520,5,642,31"/>
+<area shape="rect" id="node2" href="$MosaicExpiryReceiptMapper_8cpp.html" title=" " alt="" coords="5,79,221,104"/>
+<area shape="rect" id="node3" href="$NamespaceExpiryReceiptMapper_8cpp.html" title=" " alt="" coords="244,79,489,104"/>
+<area shape="rect" id="node4" href="$ReceiptMapper_8cpp.html" title=" " alt="" coords="513,79,649,104"/>
+<area shape="rect" id="node5" href="$TransactionStatementMapper_8cpp.html" title=" " alt="" coords="673,79,894,104"/>
+<area shape="rect" id="node6" href="$MongoReceiptPluginFactory_8cpp.html" title=" " alt="" coords="919,79,1132,104"/>
+</map>

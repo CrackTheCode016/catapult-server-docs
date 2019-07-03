@@ -1,0 +1,5 @@
+<map id="catapult::cache::AccountRestrictionBaseSets" name="catapult::cache::AccountRestrictionBaseSets">
+<area shape="rect" id="node1" title=" " alt="" coords="616,25,783,64"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1SingleSetAndPatriciaTreeCacheTypesAdapter_1_1BaseSets.html" title=" " alt="" coords="267,5,568,84"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1CacheDatabaseMixin.html" title="Mixin that owns a cache database." alt="" coords="5,25,219,64"/>
+</map>

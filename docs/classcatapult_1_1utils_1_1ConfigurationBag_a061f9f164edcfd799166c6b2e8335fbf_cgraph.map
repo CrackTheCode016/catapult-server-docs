@@ -1,0 +1,4 @@
+<map id="catapult::utils::ConfigurationBag::FromStream" name="catapult::utils::ConfigurationBag::FromStream">
+<area shape="rect" id="node1" title="Loads a configuration bag from the specified stream (input)." alt="" coords="5,5,191,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ConfigurationBag.html#a9a5e90e834de4f93baaf1ff6d5f73c63" title="Creates a new configuration bag around values." alt="" coords="239,5,425,44"/>
+</map>

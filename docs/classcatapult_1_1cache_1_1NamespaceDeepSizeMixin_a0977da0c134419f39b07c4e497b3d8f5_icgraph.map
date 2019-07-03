@@ -1,0 +1,8 @@
+<map id="catapult::cache::NamespaceDeepSizeMixin::decrementActiveSize" name="catapult::cache::NamespaceDeepSizeMixin::decrementActiveSize">
+<area shape="rect" id="node1" title="Decrements the active size by delta." alt="" coords="546,100,789,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#ac59718570eaf02df72dffca232a5c71b" title="Inserts the root namespace ns into the cache." alt="" coords="276,5,498,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#a2895bcd73c8e19622b3f0cf99b334ecb" title="Prunes the namespace cache at height." alt="" coords="276,68,498,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#ad19367b05a1e8b3e82c630d66195ad65" title=" " alt="" coords="276,131,498,169"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#a2b36e4873682162a2361b95717582aeb" title=" " alt="" coords="276,193,498,232"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#a5deffdb747199d3f8e381a66fa5a9fea" title="Removes the namespace specified by its id from the cache." alt="" coords="5,163,228,201"/>
+</map>

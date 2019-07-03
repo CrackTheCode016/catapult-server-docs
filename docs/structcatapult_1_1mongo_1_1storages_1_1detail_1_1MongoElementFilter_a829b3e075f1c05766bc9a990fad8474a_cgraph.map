@@ -1,0 +1,5 @@
+<map id="catapult::mongo::storages::detail::MongoElementFilter::RemoveCommonElements" name="catapult::mongo::storages::detail::MongoElementFilter::RemoveCommonElements">
+<area shape="rect" id="node1" title="Filters all elements common to added elements (addedElements) and removed elements (removedElements)." alt="" coords="5,44,193,96"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1mongo_1_1storages_1_1detail_1_1MongoElementFilter.html#a9055f48f4b7eebe3f0b75f05ca0ffa95" title=" " alt="" coords="241,5,429,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1mongo_1_1storages_1_1detail_1_1MongoElementFilter.html#a9f03cbf100a24102148a1c6a59c6f5cf" title=" " alt="" coords="241,81,429,133"/>
+</map>

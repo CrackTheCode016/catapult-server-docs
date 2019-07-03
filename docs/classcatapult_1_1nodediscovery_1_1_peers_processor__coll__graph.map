@@ -1,4 +1,0 @@
-<map id="catapult::nodediscovery::PeersProcessor" name="catapult::nodediscovery::PeersProcessor">
-<area shape="rect" id="node1" title="Processes peers received from a partner node." alt="" coords="25,92,187,131"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node_container.html" title="A collection of nodes." alt="" coords="5,5,207,31"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="catapult::ionet::PacketPayloadBuilder::appendValues" name="catapult::ionet::PacketPayloadBuilder::appendValues">
-<area shape="rect" id="node1" title="Appends fixed size values to the payload." alt="" coords="473,44,674,83"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_payload_builder.html#a87ea08d3184b5e4b35b6dd316a42689c" title=" " alt="" coords="207,12,425,51"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1ionet.html#aefeb7a1f1c7594670ad9351ed76e5d71" title="Creates a payload around cosignatures for broadcasting." alt="" coords="210,75,422,113"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1handlers_1_1_batch_handler_factory.html#a06713e5ae56cb087b11fd60f060e40c0" title=" " alt="" coords="5,5,159,57"/>
-</map>

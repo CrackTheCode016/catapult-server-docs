@@ -1,0 +1,4 @@
+<map id="catapult::cache::CatapultCache::createView" name="catapult::cache::CatapultCache::createView">
+<area shape="rect" id="node1" title="Returns a locked cache view based on this cache." alt="" coords="235,12,404,51"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1extensions_1_1SelectorSettings.html#a9dbda1c5364866f156d139f20947e781" title="Creates settings around cache, totalChainImportance, nodes, serviceId, requiredRole and config." alt="" coords="5,5,187,57"/>
+</map>

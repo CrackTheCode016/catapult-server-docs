@@ -1,5 +1,0 @@
-<map id="catapult::timesync::TimeSynchronizationSample::timeOffsetToRemote" name="catapult::timesync::TimeSynchronizationSample::timeOffsetToRemote">
-<area shape="rect" id="node1" title="Gets the offset of the local node&#39;s network time relative to the remote node&#39;s network time." alt="" coords="5,44,203,96"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1timesync_1_1_time_synchronization_sample.html#a9240f868116e0c2a4f19c72ff0f678ae" title="Gets the local duration." alt="" coords="251,5,449,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1timesync_1_1_time_synchronization_sample.html#a1fab0da794da3fc5cb6e8389e2896bc2" title="Gets the remote duration." alt="" coords="251,81,449,133"/>
-</map>

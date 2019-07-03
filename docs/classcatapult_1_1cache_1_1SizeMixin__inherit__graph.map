@@ -1,0 +1,18 @@
+<map id="catapult::cache::SizeMixin&lt; TSet &gt;" name="catapult::cache::SizeMixin&lt; TSet &gt;">
+<area shape="rect" id="node1" title="A mixin for adding size support to a cache." alt="" coords="5,164,181,203"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicAccountRestrictionCacheDelta.html" title="Basic delta on top of the account restriction cache." alt="" coords="229,23,434,61"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1BasicBlockDifficultyCacheDelta.html" title="Basic delta on top of the block difficulty cache." alt="" coords="235,95,427,133"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1BasicBlockDifficultyCacheView.html" title="Basic view on top of the block difficulty cache." alt="" coords="236,164,426,203"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1BasicHashCacheDelta.html" title="Basic delta on top of the hash cache." alt="" coords="240,228,422,267"/>
+<area shape="rect" id="node14" href="$classcatapult_1_1cache_1_1BasicHashCacheView.html" title="Basic view on top of the hash cache." alt="" coords="240,293,422,332"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="482,5,736,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1AccountRestrictionCacheDelta.html" title="Delta on top of the account restriction cache." alt="" coords="810,12,977,51"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="496,81,722,133"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1BlockDifficultyCacheDelta.html" title="Delta on top of the block difficulty cache." alt="" coords="793,88,994,127"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="496,157,722,209"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1BlockDifficultyCacheView.html" title="View on top of the block difficulty cache." alt="" coords="793,164,994,203"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="482,233,737,272"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1cache_1_1HashCacheDelta.html" title="Delta on top of the hash cache." alt="" coords="799,233,987,272"/>
+<area shape="rect" id="node15" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="483,296,736,335"/>
+<area shape="rect" id="node16" href="$classcatapult_1_1cache_1_1HashCacheView.html" title="View on top of the hash cache." alt="" coords="785,303,1002,328"/>
+</map>

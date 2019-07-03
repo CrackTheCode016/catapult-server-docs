@@ -1,0 +1,6 @@
+<map id="catapult::model::MosaicPropertiesNotification" name="catapult::model::MosaicPropertiesNotification">
+<area shape="rect" id="node1" title=" " alt="" coords="384,48,606,87"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="24,5,209,31"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1MosaicProperty.html" title="Mosaic property composed of an id and a value." alt="" coords="11,55,222,80"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1MosaicPropertiesHeader.html" title="Mosaic properties header." alt="" coords="5,104,228,143"/>
+</map>

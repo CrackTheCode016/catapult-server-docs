@@ -1,0 +1,5 @@
+<map id="catapult::handlers::CacheEntryInfosProducerFactory::Producer::operator()" name="catapult::handlers::CacheEntryInfosProducerFactory::Producer::operator()">
+<area shape="rect" id="node1" title=" " alt="" coords="5,47,231,99"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1handlers_1_1CacheEntryInfosProducerFactory_1_1Producer.html#af72c6c4f7a2cc8ffabef836940cf3b2a" title=" " alt="" coords="279,5,505,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1handlers_1_1BasicProducer.html#aee2b320517ff131305d749254d76a19a" title="Produces the next entity and calls convert for any required adaptation." alt="" coords="310,81,475,147"/>
+</map>

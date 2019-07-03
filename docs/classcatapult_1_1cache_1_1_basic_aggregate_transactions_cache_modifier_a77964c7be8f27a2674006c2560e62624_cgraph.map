@@ -1,6 +1,0 @@
-<map id="catapult::cache::BasicAggregateTransactionsCacheModifier::remove" name="catapult::cache::BasicAggregateTransactionsCacheModifier::remove">
-<area shape="rect" id="node1" title="Removes transactionInfo from the cache." alt="" coords="5,5,240,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_transaction_change_tracker.html#ac38a86dc3cdbd102d1626a4e1502539e" title="Marks transaction info (transactionInfo) as removed." alt="" coords="288,5,477,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1_transaction_info.html#a584d2073227eb80f653c9ca2439b520c" title="Creates a (shallow) copy of this info." alt="" coords="525,5,713,44"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1_transaction_info.html#a57ed5ca2b01ca74423ddf197f03fca91" title="Creates a transaction info." alt="" coords="761,5,949,44"/>
-</map>

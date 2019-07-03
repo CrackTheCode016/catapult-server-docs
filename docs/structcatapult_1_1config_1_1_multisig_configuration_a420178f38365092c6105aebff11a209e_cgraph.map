@@ -1,5 +1,0 @@
-<map id="catapult::config::MultisigConfiguration::LoadFromBag" name="catapult::config::MultisigConfiguration::LoadFromBag">
-<area shape="rect" id="node1" title="Loads a multisig configuration from bag." alt="" coords="5,5,198,44"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#ac7459f500db81f130e507ce1366e8a65" title="Verifies that the number of properties in bag is no greater than expectedSize." alt="" coords="246,5,410,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_configuration_bag.html#a0f43155a38e4cad0ca8383306c38c562" title="Returns the number of properties in this bag." alt="" coords="458,5,643,44"/>
-</map>

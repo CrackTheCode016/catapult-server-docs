@@ -1,5 +1,5 @@
 <map id="catapult::extensions::SubscriberToSink" name="catapult::extensions::SubscriberToSink">
 <area shape="rect" id="node1" title="Converts subscriber to a sink." alt="" coords="5,47,145,85"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_transaction_status_subscriber.html#add5dbb304a4144eb3cd1c6d30c1f6456" title="Indicates transaction with hash completed with status." alt="" coords="193,5,392,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1TransactionStatusSubscriber.html#add5dbb304a4144eb3cd1c6d30c1f6456" title="Indicates transaction with hash completed with status." alt="" coords="193,5,392,57"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="231,81,354,120"/>
 </map>

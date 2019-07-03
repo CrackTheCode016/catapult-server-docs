@@ -1,6 +1,0 @@
-<map id="catapult::config::CatapultConfiguration::CatapultConfiguration" name="catapult::config::CatapultConfiguration::CatapultConfiguration">
-<area shape="rect" id="node1" title=" " alt="" coords="725,5,963,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1config_1_1_catapult_configuration.html#ae3888bef596dfa867097c76a7717c36e" title=" " alt="" coords="481,5,677,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1tools.html#ad234ab9e4a60b325526eca6df39de1db" title="Loads the configuration from resourcesPath." alt="" coords="213,12,433,37"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,5,165,44"/>
-</map>

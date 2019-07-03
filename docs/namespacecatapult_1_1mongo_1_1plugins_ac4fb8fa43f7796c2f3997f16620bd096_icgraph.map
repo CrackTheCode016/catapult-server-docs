@@ -1,4 +1,4 @@
 <map id="catapult::mongo::plugins::ToDbModel" name="catapult::mongo::plugins::ToDbModel">
 <area shape="rect" id="node1" title="Maps a hashLockInfo and accountAddress to the corresponding db model value." alt="" coords="291,12,457,51"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1mongo_1_1plugins_1_1_mongo_lock_info_cache_storage_traits.html#af66656770f8919f1ec494889757064e2" title="Maps lockInfo given network networkIdentifier to a mongo document." alt="" coords="5,5,243,57"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1mongo_1_1plugins_1_1MongoLockInfoCacheStorageTraits.html#af66656770f8919f1ec494889757064e2" title="Maps lockInfo given network networkIdentifier to a mongo document." alt="" coords="5,5,243,57"/>
 </map>

@@ -1,0 +1,10 @@
+<map id="catapult::model::Block" name="catapult::model::Block">
+<area shape="rect" id="node1" title="Binary layout for a block." alt="" coords="27,599,179,624"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1TransactionContainer.html" title=" " alt="" coords="9,499,197,551"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1BlockHeader.html" title="Binary layout for a block header." alt="" coords="5,425,201,451"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1VerifiableEntity.html" title="Binary layout for a verifiable (with signature) entity." alt="" coords="16,339,190,377"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1model_1_1EntityBody.html" title=" " alt="" coords="12,252,195,291"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1model_1_1VerifiableEntityHeader.html" title="Binary layout for a verifiable entity header." alt="" coords="16,165,190,204"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1model_1_1SizePrefixedEntity.html" title="Binary layout for a size prefixed entity." alt="" coords="6,79,200,117"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="9,5,197,31"/>
+</map>

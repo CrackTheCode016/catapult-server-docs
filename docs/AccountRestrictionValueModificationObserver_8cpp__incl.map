@@ -1,0 +1,52 @@
+<map id="AccountRestrictionValueModificationObserver.cpp" name="AccountRestrictionValueModificationObserver.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1930,5,2167,44"/>
+<area shape="rect" id="node2" href="$txes_2restriction__account_2src_2observers_2Observers_8h.html" title=" " alt="" coords="748,92,842,117"/>
+<area shape="rect" id="node33" href="$AccountRestrictionCache_8h.html" title=" " alt="" coords="2021,339,2215,377"/>
+<area shape="rect" id="node48" href="$AccountRestrictionUtils_8h.html" title=" " alt="" coords="2815,432,2984,457"/>
+<area shape="rect" id="node50" href="$Address_8h.html" title=" " alt="" coords="1721,432,1893,457"/>
+<area shape="rect" id="node3" href="$AccountRestrictionNotifications_8h.html" title=" " alt="" coords="698,252,892,291"/>
+<area shape="rect" id="node23" href="$ObserverTypes_8h.html" title=" " alt="" coords="494,165,624,204"/>
+<area shape="rect" id="node4" href="$AccountRestrictionTypes_8h.html" title=" " alt="" coords="473,425,667,464"/>
+<area shape="rect" id="node9" href="$AccountRestrictionDescriptor_8h.html" title=" " alt="" coords="702,339,889,377"/>
+<area shape="rect" id="node10" href="$Notifications_8h.html" title=" " alt="" coords="1130,432,1325,457"/>
+<area shape="rect" id="node5" href="$BitwiseEnum_8h.html" title=" " alt="" coords="330,519,517,544"/>
+<area shape="rect" id="node7" title=" " alt="" coords="541,519,599,544"/>
+<area shape="rect" id="node8" title=" " alt="" coords="884,772,949,797"/>
+<area shape="rect" id="node6" href="$Casting_8h.html" title=" " alt="" coords="699,605,777,631"/>
+<area shape="rect" id="node11" href="$ContainerTypes_8h.html" title=" " alt="" coords="1643,519,1769,544"/>
+<area shape="rect" id="node12" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="1654,605,1769,631"/>
+<area shape="rect" id="node18" href="$EntityType_8h.html" title=" " alt="" coords="825,519,920,544"/>
+<area shape="rect" id="node19" href="$NetworkInfo_8h.html" title=" " alt="" coords="1844,519,1947,544"/>
+<area shape="rect" id="node20" href="$NotificationType_8h.html" title=" " alt="" coords="674,519,802,544"/>
+<area shape="rect" id="node21" href="$ArraySet_8h.html" title=" " alt="" coords="1457,519,1619,544"/>
+<area shape="rect" id="node22" href="$TimeSpan_8h.html" title=" " alt="" coords="1161,519,1331,544"/>
+<area shape="rect" id="node13" href="$ByteArray_8h.html" title=" " alt="" coords="1833,692,1923,717"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1852,772,1904,797"/>
+<area shape="rect" id="node15" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="1457,685,1640,724"/>
+<area shape="rect" id="node16" href="$RawBuffer_8h.html" title=" " alt="" coords="1664,692,1758,717"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1392,772,1446,797"/>
+<area shape="rect" id="node24" href="$AggregateNotificationObserver_8h.html" title=" " alt="" coords="214,259,428,284"/>
+<area shape="rect" id="node27" href="$EntityObserver_8h.html" title=" " alt="" coords="98,345,218,371"/>
+<area shape="rect" id="node30" href="$FunctionalNotificationObserver_8h.html" title=" " alt="" coords="452,259,666,284"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2235,692,2305,717"/>
+<area shape="rect" id="node25" href="$NotificationObserver_8h.html" title=" " alt="" coords="315,345,468,371"/>
+<area shape="rect" id="node26" href="$ObserverContext_8h.html" title=" " alt="" coords="315,432,449,457"/>
+<area shape="rect" id="node28" href="$VerifiableEntity_8h.html" title=" " alt="" coords="5,512,172,551"/>
+<area shape="rect" id="node29" href="$WeakEntityInfo_8h.html" title=" " alt="" coords="62,425,241,464"/>
+<area shape="rect" id="node31" href="$functions_8h.html" title=" " alt="" coords="491,345,627,371"/>
+<area shape="rect" id="node34" href="$AccountRestrictionCacheDelta_8h.html" title=" " alt="" coords="2163,432,2377,457"/>
+<area shape="rect" id="node43" href="$AccountRestrictionCacheView_8h.html" title=" " alt="" coords="2458,432,2668,457"/>
+<area shape="rect" id="node44" href="$BasicCache_8h.html" title=" " alt="" coords="944,519,1137,544"/>
+<area shape="rect" id="node35" href="$AccountRestrictionBaseSets_8h.html" title=" " alt="" coords="2735,519,2936,544"/>
+<area shape="rect" id="node39" href="$CacheMixinAliases_8h.html" title=" " alt="" coords="2530,512,2711,551"/>
+<area shape="rect" id="node40" href="$ReadOnlyArtifactCache_8h.html" title=" " alt="" coords="2021,512,2233,551"/>
+<area shape="rect" id="node41" href="$ReadOnlyViewSupplier_8h.html" title=" " alt="" coords="2308,512,2507,551"/>
+<area shape="rect" id="node42" href="$BaseSetDelta_8h.html" title=" " alt="" coords="2184,599,2356,637"/>
+<area shape="rect" id="node36" href="$AccountRestrictionCacheSerializers_8h.html" title=" " alt="" coords="2741,605,2986,631"/>
+<area shape="rect" id="node37" href="$AccountRestrictionCacheTypes_8h.html" title=" " alt="" coords="2674,692,2892,717"/>
+<area shape="rect" id="node38" href="$CachePatriciaTree_8h.html" title=" " alt="" coords="2452,605,2594,631"/>
+<area shape="rect" id="node45" href="$CacheConfiguration_8h.html" title=" " alt="" coords="1232,692,1382,717"/>
+<area shape="rect" id="node46" href="$CacheConstants_8h.html" title=" " alt="" coords="851,605,982,631"/>
+<area shape="rect" id="node47" href="$SynchronizedCache_8h.html" title=" " alt="" coords="1057,605,1209,631"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3060,519,3120,544"/>
+</map>

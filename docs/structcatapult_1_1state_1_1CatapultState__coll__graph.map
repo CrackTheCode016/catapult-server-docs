@@ -1,0 +1,8 @@
+<map id="catapult::state::CatapultState" name="catapult::state::CatapultState">
+<area shape="rect" id="node1" title="Stateful catapult information." alt="" coords="1271,27,1432,65"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="860,20,1075,72"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="509,13,811,79"/>
+<area shape="rect" id="node4" title=" " alt="" coords="238,5,390,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,55,407,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
+</map>

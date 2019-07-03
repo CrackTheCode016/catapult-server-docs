@@ -1,0 +1,9 @@
+<map id="catapult::cache::BlockDifficultyCacheView" name="catapult::cache::BlockDifficultyCacheView">
+<area shape="rect" id="node1" title="View on top of the block difficulty cache." alt="" coords="838,87,1040,125"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="563,80,789,132"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicBlockDifficultyCacheView.html" title="Basic view on top of the block difficulty cache." alt="" coords="226,87,410,125"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="8,5,174,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1SizeMixin.html" title="A mixin for adding size support to a cache." alt="" coords="5,55,177,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1ContainsMixin.html" title="A mixin for adding contains support to a cache." alt="" coords="5,117,177,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1IterationMixin.html" title="A mixin for adding iteration support to a cache." alt="" coords="5,180,177,219"/>
+</map>

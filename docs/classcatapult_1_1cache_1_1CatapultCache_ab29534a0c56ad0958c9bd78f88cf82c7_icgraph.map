@@ -1,0 +1,16 @@
+<map id="catapult::cache::CatapultCache::sub" name="catapult::cache::CatapultCache::sub">
+<area shape="rect" id="node1" title="Gets a specific sub cache." alt="" coords="472,235,640,273"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1Harvester.html#a08b592dcdab16be8c308543326575026" title=" " alt="" coords="238,5,376,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1cache.html#aea1e85b871cd2ac52a98bcd72c3fb1f6" title="Returns true if cache contains hash with timestamp." alt="" coords="213,68,401,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1plugins_1_1CacheHandlers.html#aca9c9af2d7014381e87c9145a3b446cc" title="Registers all cache handlers in pluginManager for cache with specified facility code." alt="" coords="222,131,392,169"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1plugins.html#a8b36d774fb10e09ea8104d6d567825b9" title="Registers account restriction support with manager." alt="" coords="216,193,398,245"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1plugins.html#a5d9192c852b5b3011476310ab23ed8aa" title="Registers hash lock support with manager." alt="" coords="209,269,405,308"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="190,332,424,371"/>
+<area shape="rect" id="node11" href="$namespacecatapult_1_1plugins.html#a06ef8cea21dcf8bf4c3b40e5b3a73979" title="Registers multisig support with manager." alt="" coords="216,395,398,433"/>
+<area shape="rect" id="node13" href="$namespacecatapult_1_1plugins.html#a724e91faec9c0652a73fbff6ec60726f" title="Registers secret lock support with manager." alt="" coords="205,457,409,496"/>
+<area shape="rect" id="node6" href="$AccountRestrictionPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,207,142,232"/>
+<area shape="rect" id="node8" href="$HashLockPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,276,142,301"/>
+<area shape="rect" id="node10" href="$PluginManager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,339,142,364"/>
+<area shape="rect" id="node12" href="$MultisigPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,401,142,427"/>
+<area shape="rect" id="node14" href="$SecretLockPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,464,142,489"/>
+</map>

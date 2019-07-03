@@ -1,5 +1,0 @@
-<map id="catapult::utils::ModificationSafeIterableContainer::empty" name="catapult::utils::ModificationSafeIterableContainer::empty">
-<area shape="rect" id="node1" title="Gets a value indicating whether or not the container is empty." alt="" coords="476,5,671,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_modification_safe_iterable_container.html#a3a519bb304724f8f5979d49889939cab" title="Gets a pointer to the next value or nullptr if this container is empty." alt="" coords="244,5,428,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_modification_safe_iterable_container.html#acd03b60379b9bea2896f968898222102" title=" " alt="" coords="5,5,196,44"/>
-</map>

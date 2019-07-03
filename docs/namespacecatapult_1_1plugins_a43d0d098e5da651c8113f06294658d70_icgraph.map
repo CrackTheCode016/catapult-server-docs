@@ -1,4 +1,4 @@
 <map id="catapult::plugins::RegisterTransferSubsystem" name="catapult::plugins::RegisterTransferSubsystem">
 <area shape="rect" id="node1" title="Registers transfer support with manager." alt="" coords="190,5,376,44"/>
-<area shape="rect" id="node2" href="$_transfer_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,12,142,37"/>
+<area shape="rect" id="node2" href="$TransferPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,12,142,37"/>
 </map>

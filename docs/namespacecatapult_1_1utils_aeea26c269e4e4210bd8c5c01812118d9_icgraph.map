@@ -1,6 +1,6 @@
 <map id="catapult::utils::ExtractSectionAsOrderedVector" name="catapult::utils::ExtractSectionAsOrderedVector">
 <area shape="rect" id="node1" title=" " alt="" coords="486,37,655,76"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#aee486184c34bb3b992a87845d30d7d5a" title=" " alt="" coords="260,5,424,44"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1config_1_1_extensions_configuration.html#a33e04fa6922a87208e107b2666e11ee9" title="Loads an extensions configuration from bag." alt="" coords="246,68,438,107"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1mongo_1_1_database_configuration.html#ad3498bbb9b8a4981f89f4672a4254ffe" title="Loads a database configuration from bag." alt="" coords="5,5,198,44"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1config_1_1ExtensionsConfiguration.html#a33e04fa6922a87208e107b2666e11ee9" title="Loads an extensions configuration from bag." alt="" coords="246,68,438,107"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1mongo_1_1DatabaseConfiguration.html#ad3498bbb9b8a4981f89f4672a4254ffe" title="Loads a database configuration from bag." alt="" coords="5,5,198,44"/>
 </map>

@@ -1,0 +1,5 @@
+<map id="catapult::tree::BasePatriciaTreeDelta::copyRootTo" name="catapult::tree::BasePatriciaTreeDelta::copyRootTo">
+<area shape="rect" id="node1" title="Sets the root of tree to the root of this delta tree." alt="" coords="5,37,186,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1ReadThroughMemoryDataSource.html#a504080293a0aaf5f3c81a610ba7642f5" title="Gets the tree node associated with hash." alt="" coords="234,5,421,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1BasePatriciaTreeDelta.html#a90cb1d0055303a8ad92683cf5027c02e" title="Gets the root hash that uniquely identifies this tree." alt="" coords="237,68,418,107"/>
+</map>

@@ -1,8 +1,0 @@
-<map id="catapult::io::OutputStream" name="catapult::io::OutputStream">
-<area shape="rect" id="node1" title="Writer interface." alt="" coords="5,131,182,156"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_memory_stream.html" title="Memory&#45;based implementation of input and output stream." alt="" coords="255,5,394,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_buffered_output_file_stream.html" title="Provides a buffered output stream around raw file." alt="" coords="233,68,416,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_file_queue_writer.html" title=" " alt="" coords="230,131,420,156"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1io_1_1_size_calculating_output_stream.html" title="Stream implementation for calculating the stream size." alt="" coords="232,180,417,219"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1_string_output_stream.html" title="String output stream." alt="" coords="241,243,409,281"/>
-</map>

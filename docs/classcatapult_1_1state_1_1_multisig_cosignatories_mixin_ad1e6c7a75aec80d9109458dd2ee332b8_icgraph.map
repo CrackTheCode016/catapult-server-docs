@@ -1,6 +1,0 @@
-<map id="catapult::state::MultisigCosignatoriesMixin::minRemoval" name="catapult::state::MultisigCosignatoriesMixin::minRemoval">
-<area shape="rect" id="node1" title="Gets the number of cosignatories required when removing an account." alt="" coords="287,68,502,107"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_multisig_entry_serializer.html#a296cadb684b960ade4a6fd3902cff675" title="Saves entry to output." alt="" coords="43,5,200,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html#a2b41f3bf10d90ff335763b801740cead" title="Sets the number of cosignatories required (minRemoval) when removing an account." alt="" coords="5,68,239,107"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1plugins.html#af4275de52fea6d639176b6d0249783e3" title="Maps a multisig entry and accountAddress to the corresponding db model value." alt="" coords="39,131,205,169"/>
-</map>

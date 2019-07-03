@@ -1,4 +1,0 @@
-<map id="catapult::io::FileLock::try_lock" name="catapult::io::FileLock::try_lock">
-<area shape="rect" id="node1" title="Attempts to acquire the lock for the current execution agent without blocking." alt="" coords="196,5,339,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_file_lock.html#afbeadcb53fd04c6712a5cc164c716589" title="Blocks until a lock can be obtained for the current execution agent." alt="" coords="5,5,148,44"/>
-</map>

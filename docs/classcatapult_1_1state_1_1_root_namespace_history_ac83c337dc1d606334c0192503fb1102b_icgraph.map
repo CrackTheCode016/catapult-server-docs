@@ -1,7 +1,0 @@
-<map id="catapult::state::RootNamespaceHistory::id" name="catapult::state::RootNamespaceHistory::id">
-<area shape="rect" id="node1" title="Gets the id of the root namespace history." alt="" coords="293,100,504,139"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_namespace_cache_descriptor.html#aa1595e0a57d6f9048066bd72b06c6907" title="Gets the key corresponding to history." alt="" coords="7,5,244,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1mongo_1_1plugins.html#a8810f78d2b89d97ee12db96785359bd4" title="Converts the root namespace history into a vector of namespace descriptors using networkIdentifier fo..." alt="" coords="5,68,245,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#a2895bcd73c8e19622b3f0cf99b334ecb" title="Prunes the namespace cache at height." alt="" coords="14,131,236,169"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1state_1_1_root_namespace_history_non_historical_serializer.html#af179ed01161215e241f4131cbc2c3336" title="Saves history to output." alt="" coords="8,193,243,232"/>
-</map>

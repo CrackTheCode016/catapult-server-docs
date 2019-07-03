@@ -1,6 +1,0 @@
-<map id="catapult::timesync::TimeSynchronizer::sumImportances" name="catapult::timesync::TimeSynchronizer::sumImportances">
-<area shape="rect" id="node1" title=" " alt="" coords="5,27,148,79"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_importance_view.html#a12c7e3b42baba60c53e1fee91674056f" title="Gets the importance for publicKey at height or a default importance if no importance is set." alt="" coords="196,5,444,44"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#ac6a67817daca54a72e2e111370a2754a" title=" " alt="" coords="253,68,387,93"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_importance_view.html#aa88a70d0fe6047d1f5536280e63bfe3a" title="Tries to populate importance with the importance for publicKey at height." alt="" coords="492,5,701,44"/>
-</map>

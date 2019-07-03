@@ -1,5 +1,0 @@
-<map id="catapult::tools::KeyValueOutputBuilder::add" name="catapult::tools::KeyValueOutputBuilder::add">
-<area shape="rect" id="node1" title="Adds a key with multiple values that should be joined with separator." alt="" coords="5,33,172,72"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1_key_value_output_builder.html#a2ee661af19cc5e7cfe3c73df51e66d52" title="Adds a key with a string value." alt="" coords="220,5,388,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1tools.html#af8d272feab8a8dfcff2416a48c3a9aec" title="Joins all values with separator." alt="" coords="236,68,372,93"/>
-</map>

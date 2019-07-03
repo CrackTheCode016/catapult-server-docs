@@ -1,0 +1,4 @@
+<map id="catapult::builders::AccountLinkBuilder" name="catapult::builders::AccountLinkBuilder">
+<area shape="rect" id="node1" title="Builder for an account link transaction." alt="" coords="5,92,148,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1TransactionBuilder.html" title="Base transaction builder." alt="" coords="7,5,146,44"/>
+</map>

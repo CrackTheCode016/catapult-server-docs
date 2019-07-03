@@ -1,0 +1,4 @@
+<map id="catapult::model::TransactionFeeNotification" name="catapult::model::TransactionFeeNotification">
+<area shape="rect" id="node1" title="Notifies the arrival of a transaction fee." alt="" coords="5,79,194,117"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="7,5,192,31"/>
+</map>

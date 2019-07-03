@@ -1,10 +1,10 @@
 var exceptions_8h =
 [
     [ "catapult_error", "classcatapult_1_1catapult__error.html", "classcatapult_1_1catapult__error" ],
-    [ "catapult_error< catapult_error< TStlException > >", "classcatapult_1_1catapult__error_3_01catapult__error_3_01_t_stl_exception_01_4_01_4.html", "classcatapult_1_1catapult__error_3_01catapult__error_3_01_t_stl_exception_01_4_01_4" ],
-    [ "ErrorParam1", "structcatapult_1_1_error_param1.html", null ],
-    [ "ErrorParam2", "structcatapult_1_1_error_param2.html", null ],
-    [ "Make", "classcatapult_1_1exception__detail_1_1_make.html", "classcatapult_1_1exception__detail_1_1_make" ],
+    [ "catapult_error< catapult_error< TStlException > >", "classcatapult_1_1catapult__error_3_01catapult__error_3_01TStlException_01_4_01_4.html", "classcatapult_1_1catapult__error_3_01catapult__error_3_01TStlException_01_4_01_4" ],
+    [ "ErrorParam1", "structcatapult_1_1ErrorParam1.html", null ],
+    [ "ErrorParam2", "structcatapult_1_1ErrorParam2.html", null ],
+    [ "Make", "classcatapult_1_1exception__detail_1_1Make.html", "classcatapult_1_1exception__detail_1_1Make" ],
     [ "CATAPULT_THROW_AND_LOG_0", "exceptions_8h.html#a21096fe98b14cf97cc3f94905bec563a", null ],
     [ "CATAPULT_THROW_AND_LOG_1", "exceptions_8h.html#a3bf94c5e1393bdba51fb8108270a39d0", null ],
     [ "CATAPULT_THROW_AND_LOG_2", "exceptions_8h.html#a711cb0a0cd296ceebd32635dd0d575a6", null ],

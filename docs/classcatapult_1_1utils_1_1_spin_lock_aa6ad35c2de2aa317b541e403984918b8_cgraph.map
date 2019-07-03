@@ -1,4 +1,0 @@
-<map id="catapult::utils::SpinLock::lock" name="catapult::utils::SpinLock::lock">
-<area shape="rect" id="node1" title="Blocks until a lock can be obtained for the current execution agent." alt="" coords="5,5,167,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_spin_lock.html#afb51ccb36b7fae398f0cfd4382c36b90" title="Attempts to acquire the lock for the current execution agent without blocking." alt="" coords="215,5,376,44"/>
-</map>

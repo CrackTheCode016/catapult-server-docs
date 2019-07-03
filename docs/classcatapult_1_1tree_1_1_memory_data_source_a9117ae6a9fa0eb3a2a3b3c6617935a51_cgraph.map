@@ -1,8 +1,0 @@
-<map id="catapult::tree::MemoryDataSource::set" name="catapult::tree::MemoryDataSource::set">
-<area shape="rect" id="node1" title="Saves a leaf tree node." alt="" coords="5,117,187,156"/>
-<area shape="rect" id="node2" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="276,5,377,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_leaf_tree_node.html#a1d8bf57943e1507fc7a42d4aeef698b2" title="Gets the hash representation of this node." alt="" coords="247,55,406,93"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1_leaf_tree_node.html#aaf78ef2903c0cf0d7acf69ba8ce34cf4" title="Gets the node path." alt="" coords="247,117,406,156"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1_memory_data_source.html#a7a638942199b6eabc080b2cb9dc86ec1" title=" " alt="" coords="235,180,418,219"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1tree_1_1_leaf_tree_node.html#ae3a7614eab1706a20156cebd9d240fbf" title="Gets the node value." alt="" coords="247,243,406,281"/>
-</map>

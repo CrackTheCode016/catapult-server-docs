@@ -1,0 +1,6 @@
+<map id="catapult::cache::RocksPruningFilter::setPruningBoundary" name="catapult::cache::RocksPruningFilter::setPruningBoundary">
+<area shape="rect" id="node1" title="Sets pruning boundary." alt="" coords="503,37,704,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1RocksDatabase.html#a92e7400af49431f5eb805b9ae8a122bb" title="Prunes elements from columnId below boundary. Returns number of pruned elements." alt="" coords="242,5,455,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1RocksDatabase.html#a8dbd58ba76b286f4920555eb1b369315" title="Creates database around settings." alt="" coords="242,68,455,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1RdbColumnContainer.html#a7758ac69f6959cddc2a604ae3d66f142" title="Prunes elements below pruningBoundary. Returns number of pruned elements." alt="" coords="5,5,194,44"/>
+</map>

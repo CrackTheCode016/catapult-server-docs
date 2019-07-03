@@ -1,0 +1,6 @@
+<map id="catapult::tree::TreeNodePath::TreeNodePath" name="catapult::tree::TreeNodePath::TreeNodePath">
+<area shape="rect" id="node1" title="Creates a default path." alt="" coords="525,51,690,89"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1TreeNodePath.html#ab607054c0970edd623e2575188b20543" title="Joins lhs and rhs into a new path." alt="" coords="313,19,477,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1TreeNodePath.html#a80acca6bdb0851ab677c5c3c7d398a4b" title="Creates a subpath starting at nibble offset composed of size nibbles." alt="" coords="313,81,477,120"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1PatriciaTree.html#adc312f5c7ce5d83682d8bbea6126c70e" title=" " alt="" coords="5,5,265,71"/>
+</map>

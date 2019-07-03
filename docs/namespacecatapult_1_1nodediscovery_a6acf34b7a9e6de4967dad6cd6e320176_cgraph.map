@@ -1,5 +1,5 @@
 <map id="catapult::nodediscovery::TryParseNodesPacket" name="catapult::nodediscovery::TryParseNodesPacket">
 <area shape="rect" id="node1" title="Tries to parse packet into nodes." alt="" coords="5,24,167,63"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#aa4823ca6590dfd2a8232b09d120e7d1a" title="Unpacks a network node (networkNode) into a node model." alt="" coords="215,5,404,31"/>
-<area shape="rect" id="node3" href="$namespacecolor_print.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="245,55,373,80"/>
+<area shape="rect" id="node3" href="$namespacecolorPrint.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="245,55,373,80"/>
 </map>

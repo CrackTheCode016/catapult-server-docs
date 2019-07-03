@@ -1,5 +1,5 @@
 <map id="catapult::model::ExtractAddresses" name="catapult::model::ExtractAddresses">
 <area shape="rect" id="node1" title="Extracts all addresses that are involved in transaction using notificationPublisher." alt="" coords="5,37,166,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_weak_entity_info_t.html#aabcf01bd6894fe3021efa0d2b89e602d" title="Gets the entity." alt="" coords="214,5,400,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_notification_publisher.html#ac2c154d57c3a78c9a5593d16613e8b73" title="Sends all notifications from entityInfo to sub." alt="" coords="215,68,400,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1WeakEntityInfoT.html#aabcf01bd6894fe3021efa0d2b89e602d" title="Gets the entity." alt="" coords="214,5,400,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1NotificationPublisher.html#ac2c154d57c3a78c9a5593d16613e8b73" title="Sends all notifications from entityInfo to sub." alt="" coords="215,68,400,107"/>
 </map>

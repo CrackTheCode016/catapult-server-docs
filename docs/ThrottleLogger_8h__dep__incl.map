@@ -1,0 +1,9 @@
+<map id="ThrottleLogger.h" name="ThrottleLogger.h">
+<area shape="rect" id="node1" title=" " alt="" coords="226,5,345,31"/>
+<area shape="rect" id="node2" href="$BatchPeersRequestor_8cpp.html" title=" " alt="" coords="5,79,182,104"/>
+<area shape="rect" id="node3" href="$RemoteApiForwarder_8h.html" title=" " alt="" coords="206,79,365,104"/>
+<area shape="rect" id="node7" href="$PacketWriters_8cpp.html" title=" " alt="" coords="389,79,518,104"/>
+<area shape="rect" id="node4" href="$SynchronizerTaskCallbacks_8h.html" title=" " alt="" coords="188,152,383,177"/>
+<area shape="rect" id="node5" href="$PtService_8cpp.html" title=" " alt="" coords="166,225,269,251"/>
+<area shape="rect" id="node6" href="$SyncService_8cpp.html" title=" " alt="" coords="293,225,414,251"/>
+</map>

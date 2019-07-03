@@ -1,0 +1,5 @@
+<map id="catapult::cache::ReadOnlyAccountStateCache::harvestingMosaicId" name="catapult::cache::ReadOnlyAccountStateCache::harvestingMosaicId">
+<area shape="rect" id="node1" title="Gets the harvesting mosaic id." alt="" coords="5,37,267,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicAccountStateCacheView.html#af3a37567e9d69ab363e1b14467f54ad6" title="Gets the harvesting mosaic id." alt="" coords="316,5,558,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicAccountStateCacheDelta.html#ade9be4e372a8d5aaea33a803d15ce955" title="Gets the harvesting mosaic id." alt="" coords="315,68,559,107"/>
+</map>

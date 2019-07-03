@@ -1,0 +1,5 @@
+<map id="catapult::cache::CacheChanges::sub" name="catapult::cache::CacheChanges::sub">
+<area shape="rect" id="node1" title="Gets a specific sub cache changes view." alt="" coords="264,44,503,69"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1CacheChangesStorageAdapter.html#a3c403a32d4d3cbffd08bc41122e18825" title="Applies cache changes to the underlying cache." alt="" coords="5,5,216,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1CacheChangesStorageAdapter.html#a5cd17d1f0041ba8fd8eb6deceaeb35d6" title="Saves cache changes to output." alt="" coords="5,68,216,107"/>
+</map>

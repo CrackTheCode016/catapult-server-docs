@@ -1,6 +1,0 @@
-<map id="catapult::io::FileLock::lock" name="catapult::io::FileLock::lock">
-<area shape="rect" id="node1" title="Blocks until a lock can be obtained for the current execution agent." alt="" coords="5,37,148,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_file_lock.html#a3229c901deca60fd1fc01fee1acb2885" title="Attempts to acquire the lock for the current execution agent without blocking." alt="" coords="196,37,339,76"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_spin_lock.html#afb51ccb36b7fae398f0cfd4382c36b90" title="Attempts to acquire the lock for the current execution agent without blocking." alt="" coords="387,5,548,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_spin_lock.html#a9ec13e5a721e60db05d913963a01e156" title="Releases the lock held by the execution agent. Throws no exceptions." alt="" coords="387,68,548,107"/>
-</map>

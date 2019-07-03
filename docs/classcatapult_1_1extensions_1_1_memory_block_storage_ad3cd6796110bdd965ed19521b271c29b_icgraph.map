@@ -1,4 +1,0 @@
-<map id="catapult::extensions::MemoryBlockStorage::chainHeight" name="catapult::extensions::MemoryBlockStorage::chainHeight">
-<area shape="rect" id="node1" title="Gets the number of blocks." alt="" coords="210,5,366,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_memory_block_storage.html#a442ac5066cf4067cf3e97d6a0a96821d" title="Returns a range of at most maxHashes hashes starting at height." alt="" coords="5,5,162,57"/>
-</map>

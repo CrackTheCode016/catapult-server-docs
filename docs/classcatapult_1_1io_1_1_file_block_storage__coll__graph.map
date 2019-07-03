@@ -1,9 +1,0 @@
-<map id="catapult::io::FileBlockStorage" name="catapult::io::FileBlockStorage">
-<area shape="rect" id="node1" title="File&#45;based block storage." alt="" coords="986,68,1180,93"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_prunable_block_storage.html" title="Interface that allows saving, loading and pruning blocks." alt="" coords="675,5,855,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_block_storage.html" title="Interface for saving and loading blocks." alt="" coords="446,12,619,37"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_light_block_storage.html" title="Minimalistic interface for block storage (does not allow block loading)." alt="" coords="242,5,397,44"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,12,193,37"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1_index_file.html" title="Index file containing a uint64_t value." alt="" coords="691,68,839,93"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1io_1_1_file_block_storage_1_1_hash_file.html" title=" " alt="" coords="668,117,862,156"/>
-</map>

@@ -1,28 +1,28 @@
 <map id="catapult::local::SeedNodeContainer" name="catapult::local::SeedNodeContainer">
 <area shape="rect" id="node1" title="Seeds nodes with node information from bootstrapper." alt="" coords="5,116,179,155"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_process_bootstrapper.html#ade80851a60047cf4a799ce4668657255" title="Gets the configuration." alt="" coords="251,5,404,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_node_container.html#a1381c01fadfc5027cf44e1f8633efcf6" title="Gets a write only view of the nodes." alt="" coords="227,81,428,120"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1extensions_1_1_process_bootstrapper.html#ad7a867777c24cb179816bfceeae1c1c2" title="Gets the static (pretrusted) nodes." alt="" coords="251,144,404,196"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1ProcessBootstrapper.html#ade80851a60047cf4a799ce4668657255" title="Gets the configuration." alt="" coords="251,5,404,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1NodeContainer.html#a1381c01fadfc5027cf44e1f8633efcf6" title="Gets a write only view of the nodes." alt="" coords="227,81,428,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1extensions_1_1ProcessBootstrapper.html#ad7a867777c24cb179816bfceeae1c1c2" title="Gets the static (pretrusted) nodes." alt="" coords="251,144,404,196"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1config.html#a9e26a320f09469dc84172b1fadc1dd2e" title="Extracts a node representing the local node from config." alt="" coords="229,220,425,245"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="476,81,699,120"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="747,81,913,120"/>
-<area shape="rect" id="node8" href="$classcatapult_1_1crypto_1_1_key_pair.html#abab862b130f4c2246809755d381a35df" title="Creates a key pair from privateKey." alt="" coords="505,213,671,252"/>
-<area shape="rect" id="node9" href="$classcatapult_1_1crypto_1_1_key_pair.html#a9c0a60998d793f3702d9bb2d0a6bbbc8" title="Creates a key pair from privateKey." alt="" coords="747,213,913,252"/>
-<area shape="rect" id="node25" href="$classcatapult_1_1crypto_1_1_key_pair.html#ad69ab9d76b3323b19571523034ac2a42" title="Returns a private key of a key pair." alt="" coords="961,271,1127,309"/>
-<area shape="rect" id="node26" href="$classcatapult_1_1crypto_1_1_private_key.html#aee127c7fc320764b100a886619cef5cf" title="Creates a private key from str." alt="" coords="750,151,911,189"/>
-<area shape="rect" id="node10" href="$classcatapult_1_1crypto_1_1_key_pair.html#a7be2404c46b1ca77fd9016eb4dc8a22d" title=" " alt="" coords="961,208,1127,247"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BasicSpinReaderWriterLock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="476,81,699,120"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BasicSpinReaderWriterLock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="747,81,913,120"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1crypto_1_1KeyPair.html#abab862b130f4c2246809755d381a35df" title="Creates a key pair from privateKey." alt="" coords="505,213,671,252"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1crypto_1_1KeyPair.html#a9c0a60998d793f3702d9bb2d0a6bbbc8" title="Creates a key pair from privateKey." alt="" coords="747,213,913,252"/>
+<area shape="rect" id="node25" href="$classcatapult_1_1crypto_1_1KeyPair.html#ad69ab9d76b3323b19571523034ac2a42" title="Returns a private key of a key pair." alt="" coords="961,271,1127,309"/>
+<area shape="rect" id="node26" href="$classcatapult_1_1crypto_1_1PrivateKey.html#aee127c7fc320764b100a886619cef5cf" title="Creates a private key from str." alt="" coords="750,151,911,189"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1crypto_1_1KeyPair.html#a7be2404c46b1ca77fd9016eb4dc8a22d" title=" " alt="" coords="961,208,1127,247"/>
 <area shape="rect" id="node11" href="$namespacecatapult_1_1crypto.html#aac0a4e5157bacc7b6b6cc0f98a02f0e8" title="Extracts a public key (publicKey) from a private key ()" alt="" coords="1175,208,1351,247"/>
-<area shape="rect" id="node12" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="1903,120,2068,159"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1utils_1_1ByteArray.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="1903,120,2068,159"/>
 <area shape="rect" id="node13" href="$namespacecatapult_1_1crypto.html#afc343e9e7d7cb97a3de0ed8418846bd5" title="Calculates hash of a privateKey." alt="" coords="1399,332,1614,357"/>
-<area shape="rect" id="node14" href="$classcatapult_1_1crypto_1_1_private_key.html#a364d8e0b79859577cd351848e31f8ae2" title="Returns a const iterator to the beginning of the raw key." alt="" coords="1678,235,1839,273"/>
-<area shape="rect" id="node16" href="$classcatapult_1_1utils_1_1_byte_array.html#aeb9ed1abd6eb2d2b1587a77d764491e6" title="Returns a const iterator to the first byte." alt="" coords="1676,297,1841,336"/>
-<area shape="rect" id="node17" href="$classcatapult_1_1crypto_1_1_private_key.html#aba6d73db328cc06b761ae4b0dcbe1587" title="Returns a const pointer to the raw key." alt="" coords="1678,120,1839,159"/>
-<area shape="rect" id="node18" href="$classcatapult_1_1crypto_1_1_private_key.html#af474cfd15c1a3285239d16cad2ec320f" title="Returns a const iterator to the end of the raw key." alt="" coords="1678,521,1839,560"/>
+<area shape="rect" id="node14" href="$classcatapult_1_1crypto_1_1PrivateKey.html#a364d8e0b79859577cd351848e31f8ae2" title="Returns a const iterator to the beginning of the raw key." alt="" coords="1678,235,1839,273"/>
+<area shape="rect" id="node16" href="$classcatapult_1_1utils_1_1ByteArray.html#aeb9ed1abd6eb2d2b1587a77d764491e6" title="Returns a const iterator to the first byte." alt="" coords="1676,297,1841,336"/>
+<area shape="rect" id="node17" href="$classcatapult_1_1crypto_1_1PrivateKey.html#aba6d73db328cc06b761ae4b0dcbe1587" title="Returns a const pointer to the raw key." alt="" coords="1678,120,1839,159"/>
+<area shape="rect" id="node18" href="$classcatapult_1_1crypto_1_1PrivateKey.html#af474cfd15c1a3285239d16cad2ec320f" title="Returns a const iterator to the end of the raw key." alt="" coords="1678,521,1839,560"/>
 <area shape="rect" id="node20" href="$namespacecatapult_1_1crypto.html#a2daa5de9309093d546fb4fce1eaad2dc" title="Calculates the 512&#45;bit Keccak hash of dataBuffer into hash." alt="" coords="1662,472,1855,497"/>
 <area shape="rect" id="node21" href="$namespacecatapult_1_1crypto.html#a847b6f2d814e8b689fad72496e287158" title="Securely zeros out the memory backing the specified key." alt="" coords="1664,360,1853,385"/>
 <area shape="rect" id="node23" href="$namespacecatapult_1_1crypto.html#a8e44c8c0d13f7ab77269d4ba0261de11" title="Calculates the 512&#45;bit SHA3 hash of dataBuffer into hash." alt="" coords="1668,584,1848,609"/>
-<area shape="rect" id="node24" href="$classcatapult_1_1crypto_1_1_private_key.html#a632a883dcb1f950ba04feeeb22e1ed5b" title="Returns the size of the key." alt="" coords="1678,409,1839,448"/>
-<area shape="rect" id="node15" href="$classcatapult_1_1utils_1_1_byte_array.html#aba9b7f8b1f716e8719c21e02473cbee3" title="Returns a const iterator to the first byte." alt="" coords="1903,235,2068,273"/>
-<area shape="rect" id="node19" href="$classcatapult_1_1utils_1_1_byte_array.html#a79ef47736964cb180440d5efd52e0281" title="Returns a const iterator to one past the last byte." alt="" coords="1903,521,2068,560"/>
-<area shape="rect" id="node22" href="$classcatapult_1_1utils_1_1_byte_array.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="1903,381,2068,420"/>
+<area shape="rect" id="node24" href="$classcatapult_1_1crypto_1_1PrivateKey.html#a632a883dcb1f950ba04feeeb22e1ed5b" title="Returns the size of the key." alt="" coords="1678,409,1839,448"/>
+<area shape="rect" id="node15" href="$classcatapult_1_1utils_1_1ByteArray.html#aba9b7f8b1f716e8719c21e02473cbee3" title="Returns a const iterator to the first byte." alt="" coords="1903,235,2068,273"/>
+<area shape="rect" id="node19" href="$classcatapult_1_1utils_1_1ByteArray.html#a79ef47736964cb180440d5efd52e0281" title="Returns a const iterator to one past the last byte." alt="" coords="1903,521,2068,560"/>
+<area shape="rect" id="node22" href="$classcatapult_1_1utils_1_1ByteArray.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="1903,381,2068,420"/>
 </map>

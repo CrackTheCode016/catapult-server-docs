@@ -1,0 +1,4 @@
+<map id="catapult::utils::ConfigurationBag::getAll" name="catapult::utils::ConfigurationBag::getAll">
+<area shape="rect" id="node1" title="Gets all section properties from this bag." alt="" coords="246,5,432,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1config_1_1LoggingConfiguration.html#ac9ebdea247ccb11269437a34bd536f2a" title="Loads a logging configuration from bag." alt="" coords="5,5,198,44"/>
+</map>

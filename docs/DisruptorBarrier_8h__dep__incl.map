@@ -1,0 +1,15 @@
+<map id="DisruptorBarrier.h" name="DisruptorBarrier.h">
+<area shape="rect" id="node1" title=" " alt="" coords="397,5,523,31"/>
+<area shape="rect" id="node2" href="$DisruptorBarriers_8h.html" title=" " alt="" coords="317,79,450,104"/>
+<area shape="rect" id="node13" href="$ConsumerEntry_8h.html" title=" " alt="" coords="474,79,598,104"/>
+<area shape="rect" id="node3" href="$Disruptor_8h.html" title=" " alt="" coords="355,152,441,177"/>
+<area shape="rect" id="node12" href="$DisruptorBarriers_8cpp.html" title=" " alt="" coords="185,152,332,177"/>
+<area shape="rect" id="node4" href="$ConsumerDispatcher_8h.html" title=" " alt="" coords="327,225,483,251"/>
+<area shape="rect" id="node11" href="$Disruptor_8cpp.html" title=" " alt="" coords="203,225,303,251"/>
+<area shape="rect" id="node5" href="$PtDispatcherService_8cpp.html" title=" " alt="" coords="5,445,173,471"/>
+<area shape="rect" id="node6" href="$BatchRangeDispatcher_8h.html" title=" " alt="" coords="207,299,376,324"/>
+<area shape="rect" id="node9" href="$DispatcherUtils_8cpp.html" title=" " alt="" coords="376,445,512,471"/>
+<area shape="rect" id="node10" href="$ConsumerDispatcher_8cpp.html" title=" " alt="" coords="450,299,621,324"/>
+<area shape="rect" id="node7" href="$DispatcherService_8cpp.html" title=" " alt="" coords="197,445,352,471"/>
+<area shape="rect" id="node8" href="$DispatcherUtils_8h.html" title=" " alt="" coords="243,372,365,397"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="catapult::utils::BlockSpan::FromDays" name="catapult::utils::BlockSpan::FromDays">
-<area shape="rect" id="node1" title="Creates a block span from the given number of days." alt="" coords="5,37,176,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_block_span.html#a4704d4f8a52d14031f803c82b0de1ac4" title="Creates a default (zero) block span." alt="" coords="224,5,394,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_block_span.html#ad4067de48fd53289cc4ab2c0aceda973" title="Returns the number of days." alt="" coords="224,68,394,107"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="catapult::net::PacketIoPicker::pickOne" name="catapult::net::PacketIoPicker::pickOne">
+<area shape="rect" id="node1" title=" " alt="" coords="234,27,424,65"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1net.html#a626d9bfc599ed67c713e68ef13c6586d" title=" " alt="" coords="9,5,182,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1RemoteApiForwarder.html#abe7e946181e822b2b24ce85c1bc295eb" title="Picks a random peer and wraps an api around it using apiFactory. Finally, passes the api to action." alt="" coords="5,55,186,93"/>
+</map>

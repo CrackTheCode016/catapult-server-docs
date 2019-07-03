@@ -1,6 +1,0 @@
-<map id="catapult::cache::MemoryUtCache" name="catapult::cache::MemoryUtCache">
-<area shape="rect" id="node1" title="Cache for all unconfirmed transactions." alt="" coords="29,239,209,277"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_ut_cache.html" title="An interface for caching unconfirmed transactions." alt="" coords="34,165,204,191"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_transactions_cache.html" title=" " alt="" coords="5,79,232,117"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="25,5,212,31"/>
-</map>

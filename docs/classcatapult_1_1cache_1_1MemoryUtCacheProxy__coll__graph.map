@@ -1,0 +1,9 @@
+<map id="catapult::cache::MemoryUtCacheProxy" name="catapult::cache::MemoryUtCacheProxy">
+<area shape="rect" id="node1" title="A delegating proxy around a MemoryUtCache." alt="" coords="1453,83,1633,121"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1MemoryCacheProxy.html" title=" " alt="" coords="1173,76,1403,128"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1UtCache.html" title="An interface for caching unconfirmed transactions." alt="" coords="536,89,706,115"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1MemoryUtCache.html" title="Cache for all unconfirmed transactions." alt="" coords="837,25,1016,64"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1BasicTransactionsCache.html" title=" " alt="" coords="242,83,469,121"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,89,193,115"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1MemoryCacheOptions.html" title="Options for customizing the behavior of a memory based cache." alt="" coords="518,5,723,44"/>
+</map>

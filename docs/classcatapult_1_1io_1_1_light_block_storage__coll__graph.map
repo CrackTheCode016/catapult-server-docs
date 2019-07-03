@@ -1,4 +1,0 @@
-<map id="catapult::io::LightBlockStorage" name="catapult::io::LightBlockStorage">
-<area shape="rect" id="node1" title="Minimalistic interface for block storage (does not allow block loading)." alt="" coords="22,79,176,117"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,5,193,31"/>
-</map>

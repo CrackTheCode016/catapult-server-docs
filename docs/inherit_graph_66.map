@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structcatapult_1_1state_1_1_account_state_serializer.html" title="Policy for saving and loading account state data." alt="" coords="46,5,206,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_account_state_cache_storage.html" title="Policy for saving and loading account state cache data." alt="" coords="295,40,462,79"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_cache_storage_from_descriptor.html" title=" " alt="" coords="5,68,247,120"/>
+<area shape="rect" id="node1" href="$structcatapult_1_1state_1_1AccountStateSerializer.html" title="Policy for saving and loading account state data." alt="" coords="46,5,206,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1AccountStateCacheStorage.html" title="Policy for saving and loading account state cache data." alt="" coords="295,40,462,79"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1CacheStorageFromDescriptor.html" title=" " alt="" coords="5,68,247,120"/>
 </map>

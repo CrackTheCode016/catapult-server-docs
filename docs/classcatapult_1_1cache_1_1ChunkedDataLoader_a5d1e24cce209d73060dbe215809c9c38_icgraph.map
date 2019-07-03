@@ -1,0 +1,4 @@
+<map id="catapult::cache::ChunkedDataLoader::next" name="catapult::cache::ChunkedDataLoader::next">
+<area shape="rect" id="node1" title="Loads the next data chunk of at most numRequestedEntries into destination." alt="" coords="258,19,430,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1CacheStorageAdapter.html#a447e2b746504b5f72fad2080716d8681" title=" " alt="" coords="5,5,210,71"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="catapult::io::BlockStorageView::loadBlock" name="catapult::io::BlockStorageView::loadBlock">
-<area shape="rect" id="node1" title="Returns the block at height." alt="" coords="5,92,178,131"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1io_1_1_cached_data.html#ae9b067b1f1193623842d05284cf433a5" title=" " alt="" coords="228,5,396,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1io_1_1_cached_data.html#a29597fc6c97eaa0df4ff5d8014a29f42" title=" " alt="" coords="449,77,616,116"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1_block_storage.html#a8d803a4985c1c11cd2166a663d308247" title="Returns the block at height." alt="" coords="226,120,398,159"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1_block_storage_view.html#ab8438b19022b7baa4b95648acf4725e6" title=" " alt="" coords="226,183,398,221"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1io_1_1_cached_data.html#a5138b51363f7570f329935f4c23c6c4a" title=" " alt="" coords="667,124,834,163"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1io_1_1_block_storage_view.html#a42b38490ba41b12df9b9061b3936cf0d" title="Gets the number of blocks." alt="" coords="446,155,619,193"/>
-</map>

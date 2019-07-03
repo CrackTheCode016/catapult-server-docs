@@ -1,0 +1,8 @@
+<map id="catapult::disruptor::ConsumerDispatcher::numActiveElements" name="catapult::disruptor::ConsumerDispatcher::numActiveElements">
+<area shape="rect" id="node1" title="Returns the number of elements currently in the disruptor." alt="" coords="907,44,1061,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1ConsumerDispatcher.html#aeb78d5c6a294fafe0db1c62755de4a14" title=" " alt="" coords="669,51,859,89"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1disruptor_1_1ConsumerDispatcher.html#a9b93ca3bb7e9dda7287454590b2eb84e" title=" " alt="" coords="467,44,621,96"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1disruptor_1_1BatchRangeDispatcher.html#ae836b10c01d785b369623d517f4a88d3" title="Dispatches all queued elements to the underlying dispatcher." alt="" coords="253,5,419,57"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1disruptor_1_1ConsumerDispatcher.html#a89880e8ab9556623cf671af6bc50fe10" title="Pushes the input into underlying disruptor and returns the assigned element id." alt="" coords="259,81,413,133"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1extensions.html#a43373300d407f59cb43fccfa2b1b7e54" title="Creates a task with name that dispatches all transactions batched in dispatcher." alt="" coords="5,12,205,51"/>
+</map>

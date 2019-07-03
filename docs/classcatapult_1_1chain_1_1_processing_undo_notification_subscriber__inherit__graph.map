@@ -1,4 +1,0 @@
-<map id="catapult::chain::ProcessingUndoNotificationSubscriber" name="catapult::chain::ProcessingUndoNotificationSubscriber">
-<area shape="rect" id="node1" title="A notification subscriber that captures notifications and allows them to be undone." alt="" coords="6,92,189,131"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_notification_subscriber.html" title="A notification subscriber." alt="" coords="5,5,190,44"/>
-</map>

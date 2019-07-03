@@ -1,5 +1,0 @@
-<map id="catapult::cache::HashCacheTypes" name="catapult::cache::HashCacheTypes">
-<area shape="rect" id="node1" title="Hash cache types." alt="" coords="580,19,768,57"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_single_set_cache_types_adapter.html" title=" " alt="" coords="267,5,532,71"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_cache_database_mixin.html" title="Mixin that owns a cache database." alt="" coords="5,19,219,57"/>
-</map>

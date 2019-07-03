@@ -1,5 +1,5 @@
 <map id="catapult::utils::GetIniPropertyName" name="catapult::utils::GetIniPropertyName">
 <area shape="rect" id="node1" title="Gets the ini property name corresponding to the cpp variable name (cppVariableName)." alt="" coords="444,12,672,37"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a1e10562e174ccb024096a8c0e064b30f" title=" " alt="" coords="246,5,396,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1config_1_1_transfer_configuration.html#a0f5dc243fcea0ed42246f5ca79c3139d" title="Loads a transfer configuration from bag." alt="" coords="5,5,198,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1config_1_1TransferConfiguration.html#a0f5dc243fcea0ed42246f5ca79c3139d" title="Loads a transfer configuration from bag." alt="" coords="5,5,198,44"/>
 </map>

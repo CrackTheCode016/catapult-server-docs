@@ -1,0 +1,10 @@
+<map id="catapult::extensions::ServiceLocator::tryGetService" name="catapult::extensions::ServiceLocator::tryGetService">
+<area shape="rect" id="node1" title=" " alt="" coords="492,96,698,135"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1ServiceLocator.html#a8451cfdde1815b570cd1cdbbdd16ab7e" title="Adds a service&#45;dependent counter with counterName for service serviceName given supplier." alt="" coords="230,27,444,79"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1ServiceLocator.html#ac9b1a47dc1ffdb9774f39fe1de5166fc" title="Gets the service with serviceName." alt="" coords="254,131,421,169"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a484c414066e59a172c11f5876054d050" title="Adds dispatcher counters with prefix counterPrefix to locator for a dispatcher named dispatcherName." alt="" coords="9,5,179,44"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1extensions.html#a712d68aa1a29bea879085f66f6d3bf1f" title="Creates a sink that pushes entities using a service identified by serviceName in locator." alt="" coords="15,68,173,107"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1partialtransaction.html#aa803cd0bd9e93daa9c7f759fa9e05a96" title="Gets the memory partial transactions cache stored in locator." alt="" coords="5,131,182,169"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1sync.html#a1453519c341e97d8e485441e4184a41c" title="Gets the packet writers service from locator." alt="" coords="8,193,180,232"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1partialtransaction.html#afd00c97346acebcc87f5f0e2ffc9ed19" title="Gets the partial transactions server hooks stored in locator." alt="" coords="5,256,182,295"/>
+</map>

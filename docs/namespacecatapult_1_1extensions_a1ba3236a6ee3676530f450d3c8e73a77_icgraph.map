@@ -1,12 +1,12 @@
 <map id="catapult::extensions::Require" name="catapult::extensions::Require">
 <area shape="rect" id="node1" title="Returns func if and only if it is set." alt="" coords="566,240,705,279"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_server_hooks.html#ad027e02b384a5a2c0c5b245175a391f5" title="Gets the factory for creating a BlockRangeConsumerFunc bound to an input source." alt="" coords="271,5,516,57"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_server_hooks.html#aff008c310d9997e72b843746c6db8136" title="Gets the factory for creating a CompletionAwareBlockRangeConsumerFunc bound to an input source." alt="" coords="286,81,501,133"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1partialtransaction_1_1_pt_server_hooks.html#a2545f467d039fb6585e301595fa23eaa" title="Gets the cosignature range consumer." alt="" coords="277,157,511,209"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1partialtransaction_1_1_pt_server_hooks.html#a63c9f1c7db4b7bde9c53b6c25491b9e0" title="Gets the cosigned transaction infos consumer." alt="" coords="270,233,518,285"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1partialtransaction_1_1_pt_server_hooks.html#af17c73a3946e3d4bcdcb304658d4c3ae" title="Gets the partial transaction range consumer." alt="" coords="275,309,513,348"/>
-<area shape="rect" id="node8" href="$classcatapult_1_1extensions_1_1_server_hooks.html#aca47121ed9052674853a7dc8d82e84e6" title="Gets the remote chain heights retriever." alt="" coords="276,372,511,424"/>
-<area shape="rect" id="node9" href="$classcatapult_1_1extensions_1_1_server_hooks.html#add05a05ea2d2bf9c8e0d02f8acc917a0" title="Gets the factory for creating a TransactionRangeConsumerFunc bound to an input source." alt="" coords="285,448,503,500"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1ServerHooks.html#ad027e02b384a5a2c0c5b245175a391f5" title="Gets the factory for creating a BlockRangeConsumerFunc bound to an input source." alt="" coords="271,5,516,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1ServerHooks.html#aff008c310d9997e72b843746c6db8136" title="Gets the factory for creating a CompletionAwareBlockRangeConsumerFunc bound to an input source." alt="" coords="286,81,501,133"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1partialtransaction_1_1PtServerHooks.html#a2545f467d039fb6585e301595fa23eaa" title="Gets the cosignature range consumer." alt="" coords="277,157,511,209"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1partialtransaction_1_1PtServerHooks.html#a63c9f1c7db4b7bde9c53b6c25491b9e0" title="Gets the cosigned transaction infos consumer." alt="" coords="270,233,518,285"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1partialtransaction_1_1PtServerHooks.html#af17c73a3946e3d4bcdcb304658d4c3ae" title="Gets the partial transaction range consumer." alt="" coords="275,309,513,348"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1extensions_1_1ServerHooks.html#aca47121ed9052674853a7dc8d82e84e6" title="Gets the remote chain heights retriever." alt="" coords="276,372,511,424"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1extensions_1_1ServerHooks.html#add05a05ea2d2bf9c8e0d02f8acc917a0" title="Gets the factory for creating a TransactionRangeConsumerFunc bound to an input source." alt="" coords="285,448,503,500"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#a631b376f5bf6d45b58d5cb7d6d4d506d" title="Creates a block push entity callback from hooks that only pushes when synced." alt="" coords="5,12,222,51"/>
 <area shape="rect" id="node10" href="$namespacecatapult_1_1extensions.html#ad2a8ccace6e9aa2955c7da63179f3074" title="Creates a transaction push entity callback from hooks that only pushes when synced." alt="" coords="13,448,214,500"/>
 </map>

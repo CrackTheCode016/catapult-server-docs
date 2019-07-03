@@ -1,7 +1,0 @@
-<map id="catapult::tree::TreeNode::empty" name="catapult::tree::TreeNode::empty">
-<area shape="rect" id="node1" title="Returns true if this node represents an empty node." alt="" coords="313,153,477,192"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a716e1a11c4bf41eac444126b6543914d" title=" " alt="" coords="5,5,265,71"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_patricia_tree.html#aedc5316613a2598329b1d6c6e7a0d2b6" title="Saves all tree nodes to the underlying data source." alt="" coords="5,95,265,160"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a128da184199fa59afe13a53f8abdd0b1" title=" " alt="" coords="5,184,265,249"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1_patricia_tree.html#a3a504798d0164aa1db3d706278102120" title=" " alt="" coords="5,273,265,339"/>
-</map>

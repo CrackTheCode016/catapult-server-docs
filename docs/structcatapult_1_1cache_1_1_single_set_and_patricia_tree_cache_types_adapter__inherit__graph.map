@@ -1,4 +1,0 @@
-<map id="catapult::cache::SingleSetAndPatriciaTreeCacheTypesAdapter&lt; TPrimaryTypes, TPatriciaTree &gt;" name="catapult::cache::SingleSetAndPatriciaTreeCacheTypesAdapter&lt; TPrimaryTypes, TPatriciaTree &gt;">
-<area shape="rect" id="node1" title="A cache types adapter for a cache composed of a single set and a patricia tree." alt="" coords="5,92,243,144"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_cache_database_mixin.html" title="Mixin that owns a cache database." alt="" coords="17,5,231,44"/>
-</map>

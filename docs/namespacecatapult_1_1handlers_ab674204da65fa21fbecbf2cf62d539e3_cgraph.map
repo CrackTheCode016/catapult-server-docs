@@ -1,4 +1,4 @@
 <map id="catapult::handlers::CreateConfirmedTimestampedHashesProducerFactory" name="catapult::handlers::CreateConfirmedTimestampedHashesProducerFactory">
 <area shape="rect" id="node1" title="Creates a confirmed timestamped hashes producer factory around hashCache." alt="" coords="5,5,216,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache.html#a2cffaf2c56eda437b5054bd0b356b21c" title="Returns a locked cache view based on this cache." alt="" coords="264,12,463,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1SynchronizedCache.html#a2cffaf2c56eda437b5054bd0b356b21c" title="Returns a locked cache view based on this cache." alt="" coords="264,12,463,51"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="catapult::utils::ParseHexStringIntoContainer" name="catapult::utils::ParseHexStringIntoContainer">
 <area shape="rect" id="node1" title="Parses a hex string (pHexData with size dataSize) into outputContainer." alt="" coords="221,37,387,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1_private_key.html#acc0ed8ec24fcdc2403a58b6691b4918c" title=" " alt="" coords="9,5,170,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1PrivateKey.html#acc0ed8ec24fcdc2403a58b6691b4918c" title=" " alt="" coords="9,5,170,44"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a12c294152296e35556a81b75913c8da8" title="Parses a hex string (hexString) into a byte array." alt="" coords="5,68,173,107"/>
 </map>

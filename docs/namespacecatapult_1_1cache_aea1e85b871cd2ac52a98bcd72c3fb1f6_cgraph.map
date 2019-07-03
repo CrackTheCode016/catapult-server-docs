@@ -1,5 +1,5 @@
 <map id="catapult::cache::HashCacheContains" name="catapult::cache::HashCacheContains">
 <area shape="rect" id="node1" title="Returns true if cache contains hash with timestamp." alt="" coords="5,37,193,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache.html#a2cffaf2c56eda437b5054bd0b356b21c" title="Returns a locked cache view based on this cache." alt="" coords="241,5,441,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_catapult_cache.html#ab29534a0c56ad0958c9bd78f88cf82c7" title="Gets a specific sub cache." alt="" coords="257,68,425,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1SynchronizedCache.html#a2cffaf2c56eda437b5054bd0b356b21c" title="Returns a locked cache view based on this cache." alt="" coords="241,5,441,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1CatapultCache.html#ab29534a0c56ad0958c9bd78f88cf82c7" title="Gets a specific sub cache." alt="" coords="257,68,425,107"/>
 </map>

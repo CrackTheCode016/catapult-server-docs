@@ -1,0 +1,38 @@
+<map id="Namespace.h" name="Namespace.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1025,5,1129,31"/>
+<area shape="rect" id="node2" href="$NamespaceCacheTypes_8h.html" title=" " alt="" coords="1193,232,1371,257"/>
+<area shape="rect" id="node25" href="$NamespaceEntry_8h.html" title=" " alt="" coords="1010,152,1144,177"/>
+<area shape="rect" id="node27" href="$RootNamespace_8h.html" title=" " alt="" coords="756,79,888,104"/>
+<area shape="rect" id="node3" href="$NamespaceCacheSerializers_8h.html" title=" " alt="" coords="1180,312,1384,337"/>
+<area shape="rect" id="node4" href="$NamespaceBaseSets_8h.html" title=" " alt="" coords="1350,385,1510,411"/>
+<area shape="rect" id="node22" href="$NamespaceCacheView_8h.html" title=" " alt="" coords="862,385,1032,411"/>
+<area shape="rect" id="node24" href="$NamespaceCacheStorage_8h.html" title=" " alt="" coords="1160,459,1349,484"/>
+<area shape="rect" id="node5" href="$NamespaceCacheDelta_8h.html" title=" " alt="" coords="962,459,1135,484"/>
+<area shape="rect" id="node23" href="$NamespaceCacheSerializers_8cpp.html" title=" " alt="" coords="1108,385,1326,411"/>
+<area shape="rect" id="node6" href="$NamespaceCache_8h.html" title=" " alt="" coords="1271,532,1413,557"/>
+<area shape="rect" id="node20" href="$NamespaceCacheDelta_8cpp.html" title=" " alt="" coords="783,532,970,557"/>
+<area shape="rect" id="node21" href="$NamespaceCacheStorage_8cpp.html" title=" " alt="" coords="994,532,1197,557"/>
+<area shape="rect" id="node7" href="$MongoNamespaceCacheStorage_8cpp.html" title=" " alt="" coords="144,612,388,637"/>
+<area shape="rect" id="node8" href="$NamespaceCacheSubCachePlugin_8h.html" title=" " alt="" coords="412,612,654,637"/>
+<area shape="rect" id="node10" href="$NamespacePlugin_8cpp.html" title=" " alt="" coords="650,692,805,717"/>
+<area shape="rect" id="node11" href="$AliasedDataObservers_8cpp.html" title=" " alt="" coords="1651,612,1831,637"/>
+<area shape="rect" id="node12" href="$ChildNamespaceObserver_8cpp.html" title=" " alt="" coords="1854,612,2057,637"/>
+<area shape="rect" id="node13" href="$RootNamespaceObserver_8cpp.html" title=" " alt="" coords="2081,612,2281,637"/>
+<area shape="rect" id="node14" href="$AliasAvailabilityValidator_8cpp.html" title=" " alt="" coords="2305,612,2494,637"/>
+<area shape="rect" id="node15" href="$ChildNamespaceAvailabilityValidator_8cpp.html" title=" " alt="" coords="2519,605,2704,644"/>
+<area shape="rect" id="node16" href="$NamespaceAvailabilityValidator_8cpp.html" title=" " alt="" coords="729,612,960,637"/>
+<area shape="rect" id="node17" href="$NamespaceDurationOverflowValidator_8cpp.html" title=" " alt="" coords="984,605,1180,644"/>
+<area shape="rect" id="node18" href="$RootNamespaceMaxChildrenValidator_8cpp.html" title=" " alt="" coords="1204,605,1400,644"/>
+<area shape="rect" id="node19" href="$UnlinkAliasedDataConsistencyValidator_8cpp.html" title=" " alt="" coords="1423,605,1626,644"/>
+<area shape="rect" id="node9" href="$NamespaceCacheSubCachePlugin_8cpp.html" title=" " alt="" coords="370,692,626,717"/>
+<area shape="rect" id="node26" href="$NamespaceCacheMixins_8h.html" title=" " alt="" coords="608,312,788,337"/>
+<area shape="rect" id="node28" href="$NamespaceDescriptor_8h.html" title=" " alt="" coords="414,152,577,177"/>
+<area shape="rect" id="node30" href="$NamespaceDescriptorMapper_8cpp.html" title=" " alt="" coords="5,312,228,337"/>
+<area shape="rect" id="node32" href="$RootNamespace_8cpp.html" title=" " alt="" coords="840,152,986,177"/>
+<area shape="rect" id="node33" href="$RootNamespaceHistory_8h.html" title=" " alt="" coords="644,152,816,177"/>
+<area shape="rect" id="node29" href="$NamespaceDescriptorMapper_8h.html" title=" " alt="" coords="154,232,363,257"/>
+<area shape="rect" id="node31" href="$MongoNamespaceCacheStorageUtils_8cpp.html" title=" " alt="" coords="386,225,605,264"/>
+<area shape="rect" id="node34" href="$RootNamespaceHistory_8cpp.html" title=" " alt="" coords="680,232,866,257"/>
+<area shape="rect" id="node35" href="$RootNamespaceHistorySerializer_8h.html" title=" " alt="" coords="941,232,1170,257"/>
+<area shape="rect" id="node36" href="$RootNamespaceHistorySerializer_8cpp.html" title=" " alt="" coords="862,312,1105,337"/>
+</map>

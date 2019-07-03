@@ -1,6 +1,6 @@
 <map id="catapult::mongo::mappers::ToBinary" name="catapult::mongo::mappers::ToBinary">
 <area shape="rect" id="node1" title="Converts byte array into bson binary type." alt="" coords="5,68,181,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="234,5,399,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="234,68,399,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="234,5,399,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="234,68,399,107"/>
 <area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1mappers.html#abe995238cacf9b478fd4c7eb08357792" title="Converts raw array (pData) of size elements into bson binary type." alt="" coords="229,131,404,169"/>
 </map>

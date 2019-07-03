@@ -1,7 +1,7 @@
 <map id="catapult::thread::get_all" name="catapult::thread::get_all">
 <area shape="rect" id="node1" title=" " alt="" coords="520,95,680,120"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_historical_cache_storage.html#a798e7460f6bd498e3d19e9d227e38529" title=" " alt="" coords="263,5,472,57"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_flat_cache_storage.html#a08d88db298db8bc26e9c7a53cbc70274" title=" " alt="" coords="279,81,456,133"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_flat_cache_storage.html#a06568f9c2ba4424f5f6dd38efbceba6e" title=" " alt="" coords="279,157,456,209"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_historical_cache_storage.html#a6be5f402245bd0f5735c38a84c088f1b" title="Saves cache changes to external storage." alt="" coords="5,5,215,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a798e7460f6bd498e3d19e9d227e38529" title=" " alt="" coords="263,5,472,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1storages_1_1MongoFlatCacheStorage.html#a08d88db298db8bc26e9c7a53cbc70274" title=" " alt="" coords="279,81,456,133"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1storages_1_1MongoFlatCacheStorage.html#a06568f9c2ba4424f5f6dd38efbceba6e" title=" " alt="" coords="279,157,456,209"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a6be5f402245bd0f5735c38a84c088f1b" title="Saves cache changes to external storage." alt="" coords="5,5,215,57"/>
 </map>

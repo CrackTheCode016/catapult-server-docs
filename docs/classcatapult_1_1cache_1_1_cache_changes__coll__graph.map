@@ -1,5 +1,0 @@
-<map id="catapult::cache::CacheChanges" name="catapult::cache::CacheChanges">
-<area shape="rect" id="node1" title="Provides common view of aggregate cache changes." alt="" coords="79,105,290,131"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,12,172,37"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_catapult_cache_delta.html" title="Delta on top of a catapult cache." alt="" coords="197,5,365,44"/>
-</map>

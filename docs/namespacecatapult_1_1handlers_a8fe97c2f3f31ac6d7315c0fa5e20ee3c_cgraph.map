@@ -1,15 +1,15 @@
 <map id="catapult::handlers::RegisterNodeDiscoveryPushPingHandler" name="catapult::handlers::RegisterNodeDiscoveryPushPingHandler">
 <area shape="rect" id="node1" title=" " alt="" coords="5,192,205,244"/>
-<area shape="rect" id="node2" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="298,5,399,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_node.html#aa7a6deb3194815056c6ac62ef7f43945" title="Gets the endpoint." alt="" coords="277,55,420,93"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1ionet_1_1_node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="515,112,659,151"/>
+<area shape="rect" id="node2" href="$namespaceParser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="298,5,399,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1Node.html#aa7a6deb3194815056c6ac62ef7f43945" title="Gets the endpoint." alt="" coords="277,55,420,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1ionet_1_1Node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="515,112,659,151"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1nodediscovery.html#a2501c61ddd42ee3c4cf9e3e0994e6971" title="Determines if node is compatible with expected network (networkIdentifier) and identity (identityKey)..." alt="" coords="268,169,429,208"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1ionet_1_1_node.html#a5fe7fdd2c161ca5e176b700f533d52b6" title="Gets tne metadata." alt="" coords="515,175,659,213"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1ionet_1_1_server_packet_handlers.html#a9d9c29de1ef114fb21252ffa4feb7715" title="Registers a handler for the specified packet type." alt="" coords="253,284,444,323"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1ionet_1_1Node.html#a5fe7fdd2c161ca5e176b700f533d52b6" title="Gets tne metadata." alt="" coords="515,175,659,213"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1ionet_1_1ServerPacketHandlers.html#a9d9c29de1ef114fb21252ffa4feb7715" title="Registers a handler for the specified packet type." alt="" coords="253,284,444,323"/>
 <area shape="rect" id="node9" href="$namespacecatapult_1_1nodediscovery.html#ac8a5e0230c8a386371e646be0f4efb3b" title="Tries to parse packet into node." alt="" coords="268,357,429,396"/>
-<area shape="rect" id="node11" href="$namespacecolor_print.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="729,364,857,389"/>
+<area shape="rect" id="node11" href="$namespacecolorPrint.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="729,364,857,389"/>
 <area shape="rect" id="node8" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="525,237,648,276"/>
 <area shape="rect" id="node10" href="$namespacecatapult_1_1ionet.html#a173bce61bb498ae19e3a787b7e9721c6" title="Calculates the data size of packet." alt="" coords="503,300,670,339"/>
-<area shape="rect" id="node12" href="$structcatapult_1_1ionet_1_1_packet.html#a26bd36a8a62b26f68fcf00963652aad2" title="Returns a non&#45;const pointer to data contained in this packet." alt="" coords="510,415,663,453"/>
+<area shape="rect" id="node12" href="$structcatapult_1_1ionet_1_1Packet.html#a26bd36a8a62b26f68fcf00963652aad2" title="Returns a non&#45;const pointer to data contained in this packet." alt="" coords="510,415,663,453"/>
 <area shape="rect" id="node13" href="$namespacecatapult_1_1ionet.html#aa4823ca6590dfd2a8232b09d120e7d1a" title="Unpacks a network node (networkNode) into a node model." alt="" coords="492,477,681,503"/>
 </map>

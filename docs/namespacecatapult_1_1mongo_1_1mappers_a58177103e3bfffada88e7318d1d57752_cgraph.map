@@ -8,7 +8,7 @@
 <area shape="rect" id="node11" href="$namespacecatapult_1_1mongo_1_1mappers.html#af749b0a611c09e30ae06aa7fde4de3a1" title="Converts base value to int32_t." alt="" coords="233,371,408,409"/>
 <area shape="rect" id="node12" href="$namespacecatapult_1_1mongo_1_1mappers.html#aa06da8a74993f2239f74f4e43014edd6" title="Converts base value to int64_t." alt="" coords="233,433,408,472"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1model.html#a832c1b78aeb20ec2066b2fff8ad4e69d" title="Calculates the fee for transaction contained in block with feeMultiplier." alt="" coords="467,5,641,44"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1model_1_1_transaction_container.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="460,68,648,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="696,5,866,44"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1model_1_1TransactionContainer.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="460,68,648,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="696,5,866,44"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1model.html#a381b90947dfff379681769cfc6459190" title="Calculates the merkle hash for statement." alt="" coords="467,131,641,169"/>
 </map>

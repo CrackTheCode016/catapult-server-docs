@@ -1,4 +1,4 @@
 <map id="catapult::model::GetTransactionPayloadSize" name="catapult::model::GetTransactionPayloadSize">
 <area shape="rect" id="node1" title="Gets the number of bytes containing transaction data according to header." alt="" coords="274,19,484,57"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_transaction_container.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="5,5,226,71"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1TransactionContainer.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="5,5,226,71"/>
 </map>

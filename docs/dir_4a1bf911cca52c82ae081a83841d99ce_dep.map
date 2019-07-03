@@ -1,13 +1,13 @@
-<map id="catapult&#45;server/tools/statusgen" name="catapult&#45;server/tools/statusgen">
+<map id="statusgen" name="statusgen">
 <area shape="rect" id="node1" href="dir_4a1bf911cca52c82ae081a83841d99ce.html" title="statusgen" alt="" coords="27,51,106,99"/>
 <area shape="rect" id="node2" href="dir_b029c1933000b647493fc184aa72bc64.html" title="src" alt="" coords="31,243,103,291"/>
-<area shape="rect" id="edge4-headlabel" href="dir_000228_000051.html" title="6" alt="" coords="38,216,45,230"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000160_000004.html" title="6" alt="" coords="38,216,45,230"/>
 <area shape="rect" id="node3" href="dir_4d5779bdd77c6190066b72c3b00f90fd.html" title="tools" alt="" coords="31,147,103,195"/>
-<area shape="rect" id="edge5-headlabel" href="dir_000228_000237.html" title="1" alt="" coords="71,121,79,135"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000160_000106.html" title="1" alt="" coords="71,121,79,135"/>
 <area shape="rect" id="node4" href="dir_a603158e195a33c353754615efb67653.html" title="plugins" alt="" coords="31,339,103,387"/>
-<area shape="rect" id="edge6-headlabel" href="dir_000228_000078.html" title="12" alt="" coords="98,322,113,336"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000051_000078.html" title="26" alt="" coords="59,313,73,326"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000237_000051.html" title="25" alt="" coords="68,217,83,231"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000078_000051.html" title="513" alt="" coords="56,303,78,316"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000160_000010.html" title="12" alt="" coords="98,322,113,336"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000004_000010.html" title="26" alt="" coords="59,313,73,326"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000106_000004.html" title="25" alt="" coords="68,217,83,231"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000010_000004.html" title="513" alt="" coords="56,303,78,316"/>
 <area shape="rect" id="clust1" href="dir_f8b07d401c41acbe95c449feaf900408.html" title="tools" alt="" coords="16,16,117,109"/>
 </map>

@@ -1,4 +1,0 @@
-<map id="catapult::utils::CircularBuffer::incrementNext" name="catapult::utils::CircularBuffer::incrementNext">
-<area shape="rect" id="node1" title=" " alt="" coords="268,12,421,51"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_circular_buffer.html#a1584a8c56b62a657515994576aa9e61b" title="Appends element to the end of the buffer, possibly overwriting existing elements." alt="" coords="5,5,220,57"/>
-</map>

@@ -1,0 +1,10 @@
+<map id="catapult::io::FileBlockStorage::loadBlockElement" name="catapult::io::FileBlockStorage::loadBlockElement">
+<area shape="rect" id="node1" title="Returns the block element (owning a block) at height." alt="" coords="5,27,199,65"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#a0200e956747fe7c916a641ce0c3ee4fc" title=" " alt="" coords="247,5,454,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a903aabd2ccf7ab0aeac660f3829d0130" title=" " alt="" coords="254,55,448,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a24e4e5ea5b7f0b2690a30e07fe27bdc5" title="Gets the number of blocks." alt="" coords="502,55,696,93"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1IndexFile.html#a47835027fd86fa37a1f5a0e265c5de55" title="true if the index file exists." alt="" coords="757,27,904,65"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1IndexFile.html#abf04a75491d6a2b7d696539703ea6711" title="Gets the index value." alt="" coords="744,89,917,115"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1io_1_1IndexFile.html#adad14744c9d6b1ba0f202fa803d6ec7f" title=" " alt="" coords="965,55,1113,93"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="969,117,1109,143"/>
+</map>

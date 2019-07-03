@@ -1,5 +1,0 @@
-<map id="catapult::cache::KeyAddressPairSerializer::SerializeValue" name="catapult::cache::KeyAddressPairSerializer::SerializeValue">
-<area shape="rect" id="node1" title="Serializes value to string." alt="" coords="5,37,198,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_string_output_stream.html#ae792084094766b643e1462ebee918dd0" title="Returns underlying string." alt="" coords="246,5,414,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_string_output_stream.html#ab3664984a1a9be0d757a0689973a1f4c" title=" " alt="" coords="246,68,414,107"/>
-</map>

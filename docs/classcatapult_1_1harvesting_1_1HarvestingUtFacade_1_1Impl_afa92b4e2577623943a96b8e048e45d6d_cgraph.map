@@ -1,0 +1,11 @@
+<map id="catapult::harvesting::HarvestingUtFacade::Impl::commit" name="catapult::harvesting::HarvestingUtFacade::Impl::commit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,156,221"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1HarvestingUtFacade_1_1Impl.html#ab6631b6c38ca3d9b7e42c6191d1aadc5" title=" " alt="" coords="235,5,385,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1BlockStatementBuilder.html#a082bbfb6f2e5feff2dbd321579000bd2" title="Builds a block statement." alt="" coords="204,81,416,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1model.html#a381b90947dfff379681769cfc6459190" title="Calculates the merkle hash for statement." alt="" coords="223,144,397,183"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1model.html#a832c1b78aeb20ec2066b2fff8ad4e69d" title="Calculates the fee for transaction contained in block with feeMultiplier." alt="" coords="223,207,397,245"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1harvesting_1_1HarvestingUtFacade_1_1Impl.html#a63bf5d72e0b6096c77dcca7a4aebc3ce" title=" " alt="" coords="235,269,385,321"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1model.html#ade6a487f01ddb3155f415b7a4876a558" title="Creates a new block by stitching together blockHeader and transactions." alt="" coords="217,345,402,371"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="480,207,650,245"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1CatapultCacheDetachableDelta.html#ac120f1475ced74467c6700ac908117f3" title="Gets the cache height associated with this delta." alt="" coords="464,276,666,315"/>
+</map>

@@ -1,4 +1,4 @@
 <map id="catapult::crypto::SecureZero" name="catapult::crypto::SecureZero">
 <area shape="rect" id="node1" title="Securely zeros out the memory backing the specified key." alt="" coords="5,12,194,37"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="242,5,407,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="242,5,407,44"/>
 </map>

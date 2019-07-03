@@ -1,6 +1,6 @@
 <map id="catapult::importance::FinalizeAccountActivity" name="catapult::importance::FinalizeAccountActivity">
 <area shape="rect" id="node1" title="Finalizes account activity information contained in buckets at height with specified importance." alt="" coords="5,37,170,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="218,5,388,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_activity_buckets.html#a6268e13ef35bf1a2f40e7286673921f3" title=" " alt="" coords="223,68,383,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_account_activity_buckets.html#a54dcddf8b6ee1f8f7247bf6541599006" title=" " alt="" coords="436,68,612,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="218,5,388,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1AccountActivityBuckets.html#a6268e13ef35bf1a2f40e7286673921f3" title=" " alt="" coords="223,68,383,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1AccountActivityBuckets.html#a54dcddf8b6ee1f8f7247bf6541599006" title=" " alt="" coords="436,68,612,107"/>
 </map>

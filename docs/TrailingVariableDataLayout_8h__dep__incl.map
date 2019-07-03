@@ -1,0 +1,17 @@
+<map id="TrailingVariableDataLayout.h" name="TrailingVariableDataLayout.h">
+<area shape="rect" id="node1" title=" " alt="" coords="240,5,432,31"/>
+<area shape="rect" id="node2" href="$PackedNodeInfo_8h.html" title=" " alt="" coords="194,79,325,104"/>
+<area shape="rect" id="node6" href="$CacheEntryInfo_8h.html" title=" " alt="" coords="350,79,474,104"/>
+<area shape="rect" id="node3" href="$RemoteDiagnosticApi_8h.html" title=" " alt="" coords="256,152,416,177"/>
+<area shape="rect" id="node5" href="$DiagnosticHandlers_8cpp.html" title=" " alt="" coords="70,152,232,177"/>
+<area shape="rect" id="node4" href="$RemoteDiagnosticApi_8cpp.html" title=" " alt="" coords="249,225,423,251"/>
+<area shape="rect" id="node7" href="$CacheEntryInfosProducerFactory_8h.html" title=" " alt="" coords="440,152,669,177"/>
+<area shape="rect" id="node8" href="$CacheHandlers_8h.html" title=" " alt="" coords="492,225,617,251"/>
+<area shape="rect" id="node9" href="$CoreSystem_8cpp.html" title=" " alt="" coords="5,299,125,324"/>
+<area shape="rect" id="node10" href="$HashLockPlugin_8cpp.html" title=" " alt="" coords="150,299,293,324"/>
+<area shape="rect" id="node11" href="$SecretLockPlugin_8cpp.html" title=" " alt="" coords="317,299,467,324"/>
+<area shape="rect" id="node12" href="$MosaicPlugin_8cpp.html" title=" " alt="" coords="492,299,618,324"/>
+<area shape="rect" id="node13" href="$MultisigPlugin_8cpp.html" title=" " alt="" coords="641,299,770,324"/>
+<area shape="rect" id="node14" href="$NamespacePlugin_8cpp.html" title=" " alt="" coords="793,299,948,324"/>
+<area shape="rect" id="node15" href="$AccountRestrictionPlugin_8cpp.html" title=" " alt="" coords="972,299,1167,324"/>
+</map>

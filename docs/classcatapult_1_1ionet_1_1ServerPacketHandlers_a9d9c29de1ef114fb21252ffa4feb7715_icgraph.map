@@ -1,0 +1,29 @@
+<map id="catapult::ionet::ServerPacketHandlers::registerHandler" name="catapult::ionet::ServerPacketHandlers::registerHandler">
+<area shape="rect" id="node1" title="Registers a handler for the specified packet type." alt="" coords="1027,684,1219,723"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1handlers.html#a5b754a30c4c7052ba0d86ea1d77d230f" title="Registers a block hashes handler in handlers that responds with at most maxHashes hashes in storage." alt="" coords="761,5,964,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1handlers.html#ad82d1a1dd820de1154831e20e946b611" title=" " alt="" coords="771,68,953,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1handlers.html#af20bdc260b52acc4cec65293be66338b" title="Registers a diagnostic block statement handler in handlers that responds with data from storage." alt="" coords="745,131,979,183"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1handlers.html#a5a3be996543a8c931bf002c6e65f8997" title="Registers a diagnostic counters handler in handlers that responds with the current values of counters..." alt="" coords="765,207,960,259"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1handlers.html#a869034c91b6fea9ea0a06eb23f0a4b20" title=" " alt="" coords="767,283,958,335"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1handlers.html#a9859f119383baa73c71e970a058996e7" title="Registers a node discovery push peers handler in handlers that forwards received nodes to nodesConsum..." alt="" coords="763,359,962,411"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1handlers.html#a8fe97c2f3f31ac6d7315c0fa5e20ee3c" title=" " alt="" coords="763,435,962,487"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1handlers_1_1BatchHandlerFactory.html#a5360a170b444ac13ab2aa1e32efc48a4" title=" " alt="" coords="785,511,939,563"/>
+<area shape="rect" id="node14" href="$namespacecatapult_1_1handlers.html#ad61d48391e9c34015380c1f2488f363b" title="Registers a pull block handler in handlers that responds with a block in storage." alt="" coords="772,587,952,625"/>
+<area shape="rect" id="node15" href="$namespacecatapult_1_1handlers.html#af651e412b9953a68bce40e7ea7fee7b7" title=" " alt="" coords="769,649,956,688"/>
+<area shape="rect" id="node16" href="$namespacecatapult_1_1handlers.html#ab32bb6e15b50ab746508c77f91d54ba9" title=" " alt="" coords="759,712,966,764"/>
+<area shape="rect" id="node17" href="$namespacecatapult_1_1handlers.html#acf2918a7d06e9017c2c7498ee6e8fe5b" title=" " alt="" coords="774,788,951,840"/>
+<area shape="rect" id="node18" href="$namespacecatapult_1_1handlers.html#a8415cb7bec12d9e2555180b292bf6bee" title=" " alt="" coords="768,864,956,903"/>
+<area shape="rect" id="node19" href="$namespacecatapult_1_1handlers.html#acd2bc9a2fc21f6622ba6695e8eafb4d7" title="Registers a push cosignatures handler in handlers that forwards cosignatures to cosignatureRangeHandl..." alt="" coords="769,927,956,979"/>
+<area shape="rect" id="node20" href="$namespacecatapult_1_1handlers.html#a454e4a2647f9f8356e45ed8a8e805b4f" title=" " alt="" coords="751,1003,974,1055"/>
+<area shape="rect" id="node21" href="$namespacecatapult_1_1handlers.html#a3e028b34b976d3d338c635c11482a45c" title=" " alt="" coords="770,1079,955,1131"/>
+<area shape="rect" id="node22" href="$namespacecatapult_1_1handlers.html#a93084a93e4e2b034fedd19e13a936875" title="Registers a handler in handlers that responds with serialized state path produced by querying cache." alt="" coords="771,1155,954,1193"/>
+<area shape="rect" id="node23" href="$namespacecatapult_1_1handlers.html#a768b08398c3d99389e6b36347a1aa3a0" title=" " alt="" coords="755,1217,970,1269"/>
+<area shape="rect" id="node24" href="$namespacecatapult_1_1handlers.html#aa5871c86abac460ce8226f3980ac3345" title="Registers a time sync network time handler in handlers that responds with communication timestamps us..." alt="" coords="755,1293,970,1345"/>
+<area shape="rect" id="node25" href="$classcatapult_1_1handlers_1_1BatchHandlerFactory.html#a8dd7f3922c5c00ff62cd27f7411658e0" title=" " alt="" coords="785,1369,939,1421"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1plugins_1_1CacheHandlers.html#aca9c9af2d7014381e87c9145a3b446cc" title="Registers all cache handlers in pluginManager for cache with specified facility code." alt="" coords="499,483,670,521"/>
+<area shape="rect" id="node11" href="$namespacecatapult_1_1handlers.html#a3fc5a86f62a6af6566aa4f5913158324" title=" " alt="" coords="482,545,687,597"/>
+<area shape="rect" id="node12" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="190,552,424,591"/>
+<area shape="rect" id="node13" href="$PluginManager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,559,142,584"/>
+<area shape="rect" id="node26" href="$namespacecatapult_1_1handlers.html#adf95e852bce73e9b6457e77cf10475cc" title="Registers a diagnostic nodes handler in handlers that responds with info about all (active) partner n..." alt="" coords="472,1341,697,1380"/>
+<area shape="rect" id="node27" href="$namespacecatapult_1_1handlers.html#a9d3a9bf6c1b6dc6dce0a39cb790c81f6" title="Registers a node discovery pull peers handler in handlers that responds with nodes from nodesSupplier..." alt="" coords="489,1404,680,1456"/>
+</map>

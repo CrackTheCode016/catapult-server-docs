@@ -1,0 +1,6 @@
+<map id="catapult::mongo::storages::detail::MongoElementFilter::GetCommonIds" name="catapult::mongo::storages::detail::MongoElementFilter::GetCommonIds">
+<area shape="rect" id="node1" title=" " alt="" coords="499,44,686,96"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1mongo_1_1storages_1_1detail_1_1MongoElementFilter.html#a829b3e075f1c05766bc9a990fad8474a" title="Filters all elements common to added elements (addedElements) and removed elements (removedElements)." alt="" coords="263,44,451,96"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a6be5f402245bd0f5735c38a84c088f1b" title="Saves cache changes to external storage." alt="" coords="5,5,215,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1storages_1_1MongoFlatCacheStorage.html#a208fb0e80d665422147e77cca92791ca" title="Saves cache changes to external storage." alt="" coords="22,81,199,133"/>
+</map>

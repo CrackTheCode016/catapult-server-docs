@@ -1,8 +1,0 @@
-<map id="catapult::extensions::BlockExtensions::calculateBlockTransactionsHash" name="catapult::extensions::BlockExtensions::calculateBlockTransactionsHash">
-<area shape="rect" id="node1" title=" " alt="" coords="696,69,882,121"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_block_extensions.html#af1c8dce2b63576bb357d3a3590d68d05" title=" " alt="" coords="440,31,648,83"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1extensions_1_1_block_extensions.html#a16e72b1e660f2cee5c9eebc852aff90f" title="Cryptographically verifies a full block by checking all signatures and hashes." alt="" coords="450,107,638,159"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_block_extensions.html#a5bc0495b0571c381f21380e516738393" title="Cryptographically signs a full block with signer." alt="" coords="213,31,392,83"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1tools_1_1nemgen.html#a4306ba3a656335b9a1db8e97bcc395a3" title="Creates a nemesis block according to config." alt="" coords="5,5,165,44"/>
-<area shape="rect" id="node5" href="$namespacecatapult_1_1tools_1_1nemgen.html#afcb8201dc3b3809c3ab0dee7ccc5c11f" title="Updates nemesis block according to config with executionHashesDescriptor." alt="" coords="5,68,165,107"/>
-</map>

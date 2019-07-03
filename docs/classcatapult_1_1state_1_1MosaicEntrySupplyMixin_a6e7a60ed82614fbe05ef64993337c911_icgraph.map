@@ -1,0 +1,5 @@
+<map id="catapult::state::MosaicEntrySupplyMixin::supply" name="catapult::state::MosaicEntrySupplyMixin::supply">
+<area shape="rect" id="node1" title="Gets the mosaic supply." alt="" coords="238,37,424,76"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1MosaicEntrySerializer.html#a84816d872bbad66674874ad83e1dca65" title="Saves entry to output." alt="" coords="5,5,190,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1mongo_1_1plugins.html#ac323a1fbb6d2f961220b582db762fba9" title="Maps a mosaic entry to the corresponding db model value." alt="" coords="15,68,181,107"/>
+</map>

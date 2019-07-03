@@ -1,0 +1,4 @@
+<map id="catapult::ionet::NodeContainerModifier" name="catapult::ionet::NodeContainerModifier">
+<area shape="rect" id="node1" title="A write only view on top of node container." alt="" coords="5,79,207,117"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="23,5,189,31"/>
+</map>

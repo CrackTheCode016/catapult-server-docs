@@ -1,4 +1,0 @@
-<map id="catapult::plugins::PluginManager::addTransactionSupport" name="catapult::plugins::PluginManager::addTransactionSupport">
-<area shape="rect" id="node1" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="5,5,215,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_plugin_registry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="263,12,468,51"/>
-</map>

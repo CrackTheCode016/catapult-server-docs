@@ -1,4 +1,4 @@
 <map id="catapult::observers::ShouldPrune" name="catapult::observers::ShouldPrune">
 <area shape="rect" id="node1" title="Returns true if context and pruneInterval indicate that pruning should be done." alt="" coords="5,5,139,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="187,5,357,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="187,5,357,44"/>
 </map>

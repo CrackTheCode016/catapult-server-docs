@@ -1,0 +1,7 @@
+<map id="catapult::extensions::LocalNodeChainScore::operator+=" name="catapult::extensions::LocalNodeChainScore::operator+=">
+<area shape="rect" id="node1" title="Adds rhs to this chain score." alt="" coords="5,33,167,85"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BasicSpinReaderWriterLock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="226,5,450,44"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1utils_1_1BasicSpinReaderWriterLock_1_1ReaderLockGuard.html#a97be4eaa0ee8f7c1af272273374ed1d7" title=" " alt="" coords="215,68,460,120"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BasicSpinReaderWriterLock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="548,5,714,44"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1utils_1_1BasicSpinReaderWriterLock_1_1ReaderLockGuard.html#a8da8c092faae2d96f21e6db32f573210" title=" " alt="" coords="508,68,753,120"/>
+</map>

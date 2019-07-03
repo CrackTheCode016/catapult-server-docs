@@ -1,0 +1,13 @@
+<map id="catapult::cache::RdbDataIterator::storage" name="catapult::cache::RdbDataIterator::storage">
+<area shape="rect" id="node1" title="Returns storage associated with iterator." alt="" coords="1041,85,1212,124"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1RdbDataIterator.html#ac1d8303ca69c0185d0d39a6c56f685d0" title="Returns storage as raw buffer." alt="" coords="788,21,959,60"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1RocksDatabase.html#a89e8e282f27387d7175b497ca1c0462a" title="Gets key from columnId returning data in result." alt="" coords="754,92,993,117"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1RdbColumnContainer.html#a8df70ceb2f945a5e8bbc87a9c0b925c5" title=" " alt="" coords="518,144,706,183"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1RdbTypedColumnContainer_1_1const__iterator.html#afbb6675e24d6c4054b7c010f7bc3791a" title="Returns reference to current element." alt="" coords="522,5,702,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1RdbTypedColumnContainer_1_1const__iterator.html#a7cc4218ffc773d443d74ddf7c43981f3" title="Returns pointer to current element." alt="" coords="273,5,452,57"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1RdbColumnContainer.html#a8feb66c641e17f73c63c395123768914" title="Finds element with key, storing result in iterator." alt="" coords="518,81,706,120"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1RdbColumnContainer.html#afed292aa2438157f8313fa1d278c408f" title=" " alt="" coords="268,112,457,151"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1RdbColumnContainer.html#a65171806eb18cb55af9e81263551efeb" title="Creates an adapter around database and columnId." alt="" coords="255,175,470,213"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1CachePatriciaTree_1_1Impl.html#acd10070462f217fb942c636bff537a8b" title=" " alt="" coords="5,81,207,120"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1CachePatriciaTree_1_1Impl.html#a301bed1452473032d4c697d6b0281536" title=" " alt="" coords="5,144,207,183"/>
+</map>

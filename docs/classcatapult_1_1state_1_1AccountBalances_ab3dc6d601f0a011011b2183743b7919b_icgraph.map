@@ -1,0 +1,5 @@
+<map id="catapult::state::AccountBalances::get" name="catapult::state::AccountBalances::get">
+<area shape="rect" id="node1" title="Returns amount of funds of a given mosaic (mosaicId)." alt="" coords="211,40,371,79"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1importance.html#a98c43cea34efca7214e5c566c2cc199b" title="Calculates stake and activity importances using context and config and stores resulting importances i..." alt="" coords="5,5,163,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1NemesisBlockLoader.html#ae785b9466a6087ffc7b14f505345abbb" title=" " alt="" coords="7,68,162,120"/>
+</map>

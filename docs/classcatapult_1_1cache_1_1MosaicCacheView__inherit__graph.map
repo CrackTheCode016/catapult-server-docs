@@ -1,0 +1,12 @@
+<map id="catapult::cache::MosaicCacheView" name="catapult::cache::MosaicCacheView">
+<area shape="rect" id="node1" title="View on top of the mosaic cache." alt="" coords="737,187,965,212"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="466,173,689,225"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicMosaicCacheView.html" title="Basic view on top of the mosaic cache." alt="" coords="224,180,418,219"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="8,5,174,31"/>
+<area shape="rect" id="node5" title=" " alt="" coords="7,55,175,93"/>
+<area shape="rect" id="node6" title=" " alt="" coords="7,117,175,156"/>
+<area shape="rect" id="node7" title=" " alt="" coords="7,180,175,219"/>
+<area shape="rect" id="node8" title=" " alt="" coords="7,243,175,281"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,305,176,344"/>
+<area shape="rect" id="node10" title=" " alt="" coords="7,368,175,407"/>
+</map>

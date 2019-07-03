@@ -1,0 +1,5 @@
+<map id="catapult::model::TransactionRegistry" name="catapult::model::TransactionRegistry">
+<area shape="rect" id="node1" title="A registry of transaction plugins." alt="" coords="21,179,209,217"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1TransactionRegistryT.html" title=" " alt="" coords="12,92,219,131"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1PluginRegistry.html" title=" " alt="" coords="5,5,225,44"/>
+</map>

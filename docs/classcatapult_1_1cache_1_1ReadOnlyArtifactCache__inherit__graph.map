@@ -1,0 +1,4 @@
+<map id="catapult::cache::ReadOnlyArtifactCache&lt; TCache, TCacheDelta, TKey, TValue &gt;" name="catapult::cache::ReadOnlyArtifactCache&lt; TCache, TCacheDelta, TKey, TValue &gt;">
+<area shape="rect" id="node1" title="A read&#45;only overlay on top of a cache that provides support for contains, get and isActive." alt="" coords="29,105,229,157"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ReadOnlySimpleCache.html" title="A read&#45;only overlay on top of a cache that provides support for contains." alt="" coords="5,5,253,57"/>
+</map>

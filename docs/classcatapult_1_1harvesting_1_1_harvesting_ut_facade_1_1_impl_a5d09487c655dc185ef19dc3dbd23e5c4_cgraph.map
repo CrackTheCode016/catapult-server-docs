@@ -1,7 +1,0 @@
-<map id="catapult::harvesting::HarvestingUtFacade::Impl::process" name="catapult::harvesting::HarvestingUtFacade::Impl::process">
-<area shape="rect" id="node1" title=" " alt="" coords="5,33,156,85"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#aab800752b52b32bcb5190ad5a15fdcb3" title=" " alt="" coords="204,5,369,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1harvesting_1_1_harvesting_ut_facade_1_1_impl.html#a63bf5d72e0b6096c77dcca7a4aebc3ce" title=" " alt="" coords="211,68,362,120"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="434,5,603,44"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_catapult_cache_detachable_delta.html#ac120f1475ced74467c6700ac908117f3" title="Gets the cache height associated with this delta." alt="" coords="417,75,620,113"/>
-</map>

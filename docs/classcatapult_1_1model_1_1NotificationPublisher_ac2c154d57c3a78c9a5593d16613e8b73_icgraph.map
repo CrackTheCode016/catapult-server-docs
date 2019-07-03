@@ -1,0 +1,12 @@
+<map id="catapult::model::NotificationPublisher::publish" name="catapult::model::NotificationPublisher::publish">
+<area shape="rect" id="node1" title="Sends all notifications from entityInfo to sub." alt="" coords="825,116,1010,155"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#ad4a6e1de16caa759307eba58f337f646" title="Extracts all addresses that are involved in transaction using notificationPublisher." alt="" coords="579,84,740,123"/>
+<area shape="rect" id="node10" href="$namespacecatapult_1_1unbondedpruning.html#a0ad330bfa81eed496b0f2ecf97894ee3" title=" " alt="" coords="542,147,777,185"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1addressextraction_1_1AddressExtractor.html#a1ca307990b3a214c968cfc88981e9079" title="Extracts transaction addresses into transactionInfo." alt="" coords="314,37,494,76"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1zeromq_1_1ZeroMqEntityPublisher.html#a4e69c4c256a9df1f12d487a870c68b35" title=" " alt="" coords="317,131,491,169"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1addressextraction_1_1AddressExtractor.html#a9051c51ded5c4a727c2f713b0c1c067c" title="Extracts transaction addresses into transactionInfos." alt="" coords="45,5,226,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1zeromq_1_1ZeroMqEntityPublisher.html#aae4d308e4464bcfad8e61b3b2a791107" title="Publishes a cosignature composed of transaction info (parentTransactionInfo), signer and signature." alt="" coords="20,68,251,107"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1zeromq_1_1ZeroMqEntityPublisher.html#a36f7e1fd30e160aef42930959b11e951" title=" " alt="" coords="21,131,250,169"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1zeromq_1_1ZeroMqEntityPublisher.html#aaab904e12d8347b600d45c1f01ca830e" title="Publishes a transaction hash using topicMarker and transactionInfo." alt="" coords="5,193,266,232"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1zeromq_1_1ZeroMqEntityPublisher.html#a90cb87c565aa50207f3be2f2e88db97f" title="Publishes a transaction status composed of transaction, hash and status." alt="" coords="21,256,250,308"/>
+</map>

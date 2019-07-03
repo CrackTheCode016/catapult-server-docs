@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['depschecker',['DepsChecker',['../namespace_deps_checker.html',1,'']]]
+  ['depschecker',['DepsChecker',['../namespaceDepsChecker.html',1,'']]]
 ];

@@ -1,13 +1,13 @@
 <map id="catapult::subscribers::ReadNextUtChange" name="catapult::subscribers::ReadNextUtChange">
 <area shape="rect" id="node1" title="Reads next unconfirmed transactions change from inputStream and forwards it to subscriber." alt="" coords="5,96,153,135"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_ut_change_subscriber.html#a625cc26581845045d2c85dbf4b29fd8c" title="Indicates transaction infos (transactionInfos) were added to unconfirmed transactions." alt="" coords="209,5,388,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_ut_change_subscriber.html#a41632fa68e0b4744fcf3219596a334a5" title="Indicates transaction infos (transactionInfos) were removed from unconfirmed transactions." alt="" coords="208,68,389,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1UtChangeSubscriber.html#a625cc26581845045d2c85dbf4b29fd8c" title="Indicates transaction infos (transactionInfos) were added to unconfirmed transactions." alt="" coords="209,5,388,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1UtChangeSubscriber.html#a41632fa68e0b4744fcf3219596a334a5" title="Indicates transaction infos (transactionInfos) were removed from unconfirmed transactions." alt="" coords="208,68,389,107"/>
 <area shape="rect" id="node4" href="$namespacecatapult_1_1io.html#aac66f8080fea9c0e50ef9d8665f3a098" title="Reads value from input." alt="" coords="232,131,365,156"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1io.html#a43a5c3645513ec683a7e989179d668ee" title="Reads transaction infos from inputStream into transactionInfos." alt="" coords="201,180,396,219"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1io.html#acf81a286806cb47a476bf4e9e8b5dd65" title="Reads value from input." alt="" coords="482,161,622,187"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1io.html#ac618db7fb4512e43871c11b0a32b6b25" title="Reads transaction info from inputStream into transactionInfo." alt="" coords="444,211,660,236"/>
-<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="709,113,874,152"/>
-<area shape="rect" id="node9" href="$classcatapult_1_1io_1_1_input_stream.html#aa10d1d3d15ae047bdc5e91947a405936" title=" " alt="" coords="708,176,874,215"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1ByteArray.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="709,113,874,152"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1io_1_1InputStream.html#aa10d1d3d15ae047bdc5e91947a405936" title=" " alt="" coords="708,176,874,215"/>
 <area shape="rect" id="node10" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="721,239,861,264"/>
-<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1_byte_array.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="709,288,874,327"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1ByteArray.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="709,288,874,327"/>
 </map>

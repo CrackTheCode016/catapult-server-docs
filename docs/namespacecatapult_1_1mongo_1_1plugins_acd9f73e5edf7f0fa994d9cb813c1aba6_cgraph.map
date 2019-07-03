@@ -1,8 +1,8 @@
 <map id="catapult::mongo::plugins::ToDbModel" name="catapult::mongo::plugins::ToDbModel">
 <area shape="rect" id="node1" title="Maps a namespace descriptor to the corresponding db model value." alt="" coords="5,100,171,139"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1mongo_1_1plugins_1_1_namespace_descriptor.html#a2b8ee0a5e5ab3de155eff973099517f8" title="Returns true if the described namespace is a root namespace." alt="" coords="219,5,426,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1mongo_1_1plugins_1_1NamespaceDescriptor.html#a2b8ee0a5e5ab3de155eff973099517f8" title="Returns true if the described namespace is a root namespace." alt="" coords="219,5,426,44"/>
 <area shape="rect" id="node4" href="$namespacecatapult.html#a067e324878b4ac5285fe60bf3278f298" title="Base id for namespaces." alt="" coords="249,68,396,107"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1mongo_1_1mappers.html#abe995238cacf9b478fd4c7eb08357792" title="Converts raw array (pData) of size elements into bson binary type." alt="" coords="235,131,410,169"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1mongo_1_1mappers.html#aa06da8a74993f2239f74f4e43014edd6" title="Converts base value to int64_t." alt="" coords="235,193,410,232"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_checked_array.html#a72226b5c3d67892663ae0cff57dd6c46" title="Gets the size of the array." alt="" coords="474,5,633,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1CheckedArray.html#a72226b5c3d67892663ae0cff57dd6c46" title="Gets the size of the array." alt="" coords="474,5,633,44"/>
 </map>

@@ -1,6 +1,6 @@
 <map id="catapult::deltaset::MakeIterableView" name="catapult::deltaset::MakeIterableView">
 <area shape="rect" id="node1" title=" " alt="" coords="5,68,140,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1deltaset_1_1_base_set_delta.html#add8b2ab108ccc14495ba9affee709b58" title="Gets const references to the pending modifications." alt="" coords="188,5,341,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1deltaset_1_1BaseSetDelta.html#add8b2ab108ccc14495ba9affee709b58" title="Gets const references to the pending modifications." alt="" coords="188,5,341,44"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1deltaset.html#a4609bfdf625079fb72a8ce99599155c5" title="Selects the iterable set from set." alt="" coords="199,68,330,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1deltaset_1_1_base_set_delta.html#a7ee0940511f722bd2a3e5acf8f71bcc7" title="Gets the size of this set." alt="" coords="194,131,335,169"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1deltaset_1_1BaseSetDelta.html#a7ee0940511f722bd2a3e5acf8f71bcc7" title="Gets the size of this set." alt="" coords="194,131,335,169"/>
 </map>

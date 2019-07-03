@@ -1,4 +1,0 @@
-<map id="catapult::ionet::NodeInteractionsContainer::incrementSuccesses" name="catapult::ionet::NodeInteractionsContainer::incrementSuccesses">
-<area shape="rect" id="node1" title="Increments successful interactions at timestamp." alt="" coords="219,5,432,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1_node_info.html#a26df43ec363ec42464c06840617275fd" title="Increments the number of successful interactions at timestamp." alt="" coords="5,5,171,44"/>
-</map>

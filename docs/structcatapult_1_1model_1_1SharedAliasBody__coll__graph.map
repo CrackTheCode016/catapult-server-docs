@@ -1,0 +1,9 @@
+<map id="catapult::model::SharedAliasBody&lt; THeader &gt;" name="catapult::model::SharedAliasBody&lt; THeader &gt;">
+<area shape="rect" id="node1" title="Binary layout for an alias transaction body." alt="" coords="1101,27,1292,65"/>
+<area shape="rect" id="node2" title=" " alt="" coords="826,5,900,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="759,55,967,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="507,41,710,107"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1NamespaceId__tag.html" title="Namespace identifier." alt="" coords="221,33,405,59"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="229,83,397,121"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,89,172,115"/>
+</map>

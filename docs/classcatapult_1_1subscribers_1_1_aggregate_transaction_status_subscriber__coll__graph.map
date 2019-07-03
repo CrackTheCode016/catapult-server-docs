@@ -1,5 +1,0 @@
-<map id="catapult::subscribers::AggregateTransactionStatusSubscriber&lt; TTransactionStatusSubscriber &gt;" name="catapult::subscribers::AggregateTransactionStatusSubscriber&lt; TTransactionStatusSubscriber &gt;">
-<area shape="rect" id="node1" title="Aggregate transaction status subscriber." alt="" coords="276,40,563,92"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_basic_aggregate_subscriber.html" title=" " alt="" coords="5,5,228,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1subscribers_1_1_transaction_status_subscriber.html" title="Transaction status subscriber." alt="" coords="17,81,217,120"/>
-</map>

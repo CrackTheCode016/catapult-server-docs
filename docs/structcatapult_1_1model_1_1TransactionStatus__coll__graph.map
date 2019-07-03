@@ -1,0 +1,10 @@
+<map id="catapult::model::TransactionStatus" name="catapult::model::TransactionStatus">
+<area shape="rect" id="node1" title="A transaction status." alt="" coords="1050,39,1238,77"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="728,5,945,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1Hash256__tag.html" title=" " alt="" coords="508,11,663,36"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="741,69,932,108"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="492,60,678,125"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1Timestamp__tag.html" title=" " alt="" coords="222,52,389,77"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,101,390,140"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,108,172,133"/>
+</map>

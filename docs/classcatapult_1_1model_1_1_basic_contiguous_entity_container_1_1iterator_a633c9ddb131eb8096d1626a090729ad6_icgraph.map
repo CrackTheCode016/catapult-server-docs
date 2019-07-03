@@ -1,8 +1,0 @@
-<map id="catapult::model::BasicContiguousEntityContainer::iterator::isEnd" name="catapult::model::BasicContiguousEntityContainer::iterator::isEnd">
-<area shape="rect" id="node1" title=" " alt="" coords="540,92,759,131"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#aaa2f76f12b3a1de04cda6b53ece808eb" title=" " alt="" coords="273,21,492,73"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#abb452b0764fd271ac684a70f2be3c9db" title="Advances the iterator to the next position." alt="" coords="5,81,225,133"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#a1b856cec3fd0c2daf9a771d9feb17ce9" title="Returns a pointer to the current entity." alt="" coords="273,152,492,204"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#af3ffc9702bc00e3d2457f74377fb7dc0" title="Creates an iterator around pStart and state with specified current position (pCurrent)." alt="" coords="5,5,225,57"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html#a3d89905587edb90b0a3e855d997eba18" title="Returns a reference to the current entity." alt="" coords="5,157,225,209"/>
-</map>

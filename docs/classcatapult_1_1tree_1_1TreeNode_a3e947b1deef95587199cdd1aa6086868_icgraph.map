@@ -1,0 +1,10 @@
+<map id="catapult::tree::TreeNode::asBranchNode" name="catapult::tree::TreeNode::asBranchNode">
+<area shape="rect" id="node1" title="Gets a branch node interface to this node." alt="" coords="544,236,709,275"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1PatriciaTree.html#a716e1a11c4bf41eac444126b6543914d" title=" " alt="" coords="237,5,496,71"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1PatriciaTree.html#a6ee10f7fa5406b40ee5a21e672904ea6" title=" " alt="" coords="237,95,496,160"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1PatriciaTree.html#ae202523ae31e404037ecd5c57a890779" title=" " alt="" coords="237,184,496,249"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1tree_1_1PatriciaTreeSerializer.html#a6791a0c328e64eb8df0b4f4efcdc4988" title="Serializes value to string." alt="" coords="269,273,464,312"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1tree_1_1PatriciaTree.html#a128da184199fa59afe13a53f8abdd0b1" title=" " alt="" coords="237,336,496,401"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1tree_1_1PatriciaTree.html#a3a504798d0164aa1db3d706278102120" title=" " alt="" coords="237,425,496,491"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1handlers.html#a93084a93e4e2b034fedd19e13a936875" title="Registers a handler in handlers that responds with serialized state path produced by querying cache." alt="" coords="5,273,189,312"/>
+</map>

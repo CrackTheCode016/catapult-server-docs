@@ -1,7 +1,0 @@
-<map id="catapult::model::EntityRange::begin" name="catapult::model::EntityRange::begin">
-<area shape="rect" id="node1" title="Returns a const iterator that represents the first entity." alt="" coords="245,100,437,139"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_entity_range.html#a04b0a3c77ebc46e42c280d0ddb6f185c" title="Returns an iterator that represents the first entity." alt="" coords="5,5,197,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_entity_range.html#aaeff83a0ccd3145eb7f1a1383e41c60e" title=" " alt="" coords="5,68,197,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_memory_ut_cache_view.html#a15a55501e0608fa12623c92bbd565dc2" title=" " alt="" coords="11,131,191,169"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_memory_pt_cache_view.html#a2674739c52ce43d044019f3a00bcc9d6" title=" " alt="" coords="8,193,195,232"/>
-</map>

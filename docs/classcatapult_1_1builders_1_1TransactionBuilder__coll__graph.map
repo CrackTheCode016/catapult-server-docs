@@ -1,0 +1,13 @@
+<map id="catapult::builders::TransactionBuilder" name="catapult::builders::TransactionBuilder">
+<area shape="rect" id="node1" title="Base transaction builder." alt="" coords="1038,72,1178,111"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="740,5,905,44"/>
+<area shape="rect" id="node3" title=" " alt="" coords="560,9,611,35"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="738,72,908,111"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="500,59,670,124"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1Amount__tag.html" title=" " alt="" coords="232,63,379,88"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,116,390,155"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="492,148,678,213"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,123,172,148"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="728,141,918,180"/>
+<area shape="rect" id="node11" href="$structcatapult_1_1Timestamp__tag.html" title=" " alt="" coords="222,184,389,209"/>
+</map>

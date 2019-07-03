@@ -1,7 +1,0 @@
-<map id="catapult::state::CompactArrayStack::end" name="catapult::state::CompactArrayStack::end">
-<area shape="rect" id="node1" title="Returns a const iterator to the element following the last element of the underlying container." alt="" coords="234,100,399,139"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_importance_snapshots.html#ad0084ce0bfdbf50997dc413e9913a01d" title="Returns a const iterator to the element following the last element of the underlying container." alt="" coords="5,5,186,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_activity_buckets.html#a0dc61f3fc3d292fdbe39ec20134c7ac2" title="Returns a const iterator to the element following the last element of the underlying container." alt="" coords="16,68,176,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_account_importance_snapshots.html#a59b7e9693b4f0ebb2c6036cb8ca64b7d" title="Gets the importance of the account at height." alt="" coords="7,131,184,169"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_account_activity_buckets.html#a6be50d052e325991f5e3032b28a32d2c" title="Gets activity bucket at height." alt="" coords="16,193,176,232"/>
-</map>

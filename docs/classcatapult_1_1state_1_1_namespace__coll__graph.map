@@ -1,7 +1,0 @@
-<map id="catapult::state::Namespace" name="catapult::state::Namespace">
-<area shape="rect" id="node1" title="A catapult namespace." alt="" coords="27,395,210,420"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_checked_array.html" title=" " alt="" coords="5,281,231,333"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_base_value.html" title="Immutable wrapper for basic types, to provide some type&#45;safety." alt="" coords="33,181,203,220"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="11,80,225,132"/>
-<area shape="rect" id="node5" title=" " alt="" coords="93,5,144,31"/>
-</map>

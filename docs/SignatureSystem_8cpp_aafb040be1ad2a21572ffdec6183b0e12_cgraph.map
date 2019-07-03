@@ -1,0 +1,6 @@
+<map id="RegisterSubsystem" name="RegisterSubsystem">
+<area shape="rect" id="node1" title="Entry point for registering a dynamic module with manager." alt="" coords="5,53,142,79"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#af74c9a1b590bb640824abe8bae60b051" title="Registers the signature verification system with manager." alt="" coords="190,47,363,85"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1PluginManager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="411,5,606,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1plugins_1_1PluginManager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="432,81,586,120"/>
+</map>

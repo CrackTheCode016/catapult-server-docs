@@ -1,0 +1,5 @@
+<map id="catapult::cache::HashCacheStorage::Save" name="catapult::cache::HashCacheStorage::Save">
+<area shape="rect" id="node1" title="Saves timestampedHash to output." alt="" coords="5,27,193,65"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#ade1752d622508047d91aca700d05aa1c" title="Writes base value into output." alt="" coords="267,5,392,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1OutputStream.html#a8f7566bae8036ce924dae00bc3b6cd69" title=" " alt="" coords="241,55,418,93"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="catapult&#45;server/src/catapult/utils/ThrottleLogger.h" name="catapult&#45;server/src/catapult/utils/ThrottleLogger.h">
-<area shape="rect" id="node1" title=" " alt="" coords="344,5,544,44"/>
-<area shape="rect" id="node2" href="$_batch_peers_requestor_8cpp.html" title=" " alt="" coords="5,92,296,131"/>
-<area shape="rect" id="node3" href="$_remote_api_forwarder_8h.html" title=" " alt="" coords="320,92,568,131"/>
-<area shape="rect" id="node7" href="$_packet_writers_8cpp.html" title=" " alt="" coords="592,92,798,131"/>
-<area shape="rect" id="node4" href="$_synchronizer_task_callbacks_8h.html" title=" " alt="" coords="345,179,544,231"/>
-<area shape="rect" id="node5" href="$_pt_service_8cpp.html" title=" " alt="" coords="256,279,433,331"/>
-<area shape="rect" id="node6" href="$_sync_service_8cpp.html" title=" " alt="" coords="457,285,634,324"/>
-</map>

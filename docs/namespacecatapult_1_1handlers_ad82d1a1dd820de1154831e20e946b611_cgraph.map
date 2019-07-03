@@ -1,5 +1,5 @@
 <map id="catapult::handlers::RegisterChainInfoHandler" name="catapult::handlers::RegisterChainInfoHandler">
 <area shape="rect" id="node1" title=" " alt="" coords="5,5,187,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_server_packet_handlers.html#a9d9c29de1ef114fb21252ffa4feb7715" title="Registers a handler for the specified packet type." alt="" coords="235,5,427,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1ServerPacketHandlers.html#a9d9c29de1ef114fb21252ffa4feb7715" title="Registers a handler for the specified packet type." alt="" coords="235,5,427,44"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="475,5,598,44"/>
 </map>

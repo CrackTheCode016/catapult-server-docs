@@ -1,0 +1,7 @@
+<map id="catapult::state::MosaicEntrySerializer::Save" name="catapult::state::MosaicEntrySerializer::Save">
+<area shape="rect" id="node1" title="Saves entry to output." alt="" coords="5,100,190,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1MosaicEntry.html#abb8e815612915e44219b0a20fe61b6dc" title="Gets the mosaic definition." alt="" coords="238,5,424,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1MosaicEntry.html#a8d8f0a9b3d39b894177c75d16b149ac3" title="Gets the mosaic id." alt="" coords="238,68,424,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1MosaicEntrySupplyMixin.html#a6e7a60ed82614fbe05ef64993337c911" title="Gets the mosaic supply." alt="" coords="238,131,424,169"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1io.html#ade1752d622508047d91aca700d05aa1c" title="Writes base value into output." alt="" coords="269,193,393,219"/>
+</map>

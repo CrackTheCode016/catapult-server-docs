@@ -1,0 +1,6 @@
+<map id="catapult::utils::SpinLock::try_lock" name="catapult::utils::SpinLock::try_lock">
+<area shape="rect" id="node1" title="Attempts to acquire the lock for the current execution agent without blocking." alt="" coords="406,37,567,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1SpinLock.html#aa6ad35c2de2aa317b541e403984918b8" title="Blocks until a lock can be obtained for the current execution agent." alt="" coords="196,5,358,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1FileLock.html#a3229c901deca60fd1fc01fee1acb2885" title="Attempts to acquire the lock for the current execution agent without blocking." alt="" coords="205,68,348,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1FileLock.html#afbeadcb53fd04c6712a5cc164c716589" title="Blocks until a lock can be obtained for the current execution agent." alt="" coords="5,68,148,107"/>
+</map>

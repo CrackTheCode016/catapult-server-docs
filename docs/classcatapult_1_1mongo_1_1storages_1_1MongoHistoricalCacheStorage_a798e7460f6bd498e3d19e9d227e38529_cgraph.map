@@ -1,0 +1,10 @@
+<map id="catapult::mongo::storages::MongoHistoricalCacheStorage::insertAll" name="catapult::mongo::storages::MongoHistoricalCacheStorage::insertAll">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,215,145"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1mongo_1_1BulkWriteResult.html#a88e29eb2967966eb93dbd20c9cdd073c" title="Aggregates all bulk write results in results into a single result." alt="" coords="270,5,450,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1MongoBulkWriter.html#aef79d52dea0b247574d6cb7a2324f734" title=" " alt="" coords="265,68,455,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1MongoErrorPolicy.html#af1769a7aabb0ba8b7dde184e704d0145" title="Checks that result indicates exactly numExpected insertions occurred given itemsDescription." alt="" coords="263,131,457,169"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1thread.html#a252c94a37592f2f8d09811bb3701824b" title=" " alt="" coords="280,193,440,219"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1MongoErrorPolicy.html#a8ff7a69853f6b4bca718777feb9e455d" title=" " alt="" coords="505,68,722,107"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1mongo_1_1mappers.html#a457dc107fff0b5b5c87e00ff11b3e27c" title="Converts a 32 bit signed value to a 32 bit unsigned value." alt="" coords="526,131,701,169"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1thread_1_1future.html#a4ee696b8a99dca0ab6dc757e88e2d44b" title="Returns the result of this future and blocks until the result is available." alt="" coords="523,193,704,219"/>
+</map>

@@ -1,8 +1,0 @@
-<map id="catapult::config::InflationConfiguration::LoadFromBag" name="catapult::config::InflationConfiguration::LoadFromBag">
-<area shape="rect" id="node1" title="Loads an inflation configuration from bag." alt="" coords="5,131,198,169"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_inflation_calculator.html#ae5ba7a767f56014ad2e52652a41e7d07" title="Adds inflation of amount starting at height." alt="" coords="256,5,422,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_configuration_bag.html#a56cc68ffa582740fcc5f47050475e9e3" title="Gets all section properties from this bag preserving source order." alt="" coords="246,68,432,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_inflation_calculator.html#a0c2db9540d2711f93de9ee58451e0fb3" title="Gets the number of inflation entries." alt="" coords="256,131,422,169"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_configuration_bag.html#a0f43155a38e4cad0ca8383306c38c562" title="Returns the number of properties in this bag." alt="" coords="480,217,666,256"/>
-<area shape="rect" id="node6" href="$namespacecatapult_1_1utils.html#ac7459f500db81f130e507ce1366e8a65" title="Verifies that the number of properties in bag is no greater than expectedSize." alt="" coords="257,245,421,284"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="catapult::validators::ActiveMosaicView" name="catapult::validators::ActiveMosaicView">
-<area shape="rect" id="node1" title="A view on top of a catapult cache cache for retrieving active mosaics." alt="" coords="26,105,162,144"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_read_only_catapult_cache.html" title="A read&#45;only overlay on top of a catapult cache." alt="" coords="5,5,183,44"/>
-</map>

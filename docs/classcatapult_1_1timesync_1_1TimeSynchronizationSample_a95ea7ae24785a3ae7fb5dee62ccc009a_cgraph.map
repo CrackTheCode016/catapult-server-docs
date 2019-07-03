@@ -1,0 +1,6 @@
+<map id="catapult::timesync::TimeSynchronizationSample::duration" name="catapult::timesync::TimeSynchronizationSample::duration">
+<area shape="rect" id="node1" title="Gets the duration of the complete cycle." alt="" coords="5,5,203,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1TimeSpan.html#a592c24dc4e583cb85039154821a6912e" title="Creates a time span from the difference between start and end." alt="" coords="251,12,418,51"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1TimeSpan.html#a14789d6cac33667820722add65f0f8ad" title="Creates a time span from the given number of milliseconds." alt="" coords="466,12,633,51"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1TimeSpan.html#abed2663576b21626ff234f40ceffe563" title="Creates a default (zero) time span." alt="" coords="681,12,848,51"/>
+</map>

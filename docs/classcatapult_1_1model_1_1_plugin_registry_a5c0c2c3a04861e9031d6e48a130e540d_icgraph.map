@@ -1,9 +1,0 @@
-<map id="catapult::model::PluginRegistry::findPlugin" name="catapult::model::PluginRegistry::findPlugin">
-<area shape="rect" id="node1" title="Finds the plugin corresponding to type or nullptr if none is registered." alt="" coords="541,157,746,196"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_block_extensions.html#af635c2e7b94d7533056881f5d7062469" title=" " alt="" coords="261,5,493,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1model.html#a08935d2bd96a2131222d773589f88811" title=" " alt="" coords="289,68,464,107"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1model.html#a2988697fd50450a7f6f293538b44ccef" title=" " alt="" coords="5,104,213,129"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1_plugin_registry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="272,183,481,235"/>
-<area shape="rect" id="node6" href="$namespacecatapult_1_1mongo_1_1mappers.html#a9dc3a85ecdc73bcbd3e1655b886cdc3b" title="Streams a receipt into builder using receiptRegistry for mapping derived receipt types." alt="" coords="289,259,464,297"/>
-<area shape="rect" id="node7" href="$namespacecatapult_1_1mongo_1_1mappers.html#a19f69e972feb743c80154f2214c21564" title=" " alt="" coords="289,321,464,360"/>
-</map>

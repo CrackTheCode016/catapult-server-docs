@@ -1,0 +1,5 @@
+<map id="catapult::mongo::MongoErrorPolicy::checkInserted" name="catapult::mongo::MongoErrorPolicy::checkInserted">
+<area shape="rect" id="node1" title="Checks that result indicates exactly numExpected insertions occurred given itemsDescription." alt="" coords="520,12,715,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a798e7460f6bd498e3d19e9d227e38529" title=" " alt="" coords="263,5,472,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a6be5f402245bd0f5735c38a84c088f1b" title="Saves cache changes to external storage." alt="" coords="5,5,215,57"/>
+</map>

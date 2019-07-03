@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.16"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>CatapultServer: catapult-server/src/catapult/exceptions.h File Reference</title>
+<title>CatapultServer: exceptions.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -96,54 +96,45 @@ $(document).ready(function(){initNavTree('exceptions_8h.html','');});
 <div class="title">exceptions.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="_base_value_8h_source.html">utils/BaseValue.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_hex_formatter_8h_source.html">utils/HexFormatter.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_logging_8h_source.html">utils/Logging.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_non_copyable_8h_source.html">utils/NonCopyable.h</a>&quot;</code><br />
-<code>#include &lt;boost/exception/exception.hpp&gt;</code><br />
-<code>#include &lt;boost/exception/info.hpp&gt;</code><br />
-<code>#include &lt;boost/throw_exception.hpp&gt;</code><br />
-<code>#include &lt;atomic&gt;</code><br />
-<code>#include &lt;exception&gt;</code><br />
-</div><div class="textblock"><div class="dynheader">
+<div class="textblock"><div class="dynheader">
 Include dependency graph for exceptions.h:</div>
 <div class="dyncontent">
-<div class="center"><img src="exceptions_8h__incl.png" border="0" usemap="#catapult-server_2src_2catapult_2exceptions_8h" alt=""/></div>
-<map name="catapult-server_2src_2catapult_2exceptions_8h" id="catapult-server_2src_2catapult_2exceptions_8h">
-<area shape="rect" title=" " alt="" coords="629,5,779,44"/>
-<area shape="rect" href="_base_value_8h.html" title=" " alt="" coords="264,485,387,511"/>
-<area shape="rect" href="_non_copyable_8h.html" title=" " alt="" coords="50,632,163,657"/>
-<area shape="rect" href="_hex_formatter_8h.html" title=" " alt="" coords="270,252,410,277"/>
-<area shape="rect" href="_logging_8h.html" title=" " alt="" coords="472,92,579,117"/>
-<area shape="rect" title=" " alt="" coords="603,92,805,117"/>
-<area shape="rect" title=" " alt="" coords="829,92,995,117"/>
-<area shape="rect" title=" " alt="" coords="1019,92,1200,117"/>
-<area shape="rect" title=" " alt="" coords="1223,92,1284,117"/>
-<area shape="rect" title=" " alt="" coords="1307,92,1386,117"/>
-<area shape="rect" href="_immutable_value_8h.html" title=" " alt="" coords="144,559,272,584"/>
-<area shape="rect" title=" " alt="" coords="296,559,355,584"/>
-<area shape="rect" title=" " alt="" coords="379,559,431,584"/>
-<area shape="rect" href="_stream_format_guard_8h.html" title=" " alt="" coords="93,325,248,351"/>
-<area shape="rect" href="_traits_8h.html" title=" " alt="" coords="526,325,624,351"/>
-<area shape="rect" title=" " alt="" coords="271,325,323,351"/>
-<area shape="rect" title=" " alt="" coords="348,325,420,351"/>
-<area shape="rect" title=" " alt="" coords="445,325,502,351"/>
-<area shape="rect" title=" " alt="" coords="145,405,213,431"/>
-<area shape="rect" href="_clamped_base_value_8h.html" title=" " alt="" coords="282,399,465,437"/>
-<area shape="rect" title=" " alt="" coords="533,405,616,431"/>
-<area shape="rect" href="_path_utils_8h.html" title=" " alt="" coords="1392,172,1478,197"/>
-<area shape="rect" title=" " alt="" coords="144,165,278,204"/>
-<area shape="rect" title=" " alt="" coords="301,172,432,197"/>
-<area shape="rect" title=" " alt="" coords="456,165,595,204"/>
-<area shape="rect" title=" " alt="" coords="619,165,784,204"/>
-<area shape="rect" title=" " alt="" coords="807,165,993,204"/>
-<area shape="rect" title=" " alt="" coords="1017,172,1153,197"/>
-<area shape="rect" title=" " alt="" coords="1177,172,1367,197"/>
-<area shape="rect" href="_raw_buffer_8h.html" title=" " alt="" coords="1096,252,1190,277"/>
-<area shape="rect" title=" " alt="" coords="1244,325,1313,351"/>
-<area shape="rect" title=" " alt="" coords="985,325,1039,351"/>
-<area shape="rect" title=" " alt="" coords="1063,325,1132,351"/>
-<area shape="rect" title=" " alt="" coords="1156,325,1220,351"/>
+<div class="center"><img src="exceptions_8h__incl.png" border="0" usemap="#exceptions_8h" alt=""/></div>
+<map name="exceptions_8h" id="exceptions_8h">
+<area shape="rect" title=" " alt="" coords="656,5,752,31"/>
+<area shape="rect" href="BaseValue_8h.html" title=" " alt="" coords="264,472,387,497"/>
+<area shape="rect" href="NonCopyable_8h.html" title=" " alt="" coords="50,619,163,644"/>
+<area shape="rect" href="HexFormatter_8h.html" title=" " alt="" coords="270,239,410,264"/>
+<area shape="rect" href="Logging_8h.html" title=" " alt="" coords="472,79,579,104"/>
+<area shape="rect" title=" " alt="" coords="603,79,805,104"/>
+<area shape="rect" title=" " alt="" coords="829,79,995,104"/>
+<area shape="rect" title=" " alt="" coords="1019,79,1200,104"/>
+<area shape="rect" title=" " alt="" coords="1223,79,1284,104"/>
+<area shape="rect" title=" " alt="" coords="1307,79,1386,104"/>
+<area shape="rect" href="ImmutableValue_8h.html" title=" " alt="" coords="144,545,272,571"/>
+<area shape="rect" title=" " alt="" coords="296,545,355,571"/>
+<area shape="rect" title=" " alt="" coords="379,545,431,571"/>
+<area shape="rect" href="StreamFormatGuard_8h.html" title=" " alt="" coords="93,312,248,337"/>
+<area shape="rect" href="Traits_8h.html" title=" " alt="" coords="526,312,624,337"/>
+<area shape="rect" title=" " alt="" coords="271,312,323,337"/>
+<area shape="rect" title=" " alt="" coords="348,312,420,337"/>
+<area shape="rect" title=" " alt="" coords="445,312,502,337"/>
+<area shape="rect" title=" " alt="" coords="145,392,213,417"/>
+<area shape="rect" href="ClampedBaseValue_8h.html" title=" " alt="" coords="282,385,465,424"/>
+<area shape="rect" title=" " alt="" coords="533,392,616,417"/>
+<area shape="rect" href="PathUtils_8h.html" title=" " alt="" coords="1392,159,1478,184"/>
+<area shape="rect" title=" " alt="" coords="144,152,278,191"/>
+<area shape="rect" title=" " alt="" coords="301,159,432,184"/>
+<area shape="rect" title=" " alt="" coords="456,152,595,191"/>
+<area shape="rect" title=" " alt="" coords="619,152,784,191"/>
+<area shape="rect" title=" " alt="" coords="807,152,993,191"/>
+<area shape="rect" title=" " alt="" coords="1017,159,1153,184"/>
+<area shape="rect" title=" " alt="" coords="1177,159,1367,184"/>
+<area shape="rect" href="RawBuffer_8h.html" title=" " alt="" coords="1096,239,1190,264"/>
+<area shape="rect" title=" " alt="" coords="1244,312,1313,337"/>
+<area shape="rect" title=" " alt="" coords="985,312,1039,337"/>
+<area shape="rect" title=" " alt="" coords="1063,312,1132,337"/>
+<area shape="rect" title=" " alt="" coords="1156,312,1220,337"/>
 </map>
 </div>
 </div>
@@ -154,16 +145,16 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcatapult_1_1catapult__error.html">catapult::catapult_error&lt; TStlException &gt;</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Base class for all catapult exceptions that derives from both std::exception and boost::exception.  <a href="classcatapult_1_1catapult__error.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcatapult_1_1catapult__error_3_01catapult__error_3_01_t_stl_exception_01_4_01_4.html">catapult::catapult_error&lt; catapult_error&lt; TStlException &gt; &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcatapult_1_1catapult__error_3_01catapult__error_3_01TStlException_01_4_01_4.html">catapult::catapult_error&lt; catapult_error&lt; TStlException &gt; &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structcatapult_1_1_error_param1.html">catapult::ErrorParam1</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tag for first custom exception parameter.  <a href="structcatapult_1_1_error_param1.html#details">More...</a><br /></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structcatapult_1_1ErrorParam1.html">catapult::ErrorParam1</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tag for first custom exception parameter.  <a href="structcatapult_1_1ErrorParam1.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structcatapult_1_1_error_param2.html">catapult::ErrorParam2</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tag for second custom exception parameter.  <a href="structcatapult_1_1_error_param2.html#details">More...</a><br /></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structcatapult_1_1ErrorParam2.html">catapult::ErrorParam2</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tag for second custom exception parameter.  <a href="structcatapult_1_1ErrorParam2.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcatapult_1_1exception__detail_1_1_make.html">catapult::exception_detail::Make&lt; TErrorParam &gt;</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Helper class for creating boost::error_info.  <a href="classcatapult_1_1exception__detail_1_1_make.html#details">More...</a><br /></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classcatapult_1_1exception__detail_1_1Make.html">catapult::exception_detail::Make&lt; TErrorParam &gt;</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Helper class for creating boost::error_info.  <a href="classcatapult_1_1exception__detail_1_1Make.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>

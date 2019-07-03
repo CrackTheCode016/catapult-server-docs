@@ -1,0 +1,21 @@
+<map id="catapult::chain::PtUpdater::Impl::updateImpl" name="catapult::chain::PtUpdater::Impl::updateImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,325,180,363"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a289d3d4f6575dedda5b863b4dfd574f8" title=" " alt="" coords="228,407,403,446"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a2534872e7a7ad8ed05dd22e7e346ff59" title=" " alt="" coords="720,302,895,341"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#ada58119ca06feb5816ee00876dcf2daa" title=" " alt="" coords="228,114,403,153"/>
+<area shape="rect" id="node14" href="$namespaceParser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="504,174,604,199"/>
+<area shape="rect" id="node18" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#aefd839223f465fc56d2adda9050a1a9d" title=" " alt="" coords="706,365,909,403"/>
+<area shape="rect" id="node19" href="$namespacecatapult_1_1crypto.html#a1018e06d8c0660dee234fc6963f3958c" title=" " alt="" coords="239,470,392,495"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a436fb4b5e93ff0715216ec102ecc19e8" title=" " alt="" coords="463,239,645,278"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1MemoryCacheProxy.html#a3a98cca9b709f3cec2df078b0a5a56ea" title=" " alt="" coords="969,365,1174,403"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a614e8c2ab45ae191f98c00464726d515" title=" " alt="" coords="720,177,895,215"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a4f97cdb3c32593030fd05f983b660841" title=" " alt="" coords="720,239,895,278"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1cache_1_1MemoryCacheProxy.html#af4babccc091c51d69a231201508c3893" title="Gets a read only view based on this cache." alt="" coords="705,114,910,153"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1partialtransaction.html#a143289bb6891ad6005ba5b6911bd3c5e" title="Stitches a weak cosigned transaction info into a full aggregate transaction." alt="" coords="983,147,1160,186"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1WeakCosignedTransactionInfo.html#ad350a72b1f0db059c1062dc4d0b57e77" title="Gets the cosignatures." alt="" coords="1233,147,1442,186"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1model_1_1WeakCosignedTransactionInfo.html#a960f29cfd1cdd66e239cff14895237f3" title="Gets the transaction." alt="" coords="1233,55,1442,94"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1BasicTransactionsCacheModifierProxy.html#ab307e969debdaf7dbc60103e6aa4d8ac" title="Removes the transaction identified by hash from the cache." alt="" coords="958,302,1185,341"/>
+<area shape="rect" id="node15" href="$structcatapult_1_1chain_1_1CheckEligibilityResult.html#a536f920f33567bc580f7816bf53f6094" title=" " alt="" coords="451,54,657,93"/>
+<area shape="rect" id="node17" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a781eb2c00749500bc663eb3801e7b712" title=" " alt="" coords="984,25,1159,63"/>
+<area shape="rect" id="node16" href="$structcatapult_1_1chain_1_1CheckEligibilityResult.html#acab9d4f0636fe85499e3cf4bc16f330e" title=" " alt="" coords="705,51,910,90"/>
+</map>

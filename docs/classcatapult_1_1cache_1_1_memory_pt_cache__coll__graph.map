@@ -1,7 +1,0 @@
-<map id="catapult::cache::MemoryPtCache" name="catapult::cache::MemoryPtCache">
-<area shape="rect" id="node1" title="Cache for all partial transactions." alt="" coords="135,268,314,307"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_pt_cache.html" title="An interface for caching partial transactions." alt="" coords="34,175,204,200"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_transactions_cache.html" title=" " alt="" coords="5,80,232,119"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="25,5,212,31"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_memory_cache_options.html" title="Options for customizing the behavior of a memory based cache." alt="" coords="228,168,433,207"/>
-</map>

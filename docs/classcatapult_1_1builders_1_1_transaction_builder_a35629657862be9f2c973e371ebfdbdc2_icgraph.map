@@ -1,5 +1,0 @@
-<map id="catapult::builders::TransactionBuilder::InsertSorted" name="catapult::builders::TransactionBuilder::InsertSorted">
-<area shape="rect" id="node1" title=" " alt="" coords="245,33,384,85"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_transfer_builder.html#a375248e32c29d8097d33397696c89dfc" title="Adds mosaic to attached mosaics." alt="" coords="5,5,197,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1builders_1_1_mosaic_definition_builder.html#ab2f24e9681dba9e68778d2d3448599d7" title="Adds property to optional properties." alt="" coords="17,68,185,120"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="catapult::tree::ReadThroughMemoryDataSource::forEach" name="catapult::tree::ReadThroughMemoryDataSource::forEach">
+<area shape="rect" id="node1" title="Gets all nodes in memory and passes them to consumer." alt="" coords="285,5,478,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1BasePatriciaTreeDelta.html#ac82c48644994e459400bf8b07fb9effc" title="Copies all pending changes to dataSource." alt="" coords="5,5,237,44"/>
+</map>

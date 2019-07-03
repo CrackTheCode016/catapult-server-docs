@@ -1,4 +1,0 @@
-<map id="catapult::harvesting::UnlockedAccountsModifier" name="catapult::harvesting::UnlockedAccountsModifier">
-<area shape="rect" id="node1" title="A write only view on top of unlocked accounts." alt="" coords="5,79,192,117"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="15,5,182,31"/>
-</map>

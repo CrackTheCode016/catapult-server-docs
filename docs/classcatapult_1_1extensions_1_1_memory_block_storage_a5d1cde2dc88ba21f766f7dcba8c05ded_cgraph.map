@@ -1,5 +1,0 @@
-<map id="catapult::extensions::MemoryBlockStorage::loadBlockStatementData" name="catapult::extensions::MemoryBlockStorage::loadBlockStatementData">
-<area shape="rect" id="node1" title="Returns the optional block statement data at height." alt="" coords="5,40,181,92"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_memory_block_storage.html#a5c4e26ef5c017edbd1754defa6aaf31b" title=" " alt="" coords="229,5,385,57"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1io.html#a12141af5d7581afd7338b2bf0eabd4c1" title="Writes blockStatement into outputStream." alt="" coords="229,81,386,120"/>
-</map>

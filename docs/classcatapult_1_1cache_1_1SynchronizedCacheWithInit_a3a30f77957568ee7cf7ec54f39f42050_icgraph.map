@@ -1,0 +1,5 @@
+<map id="catapult::cache::SynchronizedCacheWithInit::init" name="catapult::cache::SynchronizedCacheWithInit::init">
+<area shape="rect" id="node1" title="Initializes the underlying cache with args." alt="" coords="287,51,486,89"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1AccountStateCacheSummaryCacheStorage.html#a2db8bc2b9d1d7ddde5a998bdd47ae438" title="Loads cache data from input in batches of batchSize." alt="" coords="5,5,239,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1NamespaceCacheSummaryCacheStorage.html#acdb5d8f34826910fd8edf88afb632297" title="Loads cache data from input in batches of batchSize." alt="" coords="21,81,223,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::state::AccountRestrictions::isEmpty" name="catapult::state::AccountRestrictions::isEmpty">
+<area shape="rect" id="node1" title="Returns true if no restrictions are set." alt="" coords="5,37,165,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1AccountRestrictions.html#a74b507532e256383b09370e7cb390f3b" title="Returns a const iterator to the first account restriction." alt="" coords="213,5,373,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1AccountRestrictions.html#acc53a84f1015fe4ad92a1643b227cd6c" title="Returns a const iterator to the element following the last account restriction." alt="" coords="213,68,373,107"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="catapult::cache::CachePatriciaTree::commit" name="catapult::cache::CachePatriciaTree::commit">
-<area shape="rect" id="node1" title="Commits all changes in the rebased tree." alt="" coords="343,73,544,112"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_lock_info_base_sets.html#a7b07cd7f5d93e268bbd66332278ea8d4" title=" " alt="" coords="25,5,275,84"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_single_set_and_patricia_tree_cache_types_adapter_1_1_base_sets.html#a8b67231e8dc61425db46be8f26dd28e5" title="Commits all changes in the rebased cache." alt="" coords="5,108,295,173"/>
-</map>

@@ -1,0 +1,9 @@
+<map id="catapult::model::EntityRange::PrepareFixed" name="catapult::model::EntityRange::PrepareFixed">
+<area shape="rect" id="node1" title=" " alt="" coords="489,144,681,183"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1EntityRange.html#ac05ca7497f3cac994036de63571855a5" title="Creates an entity range around numElements fixed size elements pointed to by pData." alt="" coords="248,5,440,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1MemoryBlockStorage.html#a442ac5066cf4067cf3e97d6a0a96821d" title="Returns a range of at most maxHashes hashes starting at height." alt="" coords="266,68,422,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1FileBlockStorage_1_1HashFile.html#a4dafbb3f111a18e6bdf54ecc9c59ba33" title=" " alt="" coords="247,144,441,183"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1MemoryUtCacheView.html#a15a55501e0608fa12623c92bbd565dc2" title=" " alt="" coords="254,207,434,245"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1MemoryPtCacheView.html#a2674739c52ce43d044019f3a00bcc9d6" title=" " alt="" coords="251,269,438,308"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1FileBlockStorage.html#aef8b9e02f5a88eece98a8e783517e195" title="Returns a range of at most maxHashes hashes starting at height." alt="" coords="5,144,199,183"/>
+</map>

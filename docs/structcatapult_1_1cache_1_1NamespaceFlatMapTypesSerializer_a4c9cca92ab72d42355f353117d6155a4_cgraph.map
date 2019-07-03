@@ -1,0 +1,7 @@
+<map id="catapult::cache::NamespaceFlatMapTypesSerializer::DeserializeValue" name="catapult::cache::NamespaceFlatMapTypesSerializer::DeserializeValue">
+<area shape="rect" id="node1" title="Deserializes value from buffer." alt="" coords="5,55,195,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1CheckedArray.html#aa32fd3c3b555a273f6eb652098f91243" title=" " alt="" coords="260,5,420,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="270,68,410,93"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1StateVersion.html#a637378dcf8bf857a71a3cf3fd9d6f71d" title="Reads state version from input and verifies it." alt="" coords="243,117,437,156"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1io.html#ad8ed0dfb2530c60b3c03c2a956bdbc9a" title="Reads value from input." alt="" coords="485,124,625,149"/>
+</map>

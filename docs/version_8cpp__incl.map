@@ -1,7 +1,7 @@
-<map id="catapult&#45;server/src/catapult/version/version.cpp" name="catapult&#45;server/src/catapult/version/version.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="60,5,250,44"/>
-<area shape="rect" id="node2" href="$version_8h.html" title=" " alt="" coords="70,92,145,117"/>
-<area shape="rect" id="node5" title=" " alt="" coords="168,92,241,117"/>
-<area shape="rect" id="node3" href="$version__inc_8h.html" title=" " alt="" coords="5,165,105,191"/>
-<area shape="rect" id="node4" title=" " alt="" coords="130,165,189,191"/>
+<map id="version.cpp" name="version.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="111,5,200,31"/>
+<area shape="rect" id="node2" href="$version_8h.html" title=" " alt="" coords="70,79,145,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="168,79,241,104"/>
+<area shape="rect" id="node3" href="$version__inc_8h.html" title=" " alt="" coords="5,152,105,177"/>
+<area shape="rect" id="node4" title=" " alt="" coords="130,152,189,177"/>
 </map>

@@ -1,4 +1,0 @@
-<map id="catapult::subscribers::AggregateNodeSubscriber::notifyIncomingNode" name="catapult::subscribers::AggregateNodeSubscriber::notifyIncomingNode">
-<area shape="rect" id="node1" title="Indicates a new incoming connection for node with identityKey connected to serviceId." alt="" coords="5,5,191,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_basic_aggregate_subscriber.html#a2dedfcd373056055be93d28a97925c46" title=" " alt="" coords="239,5,440,57"/>
-</map>

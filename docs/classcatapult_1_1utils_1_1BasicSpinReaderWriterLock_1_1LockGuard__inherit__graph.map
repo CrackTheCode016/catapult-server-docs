@@ -1,0 +1,5 @@
+<map id="catapult::utils::BasicSpinReaderWriterLock&lt; TReaderNotificationPolicy &gt;::LockGuard" name="catapult::utils::BasicSpinReaderWriterLock&lt; TReaderNotificationPolicy &gt;::LockGuard">
+<area shape="rect" id="node1" title="Base class for RAII lock guards." alt="" coords="5,44,263,96"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1utils_1_1BasicSpinReaderWriterLock_1_1ReaderLockGuard.html" title="A reader lock guard." alt="" coords="311,5,569,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1utils_1_1BasicSpinReaderWriterLock_1_1WriterLockGuard.html" title="A writer lock guard." alt="" coords="311,81,569,133"/>
+</map>

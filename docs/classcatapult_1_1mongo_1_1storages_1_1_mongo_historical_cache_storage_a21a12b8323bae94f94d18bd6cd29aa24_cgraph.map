@@ -1,7 +1,0 @@
-<map id="catapult::mongo::storages::MongoHistoricalCacheStorage::removeAll" name="catapult::mongo::storages::MongoHistoricalCacheStorage::removeAll">
-<area shape="rect" id="node1" title=" " alt="" coords="5,64,215,116"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_mongo_error_policy.html#a3f236c0e10c8fd5eb2bb193079f6abd4" title="Checks that result indicates at least numExpected deletions occurred given itemsDescription." alt="" coords="271,36,465,75"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_historical_cache_storage.html#a124930795a14c3ad83835510299f6384" title=" " alt="" coords="263,99,472,151"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1_mongo_error_policy.html#a8ff7a69853f6b4bca718777feb9e455d" title=" " alt="" coords="520,5,737,44"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1mappers.html#a457dc107fff0b5b5c87e00ff11b3e27c" title="Converts a 32 bit signed value to a 32 bit unsigned value." alt="" coords="541,68,717,107"/>
-</map>

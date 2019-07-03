@@ -1,0 +1,4 @@
+<map id="catapult::state::MosaicEntrySupplyMixin" name="catapult::state::MosaicEntrySupplyMixin">
+<area shape="rect" id="node1" title="Mixin for storing and modifying a supply in MosaicEntry." alt="" coords="5,5,190,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1MosaicEntry.html" title="A tuple composed of a mosaic definition and its current state." alt="" coords="5,92,190,117"/>
+</map>

@@ -1,8 +1,0 @@
-<map id="catapult::timesync::TimeSynchronizationResult" name="catapult::timesync::TimeSynchronizationResult">
-<area shape="rect" id="node1" title="Information about the result of a time synchronization procedure with a remote node." alt="" coords="1035,27,1225,65"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="728,27,918,65"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,13,678,79"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1_timestamp__tag.html" title=" " alt="" coords="222,5,389,31"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,55,390,93"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
-</map>

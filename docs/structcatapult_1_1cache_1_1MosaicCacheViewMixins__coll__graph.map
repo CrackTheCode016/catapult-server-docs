@@ -1,0 +1,5 @@
+<map id="catapult::cache::MosaicCacheViewMixins" name="catapult::cache::MosaicCacheViewMixins">
+<area shape="rect" id="node1" title="Mixins used by the mosaic cache view." alt="" coords="554,19,754,57"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1PatriciaTreeCacheMixins.html" title=" " alt="" coords="254,5,506,71"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1BasicCacheMixins.html" title=" " alt="" coords="5,5,206,71"/>
+</map>

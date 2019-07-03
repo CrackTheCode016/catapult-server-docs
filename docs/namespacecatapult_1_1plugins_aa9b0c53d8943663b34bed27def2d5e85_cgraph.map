@@ -1,10 +1,10 @@
 <map id="catapult::plugins::RegisterAggregateSubsystem" name="catapult::plugins::RegisterAggregateSubsystem">
 <area shape="rect" id="node1" title="Registers aggregate support with manager." alt="" coords="5,157,204,196"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="259,5,454,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="252,81,462,133"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="280,157,434,196"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1PluginManager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="259,5,454,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1PluginManager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="252,81,462,133"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1PluginManager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="280,157,434,196"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1plugins.html#ac71b5dafde6a28f85f5e4394bfb378aa" title="Creates an aggregate transaction plugin around transactionRegistry for transactions with type transac..." alt="" coords="261,220,453,272"/>
-<area shape="rect" id="node8" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#af6c6f173d63caaf8cc4290945b5defdb" title="Gets the transaction registry." alt="" coords="265,296,449,348"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_plugin_registry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="510,88,715,127"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1plugins_1_1PluginManager.html#af6c6f173d63caaf8cc4290945b5defdb" title="Gets the transaction registry." alt="" coords="265,296,449,348"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="510,88,715,127"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1plugins.html#aa1988f14bba90fd7f33db5ef281d3e06" title=" " alt="" coords="516,220,708,272"/>
 </map>

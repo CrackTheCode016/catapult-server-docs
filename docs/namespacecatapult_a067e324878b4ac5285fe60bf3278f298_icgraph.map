@@ -2,8 +2,8 @@
 <area shape="rect" id="node1" title="Base id for namespaces." alt="" coords="525,100,672,139"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#ab9de0383e2af982aa309a308ce62d5f6" title="Parses a unified namespace name into a path." alt="" coords="294,5,477,44"/>
 <area shape="rect" id="node4" href="$namespacecatapult_1_1model.html#a8b358396a1049833fcaffa1c502e5d59" title="Generates a root namespace id given name." alt="" coords="298,68,473,107"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_namespace.html#aaadb38b37ea350a70c5c019f244af34b" title="Gets the parent namespace id." alt="" coords="294,131,477,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1Namespace.html#aaadb38b37ea350a70c5c019f244af34b" title="Gets the parent namespace id." alt="" coords="294,131,477,169"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1mongo_1_1plugins.html#acd9f73e5edf7f0fa994d9cb813c1aba6" title="Maps a namespace descriptor to the corresponding db model value." alt="" coords="303,193,468,232"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#aa8cea41c8a1dddf8108dbc7c23f45fe7" title="Generates a mosaic id given mosaic alias name." alt="" coords="42,5,209,44"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1_root_namespace.html#aa6ef5b11d43635d44b9ab57532a51543" title="Adds the child namespace ns." alt="" coords="5,137,246,163"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1RootNamespace.html#aa6ef5b11d43635d44b9ab57532a51543" title="Adds the child namespace ns." alt="" coords="5,137,246,163"/>
 </map>

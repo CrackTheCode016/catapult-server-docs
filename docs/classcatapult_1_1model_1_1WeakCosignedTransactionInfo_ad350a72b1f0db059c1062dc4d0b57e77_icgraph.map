@@ -1,0 +1,10 @@
+<map id="catapult::model::WeakCosignedTransactionInfo::cosignatures" name="catapult::model::WeakCosignedTransactionInfo::cosignatures">
+<area shape="rect" id="node1" title="Gets the cosignatures." alt="" coords="1154,47,1363,85"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1AggregateCosignersNotificationPublisher.html#a2f6c8da8e5bb88937a6a63d8690292f3" title="Sends all notifications from an aggregate transactionInfo to sub." alt="" coords="903,5,1106,57"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1partialtransaction.html#a143289bb6891ad6005ba5b6911bd3c5e" title="Stitches a weak cosigned transaction info into a full aggregate transaction." alt="" coords="916,81,1093,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a614e8c2ab45ae191f98c00464726d515" title=" " alt="" coords="680,81,855,120"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a436fb4b5e93ff0715216ec102ecc19e8" title=" " alt="" coords="451,81,632,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a289d3d4f6575dedda5b863b4dfd574f8" title=" " alt="" coords="228,49,403,88"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a39c16409f72d6006d4dd1369c9e29cab" title=" " alt="" coords="228,112,403,151"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a1be3d66359d032d7ee7f783443119af2" title=" " alt="" coords="5,49,180,88"/>
+</map>

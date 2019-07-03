@@ -1,0 +1,5 @@
+<map id="catapult::io::FileQueueWriter" name="catapult::io::FileQueueWriter">
+<area shape="rect" id="node1" title=" " alt="" coords="90,92,280,117"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1OutputStream.html" title="Writer interface." alt="" coords="5,5,182,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1IndexFile.html" title="Index file containing a uint64_t value." alt="" coords="205,5,352,31"/>
+</map>

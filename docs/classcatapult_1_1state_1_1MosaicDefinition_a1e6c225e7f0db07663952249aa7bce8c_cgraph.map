@@ -1,0 +1,5 @@
+<map id="catapult::state::MosaicDefinition::isEternal" name="catapult::state::MosaicDefinition::isEternal">
+<area shape="rect" id="node1" title="Returns true if the mosaic definition has eternal duration." alt="" coords="5,37,215,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1MosaicProperties.html#a53e7951a23a6cdc8a6d66610f1624209" title="Gets mosaic duration." alt="" coords="263,5,485,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult.html#a7348c4e3bbcb5e950bd139110a31a962" title="Duration of eternal artifact." alt="" coords="291,68,457,107"/>
+</map>

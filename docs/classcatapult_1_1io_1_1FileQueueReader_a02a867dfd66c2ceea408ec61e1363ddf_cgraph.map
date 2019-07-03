@@ -1,0 +1,7 @@
+<map id="catapult::io::FileQueueReader::pending" name="catapult::io::FileQueueReader::pending">
+<area shape="rect" id="node1" title="Gets the number of pending messages." alt="" coords="5,33,204,72"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1IndexFile.html#a47835027fd86fa37a1f5a0e265c5de55" title="true if the index file exists." alt="" coords="265,5,412,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1IndexFile.html#abf04a75491d6a2b7d696539703ea6711" title="Gets the index value." alt="" coords="252,68,425,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1IndexFile.html#adad14744c9d6b1ba0f202fa803d6ec7f" title=" " alt="" coords="473,33,620,72"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="477,96,617,121"/>
+</map>

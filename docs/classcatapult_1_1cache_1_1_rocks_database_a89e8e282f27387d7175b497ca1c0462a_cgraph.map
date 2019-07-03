@@ -1,5 +1,0 @@
-<map id="catapult::cache::RocksDatabase::get" name="catapult::cache::RocksDatabase::get">
-<area shape="rect" id="node1" title="Gets key from columnId returning data in result." alt="" coords="5,44,244,69"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_rdb_data_iterator.html#a403acb0d7aaf4c0ed05afab789719ba5" title="Sets flag to found indicating that iterator contains data." alt="" coords="292,5,463,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_rdb_data_iterator.html#a2829b962d0c8cd0af344bb0a4295caa4" title="Returns storage associated with iterator." alt="" coords="292,68,463,107"/>
-</map>

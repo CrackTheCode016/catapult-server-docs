@@ -1,0 +1,6 @@
+<map id="catapult::tree::TreeNode::setPath" name="catapult::tree::TreeNode::setPath">
+<area shape="rect" id="node1" title="Sets the node path." alt="" coords="5,49,170,88"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1TreeNode.html#a1cc8411f5a12c6abfdcf67bff2fc10a6" title="Returns true if this node represents a branch node." alt="" coords="431,5,595,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1TreeNode.html#ac79c06c7e9e84b71f43595d5dc713174" title="Returns true if this node represents a leaf node." alt="" coords="431,81,595,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1TreeNode.html#afce3068ecfe939bb16c8c0ba22e76041" title="Gets the node path." alt="" coords="218,49,383,88"/>
+</map>

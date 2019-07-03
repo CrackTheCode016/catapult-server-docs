@@ -1,6 +1,6 @@
 <map id="catapult::state::ToVector" name="catapult::state::ToVector">
 <area shape="rect" id="node1" title="Converts value to a vector." alt="" coords="250,75,413,100"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_typed_account_restriction.html#a913a82bbd66960d8dfddefb3ff89b860" title="Returns true if modification can be applied to the underlying restriction." alt="" coords="5,5,202,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_typed_account_restriction.html#a414dfe6229ff7aebff40884f040aedd6" title="Returns true if modification can be applied to the underlying restriction." alt="" coords="5,68,202,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_typed_account_restriction.html#aeafb2d1c5d3df7c0735feb182e174b8e" title="Returns true if the underlying account restriction contains value." alt="" coords="5,131,202,169"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1TypedAccountRestriction.html#a913a82bbd66960d8dfddefb3ff89b860" title="Returns true if modification can be applied to the underlying restriction." alt="" coords="5,5,202,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1TypedAccountRestriction.html#a414dfe6229ff7aebff40884f040aedd6" title="Returns true if modification can be applied to the underlying restriction." alt="" coords="5,68,202,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1TypedAccountRestriction.html#aeafb2d1c5d3df7c0735feb182e174b8e" title="Returns true if the underlying account restriction contains value." alt="" coords="5,131,202,169"/>
 </map>

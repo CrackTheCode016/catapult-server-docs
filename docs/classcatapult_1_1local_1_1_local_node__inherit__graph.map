@@ -1,5 +1,0 @@
-<map id="catapult::local::LocalNode" name="catapult::local::LocalNode">
-<area shape="rect" id="node1" title="Represents a local node." alt="" coords="12,152,186,177"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1local_1_1_process_host.html" title="Catapult process host." alt="" coords="6,79,192,104"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,5,193,31"/>
-</map>

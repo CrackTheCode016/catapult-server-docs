@@ -1,0 +1,22 @@
+<map id="ApiTypes.h" name="ApiTypes.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1020,5,1107,31"/>
+<area shape="rect" id="node2" href="$ChainApi_8h.html" title=" " alt="" coords="760,79,847,104"/>
+<area shape="rect" id="node15" href="$RemoteRequestDispatcher_8h.html" title=" " alt="" coords="1253,79,1445,104"/>
+<area shape="rect" id="node3" href="$LocalChainApi_8h.html" title=" " alt="" coords="902,152,1020,177"/>
+<area shape="rect" id="node6" href="$RemoteChainApi_8h.html" title=" " alt="" coords="573,152,706,177"/>
+<area shape="rect" id="node11" href="$CompareChains_8h.html" title=" " alt="" coords="187,152,316,177"/>
+<area shape="rect" id="node13" href="$ApiNodeHealthUtils_8h.html" title=" " alt="" coords="729,152,877,177"/>
+<area shape="rect" id="node4" href="$SyncService_8cpp.html" title=" " alt="" coords="702,225,822,251"/>
+<area shape="rect" id="node5" href="$LocalChainApi_8cpp.html" title=" " alt="" coords="1204,225,1336,251"/>
+<area shape="rect" id="node7" href="$NetworkPacketWritersService_8cpp.html" title=" " alt="" coords="355,225,577,251"/>
+<area shape="rect" id="node8" href="$RemoteChainApi_8cpp.html" title=" " alt="" coords="1032,225,1180,251"/>
+<area shape="rect" id="node9" href="$ChainSynchronizer_8cpp.html" title=" " alt="" coords="172,225,331,251"/>
+<area shape="rect" id="node10" href="$tools_2health_2main_8cpp.html" title=" " alt="" coords="602,225,677,251"/>
+<area shape="rect" id="node12" href="$CompareChains_8cpp.html" title=" " alt="" coords="5,225,148,251"/>
+<area shape="rect" id="node14" href="$ApiNodeHealthUtils_8cpp.html" title=" " alt="" coords="846,225,1009,251"/>
+<area shape="rect" id="node16" href="$RemoteNodeApi_8cpp.html" title=" " alt="" coords="1118,152,1262,177"/>
+<area shape="rect" id="node17" href="$RemotePtApi_8cpp.html" title=" " alt="" coords="1286,152,1411,177"/>
+<area shape="rect" id="node18" href="$RemoteTimeSyncApi_8cpp.html" title=" " alt="" coords="1435,152,1606,177"/>
+<area shape="rect" id="node19" href="$RemoteDiagnosticApi_8cpp.html" title=" " alt="" coords="1631,152,1805,177"/>
+<area shape="rect" id="node20" href="$RemoteTransactionApi_8cpp.html" title=" " alt="" coords="1830,152,2012,177"/>
+</map>

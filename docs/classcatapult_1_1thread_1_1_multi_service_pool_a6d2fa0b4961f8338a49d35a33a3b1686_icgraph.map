@@ -1,5 +1,0 @@
-<map id="catapult::thread::MultiServicePool::numWorkerThreads" name="catapult::thread::MultiServicePool::numWorkerThreads">
-<area shape="rect" id="node1" title="Gets the number of active worker threads." alt="" coords="488,35,681,73"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a2cbb192dfdb682d116f94e79ed74b6c2" title=" " alt="" coords="247,5,440,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#afa86e199944a723021e0997d4e3a1a2c" title=" " alt="" coords="5,35,199,73"/>
-</map>

@@ -1,0 +1,13 @@
+<map id="catapult::mongo::MongoErrorPolicy::formatMessageAndThrow" name="catapult::mongo::MongoErrorPolicy::formatMessageAndThrow">
+<area shape="rect" id="node1" title=" " alt="" coords="763,127,979,165"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1MongoErrorPolicy.html#a3c1701975e497593fcf56b309d7295b7" title="Checks that result indicates exactly numExpected deletions occurred given itemsDescription." alt="" coords="520,21,715,60"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1MongoErrorPolicy.html#a3f236c0e10c8fd5eb2bb193079f6abd4" title="Checks that result indicates at least numExpected deletions occurred given itemsDescription." alt="" coords="520,92,715,131"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1mongo_1_1MongoErrorPolicy.html#af1769a7aabb0ba8b7dde184e704d0145" title="Checks that result indicates exactly numExpected insertions occurred given itemsDescription." alt="" coords="520,157,715,196"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1mongo_1_1MongoErrorPolicy.html#a59b56e8d5caa2900d45e1a415c5ad22e" title="Checks that result indicates exactly numExpected upsertions occurred given itemsDescription." alt="" coords="520,227,715,265"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1storages_1_1MongoFlatCacheStorage.html#a08d88db298db8bc26e9c7a53cbc70274" title=" " alt="" coords="279,5,456,57"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a21a12b8323bae94f94d18bd6cd29aa24" title=" " alt="" coords="263,81,472,133"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a6be5f402245bd0f5735c38a84c088f1b" title="Saves cache changes to external storage." alt="" coords="5,157,215,209"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1mongo_1_1storages_1_1MongoFlatCacheStorage.html#a208fb0e80d665422147e77cca92791ca" title="Saves cache changes to external storage." alt="" coords="22,81,199,133"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a798e7460f6bd498e3d19e9d227e38529" title=" " alt="" coords="263,157,472,209"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1mongo_1_1storages_1_1MongoFlatCacheStorage.html#a06568f9c2ba4424f5f6dd38efbceba6e" title=" " alt="" coords="279,233,456,285"/>
+</map>

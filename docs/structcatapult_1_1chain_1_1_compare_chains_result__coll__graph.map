@@ -1,8 +1,0 @@
-<map id="catapult::chain::CompareChainsResult" name="catapult::chain::CompareChainsResult">
-<area shape="rect" id="node1" title="Result of a chain comparison operation." alt="" coords="1058,27,1228,65"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="711,27,881,65"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,13,662,79"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1_height__tag.html" title=" " alt="" coords="236,5,376,31"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,55,390,93"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
-</map>

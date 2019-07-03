@@ -1,0 +1,4 @@
+<map id="catapult::model::BlockStatementBuilder::popSource" name="catapult::model::BlockStatementBuilder::popSource">
+<area shape="rect" id="node1" title="Decrements the current primary source and removes all receipts associated with it." alt="" coords="204,12,416,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1HarvestingUtFacade_1_1Impl.html#a52ccf2b1f5758daa7881475f9737229a" title=" " alt="" coords="5,5,156,57"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="catapult::cache::NamespaceLookupMixin&lt; TPrimarySet, TFlatMap &gt;" name="catapult::cache::NamespaceLookupMixin&lt; TPrimarySet, TFlatMap &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,44,195,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html" title="Basic delta on top of the namespace cache." alt="" coords="243,16,465,55"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheView.html" title="Basic view on top of the namespace cache." alt="" coords="243,81,465,120"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="513,5,766,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1NamespaceCacheDelta.html" title="Delta on top of the namespace cache." alt="" coords="814,12,1003,51"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="513,81,766,133"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1NamespaceCacheView.html" title="View on top of the namespace cache." alt="" coords="814,88,1003,127"/>
+</map>

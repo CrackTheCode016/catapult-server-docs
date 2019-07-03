@@ -1,0 +1,8 @@
+<map id="catapult::cache::BasicBlockDifficultyCacheView::difficultyInfos" name="catapult::cache::BasicBlockDifficultyCacheView::difficultyInfos">
+<area shape="rect" id="node1" title="Gets a range object that spans count block difficulty infos starting at the specified height." alt="" coords="5,100,229,139"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1deltaset.html#a800b7dca900995cb2d4162ae905db100" title=" " alt="" coords="294,68,429,107"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="277,131,446,169"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1deltaset_1_1BaseSetDelta.html#add8b2ab108ccc14495ba9affee709b58" title="Gets const references to the pending modifications." alt="" coords="494,5,648,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1deltaset.html#a4609bfdf625079fb72a8ce99599155c5" title="Selects the iterable set from set." alt="" coords="506,68,636,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1deltaset_1_1BaseSetDelta.html#a7ee0940511f722bd2a3e5acf8f71bcc7" title="Gets the size of this set." alt="" coords="500,131,642,169"/>
+</map>

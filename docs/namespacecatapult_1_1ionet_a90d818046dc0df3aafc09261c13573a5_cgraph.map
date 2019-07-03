@@ -1,4 +1,4 @@
 <map id="catapult::ionet::Secure" name="catapult::ionet::Secure">
 <area shape="rect" id="node1" title=" " alt="" coords="5,12,159,37"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_file_size.html#af93a60cadceea3940e7a12d769867ff3" title="Returns the number of bytes as a uint32_t." alt="" coords="207,5,361,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1FileSize.html#af93a60cadceea3940e7a12d769867ff3" title="Returns the number of bytes as a uint32_t." alt="" coords="207,5,361,44"/>
 </map>

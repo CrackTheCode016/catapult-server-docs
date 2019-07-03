@@ -1,0 +1,11 @@
+<map id="catapult::cache::ImportanceView::getAccountImportanceOrDefault" name="catapult::cache::ImportanceView::getAccountImportanceOrDefault">
+<area shape="rect" id="node1" title="Gets the importance for publicKey at height or a default importance if no importance is set." alt="" coords="732,151,980,189"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1Harvester.html#a08b592dcdab16be8c308543326575026" title=" " alt="" coords="508,5,646,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1timesync_1_1ImportanceAwareNodeSelector.html#ae3b86e40bbc520422ec2b4cbcbd78a6a" title=" " alt="" coords="470,68,684,120"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1extensions_1_1SelectorSettings.html#a9dbda1c5364866f156d139f20947e781" title="Creates settings around cache, totalChainImportance, nodes, serviceId, requiredRole and config." alt="" coords="486,144,668,196"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1timesync_1_1TimeSynchronizer.html#a510b8dfca1258dc1bbc0a110e19e6eb7" title=" " alt="" coords="505,220,649,272"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1timesync_1_1TimeSynchronizer.html#a6efaeac4aef27d89b6b71ce50f11d594" title=" " alt="" coords="505,296,649,348"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1timesync_1_1ImportanceAwareNodeSelector.html#a2e24bb688851b2b235c11de0385d4447" title="Selects nodes from nodeContainerView that have a minimum importance at height according to importance..." alt="" coords="208,68,422,120"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1timesync_1_1TimeSynchronizer.html#aa08ba15631f6765860e101998e6f724a" title="Calculates a time offset from samples using accountStateCacheView, height and nodeAge." alt="" coords="244,257,387,309"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1timesync.html#aa4945d3c267ffac0c896cb86ed6cc2d7" title=" " alt="" coords="5,264,160,303"/>
+</map>

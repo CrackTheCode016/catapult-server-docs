@@ -1,0 +1,9 @@
+<map id="catapult::cache::IterationMixin&lt; TSet &gt;" name="catapult::cache::IterationMixin&lt; TSet &gt;">
+<area shape="rect" id="node1" title="A mixin for adding iteration support to a cache." alt="" coords="5,48,172,87"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicBlockDifficultyCacheView.html" title="Basic view on top of the block difficulty cache." alt="" coords="220,15,410,53"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1BasicHashCacheView.html" title="Basic view on top of the hash cache." alt="" coords="224,79,406,117"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="471,5,697,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1BlockDifficultyCacheView.html" title="View on top of the block difficulty cache." alt="" coords="766,12,968,51"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="458,81,711,120"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1HashCacheView.html" title="View on top of the hash cache." alt="" coords="759,88,975,113"/>
+</map>

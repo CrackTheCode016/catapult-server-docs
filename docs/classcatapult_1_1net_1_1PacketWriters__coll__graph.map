@@ -1,0 +1,5 @@
+<map id="catapult::net::PacketWriters" name="catapult::net::PacketWriters">
+<area shape="rect" id="node1" title="Manages a collection of connections that send data to external nodes." alt="" coords="99,92,283,117"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1net_1_1ConnectionContainer.html" title="Manages a collection of connections." alt="" coords="5,5,174,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1net_1_1PacketIoPicker.html" title="An interface for picking packet io pairs." alt="" coords="199,12,389,37"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="catapult::cache::IterationMixin::IterableView::begin" name="catapult::cache::IterationMixin::IterableView::begin">
-<area shape="rect" id="node1" title="Returns a const iterator to the first element of the underlying set." alt="" coords="5,68,178,107"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1deltaset.html#a800b7dca900995cb2d4162ae905db100" title=" " alt="" coords="226,68,361,107"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1deltaset_1_1_base_set_delta.html#add8b2ab108ccc14495ba9affee709b58" title="Gets const references to the pending modifications." alt="" coords="409,5,562,44"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1deltaset.html#a4609bfdf625079fb72a8ce99599155c5" title="Selects the iterable set from set." alt="" coords="420,68,551,107"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1deltaset_1_1_base_set_delta.html#a7ee0940511f722bd2a3e5acf8f71bcc7" title="Gets the size of this set." alt="" coords="415,131,556,169"/>
-</map>

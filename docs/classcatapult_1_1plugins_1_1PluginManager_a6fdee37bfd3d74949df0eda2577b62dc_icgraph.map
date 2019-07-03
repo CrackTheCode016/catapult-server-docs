@@ -1,0 +1,5 @@
+<map id="catapult::plugins::PluginManager::inflationConfig" name="catapult::plugins::PluginManager::inflationConfig">
+<area shape="rect" id="node1" title="Gets the inflation configuration." alt="" coords="385,5,588,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#ad4d72b27c270ab6b9807c36162d41b45" title=" " alt="" coords="193,5,337,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1plugins.html#a7dbb88f436701c9dfe75f11580691c85" title="Loads a plugin named name with manager from directory into modules." alt="" coords="5,5,145,44"/>
+</map>

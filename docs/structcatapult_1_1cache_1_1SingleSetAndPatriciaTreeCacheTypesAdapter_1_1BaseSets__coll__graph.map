@@ -1,0 +1,5 @@
+<map id="catapult::cache::SingleSetAndPatriciaTreeCacheTypesAdapter&lt; TPrimaryTypes, TPatriciaTree &gt;::BaseSets&lt; TBaseSetDeltaPointers &gt;" name="catapult::cache::SingleSetAndPatriciaTreeCacheTypesAdapter&lt; TPrimaryTypes, TPatriciaTree &gt;::BaseSets&lt; TBaseSetDeltaPointers &gt;">
+<area shape="rect" id="node1" title="Wrapper around single set and patricia tree." alt="" coords="342,24,601,89"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1CacheDatabaseMixin.html" title="Mixin that owns a cache database." alt="" coords="5,5,219,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1CachePatriciaTree.html" title=" " alt="" coords="12,68,213,107"/>
+</map>

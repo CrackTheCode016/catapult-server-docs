@@ -1,4 +1,4 @@
 <map id="catapult::cache::CreateAggregateUtCache" name="catapult::cache::CreateAggregateUtCache">
 <area shape="rect" id="node1" title="Creates an aggregate ut cache that delegates to utCache and publishes ut transaction changes to pUtCh..." alt="" coords="208,12,428,51"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_subscription_manager.html#ae6ac4b645af69ad4415a78d34c5e6c59" title=" " alt="" coords="5,5,160,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1SubscriptionManager.html#ae6ac4b645af69ad4415a78d34c5e6c59" title=" " alt="" coords="5,5,160,57"/>
 </map>

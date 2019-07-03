@@ -1,0 +1,9 @@
+<map id="catapult::tree::TreeNode::copy" name="catapult::tree::TreeNode::copy">
+<area shape="rect" id="node1" title="Creates a copy of this node." alt="" coords="313,196,477,235"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1PatriciaTree.html#a716e1a11c4bf41eac444126b6543914d" title=" " alt="" coords="5,5,265,71"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1PatriciaTreeRdbDataSource.html#ac88323c7953a58eecef80a259b3704f0" title=" " alt="" coords="51,95,219,133"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1BranchTreeNode.html#ac05ae2b22ffb0df952a46c0501000121" title="Sets the branch link at index to node." alt="" coords="47,157,222,196"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1PatriciaTree.html#a1dc6bcde27bfc3903680b368bb609f09" title="Sets the root to rootNode." alt="" coords="5,220,265,285"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1cache_1_1PatriciaTreeColumnDescriptor.html#a3712ad619d3a26d27968a655926b32d0" title="Converts a value type (treeNode) to a storage type." alt="" coords="23,309,247,348"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1tree_1_1PatriciaTree.html#a6682f0f7a0ed2d25e6b24695a4cf783c" title="Loads the node with hash rootHash and sets it as the root node." alt="" coords="5,372,265,437"/>
+</map>

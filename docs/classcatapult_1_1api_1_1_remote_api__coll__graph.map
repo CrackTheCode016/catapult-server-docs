@@ -1,5 +1,0 @@
-<map id="catapult::api::RemoteApi" name="catapult::api::RemoteApi">
-<area shape="rect" id="node1" title="An api for retrieving information from a remote node." alt="" coords="5,180,172,205"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="6,80,171,119"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1_key__tag.html" title=" " alt="" coords="26,5,151,31"/>
-</map>

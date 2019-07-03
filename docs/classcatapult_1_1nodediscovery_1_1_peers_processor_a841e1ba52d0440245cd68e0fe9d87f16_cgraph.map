@@ -1,9 +1,0 @@
-<map id="catapult::nodediscovery::PeersProcessor::process" name="catapult::nodediscovery::PeersProcessor::process">
-<area shape="rect" id="node1" title="Processes all candidate nodes (candidateNodes) and forwards newly discovered partner nodes." alt="" coords="5,55,183,93"/>
-<area shape="rect" id="node2" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="281,5,382,31"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1nodediscovery.html#aeb94547a1a644c490e3bb42fc7a2b418" title="Filters nodes by returning all nodes not contained in view." alt="" coords="251,55,412,93"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1ionet_1_1_node_container.html#af1b1a0e6f81c93a2caff61f739cca452" title="Gets a read only view of the nodes." alt="" coords="231,117,432,156"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1ionet_1_1_node_container_view.html#a15262e5f8fedcb416322221addb0d8e4" title="Returns true if the node with identityKey is in the container, false otherwise." alt="" coords="491,55,693,93"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="480,117,704,156"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="752,117,918,156"/>
-</map>

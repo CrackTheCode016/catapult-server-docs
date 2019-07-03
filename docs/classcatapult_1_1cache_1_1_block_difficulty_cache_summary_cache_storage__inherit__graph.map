@@ -1,5 +1,0 @@
-<map id="catapult::cache::BlockDifficultyCacheSummaryCacheStorage" name="catapult::cache::BlockDifficultyCacheSummaryCacheStorage">
-<area shape="rect" id="node1" title="CacheStorage implementation for saving and loading summary block difficulty cache data." alt="" coords="510,12,712,51"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_cache_storage_adapter.html" title=" " alt="" coords="257,5,462,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_cache_storage.html" title="Interface for loading and saving cache data." alt="" coords="5,19,209,44"/>
-</map>

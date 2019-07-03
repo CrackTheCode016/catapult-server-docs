@@ -1,10 +1,10 @@
 var ansi_8py =
 [
-    [ "AnsiCodes", "classcolorama_1_1ansi_1_1_ansi_codes.html", "classcolorama_1_1ansi_1_1_ansi_codes" ],
-    [ "AnsiCursor", "classcolorama_1_1ansi_1_1_ansi_cursor.html", "classcolorama_1_1ansi_1_1_ansi_cursor" ],
-    [ "AnsiFore", "classcolorama_1_1ansi_1_1_ansi_fore.html", "classcolorama_1_1ansi_1_1_ansi_fore" ],
-    [ "AnsiBack", "classcolorama_1_1ansi_1_1_ansi_back.html", "classcolorama_1_1ansi_1_1_ansi_back" ],
-    [ "AnsiStyle", "classcolorama_1_1ansi_1_1_ansi_style.html", "classcolorama_1_1ansi_1_1_ansi_style" ],
+    [ "AnsiCodes", "classcolorama_1_1ansi_1_1AnsiCodes.html", "classcolorama_1_1ansi_1_1AnsiCodes" ],
+    [ "AnsiCursor", "classcolorama_1_1ansi_1_1AnsiCursor.html", "classcolorama_1_1ansi_1_1AnsiCursor" ],
+    [ "AnsiFore", "classcolorama_1_1ansi_1_1AnsiFore.html", "classcolorama_1_1ansi_1_1AnsiFore" ],
+    [ "AnsiBack", "classcolorama_1_1ansi_1_1AnsiBack.html", "classcolorama_1_1ansi_1_1AnsiBack" ],
+    [ "AnsiStyle", "classcolorama_1_1ansi_1_1AnsiStyle.html", "classcolorama_1_1ansi_1_1AnsiStyle" ],
     [ "clear_line", "ansi_8py.html#a90b9963a63fa64a4a6dfa44a3b81099c", null ],
     [ "clear_screen", "ansi_8py.html#abb455bad44c7a734b0cb03a9be0a7c41", null ],
     [ "code_to_chars", "ansi_8py.html#a0d99b0ed43a8b98e4a42507808d2c8d9", null ],

@@ -1,5 +1,0 @@
-<map id="catapult::cache::HashCacheStorage::Load" name="catapult::cache::HashCacheStorage::Load">
-<area shape="rect" id="node1" title="Loads a single value from input." alt="" coords="5,33,193,72"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_input_stream.html#aa10d1d3d15ae047bdc5e91947a405936" title=" " alt="" coords="241,5,407,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1io.html#ad1b2ea00494b16b43db7317fd54edaaa" title="Reads base value from input." alt="" coords="262,68,387,93"/>
-</map>

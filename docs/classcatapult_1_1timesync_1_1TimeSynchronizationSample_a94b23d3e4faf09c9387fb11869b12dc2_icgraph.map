@@ -1,0 +1,4 @@
+<map id="catapult::timesync::TimeSynchronizationSample::timeOffsetToRemote" name="catapult::timesync::TimeSynchronizationSample::timeOffsetToRemote">
+<area shape="rect" id="node1" title="Gets the offset of the local node&#39;s network time relative to the remote node&#39;s network time." alt="" coords="251,5,449,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1timesync_1_1TimeSynchronizationSample.html#af41a106ac414a06ee2497ddd4720fa4f" title="Returns true if this time synchronization sample is less than rhs." alt="" coords="5,5,203,57"/>
+</map>

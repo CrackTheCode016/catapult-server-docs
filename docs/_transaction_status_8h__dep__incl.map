@@ -1,7 +1,0 @@
-<map id="catapult&#45;server/src/catapult/model/TransactionStatus.h" name="catapult&#45;server/src/catapult/model/TransactionStatus.h">
-<area shape="rect" id="node1" title=" " alt="" coords="445,5,630,57"/>
-<area shape="rect" id="node2" href="$_transaction_status_mapper_8cpp.html" title=" " alt="" coords="5,105,259,157"/>
-<area shape="rect" id="node3" href="$_mongo_transaction_status_storage_8cpp.html" title=" " alt="" coords="283,105,522,157"/>
-<area shape="rect" id="node4" href="$_zero_mq_entity_publisher_8cpp.html" title=" " alt="" coords="546,112,800,151"/>
-<area shape="rect" id="node5" href="$_zero_mq_transaction_status_subscriber_8cpp.html" title=" " alt="" coords="824,105,1072,157"/>
-</map>

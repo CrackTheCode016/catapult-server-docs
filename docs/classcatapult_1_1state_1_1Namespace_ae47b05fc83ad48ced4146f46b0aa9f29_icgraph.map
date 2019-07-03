@@ -1,0 +1,8 @@
+<map id="catapult::state::Namespace::rootId" name="catapult::state::Namespace::rootId">
+<area shape="rect" id="node1" title="Gets the corresponding root namespace id." alt="" coords="564,87,747,125"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1RootNamespace.html#aa6ef5b11d43635d44b9ab57532a51543" title="Adds the child namespace ns." alt="" coords="276,5,516,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#ae487ba170593919bff3649843fc2d2cc" title="Inserts the namespace ns into the cache." alt="" coords="285,55,507,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1NamespaceEntry.html#a0301adff18000a0cb190a512ad4df1d5" title="Creates an entry around ns and root." alt="" coords="304,117,487,156"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#ad19367b05a1e8b3e82c630d66195ad65" title=" " alt="" coords="285,180,507,219"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#a5deffdb747199d3f8e381a66fa5a9fea" title="Removes the namespace specified by its id from the cache." alt="" coords="5,180,228,219"/>
+</map>

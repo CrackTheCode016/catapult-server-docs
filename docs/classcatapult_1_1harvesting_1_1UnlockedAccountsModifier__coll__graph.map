@@ -1,0 +1,7 @@
+<map id="catapult::harvesting::UnlockedAccountsModifier" name="catapult::harvesting::UnlockedAccountsModifier">
+<area shape="rect" id="node1" title="A write only view on top of unlocked accounts." alt="" coords="696,61,883,100"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="358,5,524,31"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1utils_1_1BasicSpinReaderWriterLock_1_1WriterLockGuard.html" title="A writer lock guard." alt="" coords="312,55,570,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BasicSpinReaderWriterLock_1_1LockGuard.html" title="Base class for RAII lock guards." alt="" coords="5,93,263,145"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1utils_1_1BasicSpinReaderWriterLock_1_1ReaderLockGuard.html" title="A reader lock guard." alt="" coords="312,131,570,183"/>
+</map>

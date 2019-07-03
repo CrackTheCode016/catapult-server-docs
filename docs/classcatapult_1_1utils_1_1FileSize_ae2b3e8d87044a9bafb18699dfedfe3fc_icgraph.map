@@ -1,0 +1,8 @@
+<map id="catapult::utils::FileSize::kilobytes" name="catapult::utils::FileSize::kilobytes">
+<area shape="rect" id="node1" title="Returns the number of kilobytes." alt="" coords="676,37,830,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1FileSize.html#acfa88fa369c3f69972192aad05e7161f" title="Creates a file size from the given number of kilobytes." alt="" coords="474,68,628,107"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1FileSize.html#a98acdd893a34ddee7c3848792a6bdad6" title="Returns the number of megabytes." alt="" coords="474,5,628,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1FileSize.html#a0f95c54ad4eebefd00c00e6ec5187f3d" title="Creates a file size from the given number of megabytes." alt="" coords="243,8,397,47"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a6862daa058be1c9b797ece9a2e9c6bf2" title="Tries to parse str into a FileSize (parsedValue)." alt="" coords="5,37,165,76"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1RocksDatabase.html#a8dbd58ba76b286f4920555eb1b369315" title="Creates database around settings." alt="" coords="213,123,426,161"/>
+</map>

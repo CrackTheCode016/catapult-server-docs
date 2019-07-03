@@ -1,0 +1,4 @@
+<map id="catapult::model::BlockStatementBuilder::addReceipt" name="catapult::model::BlockStatementBuilder::addReceipt">
+<area shape="rect" id="node1" title="Adds receipt to this builder." alt="" coords="5,5,218,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1TransactionStatement.html#a4438c2434b00ce99a519395440e7b9d3" title="Adds receipt to this transaction statement." alt="" coords="266,5,454,44"/>
+</map>

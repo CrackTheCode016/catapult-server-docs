@@ -1,0 +1,18 @@
+<map id="RegisterSubsystem" name="RegisterSubsystem">
+<area shape="rect" id="node1" title="Entry point for registering a dynamic module with manager." alt="" coords="5,372,142,397"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a695b10210a6231e989f361d63b4417ba" title="Registers mosaic support with manager." alt="" coords="190,365,369,404"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1PluginManager.html#a93ef30f395418b820bcf53c5b2573cbe" title="Adds support for a sub cache described by pSubCache." alt="" coords="435,5,661,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1PluginManager.html#a44b626f44afa4b8c99292836df29a8b5" title="Adds a diagnostic counter hook." alt="" coords="446,68,649,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1plugins_1_1PluginManager.html#ade167f60b0bc7eaa07e2a4adde4bfea9" title="Adds an observer hook." alt="" coords="434,144,661,183"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1plugins_1_1PluginManager.html#a7f21a94da7a0ae3d2f5f3dcc69ec7e8f" title="Adds a stateful validator hook." alt="" coords="455,207,640,259"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1plugins_1_1PluginManager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="450,283,645,335"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1plugins_1_1PluginManager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="443,359,652,411"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1plugins_1_1PluginManager.html#ad3dc9345709b4cdb83cd6a4606609d0d" title="Gets the cache configuration for cache with name." alt="" coords="451,435,644,473"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1plugins_1_1PluginManager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="471,497,625,536"/>
+<area shape="rect" id="node13" href="$namespacecatapult_1_1plugins.html#ac35f8c2c90e64f27953c15bb82641833" title="Creates a mosaic definition transaction plugin given the rental fee configuration (config)." alt="" coords="433,560,662,612"/>
+<area shape="rect" id="node14" href="$namespacecatapult_1_1plugins.html#ae3f45da01f0d1e95dd1248a8f1e471a5" title="Creates a mosaic supply change transaction plugin." alt="" coords="417,636,678,688"/>
+<area shape="rect" id="node15" href="$namespacecatapult_1_1model.html#ae62d014c8b10fb3eaf2f7cf03a565c61" title="Gets unresolved currency mosaic id from config." alt="" coords="443,712,652,751"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1CatapultCacheBuilder.html#a3c3bbf959d2ca82fe354eb342b4f7111" title="Adds pSubCache to the builder with the specified storage traits." alt="" coords="744,5,912,44"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="726,365,931,404"/>
+<area shape="rect" id="node16" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="743,712,913,751"/>
+</map>

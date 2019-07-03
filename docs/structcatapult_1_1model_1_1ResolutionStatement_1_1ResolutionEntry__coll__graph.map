@@ -1,0 +1,4 @@
+<map id="catapult::model::ResolutionStatement&lt; TUnresolved, TResolved, ResolutionReceiptType &gt;::ResolutionEntry" name="catapult::model::ResolutionStatement&lt; TUnresolved, TResolved, ResolutionReceiptType &gt;::ResolutionEntry">
+<area shape="rect" id="node1" title="Resolution entry." alt="" coords="5,105,238,171"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1ReceiptSource.html" title="Receipt source (unique within a block)." alt="" coords="40,5,204,44"/>
+</map>

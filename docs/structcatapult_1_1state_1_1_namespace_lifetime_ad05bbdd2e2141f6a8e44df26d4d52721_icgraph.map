@@ -1,4 +1,0 @@
-<map id="catapult::state::NamespaceLifetime::isActiveAndUnlocked" name="catapult::state::NamespaceLifetime::isActiveAndUnlocked">
-<area shape="rect" id="node1" title="Returns true if history is active at height (excluding grace period)." alt="" coords="264,5,465,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_root_namespace_history.html#ae710f1ca0857619bda68bb3fabbced7f" title="Returns true if history is active at height (excluding grace period)." alt="" coords="5,5,216,44"/>
-</map>

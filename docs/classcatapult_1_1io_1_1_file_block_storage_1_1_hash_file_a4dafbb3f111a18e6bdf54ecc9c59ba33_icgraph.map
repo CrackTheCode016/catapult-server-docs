@@ -1,4 +1,0 @@
-<map id="catapult::io::FileBlockStorage::HashFile::loadHashesFrom" name="catapult::io::FileBlockStorage::HashFile::loadHashesFrom">
-<area shape="rect" id="node1" title=" " alt="" coords="247,5,441,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_file_block_storage.html#aef8b9e02f5a88eece98a8e783517e195" title="Returns a range of at most maxHashes hashes starting at height." alt="" coords="5,5,199,44"/>
-</map>

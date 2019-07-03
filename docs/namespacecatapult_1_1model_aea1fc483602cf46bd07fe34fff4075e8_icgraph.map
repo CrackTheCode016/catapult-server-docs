@@ -1,6 +1,6 @@
 <map id="catapult::model::GenerateNamespaceId" name="catapult::model::GenerateNamespaceId">
 <area shape="rect" id="node1" title="Generates a namespace id given parentId and namespace name." alt="" coords="459,81,634,120"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_register_namespace_builder.html#affc0fd5ba940d000a3f9b450ffe201db" title=" " alt="" coords="220,5,411,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1RegisterNamespaceBuilder.html#affc0fd5ba940d000a3f9b450ffe201db" title=" " alt="" coords="220,5,411,57"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1extensions.html#ab9de0383e2af982aa309a308ce62d5f6" title="Parses a unified namespace name into a path." alt="" coords="224,81,407,120"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1model.html#a8b358396a1049833fcaffa1c502e5d59" title="Generates a root namespace id given name." alt="" coords="228,144,403,183"/>
 <area shape="rect" id="node4" href="$namespacecatapult_1_1extensions.html#aa8cea41c8a1dddf8108dbc7c23f45fe7" title="Generates a mosaic id given mosaic alias name." alt="" coords="5,81,172,120"/>

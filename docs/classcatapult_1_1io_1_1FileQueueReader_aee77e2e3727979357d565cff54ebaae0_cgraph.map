@@ -1,0 +1,11 @@
+<map id="catapult::io::FileQueueReader::skip" name="catapult::io::FileQueueReader::skip">
+<area shape="rect" id="node1" title="Skips at most the next count messages." alt="" coords="5,87,204,126"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1FileQueueReader.html#adf6c9116b9e3cab8a85e5856e2f4af98" title=" " alt="" coords="252,87,450,126"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1IndexFile.html#a47835027fd86fa37a1f5a0e265c5de55" title="true if the index file exists." alt="" coords="732,87,879,126"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1IndexFile.html#abf04a75491d6a2b7d696539703ea6711" title="Gets the index value." alt="" coords="498,38,672,63"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1io_1_1IndexFile.html#a49fbbf549573362717f1266c10c99fe7" title="Increments the index value by one and returns the new value." alt="" coords="511,145,659,183"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1IndexFile.html#adad14744c9d6b1ba0f202fa803d6ec7f" title=" " alt="" coords="940,145,1087,183"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="736,38,876,63"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1io_1_1IndexFile.html#adb43265aa6e6215e122a0e0723e9978a" title="Sets the index value to value." alt="" coords="720,202,892,227"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1io.html#a8613aa5dbcb9b6bb71adf19a828c495a" title="Writes value into output." alt="" coords="944,230,1083,255"/>
+</map>

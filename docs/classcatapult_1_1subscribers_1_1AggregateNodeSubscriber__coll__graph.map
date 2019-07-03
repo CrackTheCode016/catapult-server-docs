@@ -1,0 +1,5 @@
+<map id="catapult::subscribers::AggregateNodeSubscriber&lt; TNodeSubscriber &gt;" name="catapult::subscribers::AggregateNodeSubscriber&lt; TNodeSubscriber &gt;">
+<area shape="rect" id="node1" title="Aggregate node subscriber." alt="" coords="240,40,426,92"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1BasicAggregateSubscriber.html" title=" " alt="" coords="5,5,192,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1subscribers_1_1NodeSubscriber.html" title="Node subscriber." alt="" coords="27,81,170,120"/>
+</map>

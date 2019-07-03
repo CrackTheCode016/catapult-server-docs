@@ -1,4 +1,0 @@
-<map id="catapult::model::TransactionChangeTracker::remove" name="catapult::model::TransactionChangeTracker::remove">
-<area shape="rect" id="node1" title="Marks transaction info (transactionInfo) as removed." alt="" coords="288,5,477,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_aggregate_transactions_cache_modifier.html#a77964c7be8f27a2674006c2560e62624" title="Removes transactionInfo from the cache." alt="" coords="5,5,240,44"/>
-</map>

@@ -1,0 +1,6 @@
+<map id="catapult::cache::MultisigCacheStorage" name="catapult::cache::MultisigCacheStorage">
+<area shape="rect" id="node1" title="Policy for saving and loading multisig cache data." alt="" coords="586,47,749,85"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1CacheStorageForBasicInsertRemoveCache.html" title=" " alt="" coords="334,5,538,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1CacheStorageFromDescriptor.html" title=" " alt="" coords="5,12,286,51"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1MultisigEntrySerializer.html" title="Policy for saving and loading multisig entry data." alt="" coords="357,81,514,120"/>
+</map>

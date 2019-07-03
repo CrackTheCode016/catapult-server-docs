@@ -1,6 +1,0 @@
-<map id="catapult::ionet::NodeInteractionsContainer::BucketDuration" name="catapult::ionet::NodeInteractionsContainer::BucketDuration">
-<area shape="rect" id="node1" title="Maximum duration of an interaction bucket." alt="" coords="5,37,218,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_time_span.html#adf3213fc223f0f3fdebdddc152fd0f09" title="Creates a time span from the given number of hours." alt="" coords="266,37,433,76"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_time_span.html#a3b98e3ec2ccc27c77db8fc17d6e5c309" title="Returns the number of hours." alt="" coords="481,5,648,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_time_span.html#abed2663576b21626ff234f40ceffe563" title="Creates a default (zero) time span." alt="" coords="481,68,648,107"/>
-</map>

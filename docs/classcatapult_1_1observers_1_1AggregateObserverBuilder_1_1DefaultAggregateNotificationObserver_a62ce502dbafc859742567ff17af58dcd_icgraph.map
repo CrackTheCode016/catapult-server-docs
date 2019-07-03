@@ -1,0 +1,4 @@
+<map id="catapult::observers::AggregateObserverBuilder::DefaultAggregateNotificationObserver::notifyAll" name="catapult::observers::AggregateObserverBuilder::DefaultAggregateNotificationObserver::notifyAll">
+<area shape="rect" id="node1" title=" " alt="" coords="307,5,560,71"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1observers_1_1AggregateObserverBuilder_1_1DefaultAggregateNotificationObserver.html#a815608ca6a4ec9b357b42800748686ff" title="Notifies the observer with a notification to process and an observer context." alt="" coords="5,5,259,71"/>
+</map>

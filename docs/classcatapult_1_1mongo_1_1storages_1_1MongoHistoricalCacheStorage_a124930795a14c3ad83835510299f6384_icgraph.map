@@ -1,0 +1,6 @@
+<map id="catapult::mongo::storages::MongoHistoricalCacheStorage::CreateDeleteFilter" name="catapult::mongo::storages::MongoHistoricalCacheStorage::CreateDeleteFilter">
+<area shape="rect" id="node1" title=" " alt="" coords="520,44,730,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a21a12b8323bae94f94d18bd6cd29aa24" title=" " alt="" coords="263,44,472,96"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1storages_1_1MongoHistoricalCacheStorage.html#a6be5f402245bd0f5735c38a84c088f1b" title="Saves cache changes to external storage." alt="" coords="5,5,215,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1storages_1_1MongoFlatCacheStorage.html#a208fb0e80d665422147e77cca92791ca" title="Saves cache changes to external storage." alt="" coords="22,81,199,133"/>
+</map>

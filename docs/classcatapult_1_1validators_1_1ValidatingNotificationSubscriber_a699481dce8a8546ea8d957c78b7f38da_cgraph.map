@@ -1,0 +1,10 @@
+<map id="catapult::validators::ValidatingNotificationSubscriber::notify" name="catapult::validators::ValidatingNotificationSubscriber::notify">
+<area shape="rect" id="node1" title="Notifies the subscriber of notification." alt="" coords="5,113,221,165"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1validators.html#a0c5084676f9c51f91e95b32eed5d3128" title="Aggregates result into aggregate." alt="" coords="285,5,470,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1validators.html#acde08ccd2810b858004dd74b1858cdbd" title="Checks if result has all flags set." alt="" coords="533,60,666,99"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1validators.html#acee5dceebade6995d1a755fcf44d7cde" title="Returns a value indicating whether the validation result is a failure." alt="" coords="290,120,465,159"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1validators_1_1ValidatingNotificationSubscriber.html#aa241fc98b333dfa02cba455204ea0214" title="Gets the aggregate validation result." alt="" coords="269,183,485,235"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1validators_1_1NotificationValidatorT.html#a7aa15178a818b214e5cdfd5257dd7ec1" title="Validates a single notification with contextual information args." alt="" coords="300,259,455,311"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="714,92,837,131"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1validators.html#a5cfd898ef74a17421d8470007a70e49a" title="Extracts the encoded result severity from result." alt="" coords="533,123,666,161"/>
+</map>

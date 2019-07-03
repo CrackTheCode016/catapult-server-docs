@@ -1,0 +1,7 @@
+<map id="catapult::extensions::ServiceLocator" name="catapult::extensions::ServiceLocator">
+<area shape="rect" id="node1" title="A service locator for local node services." alt="" coords="19,353,158,392"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1KeyPair.html" title="Represents a pair of private key with associated public key." alt="" coords="5,267,171,292"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1crypto_1_1PrivateKey.html" title="Represents a private key." alt="" coords="171,180,355,205"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="6,80,171,119"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1Key__tag.html" title=" " alt="" coords="26,5,150,31"/>
+</map>

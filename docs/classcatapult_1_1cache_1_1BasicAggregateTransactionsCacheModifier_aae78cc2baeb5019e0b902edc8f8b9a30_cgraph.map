@@ -1,0 +1,7 @@
+<map id="catapult::cache::BasicAggregateTransactionsCacheModifier::~BasicAggregateTransactionsCacheModifier" name="catapult::cache::BasicAggregateTransactionsCacheModifier::~BasicAggregateTransactionsCacheModifier">
+<area shape="rect" id="node1" title="Destroys the modifier and notifies subscribers of changes." alt="" coords="5,61,298,113"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicAggregateTransactionsCacheModifier.html#ae52b4a8532383a5757b1ec68c79424d7" title=" " alt="" coords="346,68,565,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1TransactionChangeTracker.html#aba817f96ffe7400abbdc747e7823fae0" title="Gets the infos of net added transactions." alt="" coords="620,5,875,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1TransactionChangeTracker.html#ae60320531b0a672e26a9104aca17694a" title="Gets the infos of net removed transactions." alt="" coords="613,68,883,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1TransactionChangeTracker.html#a3661a6e78e33b742e3ca8f91611a4249" title="Clears all added and removed transactions." alt="" coords="653,131,842,169"/>
+</map>

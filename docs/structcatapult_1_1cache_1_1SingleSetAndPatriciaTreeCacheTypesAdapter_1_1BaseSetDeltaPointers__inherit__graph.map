@@ -1,0 +1,5 @@
+<map id="catapult::cache::SingleSetAndPatriciaTreeCacheTypesAdapter&lt; TPrimaryTypes, TPatriciaTree &gt;::BaseSetDeltaPointers" name="catapult::cache::SingleSetAndPatriciaTreeCacheTypesAdapter&lt; TPrimaryTypes, TPatriciaTree &gt;::BaseSetDeltaPointers">
+<area shape="rect" id="node1" title="Wrapper around single delta set and patricia tree." alt="" coords="5,24,243,89"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1AccountRestrictionBaseSetDeltaPointers.html" title=" " alt="" coords="291,5,505,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1MultisigBaseSetDeltaPointers.html" title=" " alt="" coords="316,68,480,107"/>
+</map>

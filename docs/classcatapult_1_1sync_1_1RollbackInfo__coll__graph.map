@@ -1,0 +1,5 @@
+<map id="catapult::sync::RollbackInfo" name="catapult::sync::RollbackInfo">
+<area shape="rect" id="node1" title="Container for both committed and ignored rollback statistics." alt="" coords="90,119,274,144"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1TimeSpan.html" title="Represents a time duration." alt="" coords="5,12,172,37"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1sync_1_1RollbackStats.html" title="Container for rollback statistics." alt="" coords="196,5,357,44"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="NodeRequestResult.h" name="NodeRequestResult.h">
+<area shape="rect" id="node1" title=" " alt="" coords="557,5,709,31"/>
+<area shape="rect" id="node2" href="$PeersProcessor_8h.html" title=" " alt="" coords="101,79,227,104"/>
+<area shape="rect" id="node5" href="$TimeSynchronizationUtils_8h.html" title=" " alt="" coords="654,79,837,104"/>
+<area shape="rect" id="node8" href="$BriefServerRequestor_8h.html" title=" " alt="" coords="456,79,616,104"/>
+<area shape="rect" id="node13" href="$NetEnums_8cpp.html" title=" " alt="" coords="860,79,969,104"/>
+<area shape="rect" id="node3" href="$NodeDiscoveryService_8cpp.html" title=" " alt="" coords="5,225,187,251"/>
+<area shape="rect" id="node4" href="$PeersProcessor_8cpp.html" title=" " alt="" coords="94,152,234,177"/>
+<area shape="rect" id="node6" href="$TimeSynchronizationService_8cpp.html" title=" " alt="" coords="735,225,950,251"/>
+<area shape="rect" id="node7" href="$TimeSynchronizationUtils_8cpp.html" title=" " alt="" coords="662,152,858,177"/>
+<area shape="rect" id="node9" href="$NodePingRequestor_8h.html" title=" " alt="" coords="259,152,411,177"/>
+<area shape="rect" id="node11" href="$NodeNetworkTimeRequestor_8h.html" title=" " alt="" coords="434,152,638,177"/>
+<area shape="rect" id="node10" href="$NodePingRequestor_8cpp.html" title=" " alt="" coords="244,225,410,251"/>
+<area shape="rect" id="node12" href="$NodeNetworkTimeRequestor_8cpp.html" title=" " alt="" coords="434,225,651,251"/>
+</map>

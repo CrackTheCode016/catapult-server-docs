@@ -1,5 +1,0 @@
-<map id="catapult::validators::ActiveMosaicView::tryGet" name="catapult::validators::ActiveMosaicView::tryGet">
-<area shape="rect" id="node1" title="Tries to get an entry iterator (iter) for an active mosaic with id at height." alt="" coords="299,37,479,76"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1validators.html#ae89672a3a8c647d76e49d8814201281c" title=" " alt="" coords="5,5,251,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1validators_1_1_active_mosaic_view.html#acaa9279b5d171181c47d29aa2912f0da" title="Tries to get an entry iterator (iter) for an active mosaic with id at height given its purported owne..." alt="" coords="39,68,218,107"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="catapult::model::BasicContiguousEntityContainer::iterator::checkError" name="catapult::model::BasicContiguousEntityContainer::iterator::checkError">
+<area shape="rect" id="node1" title=" " alt="" coords="273,44,492,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1BasicContiguousEntityContainer_1_1iterator.html#af3ffc9702bc00e3d2457f74377fb7dc0" title="Creates an iterator around pStart and state with specified current position (pCurrent)." alt="" coords="5,5,225,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1BasicContiguousEntityContainer_1_1iterator.html#abb452b0764fd271ac684a70f2be3c9db" title="Advances the iterator to the next position." alt="" coords="5,81,225,133"/>
+</map>

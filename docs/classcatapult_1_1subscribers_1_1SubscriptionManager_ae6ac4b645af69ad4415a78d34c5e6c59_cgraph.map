@@ -1,0 +1,8 @@
+<map id="catapult::subscribers::SubscriptionManager::createUtCache" name="catapult::subscribers::SubscriptionManager::createUtCache">
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,160,120"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1cache.html#a495e918cb4db2d26d7c4f7e961faa382" title="Creates an aggregate ut cache that delegates to utCache and publishes ut transaction changes to pUtCh..." alt="" coords="208,5,428,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1subscribers_1_1SubscriptionManager.html#abe5ff223abda17130232ef5ea52cf2c5" title="Creates the ut change subscriber." alt="" coords="223,68,413,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1subscribers_1_1SubscriptionManager.html#ae9a37d2eaa50150b35c30b4952bbf6ae" title=" " alt="" coords="476,100,631,152"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1subscribers_1_1SubscriptionManager.html#a5b7c8d3979ea5240425888e57af02ddc" title=" " alt="" coords="679,68,834,120"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="882,107,1004,145"/>
+</map>

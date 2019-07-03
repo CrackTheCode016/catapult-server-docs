@@ -1,7 +1,0 @@
-<map id="catapult::timesync::TimeSynchronizationSample::operator&lt;" name="catapult::timesync::TimeSynchronizationSample::operator&lt;">
-<area shape="rect" id="node1" title="Returns true if this time synchronization sample is less than rhs." alt="" coords="5,33,203,85"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="278,5,422,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1timesync_1_1_time_synchronization_sample.html#a94b23d3e4faf09c9387fb11869b12dc2" title="Gets the offset of the local node&#39;s network time relative to the remote node&#39;s network time." alt="" coords="251,68,449,120"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1timesync_1_1_time_synchronization_sample.html#a9240f868116e0c2a4f19c72ff0f678ae" title="Gets the local duration." alt="" coords="497,29,695,81"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1timesync_1_1_time_synchronization_sample.html#a1fab0da794da3fc5cb6e8389e2896bc2" title="Gets the remote duration." alt="" coords="497,105,695,157"/>
-</map>

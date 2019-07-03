@@ -1,9 +1,9 @@
 <map id="catapult::plugins::RegisterAccountLinkSubsystem" name="catapult::plugins::RegisterAccountLinkSubsystem">
 <area shape="rect" id="node1" title="Registers account link support with manager." alt="" coords="5,151,215,189"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#ade167f60b0bc7eaa07e2a4adde4bfea9" title="Adds an observer hook." alt="" coords="263,5,490,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a7f21a94da7a0ae3d2f5f3dcc69ec7e8f" title="Adds a stateful validator hook." alt="" coords="283,68,469,120"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="278,144,474,196"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="271,220,481,272"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1PluginManager.html#ade167f60b0bc7eaa07e2a4adde4bfea9" title="Adds an observer hook." alt="" coords="263,5,490,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1PluginManager.html#a7f21a94da7a0ae3d2f5f3dcc69ec7e8f" title="Adds a stateful validator hook." alt="" coords="283,68,469,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1plugins_1_1PluginManager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="278,144,474,196"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1PluginManager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="271,220,481,272"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1plugins.html#a3ca2971dff79cfa47c5f39f47f51a2d5" title="Creates an account link transaction plugin." alt="" coords="275,296,478,348"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1_plugin_registry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="538,227,743,265"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="538,227,743,265"/>
 </map>

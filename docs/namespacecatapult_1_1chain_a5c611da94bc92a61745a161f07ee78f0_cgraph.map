@@ -1,5 +1,5 @@
 <map id="catapult::chain::CalculateTarget" name="catapult::chain::CalculateTarget">
 <area shape="rect" id="node1" title=" " alt="" coords="5,37,176,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_time_span.html#aaaa120f734d5b3c5d795688fa2be426c" title="Returns the number of seconds." alt="" coords="225,5,392,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="224,68,393,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1TimeSpan.html#aaaa120f734d5b3c5d795688fa2be426c" title="Returns the number of seconds." alt="" coords="225,5,392,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="224,68,393,107"/>
 </map>

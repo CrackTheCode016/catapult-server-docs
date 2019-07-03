@@ -1,4 +1,4 @@
 <map id="catapult::cache::CreateAggregatePtCache" name="catapult::cache::CreateAggregatePtCache">
 <area shape="rect" id="node1" title="Creates an aggregate pt cache that delegates to ptCache and publishes pt transaction changes to pPtCh..." alt="" coords="208,12,428,51"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_subscription_manager.html#a55eaf53e87be3eeaef81949c9c9d0dab" title=" " alt="" coords="5,5,160,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1SubscriptionManager.html#a55eaf53e87be3eeaef81949c9c9d0dab" title=" " alt="" coords="5,5,160,57"/>
 </map>

@@ -1,0 +1,4 @@
+<map id="catapult::mongo::MongoPluginManager::addStorageSupport" name="catapult::mongo::MongoPluginManager::addStorageSupport">
+<area shape="rect" id="node1" title="Adds support for an external cache storage described by pStorage." alt="" coords="5,5,207,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1ExternalCacheStorageBuilder.html#aaaa19876fe63c2b3a1d43b78009249b2" title="Adds pStorage to the builder." alt="" coords="255,5,433,44"/>
+</map>

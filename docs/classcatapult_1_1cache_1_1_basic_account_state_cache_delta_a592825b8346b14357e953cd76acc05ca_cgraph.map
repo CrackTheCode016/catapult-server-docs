@@ -1,5 +1,0 @@
-<map id="catapult::cache::BasicAccountStateCacheDelta::commitRemovals" name="catapult::cache::BasicAccountStateCacheDelta::commitRemovals">
-<area shape="rect" id="node1" title="Commits all queued removals." alt="" coords="5,5,237,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_delta.html#aa80a1c1afeeb41423c6cf9c1edc22c6f" title=" " alt="" coords="285,5,484,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_const_accessor_mixin.html#a15634356f499e9cc082fb4dde7a5fb6b" title="Finds the cache value identified by key." alt="" coords="532,5,740,44"/>
-</map>

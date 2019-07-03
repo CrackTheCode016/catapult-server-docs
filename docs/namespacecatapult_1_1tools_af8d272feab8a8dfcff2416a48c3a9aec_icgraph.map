@@ -1,4 +1,4 @@
 <map id="catapult::tools::Join" name="catapult::tools::Join">
 <area shape="rect" id="node1" title="Joins all values with separator." alt="" coords="220,12,356,37"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1_key_value_output_builder.html#af47f09a012b056914e7149f84bf34c18" title="Adds a key with multiple values that should be joined with separator." alt="" coords="5,5,172,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1KeyValueOutputBuilder.html#af47f09a012b056914e7149f84bf34c18" title="Adds a key with multiple values that should be joined with separator." alt="" coords="5,5,172,44"/>
 </map>

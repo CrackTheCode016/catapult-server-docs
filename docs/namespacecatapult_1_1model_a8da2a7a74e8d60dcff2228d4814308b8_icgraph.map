@@ -1,9 +1,9 @@
 <map id="catapult::model::PublicKeyToAddress" name="catapult::model::PublicKeyToAddress">
 <area shape="rect" id="node1" title="Creates an address from a public key (publicKey) for the network identified by networkIdentifier." alt="" coords="556,137,735,176"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1validators.html#a9af0b8a3dd73340da958d0733b8f3aba" title=" " alt="" coords="253,5,508,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_delta.html#a00fad88323a6af3f428fca780f2d0fe3" title=" " alt="" coords="281,68,480,107"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1mongo_1_1plugins_1_1_mongo_lock_info_cache_storage_traits.html#af66656770f8919f1ec494889757064e2" title="Maps lockInfo given network networkIdentifier to a mongo document." alt="" coords="262,131,500,183"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicAccountStateCacheDelta.html#a00fad88323a6af3f428fca780f2d0fe3" title=" " alt="" coords="281,68,480,107"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1mongo_1_1plugins_1_1MongoLockInfoCacheStorageTraits.html#af66656770f8919f1ec494889757064e2" title="Maps lockInfo given network networkIdentifier to a mongo document." alt="" coords="262,131,500,183"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1mongo_1_1plugins.html#a8810f78d2b89d97ee12db96785359bd4" title="Converts the root namespace history into a vector of namespace descriptors using networkIdentifier fo..." alt="" coords="261,207,501,245"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1tools.html#a28b7023658fde9037eeddc099a273c86" title="Generate count deterministic addresses." alt="" coords="302,269,460,308"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_delta.html#af4d6d1dc929a84d2e8ef2805ffa63ef8" title=" " alt="" coords="5,68,205,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1BasicAccountStateCacheDelta.html#af4d6d1dc929a84d2e8ef2805ffa63ef8" title=" " alt="" coords="5,68,205,107"/>
 </map>

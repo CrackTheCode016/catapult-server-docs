@@ -1,0 +1,4 @@
+<map id="catapult::disruptor::ConsumerDispatcher::shutdown" name="catapult::disruptor::ConsumerDispatcher::shutdown">
+<area shape="rect" id="node1" title="Shuts down dispatcher and stops all threads." alt="" coords="215,5,369,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1ConsumerDispatcher.html#ac0ff265e493dd912392ee8a0342a151d" title=" " alt="" coords="5,5,167,57"/>
+</map>

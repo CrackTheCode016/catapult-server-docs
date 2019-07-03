@@ -1,0 +1,5 @@
+<map id="catapult::io::BlockStorage" name="catapult::io::BlockStorage">
+<area shape="rect" id="node1" title="Interface for saving and loading blocks." alt="" coords="13,165,185,191"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1LightBlockStorage.html" title="Minimalistic interface for block storage (does not allow block loading)." alt="" coords="22,79,176,117"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,5,193,31"/>
+</map>

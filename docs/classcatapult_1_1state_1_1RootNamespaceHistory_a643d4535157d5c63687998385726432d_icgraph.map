@@ -1,0 +1,4 @@
+<map id="catapult::state::RootNamespaceHistory::push_back" name="catapult::state::RootNamespaceHistory::push_back">
+<area shape="rect" id="node1" title="Adds a new root namespace around owner and lifetime at the end of the history." alt="" coords="276,5,487,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#ac59718570eaf02df72dffca232a5c71b" title="Inserts the root namespace ns into the cache." alt="" coords="5,5,228,44"/>
+</map>

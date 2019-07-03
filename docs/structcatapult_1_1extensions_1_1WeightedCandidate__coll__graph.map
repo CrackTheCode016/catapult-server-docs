@@ -1,0 +1,13 @@
+<map id="catapult::extensions::WeightedCandidate" name="catapult::extensions::WeightedCandidate">
+<area shape="rect" id="node1" title="A weighted candidate." alt="" coords="1598,61,1744,100"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1Node.html" title="A node in the catapult network." alt="" coords="1371,68,1515,93"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="1053,5,1218,44"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1Key__tag.html" title=" " alt="" coords="777,12,902,37"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1ionet_1_1NodeMetadata.html" title="Additional node information." alt="" coords="1036,68,1236,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="739,61,940,100"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="492,48,689,113"/>
+<area shape="rect" id="node8" title=" " alt="" coords="244,40,367,65"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,89,390,128"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,96,172,121"/>
+<area shape="rect" id="node11" href="$structcatapult_1_1ionet_1_1NodeEndpoint.html" title="A node&#39;s publicly accessible endpoint." alt="" coords="1038,117,1234,143"/>
+</map>

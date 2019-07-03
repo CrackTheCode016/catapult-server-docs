@@ -1,0 +1,4 @@
+<map id="catapult::cache::CacheChangesStorageAdapter&lt; TCache, TStorageTraits &gt;" name="catapult::cache::CacheChangesStorageAdapter&lt; TCache, TStorageTraits &gt;">
+<area shape="rect" id="node1" title="CacheChangesStorage implementation that wraps a cache and associated storage traits." alt="" coords="5,92,240,144"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1CacheChangesStorage.html" title="Interface for loading and saving cache changes." alt="" coords="18,5,228,44"/>
+</map>

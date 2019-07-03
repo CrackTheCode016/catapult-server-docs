@@ -1,0 +1,52 @@
+<map id="MosaicAvailabilityValidator.cpp" name="MosaicAvailabilityValidator.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2276,5,2478,31"/>
+<area shape="rect" id="node2" href="$txes_2mosaic_2src_2validators_2Validators_8h.html" title=" " alt="" coords="972,85,1063,111"/>
+<area shape="rect" id="node27" href="$MosaicCache_8h.html" title=" " alt="" coords="2534,85,2708,111"/>
+<area shape="rect" id="node43" href="$AccountStateCache_8h.html" title=" " alt="" coords="2135,79,2289,117"/>
+<area shape="rect" id="node46" href="$ValidatorContext_8h.html" title=" " alt="" coords="2680,252,2813,291"/>
+<area shape="rect" id="node3" href="$plugins_2txes_2mosaic_2src_2validators_2Results_8h.html" title=" " alt="" coords="855,172,932,197"/>
+<area shape="rect" id="node5" href="$MosaicNotifications_8h.html" title=" " alt="" coords="1246,172,1455,197"/>
+<area shape="rect" id="node10" href="$Notifications_8h.html" title=" " alt="" coords="1013,259,1208,284"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1548,432,1655,457"/>
+<area shape="rect" id="node19" href="$ValidatorTypes_8h.html" title=" " alt="" coords="501,165,630,204"/>
+<area shape="rect" id="node4" href="$ValidationResult_8h.html" title=" " alt="" coords="534,339,666,377"/>
+<area shape="rect" id="node6" href="$MosaicConstants_8h.html" title=" " alt="" coords="1283,259,1418,284"/>
+<area shape="rect" id="node7" href="$MosaicProperties_8h.html" title=" " alt="" coords="1952,345,2088,371"/>
+<area shape="rect" id="node9" href="$MosaicTypes_8h.html" title=" " alt="" coords="1442,259,1552,284"/>
+<area shape="rect" id="node8" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="2117,432,2232,457"/>
+<area shape="rect" id="node11" href="$ContainerTypes_8h.html" title=" " alt="" coords="2112,345,2237,371"/>
+<area shape="rect" id="node13" href="$EntityType_8h.html" title=" " alt="" coords="1007,345,1102,371"/>
+<area shape="rect" id="node14" href="$NetworkInfo_8h.html" title=" " alt="" coords="2261,345,2365,371"/>
+<area shape="rect" id="node15" href="$NotificationType_8h.html" title=" " alt="" coords="1126,345,1253,371"/>
+<area shape="rect" id="node16" href="$ArraySet_8h.html" title=" " alt="" coords="1520,345,1682,371"/>
+<area shape="rect" id="node17" href="$TimeSpan_8h.html" title=" " alt="" coords="1757,345,1928,371"/>
+<area shape="rect" id="node18" title=" " alt="" coords="839,432,897,457"/>
+<area shape="rect" id="node20" href="$AggregateNotificationValidator_8h.html" title=" " alt="" coords="225,259,436,284"/>
+<area shape="rect" id="node21" href="$EntityValidator_8h.html" title=" " alt="" coords="84,259,201,284"/>
+<area shape="rect" id="node22" href="$WeakEntityInfo_8h.html" title=" " alt="" coords="44,339,223,377"/>
+<area shape="rect" id="node23" href="$VerifiableEntity_8h.html" title=" " alt="" coords="5,432,125,457"/>
+<area shape="rect" id="node24" href="$FunctionalNotificationValidator_8h.html" title=" " alt="" coords="460,259,671,284"/>
+<area shape="rect" id="node25" href="$functions_8h.html" title=" " alt="" coords="694,259,831,284"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2389,345,2459,371"/>
+<area shape="rect" id="node28" href="$MosaicCacheDelta_8h.html" title=" " alt="" coords="2549,172,2693,197"/>
+<area shape="rect" id="node37" href="$MosaicCacheStorage_8h.html" title=" " alt="" coords="3355,345,3514,371"/>
+<area shape="rect" id="node39" href="$MosaicCacheView_8h.html" title=" " alt="" coords="2769,172,2910,197"/>
+<area shape="rect" id="node40" href="$BasicCache_8h.html" title=" " alt="" coords="1799,172,1992,197"/>
+<area shape="rect" id="node29" href="$MosaicBaseSets_8h.html" title=" " alt="" coords="3074,259,3206,284"/>
+<area shape="rect" id="node30" href="$MosaicCacheSerializers_8h.html" title=" " alt="" coords="3155,345,3330,371"/>
+<area shape="rect" id="node33" href="$CacheMixinAliases_8h.html" title=" " alt="" coords="2279,252,2460,291"/>
+<area shape="rect" id="node34" href="$ReadOnlyArtifactCache_8h.html" title=" " alt="" coords="2838,252,3050,291"/>
+<area shape="rect" id="node35" href="$ReadOnlyViewSupplier_8h.html" title=" " alt="" coords="2056,252,2255,291"/>
+<area shape="rect" id="node36" href="$BaseSetDelta_8h.html" title=" " alt="" coords="2483,252,2655,291"/>
+<area shape="rect" id="node31" href="$MosaicCacheTypes_8h.html" title=" " alt="" coords="3099,432,3248,457"/>
+<area shape="rect" id="node32" href="$MosaicEntrySerializer_8h.html" title=" " alt="" coords="3271,432,3486,457"/>
+<area shape="rect" id="node38" href="$src_2catapult_2cache_2CacheStorageInclude_8h.html" title=" " alt="" coords="3510,425,3706,464"/>
+<area shape="rect" id="node41" href="$CacheConfiguration_8h.html" title=" " alt="" coords="1626,259,1776,284"/>
+<area shape="rect" id="node42" href="$CacheConstants_8h.html" title=" " alt="" coords="1800,259,1931,284"/>
+<area shape="rect" id="node44" href="$AccountStateCacheDelta_8h.html" title=" " alt="" coords="2237,172,2419,197"/>
+<area shape="rect" id="node45" href="$AccountStateCacheView_8h.html" title=" " alt="" coords="2035,172,2213,197"/>
+<area shape="rect" id="node47" href="$ReadOnlyCatapultCache_8h.html" title=" " alt="" coords="1277,339,1496,377"/>
+<area shape="rect" id="node48" href="$ResolverContext_8h.html" title=" " alt="" coords="2692,345,2913,371"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2609,345,2668,371"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2533,345,2584,371"/>
+</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['simplevalidator',['SimpleValidator',['../namespace_simple_validator.html',1,'']]]
+  ['simplevalidator',['SimpleValidator',['../namespaceSimpleValidator.html',1,'']]]
 ];

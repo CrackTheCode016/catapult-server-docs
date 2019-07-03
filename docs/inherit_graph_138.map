@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classcatapult_1_1subscribers_1_1_basic_aggregate_subscriber.html" title=" " alt="" coords="5,5,192,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_aggregate_pt_change_subscriber.html" title="Aggregate partial transactions change subscriber." alt="" coords="240,40,453,92"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_pt_change_subscriber.html" title="Partial transactions change subscriber." alt="" coords="10,81,188,120"/>
+<area shape="rect" id="node1" href="$classcatapult_1_1subscribers_1_1BasicAggregateSubscriber.html" title=" " alt="" coords="5,5,192,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1AggregatePtChangeSubscriber.html" title="Aggregate partial transactions change subscriber." alt="" coords="240,40,453,92"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1PtChangeSubscriber.html" title="Partial transactions change subscriber." alt="" coords="10,81,188,120"/>
 </map>

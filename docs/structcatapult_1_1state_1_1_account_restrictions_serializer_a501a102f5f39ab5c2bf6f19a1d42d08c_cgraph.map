@@ -1,7 +1,0 @@
-<map id="catapult::state::AccountRestrictionsSerializer::Load" name="catapult::state::AccountRestrictionsSerializer::Load">
-<area shape="rect" id="node1" title="Loads a single value from input." alt="" coords="5,87,189,125"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_input_stream.html#aa10d1d3d15ae047bdc5e91947a405936" title=" " alt="" coords="237,5,403,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="250,68,390,93"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1io.html#aac66f8080fea9c0e50ef9d8665f3a098" title="Reads value from input." alt="" coords="254,117,386,143"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_account_restrictions.html#a79e67347bc9106f5b88a9b4bc088b3ec" title="Gets the const typed account restriction specified by restrictionType." alt="" coords="240,167,400,205"/>
-</map>

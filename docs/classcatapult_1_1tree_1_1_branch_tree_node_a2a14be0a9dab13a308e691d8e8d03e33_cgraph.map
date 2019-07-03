@@ -1,5 +1,0 @@
-<map id="catapult::tree::BranchTreeNode::clearLink" name="catapult::tree::BranchTreeNode::clearLink">
-<area shape="rect" id="node1" title="Clears the branch link at index." alt="" coords="5,5,180,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_branch_tree_node.html#a66cb8c9cac026dc52425da03ecdaa650" title="Sets the branch link at index." alt="" coords="228,5,403,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1_branch_tree_node.html#a7c50111fa0f28c9a693fbdd94ae8fac7" title="Gets the branch link at index." alt="" coords="451,5,626,44"/>
-</map>

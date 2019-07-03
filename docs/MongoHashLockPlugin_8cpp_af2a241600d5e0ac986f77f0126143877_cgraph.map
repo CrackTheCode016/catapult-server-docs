@@ -1,0 +1,12 @@
+<map id="RegisterMongoSubsystem" name="RegisterMongoSubsystem">
+<area shape="rect" id="node1" title="Entry point for registering a dynamic module with manager." alt="" coords="5,200,183,225"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a59f9c5635b44e222638ed00326ef2ca7" title="Adds support for a receipt described by pReceiptPlugin." alt="" coords="249,5,451,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a2b053127534de9d3ec9c5492c13a10ac" title="Adds support for an external cache storage described by pStorage." alt="" coords="249,131,451,169"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a205502e0f851c3b9807e5ff6959fc306" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="240,68,460,107"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1mongo.html#aadfc75f878b09a84154299ccde30598c" title="Creates a mongo balance change receipt plugin around type." alt="" coords="244,193,456,232"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1mongo_1_1plugins.html#a109edf80b2454abb1a94dd90a651878a" title="Creates a mongo hash lock transaction plugin." alt="" coords="231,256,469,308"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a0d588a55756f41c83044d3a71d44e754" title="Gets the mongo storage context." alt="" coords="249,332,451,371"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a719d3cfadd87964f1c4b0c70e58c40e3" title="Gets the network idenfifier." alt="" coords="249,395,451,433"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="517,37,722,76"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1ExternalCacheStorageBuilder.html#aaaa19876fe63c2b3a1d43b78009249b2" title="Adds pStorage to the builder." alt="" coords="531,131,708,169"/>
+</map>

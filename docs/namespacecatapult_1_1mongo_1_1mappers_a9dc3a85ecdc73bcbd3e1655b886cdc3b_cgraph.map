@@ -1,6 +1,6 @@
 <map id="catapult::mongo::mappers::StreamReceipt" name="catapult::mongo::mappers::StreamReceipt">
 <area shape="rect" id="node1" title="Streams a receipt into builder using receiptRegistry for mapping derived receipt types." alt="" coords="5,68,181,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_plugin_registry.html#a5c0c2c3a04861e9031d6e48a130e540d" title="Finds the plugin corresponding to type or nullptr if none is registered." alt="" coords="229,5,434,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1PluginRegistry.html#a5c0c2c3a04861e9031d6e48a130e540d" title="Finds the plugin corresponding to type or nullptr if none is registered." alt="" coords="229,5,434,44"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1mongo_1_1mappers.html#a303033de9c307059b6bfff1688a87610" title="Streams a receipt to builder." alt="" coords="244,68,419,107"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1mongo_1_1mappers.html#abe995238cacf9b478fd4c7eb08357792" title="Converts raw array (pData) of size elements into bson binary type." alt="" coords="244,131,419,169"/>
 <area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="482,68,605,107"/>

@@ -1,6 +1,6 @@
 <map id="catapult::thread::CreateIoThreadPool" name="catapult::thread::CreateIoThreadPool">
 <area shape="rect" id="node1" title=" " alt="" coords="489,37,649,76"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1tools.html#afb453d6e92ab9e6415261a460e9542a4" title="Creates a started thread pool with numThreads threads." alt="" coords="247,5,441,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#a2cbb192dfdb682d116f94e79ed74b6c2" title=" " alt="" coords="247,68,440,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1thread_1_1_multi_service_pool.html#afa86e199944a723021e0997d4e3a1a2c" title=" " alt="" coords="5,68,199,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1MultiServicePool.html#a2cbb192dfdb682d116f94e79ed74b6c2" title=" " alt="" coords="247,68,440,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1thread_1_1MultiServicePool.html#afa86e199944a723021e0997d4e3a1a2c" title=" " alt="" coords="5,68,199,107"/>
 </map>

@@ -1,9 +1,9 @@
-<map id="catapult&#45;server/extensions/mongo/plugins/transfer" name="catapult&#45;server/extensions/mongo/plugins/transfer">
+<map id="transfer" name="transfer">
 <area shape="rect" id="node2" href="dir_94f5087bb070373ccbfd1eb925aa5367.html" title="src" alt="" coords="53,61,125,109"/>
 <area shape="rect" id="node3" href="dir_6e77d1c8f936559d2897a71d6623c45f.html" title="src" alt="" coords="5,157,77,205"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000049_000050.html" title="4" alt="" coords="66,138,73,151"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000185_000040.html" title="4" alt="" coords="66,138,73,151"/>
 <area shape="rect" id="node4" href="dir_a603158e195a33c353754615efb67653.html" title="plugins" alt="" coords="101,157,173,205"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000049_000078.html" title="1" alt="" coords="121,130,128,143"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000185_000010.html" title="1" alt="" coords="121,130,128,143"/>
 <area shape="rect" id="clust2" href="dir_019d95f315bb8abfbf74683c9bc4f93f.html" alt="" coords="43,51,232,120"/>
 <area shape="rect" id="clust1" href="dir_9af1bea9231d8a103bbfbdcba20bc81c.html" title="plugins" alt="" coords="32,16,243,131"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="catapult::sync::GetPacketWriters" name="catapult::sync::GetPacketWriters">
 <area shape="rect" id="node1" title="Gets the packet writers service from locator." alt="" coords="5,5,178,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_service_locator.html#ac9b1a47dc1ffdb9774f39fe1de5166fc" title="Gets the service with serviceName." alt="" coords="226,5,393,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_service_locator.html#ae980dc64fab6acecbe0c3e4c3cc83f43" title=" " alt="" coords="441,5,647,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1ServiceLocator.html#ac9b1a47dc1ffdb9774f39fe1de5166fc" title="Gets the service with serviceName." alt="" coords="226,5,393,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1ServiceLocator.html#ae980dc64fab6acecbe0c3e4c3cc83f43" title=" " alt="" coords="441,5,647,44"/>
 </map>

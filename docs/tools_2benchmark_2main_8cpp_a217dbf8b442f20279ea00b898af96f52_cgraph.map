@@ -1,8 +1,8 @@
 <map id="main" name="main">
 <area shape="rect" id="node1" title=" " alt="" coords="5,93,56,119"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1tools.html#a003b21db87c3d7802f9c87647b5c2c35" title=" " alt="" coords="104,93,268,119"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1tools_1_1_command_parser.html#a5a188c18e62afc27a6923e383c9503f5" title="Returns name of the command." alt="" coords="339,5,511,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1tools_1_1_tool.html#a90e701b18b25f48e24ed4c22101a3b5b" title="Run the tool passing options collected from the command line." alt="" coords="344,68,506,93"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tools_1_1CommandParser.html#a5a188c18e62afc27a6923e383c9503f5" title="Returns name of the command." alt="" coords="339,5,511,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tools_1_1Tool.html#a90e701b18b25f48e24ed4c22101a3b5b" title="Run the tool passing options collected from the command line." alt="" coords="344,68,506,93"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1thread.html#a7067b8be6d66ed95ea8f4058bf117fb6" title=" " alt="" coords="316,117,534,143"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1version.html#a2bb99c53ab89c89f5615b78bf6d98557" title="Writes custom version information to out." alt="" coords="343,167,507,205"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1thread.html#ad39b4a512159d72096deaa5fe027e1cb" title="Gets the maximum supported thread name length (excluding NUL&#45;terminator)." alt="" coords="582,111,750,149"/>

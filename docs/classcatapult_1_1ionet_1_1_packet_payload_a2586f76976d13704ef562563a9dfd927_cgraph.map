@@ -1,4 +1,0 @@
-<map id="catapult::ionet::PacketPayload::Merge" name="catapult::ionet::PacketPayload::Merge">
-<area shape="rect" id="node1" title="Merges a packet (pPacket) and a packet payload into a new packet payload." alt="" coords="5,5,206,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_payload.html#aaa1c4fea7841ca01c29424c3628331f6" title="Returns true if this packet payload is unset." alt="" coords="254,5,455,44"/>
-</map>

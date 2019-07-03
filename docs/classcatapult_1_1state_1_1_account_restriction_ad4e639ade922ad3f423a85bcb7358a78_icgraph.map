@@ -1,5 +1,0 @@
-<map id="catapult::state::AccountRestriction::update" name="catapult::state::AccountRestriction::update">
-<area shape="rect" id="node1" title=" " alt="" coords="213,37,373,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_restriction.html#a7442d7345844afc3b021c2ad4e63dda7" title="Applies modification to the allowed values." alt="" coords="5,5,165,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_restriction.html#a55564c49708868714b2e9936f33d4202" title="Applies modification to the the blocked values." alt="" coords="5,68,165,107"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="catapult::io::BufferedInputFileStream" name="catapult::io::BufferedInputFileStream">
-<area shape="rect" id="node1" title="Provides a buffered input stream around raw file." alt="" coords="23,192,196,231"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_input_stream.html" title="Reader interface." alt="" coords="5,105,171,131"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_raw_file.html" title="Wrapper for low&#45;level i/o operations on files." alt="" coords="195,105,336,131"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="92,12,258,37"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1_raw_file_1_1_file_descriptor_holder.html" title=" " alt="" coords="282,5,433,44"/>
-</map>

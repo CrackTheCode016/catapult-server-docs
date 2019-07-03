@@ -1,0 +1,7 @@
+<map id="catapult::io::InputStream" name="catapult::io::InputStream">
+<area shape="rect" id="node1" title="Reader interface." alt="" coords="5,88,171,113"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1BufferInputStreamAdapter.html" title=" " alt="" coords="227,5,411,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1BufferedInputFileStream.html" title="Provides a buffered input stream around raw file." alt="" coords="233,81,406,120"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1BufferInputStreamAdapter.html" title="Adapt a typed buffer to be used as an input stream." alt="" coords="219,144,419,183"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1MemoryStream.html" title="Memory&#45;based implementation of input and output stream." alt="" coords="467,12,606,51"/>
+</map>

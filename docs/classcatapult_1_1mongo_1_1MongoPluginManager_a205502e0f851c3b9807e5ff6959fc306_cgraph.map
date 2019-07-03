@@ -1,0 +1,4 @@
+<map id="catapult::mongo::MongoPluginManager::addTransactionSupport" name="catapult::mongo::MongoPluginManager::addTransactionSupport">
+<area shape="rect" id="node1" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="5,5,225,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="273,5,478,44"/>
+</map>

@@ -1,8 +1,0 @@
-<map id="catapult::chain::ExecutionConfiguration" name="catapult::chain::ExecutionConfiguration">
-<area shape="rect" id="node1" title="Configuration for executing entities." alt="" coords="954,37,1128,76"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_network_info.html" title="Information about a network." alt="" coords="663,44,854,69"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="253,5,515,44"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1_generation_hash__tag.html" title=" " alt="" coords="5,12,204,37"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="301,68,466,107"/>
-<area shape="rect" id="node6" href="$structcatapult_1_1_key__tag.html" title=" " alt="" coords="42,75,167,100"/>
-</map>

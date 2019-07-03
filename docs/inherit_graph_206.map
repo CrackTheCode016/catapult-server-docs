@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structcatapult_1_1config_1_1_basic_logger_configuration.html" title="Basic logger configuration settings." alt="" coords="5,37,198,76"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1config_1_1_console_logger_configuration.html" title="Console logger configuration settings." alt="" coords="253,5,420,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1config_1_1_file_logger_configuration.html" title="File logger configuration settings." alt="" coords="246,68,427,107"/>
+<area shape="rect" id="node1" href="$structcatapult_1_1config_1_1BasicLoggerConfiguration.html" title="Basic logger configuration settings." alt="" coords="5,37,198,76"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1config_1_1ConsoleLoggerConfiguration.html" title="Console logger configuration settings." alt="" coords="253,5,420,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1config_1_1FileLoggerConfiguration.html" title="File logger configuration settings." alt="" coords="246,68,427,107"/>
 </map>

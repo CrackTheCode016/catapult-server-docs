@@ -1,0 +1,4 @@
+<map id="catapult::deltaset::ConditionalContainer::ConditionalIterator::operator*" name="catapult::deltaset::ConditionalContainer::ConditionalIterator::operator*">
+<area shape="rect" id="node1" title="Returns a const reference to the current element." alt="" coords="207,5,360,71"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1deltaset_1_1ConditionalContainer_1_1ConditionalIterator.html#ae393948b069a42cb62784ed8c0fc2114" title="Returns a const pointer to the current element." alt="" coords="5,5,159,71"/>
+</map>

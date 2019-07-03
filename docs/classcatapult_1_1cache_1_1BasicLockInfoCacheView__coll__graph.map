@@ -1,0 +1,10 @@
+<map id="catapult::cache::BasicLockInfoCacheView&lt; TDescriptor, TCacheTypes &gt;" name="catapult::cache::BasicLockInfoCacheView&lt; TDescriptor, TCacheTypes &gt;">
+<area shape="rect" id="node1" title="Basic view on top of the lock info cache." alt="" coords="288,193,482,245"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="40,5,206,31"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,55,240,93"/>
+<area shape="rect" id="node4" title=" " alt="" coords="34,117,211,169"/>
+<area shape="rect" id="node5" title=" " alt="" coords="34,193,211,245"/>
+<area shape="rect" id="node6" title=" " alt="" coords="22,269,224,321"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1PatriciaTreeMixin.html" title="A mixin for adding patricia tree support to a cache." alt="" coords="28,345,218,397"/>
+<area shape="rect" id="node8" title=" " alt="" coords="21,421,225,473"/>
+</map>

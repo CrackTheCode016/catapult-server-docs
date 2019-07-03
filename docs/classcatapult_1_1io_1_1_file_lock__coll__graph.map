@@ -1,5 +1,0 @@
-<map id="catapult::io::FileLock" name="catapult::io::FileLock">
-<area shape="rect" id="node1" title="Lock based on an underlying lock file." alt="" coords="126,92,269,117"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,5,193,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_spin_lock.html" title=" " alt="" coords="217,5,378,31"/>
-</map>

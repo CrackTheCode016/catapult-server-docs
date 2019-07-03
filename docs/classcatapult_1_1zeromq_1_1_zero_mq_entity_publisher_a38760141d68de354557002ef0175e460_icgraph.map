@@ -1,4 +1,0 @@
-<map id="catapult::zeromq::ZeroMqEntityPublisher::publishTransaction" name="catapult::zeromq::ZeroMqEntityPublisher::publishTransaction">
-<area shape="rect" id="node1" title="Publishes a transaction using topicMarker, transactionElement and height." alt="" coords="282,5,512,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1zeromq_1_1_zero_mq_entity_publisher.html#abb12e29132e2d2b85db5cc734e9a3b1d" title="Publishes a transaction using topicMarker, transactionInfo and height." alt="" coords="5,5,234,44"/>
-</map>

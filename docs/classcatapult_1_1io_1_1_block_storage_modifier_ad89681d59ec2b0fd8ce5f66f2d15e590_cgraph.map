@@ -1,4 +1,0 @@
-<map id="catapult::io::BlockStorageModifier::dropBlocksAfter" name="catapult::io::BlockStorageModifier::dropBlocksAfter">
-<area shape="rect" id="node1" title="Drops all blocks after height." alt="" coords="5,5,178,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_light_block_storage.html#a1f50117a8d9bd065451e7188c8f016ac" title="Drops all blocks after height." alt="" coords="226,5,395,44"/>
-</map>

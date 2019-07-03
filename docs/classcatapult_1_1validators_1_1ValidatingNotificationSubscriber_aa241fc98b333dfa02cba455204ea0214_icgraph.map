@@ -1,0 +1,5 @@
+<map id="catapult::validators::ValidatingNotificationSubscriber::result" name="catapult::validators::ValidatingNotificationSubscriber::result">
+<area shape="rect" id="node1" title="Gets the aggregate validation result." alt="" coords="269,44,485,96"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1validators_1_1ValidatingNotificationSubscriber.html#a699481dce8a8546ea8d957c78b7f38da" title="Notifies the subscriber of notification." alt="" coords="5,5,221,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1validators_1_1NotificationValidatorAdapter.html#a60254cbea8a653e379bec13532ff61f7" title=" " alt="" coords="17,81,210,133"/>
+</map>

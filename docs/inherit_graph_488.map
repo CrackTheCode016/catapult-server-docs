@@ -1,7 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classcatapult_1_1observers_1_1_notification_observer_t.html" title="A strongly typed notification observer." alt="" coords="5,95,163,147"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1observers_1_1_aggregate_notification_observer_t.html" title="A strongly typed aggregate notification observer." alt="" coords="211,12,422,64"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1observers_1_1_demux_observer_builder_1_1_conditional_observer.html" title=" " alt="" coords="233,88,400,153"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1observers_1_1_functional_notification_observer_t.html" title="A notification observer implementation that wraps a function." alt="" coords="211,177,422,229"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1observers_1_1_aggregate_observer_builder_1_1_default_aggregate_notification_observer.html" title=" " alt="" coords="470,5,699,71"/>
+<area shape="rect" id="node1" href="$classcatapult_1_1observers_1_1NotificationObserverT.html" title="A strongly typed notification observer." alt="" coords="5,95,163,147"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1observers_1_1AggregateNotificationObserverT.html" title="A strongly typed aggregate notification observer." alt="" coords="211,12,422,64"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1observers_1_1DemuxObserverBuilder_1_1ConditionalObserver.html" title=" " alt="" coords="233,88,400,153"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1observers_1_1FunctionalNotificationObserverT.html" title="A notification observer implementation that wraps a function." alt="" coords="211,177,422,229"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1observers_1_1AggregateObserverBuilder_1_1DefaultAggregateNotificationObserver.html" title=" " alt="" coords="470,5,699,71"/>
 </map>

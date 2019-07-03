@@ -1,6 +1,0 @@
-<map id="catapult::state::AccountBalances::optimizedMosaicId" name="catapult::state::AccountBalances::optimizedMosaicId">
-<area shape="rect" id="node1" title="Gets the optimized mosaic id." alt="" coords="486,37,680,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_balances.html#acad1ebd7c7f56cdfa9cb8a5f475af78b" title="Assignment operator that makes a deep copy of accountBalances." alt="" coords="246,5,406,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_account_state_non_historical_serializer.html#ad281db9730de4a014c0c3b6b1a7db833" title="Saves accountState to output." alt="" coords="213,68,438,107"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1_account_state_serializer.html#a0222b98ca9ca1cdeb04e14686eb21d2d" title="Saves accountState to output." alt="" coords="5,68,165,107"/>
-</map>

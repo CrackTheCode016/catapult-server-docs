@@ -1,0 +1,4 @@
+<map id="catapult::cache::CatapultCacheBuilder::add" name="catapult::cache::CatapultCacheBuilder::add">
+<area shape="rect" id="node1" title="Adds pSubCache to the builder with the specified storage traits." alt="" coords="279,5,447,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1PluginManager.html#afda056936782fad25557ee286f227af0" title="Adds support for a sub cache registered by pSubCachePlugin." alt="" coords="5,5,231,44"/>
+</map>

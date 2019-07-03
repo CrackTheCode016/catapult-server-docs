@@ -1,0 +1,4 @@
+<map id="catapult::extensions::ServiceLocator::registerRootedService" name="catapult::extensions::ServiceLocator::registerRootedService">
+<area shape="rect" id="node1" title="Adds a rooted service (pService) with serviceName that is kept alive by the service locator." alt="" coords="5,5,218,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1ServiceLocator.html#a4fae8dbba9afee92ebbd4c9ec1f4fec2" title="Adds a service (pService) with serviceName." alt="" coords="266,12,480,51"/>
+</map>

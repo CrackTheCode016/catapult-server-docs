@@ -1,5 +1,0 @@
-<map id="catapult::cache::CacheStorageFromDescriptor&lt; TDescriptor &gt;" name="catapult::cache::CacheStorageFromDescriptor&lt; TDescriptor &gt;">
-<area shape="rect" id="node1" title="Defines types for cache storage given a cache descriptor." alt="" coords="5,5,210,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_cache_storage_for_basic_insert_remove_cache.html" title="Defines cache storage for cache with basic insert remove support." alt="" coords="6,92,210,144"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_lock_info_cache_storage.html" title="Policy for saving and loading lock info cache data." alt="" coords="9,192,207,231"/>
-</map>

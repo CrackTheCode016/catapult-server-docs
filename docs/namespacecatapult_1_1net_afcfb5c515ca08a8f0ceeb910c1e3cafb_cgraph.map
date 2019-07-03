@@ -1,4 +1,4 @@
 <map id="catapult::net::GenerateServerChallengeResponse" name="catapult::net::GenerateServerChallengeResponse">
 <area shape="rect" id="node1" title=" " alt="" coords="5,5,202,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1_key_pair.html#a7b77f3a30b99ee3abb768c463699754d" title="Returns a public key of a key pair." alt="" coords="250,5,415,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1KeyPair.html#a7b77f3a30b99ee3abb768c463699754d" title="Returns a public key of a key pair." alt="" coords="250,5,415,44"/>
 </map>

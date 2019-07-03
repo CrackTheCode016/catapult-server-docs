@@ -1,5 +1,0 @@
-<map id="catapult::state::TypedAccountRestriction::contains" name="catapult::state::TypedAccountRestriction::contains">
-<area shape="rect" id="node1" title="Returns true if the underlying account restriction contains value." alt="" coords="5,33,202,72"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_restriction.html#ad48e4528f03a7ce66c1f703efba2734a" title="Returns true if value is known." alt="" coords="251,5,411,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1state.html#a5090a046fb7d46a6f648fe18abfe12c0" title="Converts value to a vector." alt="" coords="250,68,413,93"/>
-</map>

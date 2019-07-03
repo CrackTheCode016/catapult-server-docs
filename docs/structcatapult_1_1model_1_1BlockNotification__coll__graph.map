@@ -1,0 +1,16 @@
+<map id="catapult::model::BlockNotification" name="catapult::model::BlockNotification">
+<area shape="rect" id="node1" title="Notifies the arrival of a block." alt="" coords="1247,137,1465,163"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="918,5,1103,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="702,61,867,100"/>
+<area shape="rect" id="node4" title=" " alt="" coords="280,84,331,109"/>
+<area shape="rect" id="node14" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title="Base class for immutable wrappers of basic types, to provide some type&#45;safety." alt="" coords="496,117,675,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="926,201,1096,240"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="500,193,670,259"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1Amount__tag.html" title=" " alt="" coords="232,197,379,223"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,251,390,289"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="492,283,678,348"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,257,172,283"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="916,271,1106,309"/>
+<area shape="rect" id="node12" href="$structcatapult_1_1Timestamp__tag.html" title=" " alt="" coords="222,319,389,344"/>
+<area shape="rect" id="node13" href="$structcatapult_1_1utils_1_1ClampedBaseValue.html" title=" " alt="" coords="891,131,1130,169"/>
+</map>

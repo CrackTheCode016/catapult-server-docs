@@ -1,0 +1,8 @@
+<map id="catapult::cache::BasicBlockDifficultyCacheDelta::insert" name="catapult::cache::BasicBlockDifficultyCacheDelta::insert">
+<area shape="rect" id="node1" title="Inserts a block difficulty info into the set." alt="" coords="5,65,189,104"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicBlockDifficultyCacheDelta.html#a4a3419c3c27ab0d568b876b0172361be" title=" " alt="" coords="237,37,454,76"/>
+<area shape="rect" id="node6" href="$namespaceforwardsValidation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="268,100,423,125"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicBlockDifficultyCacheDelta.html#a0e32e88152ea370804fc2d4662f367bc" title=" " alt="" coords="502,37,714,76"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1SizeMixin.html#afc1d503716779cb07a5ba691459e6d17" title="Gets the number of elements in the cache." alt="" coords="762,5,938,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="765,68,935,107"/>
+</map>

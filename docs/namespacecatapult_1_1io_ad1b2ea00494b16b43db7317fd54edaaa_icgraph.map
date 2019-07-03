@@ -1,9 +1,9 @@
 <map id="catapult::io::Read" name="catapult::io::Read">
 <area shape="rect" id="node1" title="Reads base value from input." alt="" coords="397,176,522,201"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_hash_cache_storage.html#afd3dcff6b2f7bf00c3004d7c709d7bb1" title="Loads a single value from input." alt="" coords="83,5,271,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_block_difficulty_cache_storage.html#a91876b877e91b3efe8c2a1948d677ab3" title="Loads a single value from input." alt="" coords="76,68,278,107"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1_lock_info_serializer.html#ae089b312a0731e4810dd039368de132d" title="Loads a single value from input." alt="" coords="26,131,328,183"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1BlockDifficultyCacheStorage.html#a91876b877e91b3efe8c2a1948d677ab3" title="Loads a single value from input." alt="" coords="76,5,278,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1HashCacheStorage.html#afd3dcff6b2f7bf00c3004d7c709d7bb1" title="Loads a single value from input." alt="" coords="83,68,271,107"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1LockInfoSerializer.html#ae089b312a0731e4810dd039368de132d" title="Loads a single value from input." alt="" coords="26,131,328,183"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1cache.html#a4f97ba9b84db458bcba92afc937d9ca3" title="Loads supplementalData and chainHeight from input." alt="" coords="48,207,306,232"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_identifier_group_serializer.html#aee2a9182810d1c130c93fdba96376520" title=" " alt="" coords="5,256,349,308"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1IdentifierGroupSerializer.html#aee2a9182810d1c130c93fdba96376520" title=" " alt="" coords="5,256,349,308"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1io.html#a031f0e338f36f5bc6f337e4f38f6dc40" title="Reads data of type TValue from input." alt="" coords="114,332,240,357"/>
 </map>

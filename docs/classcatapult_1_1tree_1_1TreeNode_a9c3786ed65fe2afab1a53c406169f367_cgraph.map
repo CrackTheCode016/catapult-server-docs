@@ -1,0 +1,4 @@
+<map id="catapult::tree::TreeNode::asLeafNode" name="catapult::tree::TreeNode::asLeafNode">
+<area shape="rect" id="node1" title="Gets a leaf node interface to this node." alt="" coords="5,5,170,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1TreeNode.html#ac79c06c7e9e84b71f43595d5dc713174" title="Returns true if this node represents a leaf node." alt="" coords="218,5,383,44"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::extensions::MemoryBlockStorage::MemoryBlockStorage" name="catapult::extensions::MemoryBlockStorage::MemoryBlockStorage">
+<area shape="rect" id="node1" title="Creates a memory&#45;based block storage around nemesisBlockElement." alt="" coords="5,5,162,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1MemoryBlockStorage.html#af10e6fdd1301b4d56217468c72dcdaa3" title="Saves blockElement." alt="" coords="210,5,366,57"/>
+</map>

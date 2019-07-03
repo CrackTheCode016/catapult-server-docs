@@ -1,0 +1,11 @@
+<map id="catapult::model::ChildNamespaceNotification" name="catapult::model::ChildNamespaceNotification">
+<area shape="rect" id="node1" title="Notification of a child namespace registration." alt="" coords="1101,55,1321,93"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="771,5,956,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="781,55,946,93"/>
+<area shape="rect" id="node4" title=" " alt="" coords="583,60,634,85"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="759,119,967,157"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="507,109,710,175"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1NamespaceId__tag.html" title="Namespace identifier." alt="" coords="221,101,405,127"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="229,151,397,189"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,157,172,183"/>
+</map>

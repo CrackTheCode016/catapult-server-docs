@@ -1,4 +1,0 @@
-<map id="catapult::disruptor::ConsumerInput::hasTransactions" name="catapult::disruptor::ConsumerInput::hasTransactions">
-<area shape="rect" id="node1" title="Returns true if this input is not empty and has transactions." alt="" coords="5,5,230,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_entity_range.html#a932bc3c75e5c6cf76d7fa7555bc59af0" title="Gets a value indicating whether or not this range is empty." alt="" coords="278,5,470,44"/>
-</map>

@@ -1,5 +1,5 @@
 <map id="catapult::cache::GetFirstTransactionInfoPointers" name="catapult::cache::GetFirstTransactionInfoPointers">
 <area shape="rect" id="node1" title=" " alt="" coords="5,37,171,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_memory_ut_cache_view.html#afc4f5a0c39cc12799cbb2b934f2e4149" title="Calls consumer with all transaction infos until all are consumed or false is returned by consumer." alt="" coords="219,5,399,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_memory_ut_cache_view.html#a0c51b828bcac01b91e54b21d8a384c6e" title="Returns the number of unconfirmed transactions in the cache." alt="" coords="219,68,399,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1MemoryUtCacheView.html#afc4f5a0c39cc12799cbb2b934f2e4149" title="Calls consumer with all transaction infos until all are consumed or false is returned by consumer." alt="" coords="219,5,399,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1MemoryUtCacheView.html#a0c51b828bcac01b91e54b21d8a384c6e" title="Returns the number of unconfirmed transactions in the cache." alt="" coords="219,68,399,107"/>
 </map>

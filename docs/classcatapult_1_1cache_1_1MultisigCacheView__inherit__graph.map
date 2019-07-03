@@ -1,0 +1,11 @@
+<map id="catapult::cache::MultisigCacheView" name="catapult::cache::MultisigCacheView">
+<area shape="rect" id="node1" title="View on top of the multisig cache." alt="" coords="744,149,907,188"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="469,143,696,195"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicMultisigCacheView.html" title="Basic view on top of the multisig cache." alt="" coords="225,149,421,188"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="8,5,174,31"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,55,177,93"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,117,177,156"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,180,177,219"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,243,177,281"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1PatriciaTreeMixin.html" title="A mixin for adding patricia tree support to a cache." alt="" coords="5,305,177,344"/>
+</map>

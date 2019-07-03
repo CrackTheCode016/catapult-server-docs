@@ -1,0 +1,7 @@
+<map id="catapult::tree::TreeNode::hash" name="catapult::tree::TreeNode::hash">
+<area shape="rect" id="node1" title="Gets the hash representation of this node." alt="" coords="596,81,760,120"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1PatriciaTreeColumnDescriptor.html#a2f66f6cdde4e2ba1e436b5d4fd81d8c5" title="Gets the key corresponding to treeNode." alt="" coords="276,5,548,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1PatriciaTree.html#a0273e1f135ea1937e95375e49c2ac0d4" title="Gets the root hash that uniquely identifies this tree." alt="" coords="282,68,542,133"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1PatriciaTreeRdbDataSource.html#ac88323c7953a58eecef80a259b3704f0" title=" " alt="" coords="328,157,496,196"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1PatriciaTreeColumnDescriptor.html#a3712ad619d3a26d27968a655926b32d0" title="Converts a value type (treeNode) to a storage type." alt="" coords="5,5,228,44"/>
+</map>

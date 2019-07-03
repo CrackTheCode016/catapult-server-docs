@@ -1,5 +1,5 @@
 <map id="catapult::plugins::CreateAggregateTransactionPlugin" name="catapult::plugins::CreateAggregateTransactionPlugin">
 <area shape="rect" id="node1" title="Creates an aggregate transaction plugin around transactionRegistry for transactions with type transac..." alt="" coords="437,5,629,57"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#aa9b0c53d8943663b34bed27def2d5e85" title="Registers aggregate support with manager." alt="" coords="190,12,389,51"/>
-<area shape="rect" id="node3" href="$_aggregate_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,142,44"/>
+<area shape="rect" id="node3" href="$AggregatePlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,142,44"/>
 </map>

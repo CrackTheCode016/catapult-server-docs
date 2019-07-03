@@ -1,4 +1,0 @@
-<map id="catapult::state::RootNamespaceHistory::push_back" name="catapult::state::RootNamespaceHistory::push_back">
-<area shape="rect" id="node1" title="Adds a new root namespace around owner and lifetime at the end of the history." alt="" coords="5,5,216,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_root_namespace_history.html#a3737fb8a0eab77e0f680b5486133f5a6" title="Gets a const reference to the most recent root namespace." alt="" coords="264,5,475,44"/>
-</map>

@@ -1,0 +1,26 @@
+<map id="NamespaceConstants.h" name="NamespaceConstants.h">
+<area shape="rect" id="node1" title=" " alt="" coords="400,5,564,31"/>
+<area shape="rect" id="node2" href="$plugins_2txes_2namespace_2src_2constants_8h.html" title=" " alt="" coords="460,79,624,117"/>
+<area shape="rect" id="node3" href="$plugins_2txes_2namespace_2src_2types_8h.html" title=" " alt="" coords="450,165,514,191"/>
+<area shape="rect" id="node4" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="425,239,539,264"/>
+<area shape="rect" id="node5" href="$ByteArray_8h.html" title=" " alt="" coords="523,312,641,337"/>
+<area shape="rect" id="node11" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="5,532,188,571"/>
+<area shape="rect" id="node17" title=" " alt="" coords="655,459,707,484"/>
+<area shape="rect" id="node20" href="$RawBuffer_8h.html" title=" " alt="" coords="279,312,400,337"/>
+<area shape="rect" id="node6" href="$HexFormatter_8h.html" title=" " alt="" coords="526,385,639,411"/>
+<area shape="rect" id="node7" href="$StreamFormatGuard_8h.html" title=" " alt="" coords="379,459,534,484"/>
+<area shape="rect" id="node10" href="$Traits_8h.html" title=" " alt="" coords="176,459,274,484"/>
+<area shape="rect" id="node18" title=" " alt="" coords="558,459,630,484"/>
+<area shape="rect" id="node19" title=" " alt="" coords="297,459,355,484"/>
+<area shape="rect" id="node8" href="$NonCopyable_8h.html" title=" " alt="" coords="167,765,280,791"/>
+<area shape="rect" id="node9" title=" " alt="" coords="423,539,491,564"/>
+<area shape="rect" id="node16" title=" " alt="" coords="213,539,296,564"/>
+<area shape="rect" id="node12" href="$BaseValue_8h.html" title=" " alt="" coords="67,619,163,644"/>
+<area shape="rect" id="node13" href="$ImmutableValue_8h.html" title=" " alt="" coords="30,692,158,717"/>
+<area shape="rect" id="node14" title=" " alt="" coords="182,692,241,717"/>
+<area shape="rect" id="node15" title=" " alt="" coords="266,692,317,717"/>
+<area shape="rect" id="node21" title=" " alt="" coords="262,385,332,411"/>
+<area shape="rect" id="node22" title=" " alt="" coords="355,385,409,411"/>
+<area shape="rect" id="node23" title=" " alt="" coords="433,385,502,411"/>
+<area shape="rect" id="node24" title=" " alt="" coords="123,385,188,411"/>
+</map>

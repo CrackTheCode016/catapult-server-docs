@@ -1,0 +1,18 @@
+<map id="catapult::model::TransactionContainer::Transactions" name="catapult::model::TransactionContainer::Transactions">
+<area shape="rect" id="node1" title=" " alt="" coords="962,216,1150,255"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1BlockExtensions.html#a4410c1228c26c6f2ab02de18ebb56faf" title=" " alt="" coords="715,53,902,105"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1extensions_1_1BlockExtensions.html#a16e72b1e660f2cee5c9eebc852aff90f" title="Cryptographically verifies a full block by checking all signatures and hashes." alt="" coords="454,107,642,159"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1model.html#a2e8df44bbbf4f5bca164315065d87383" title="Calculates information about transactions stored in block." alt="" coords="721,181,896,220"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1extensions_1_1BlockExtensions.html#a14a28a2a831271495814b46467d9740f" title=" " alt="" coords="703,244,914,296"/>
+<area shape="rect" id="node12" href="$namespacecatapult_1_1model.html#a2165060b603fad2b2497b59d8db1cfae" title=" " alt="" coords="716,320,900,345"/>
+<area shape="rect" id="node16" href="$namespacecatapult_1_1parsers.html#a4dde9500d90c2bccee7fe6731cba5191" title="Parses a block element out of buffer and updates numBytesConsumed with the number of buffer bytes con..." alt="" coords="740,369,877,408"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1BlockExtensions.html#af1c8dce2b63576bb357d3a3590d68d05" title=" " alt="" coords="444,31,652,83"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1BlockExtensions.html#a5bc0495b0571c381f21380e516738393" title="Cryptographically signs a full block with signer." alt="" coords="213,31,392,83"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1tools_1_1nemgen.html#a4306ba3a656335b9a1db8e97bcc395a3" title="Creates a nemesis block according to config." alt="" coords="5,5,165,44"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1tools_1_1nemgen.html#afcb8201dc3b3809c3ab0dee7ccc5c11f" title="Updates nemesis block according to config with executionHashesDescriptor." alt="" coords="5,68,165,107"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1mongo_1_1mappers.html#a58177103e3bfffada88e7318d1d57752" title="Maps a blockElement to the corresponding db model entity." alt="" coords="460,183,636,221"/>
+<area shape="rect" id="node11" href="$namespacecatapult_1_1tools_1_1nemgen.html#a9991f2c958985fd13d74fcca079bcd53" title="Wraps a block element around block according to config." alt="" coords="447,248,649,287"/>
+<area shape="rect" id="node13" href="$namespacecatapult_1_1handlers.html#a375978d8a55bd9cdd48f3710afa11283" title=" " alt="" coords="458,311,637,349"/>
+<area shape="rect" id="node14" href="$namespacecatapult_1_1model.html#ad1eb2ae762707a5dfe7ad6402923a688" title=" " alt="" coords="456,373,640,399"/>
+<area shape="rect" id="node15" href="$structcatapult_1_1api_1_1RegistryDependentTraits.html#a80b299b8299f2124fde3fd8eccbf904a" title="Returns true if entity passes size checks." alt="" coords="440,423,655,461"/>
+</map>

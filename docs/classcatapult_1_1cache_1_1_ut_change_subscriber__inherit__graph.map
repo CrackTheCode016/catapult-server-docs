@@ -1,4 +1,0 @@
-<map id="catapult::cache::UtChangeSubscriber" name="catapult::cache::UtChangeSubscriber">
-<area shape="rect" id="node1" title="Unconfirmed transactions change subscriber." alt="" coords="23,5,202,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_aggregate_ut_change_subscriber.html" title="Aggregate unconfirmed transactions change subscriber." alt="" coords="5,92,219,144"/>
-</map>

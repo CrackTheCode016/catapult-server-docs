@@ -1,0 +1,8 @@
+<map id="catapult::model::BlockChainConfiguration::LoadFromBag" name="catapult::model::BlockChainConfiguration::LoadFromBag">
+<area shape="rect" id="node1" title="Loads a block chain configuration from bag." alt="" coords="5,68,198,107"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a575d315d549b56845392ddc269046724" title="Extracts all section properties from bag into a new bag with a single section with a default (empty s..." alt="" coords="265,5,413,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1ConfigurationBag.html#aa461344bdf355e8e9afccd93008e0fd6" title="Gets the names of all sections in this bag." alt="" coords="246,68,432,107"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1utils.html#ac7459f500db81f130e507ce1366e8a65" title="Verifies that the number of properties in bag is no greater than expectedSize." alt="" coords="257,131,421,169"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ConfigurationBag.html#a56cc68ffa582740fcc5f47050475e9e3" title="Gets all section properties from this bag preserving source order." alt="" coords="480,5,666,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1ConfigurationBag.html#a0f43155a38e4cad0ca8383306c38c562" title="Returns the number of properties in this bag." alt="" coords="480,131,666,169"/>
+</map>

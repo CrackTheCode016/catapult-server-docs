@@ -1,0 +1,7 @@
+<map id="catapult::plugins::PluginManager::addTransientObserverHook" name="catapult::plugins::PluginManager::addTransientObserverHook">
+<area shape="rect" id="node1" title="Adds a (transient) observer hook." alt="" coords="474,31,670,83"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#ad4d72b27c270ab6b9807c36162d41b45" title=" " alt="" coords="237,5,381,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="193,68,426,107"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1plugins.html#a7dbb88f436701c9dfe75f11580691c85" title="Loads a plugin named name with manager from directory into modules." alt="" coords="5,5,145,44"/>
+<area shape="rect" id="node5" href="$PluginManager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="6,75,143,100"/>
+</map>

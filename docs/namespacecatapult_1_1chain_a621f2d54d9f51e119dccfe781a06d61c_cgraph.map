@@ -1,5 +1,5 @@
 <map id="catapult::chain::CalculatePartialChainScore" name="catapult::chain::CalculatePartialChainScore">
 <area shape="rect" id="node1" title="Calculates the partial chain score of blocks starting at parent." alt="" coords="5,5,176,44"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1chain.html#a61180d76f676a29bbe21e5915e305f5f" title="Calculates the score of currentBlock with parent parentBlock." alt="" coords="224,5,394,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="442,5,612,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="442,5,612,44"/>
 </map>

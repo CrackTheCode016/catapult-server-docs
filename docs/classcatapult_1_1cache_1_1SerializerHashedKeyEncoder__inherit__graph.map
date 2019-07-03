@@ -1,0 +1,4 @@
+<map id="catapult::cache::SerializerHashedKeyEncoder&lt; TSerializer &gt;" name="catapult::cache::SerializerHashedKeyEncoder&lt; TSerializer &gt;">
+<area shape="rect" id="node1" title="Encoder adapter that hashes values and keys." alt="" coords="5,92,232,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1SerializerPlainKeyEncoder.html" title="Encoder adapter that hashes values but not keys." alt="" coords="13,5,224,44"/>
+</map>

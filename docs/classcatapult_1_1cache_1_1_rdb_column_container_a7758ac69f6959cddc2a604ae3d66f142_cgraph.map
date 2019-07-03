@@ -1,7 +1,0 @@
-<map id="catapult::cache::RdbColumnContainer::prune" name="catapult::cache::RdbColumnContainer::prune">
-<area shape="rect" id="node1" title="Prunes elements below pruningBoundary. Returns number of pruned elements." alt="" coords="5,68,194,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_rocks_database.html#a92e7400af49431f5eb805b9ae8a122bb" title="Prunes elements from columnId below boundary. Returns number of pruned elements." alt="" coords="242,68,455,107"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_rocks_pruning_filter.html#aabc5ef978845f16acae37f5d5dcd9817" title="Returns underlying compaction filter." alt="" coords="503,5,704,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_rocks_pruning_filter.html#a5025e2ca85f01c8cbcb7c3981a965f07" title="Returns number of pruned entries since last prune." alt="" coords="503,68,704,107"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_rocks_pruning_filter.html#a79792760581aade879d529f12013de56" title="Sets pruning boundary." alt="" coords="503,131,704,169"/>
-</map>

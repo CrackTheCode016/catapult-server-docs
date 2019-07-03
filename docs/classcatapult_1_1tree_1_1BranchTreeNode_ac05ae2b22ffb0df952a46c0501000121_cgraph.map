@@ -1,0 +1,9 @@
+<map id="catapult::tree::BranchTreeNode::setLink" name="catapult::tree::BranchTreeNode::setLink">
+<area shape="rect" id="node1" title="Sets the branch link at index to node." alt="" coords="5,132,180,171"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1TreeNode.html#aa27574e2a3af79a0009fff64f715bf2b" title="Creates a copy of this node." alt="" coords="234,84,398,123"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1tree_1_1BranchTreeNode.html#a66cb8c9cac026dc52425da03ecdaa650" title="Sets the branch link at index." alt="" coords="228,163,403,201"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1TreeNode.html#a1cc8411f5a12c6abfdcf67bff2fc10a6" title="Returns true if this node represents a branch node." alt="" coords="457,5,621,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1TreeNode.html#ac79c06c7e9e84b71f43595d5dc713174" title="Returns true if this node represents a leaf node." alt="" coords="457,68,621,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1TreeNode.html#ad6a7b79003cfd7168365630d9d147632" title="Creates an empty tree node." alt="" coords="457,131,621,169"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1tree_1_1BranchTreeNode.html#a7c50111fa0f28c9a693fbdd94ae8fac7" title="Gets the branch link at index." alt="" coords="451,193,626,232"/>
+</map>

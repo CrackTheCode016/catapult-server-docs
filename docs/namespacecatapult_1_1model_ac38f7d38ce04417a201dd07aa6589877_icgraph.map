@@ -1,8 +1,8 @@
 <map id="catapult::model::IsSet" name="catapult::model::IsSet">
 <area shape="rect" id="node1" title="Checks if type has channel set." alt="" coords="934,83,1084,108"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1_processing_undo_notification_subscriber.html#a88dc96277a74619aacdec7b6022f9a88" title=" " alt="" coords="703,5,886,57"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1chain_1_1_processing_notification_subscriber.html#adac2f1dc58f91c72b8b50484c6e74545" title=" " alt="" coords="244,69,424,121"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1chain_1_1_processing_notification_subscriber.html#a9451b8154d02b347289d3f61d1985c30" title=" " alt="" coords="473,133,654,185"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1_processing_undo_notification_subscriber.html#af99eb010840aefe95d490b3d7ac0ba17" title="Notifies the subscriber of notification." alt="" coords="472,5,655,57"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1chain_1_1_processing_notification_subscriber.html#a80cd22c6c7fb7693b00a55611b21cea7" title="Notifies the subscriber of notification." alt="" coords="5,108,196,147"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1ProcessingUndoNotificationSubscriber.html#a88dc96277a74619aacdec7b6022f9a88" title=" " alt="" coords="703,5,886,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1chain_1_1ProcessingNotificationSubscriber.html#adac2f1dc58f91c72b8b50484c6e74545" title=" " alt="" coords="244,69,424,121"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1chain_1_1ProcessingNotificationSubscriber.html#a9451b8154d02b347289d3f61d1985c30" title=" " alt="" coords="473,133,654,185"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1ProcessingUndoNotificationSubscriber.html#af99eb010840aefe95d490b3d7ac0ba17" title="Notifies the subscriber of notification." alt="" coords="472,5,655,57"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1chain_1_1ProcessingNotificationSubscriber.html#a80cd22c6c7fb7693b00a55611b21cea7" title="Notifies the subscriber of notification." alt="" coords="5,108,196,147"/>
 </map>

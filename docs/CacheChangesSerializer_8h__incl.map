@@ -1,0 +1,32 @@
+<map id="CacheChangesSerializer.h" name="CacheChangesSerializer.h">
+<area shape="rect" id="node1" title=" " alt="" coords="669,5,848,31"/>
+<area shape="rect" id="node2" href="$CacheChanges_8h.html" title=" " alt="" coords="833,79,957,104"/>
+<area shape="rect" id="node20" title=" " alt="" coords="887,519,945,544"/>
+<area shape="rect" id="node29" href="$PodIoUtils_8h.html" title=" " alt="" coords="5,372,163,397"/>
+<area shape="rect" id="node30" href="$Stream_8h.html" title=" " alt="" coords="538,79,678,104"/>
+<area shape="rect" id="node3" href="$CatapultCacheDelta_8h.html" title=" " alt="" coords="722,152,873,177"/>
+<area shape="rect" id="node28" title=" " alt="" coords="968,152,1075,177"/>
+<area shape="rect" id="node4" href="$StateHashInfo_8h.html" title=" " alt="" coords="582,225,699,251"/>
+<area shape="rect" id="node26" href="$SubCachePlugin_8h.html" title=" " alt="" coords="722,225,854,251"/>
+<area shape="rect" id="node27" title=" " alt="" coords="831,299,900,324"/>
+<area shape="rect" id="node5" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="572,299,687,324"/>
+<area shape="rect" id="node6" href="$ByteArray_8h.html" title=" " alt="" coords="571,372,688,397"/>
+<area shape="rect" id="node12" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="115,592,298,631"/>
+<area shape="rect" id="node18" title=" " alt="" coords="686,519,738,544"/>
+<area shape="rect" id="node21" href="$RawBuffer_8h.html" title=" " alt="" coords="394,372,515,397"/>
+<area shape="rect" id="node7" href="$HexFormatter_8h.html" title=" " alt="" coords="562,445,675,471"/>
+<area shape="rect" id="node8" href="$StreamFormatGuard_8h.html" title=" " alt="" coords="411,519,566,544"/>
+<area shape="rect" id="node11" href="$Traits_8h.html" title=" " alt="" coords="289,519,386,544"/>
+<area shape="rect" id="node19" title=" " alt="" coords="589,519,662,544"/>
+<area shape="rect" id="node9" href="$NonCopyable_8h.html" title=" " alt="" coords="333,825,446,851"/>
+<area shape="rect" id="node10" title=" " alt="" coords="481,599,549,624"/>
+<area shape="rect" id="node17" title=" " alt="" coords="323,599,406,624"/>
+<area shape="rect" id="node13" href="$BaseValue_8h.html" title=" " alt="" coords="159,679,255,704"/>
+<area shape="rect" id="node14" href="$ImmutableValue_8h.html" title=" " alt="" coords="272,752,400,777"/>
+<area shape="rect" id="node15" title=" " alt="" coords="103,752,162,777"/>
+<area shape="rect" id="node16" title=" " alt="" coords="186,752,238,777"/>
+<area shape="rect" id="node22" title=" " alt="" coords="376,445,446,471"/>
+<area shape="rect" id="node23" title=" " alt="" coords="749,445,803,471"/>
+<area shape="rect" id="node24" title=" " alt="" coords="470,445,539,471"/>
+<area shape="rect" id="node25" title=" " alt="" coords="237,445,302,471"/>
+</map>

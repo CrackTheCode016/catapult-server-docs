@@ -1,0 +1,5 @@
+<map id="catapult::cache::BasicAccountStateCacheDelta::minHarvesterBalance" name="catapult::cache::BasicAccountStateCacheDelta::minHarvesterBalance">
+<area shape="rect" id="node1" title="Gets the minimum harvester balance." alt="" coords="512,12,769,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ReadOnlyAccountStateCache.html#a089f831154c7bddef72cd6c255000702" title="Gets the minimum harvester balance." alt="" coords="238,5,464,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1ImportanceView.html#a858838455876cecadb77641a8b238be4" title="Returns true if publicKey can harvest at height." alt="" coords="5,12,190,51"/>
+</map>

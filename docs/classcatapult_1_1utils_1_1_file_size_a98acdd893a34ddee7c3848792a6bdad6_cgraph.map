@@ -1,5 +1,0 @@
-<map id="catapult::utils::FileSize::megabytes" name="catapult::utils::FileSize::megabytes">
-<area shape="rect" id="node1" title="Returns the number of megabytes." alt="" coords="5,5,159,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_file_size.html#ae2b3e8d87044a9bafb18699dfedfe3fc" title="Returns the number of kilobytes." alt="" coords="207,5,361,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_file_size.html#acaf0adf03843be93e22aaa8352fa3cde" title="Returns the number of bytes." alt="" coords="409,5,563,44"/>
-</map>

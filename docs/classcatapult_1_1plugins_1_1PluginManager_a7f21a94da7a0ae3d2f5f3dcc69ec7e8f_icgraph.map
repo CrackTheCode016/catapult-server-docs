@@ -1,0 +1,19 @@
+<map id="catapult::plugins::PluginManager::addStatefulValidatorHook" name="catapult::plugins::PluginManager::addStatefulValidatorHook">
+<area shape="rect" id="node1" title="Adds a stateful validator hook." alt="" coords="474,232,660,284"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#ac34308261fb4204bd98475d9954970b8" title="Registers account link support with manager." alt="" coords="204,5,414,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1plugins.html#a8b36d774fb10e09ea8104d6d567825b9" title="Registers account restriction support with manager." alt="" coords="218,68,400,120"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1plugins.html#ad4d72b27c270ab6b9807c36162d41b45" title=" " alt="" coords="237,144,381,183"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1plugins.html#a5d9192c852b5b3011476310ab23ed8aa" title="Registers hash lock support with manager." alt="" coords="211,207,407,245"/>
+<area shape="rect" id="node10" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="193,269,426,308"/>
+<area shape="rect" id="node12" href="$namespacecatapult_1_1plugins.html#a695b10210a6231e989f361d63b4417ba" title="Registers mosaic support with manager." alt="" coords="220,332,399,371"/>
+<area shape="rect" id="node14" href="$namespacecatapult_1_1plugins.html#a06ef8cea21dcf8bf4c3b40e5b3a73979" title="Registers multisig support with manager." alt="" coords="218,395,400,433"/>
+<area shape="rect" id="node16" href="$namespacecatapult_1_1plugins.html#a724e91faec9c0652a73fbff6ec60726f" title="Registers secret lock support with manager." alt="" coords="207,457,411,496"/>
+<area shape="rect" id="node3" href="$AccountLinkPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="6,12,143,37"/>
+<area shape="rect" id="node5" href="$AccountRestrictionPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="6,81,143,107"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1plugins.html#a7dbb88f436701c9dfe75f11580691c85" title="Loads a plugin named name with manager from directory into modules." alt="" coords="5,144,145,183"/>
+<area shape="rect" id="node9" href="$HashLockPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="6,213,143,239"/>
+<area shape="rect" id="node11" href="$PluginManager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="6,276,143,301"/>
+<area shape="rect" id="node13" href="$MosaicPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="6,339,143,364"/>
+<area shape="rect" id="node15" href="$MultisigPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="6,401,143,427"/>
+<area shape="rect" id="node17" href="$SecretLockPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="6,464,143,489"/>
+</map>

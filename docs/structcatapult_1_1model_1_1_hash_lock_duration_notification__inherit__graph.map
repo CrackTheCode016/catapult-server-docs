@@ -1,5 +1,0 @@
-<map id="catapult::model::HashLockDurationNotification" name="catapult::model::HashLockDurationNotification">
-<area shape="rect" id="node1" title="Notification of a hash lock duration." alt="" coords="20,179,199,217"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_base_lock_duration_notification.html" title=" " alt="" coords="5,79,214,131"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1_notification.html" title="A basic notification." alt="" coords="17,5,202,31"/>
-</map>

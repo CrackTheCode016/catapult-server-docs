@@ -1,0 +1,5 @@
+<map id="catapult::extensions::MemoryBlockStorage::loadHashesFrom" name="catapult::extensions::MemoryBlockStorage::loadHashesFrom">
+<area shape="rect" id="node1" title="Returns a range of at most maxHashes hashes starting at height." alt="" coords="5,40,162,92"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1MemoryBlockStorage.html#ad3cd6796110bdd965ed19521b271c29b" title="Gets the number of blocks." alt="" coords="227,5,384,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1EntityRange.html#a3af196b6f22546dff7f79f380e42ce65" title=" " alt="" coords="210,81,401,120"/>
+</map>

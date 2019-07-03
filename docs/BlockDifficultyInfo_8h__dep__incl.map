@@ -1,0 +1,20 @@
+<map id="BlockDifficultyInfo.h" name="BlockDifficultyInfo.h">
+<area shape="rect" id="node1" title=" " alt="" coords="126,5,263,31"/>
+<area shape="rect" id="node2" href="$BlockDifficultyObserver_8cpp.html" title=" " alt="" coords="5,299,189,324"/>
+<area shape="rect" id="node3" href="$BlockDifficultyCacheTypes_8h.html" title=" " alt="" coords="193,79,383,104"/>
+<area shape="rect" id="node4" href="$BlockDifficultyCacheDelta_8h.html" title=" " alt="" coords="195,152,380,177"/>
+<area shape="rect" id="node17" href="$BlockDifficultyCacheView_8h.html" title=" " alt="" coords="405,152,587,177"/>
+<area shape="rect" id="node5" href="$BlockDifficultyCache_8h.html" title=" " alt="" coords="415,225,569,251"/>
+<area shape="rect" id="node16" href="$BlockDifficultyCacheDelta_8cpp.html" title=" " alt="" coords="188,225,387,251"/>
+<area shape="rect" id="node6" href="$DispatcherService_8cpp.html" title=" " alt="" coords="213,299,368,324"/>
+<area shape="rect" id="node7" href="$BlockDifficultyCacheStorage_8h.html" title=" " alt="" coords="391,299,592,324"/>
+<area shape="rect" id="node10" href="$BlockDifficultyCacheSubCachePlugin_8h.html" title=" " alt="" coords="447,372,652,411"/>
+<area shape="rect" id="node12" href="$BlockDifficultyScorer_8h.html" title=" " alt="" coords="709,299,863,324"/>
+<area shape="rect" id="node15" href="$ChainUtils_8cpp.html" title=" " alt="" coords="995,379,1103,404"/>
+<area shape="rect" id="node8" href="$CoreSystem_8cpp.html" title=" " alt="" coords="207,465,326,491"/>
+<area shape="rect" id="node9" href="$BlockDifficultyCacheStorage_8cpp.html" title=" " alt="" coords="208,379,423,404"/>
+<area shape="rect" id="node11" href="$BlockDifficultyCacheSubCachePlugin_8cpp.html" title=" " alt="" coords="447,459,652,497"/>
+<area shape="rect" id="node13" href="$Harvester_8cpp.html" title=" " alt="" coords="676,379,780,404"/>
+<area shape="rect" id="node14" href="$BlockDifficultyScorer_8cpp.html" title=" " alt="" coords="804,379,972,404"/>
+<area shape="rect" id="node18" href="$BlockDifficultyCacheView_8cpp.html" title=" " alt="" coords="592,225,788,251"/>
+</map>

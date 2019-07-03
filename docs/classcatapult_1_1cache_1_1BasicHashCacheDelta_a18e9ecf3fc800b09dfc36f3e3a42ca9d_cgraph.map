@@ -1,0 +1,6 @@
+<map id="catapult::cache::BasicHashCacheDelta::prune" name="catapult::cache::BasicHashCacheDelta::prune">
+<area shape="rect" id="node1" title="Removes all timestamped hashes that have timestamps prior to the given timestamp minus the retention ..." alt="" coords="5,37,187,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1utils.html#a46e60abd2092c06dc53c62d138f74aba" title="Subtracts timeSpan from timestamp and returns the maximum of the difference and zero." alt="" coords="235,37,392,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1TimeSpan.html#a108f936a27b57fcfce207a0db30dd12d" title="Returns the number of milliseconds." alt="" coords="441,5,608,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="440,68,609,107"/>
+</map>

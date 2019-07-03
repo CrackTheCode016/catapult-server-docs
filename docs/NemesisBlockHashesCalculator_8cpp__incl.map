@@ -1,0 +1,52 @@
+<map id="NemesisBlockHashesCalculator.cpp" name="NemesisBlockHashesCalculator.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1547,5,1783,31"/>
+<area shape="rect" id="node2" href="$NemesisBlockHashesCalculator_8h.html" title=" " alt="" coords="1270,432,1492,457"/>
+<area shape="rect" id="node10" href="$tools_2nemgen_2blockhashes_2PluginLoader_8h.html" title=" " alt="" coords="1704,85,1815,111"/>
+<area shape="rect" id="node34" href="$ReadOnlyCatapultCache_8h.html" title=" " alt="" coords="1460,79,1680,117"/>
+<area shape="rect" id="node35" href="$BlockExecutor_8h.html" title=" " alt="" coords="2569,172,2772,197"/>
+<area shape="rect" id="node42" href="$CatapultConfiguration_8h.html" title=" " alt="" coords="479,252,640,291"/>
+<area shape="rect" id="node50" href="$NotificationObserverAdapter_8h.html" title=" " alt="" coords="2795,165,2998,204"/>
+<area shape="rect" id="node3" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="1324,512,1438,537"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2019,592,2076,617"/>
+<area shape="rect" id="node4" href="$ByteArray_8h.html" title=" " alt="" coords="1429,592,1546,617"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1414,672,1465,697"/>
+<area shape="rect" id="node6" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="1027,585,1210,624"/>
+<area shape="rect" id="node7" href="$RawBuffer_8h.html" title=" " alt="" coords="1234,592,1355,617"/>
+<area shape="rect" id="node8" title=" " alt="" coords="849,672,903,697"/>
+<area shape="rect" id="node11" href="$PluginManager_8h.html" title=" " alt="" coords="2020,172,2238,197"/>
+<area shape="rect" id="node33" href="$PluginModule_8h.html" title=" " alt="" coords="1567,432,1776,457"/>
+<area shape="rect" id="node12" href="$CacheConfiguration_8h.html" title=" " alt="" coords="858,345,1098,371"/>
+<area shape="rect" id="node14" href="$CatapultCacheBuilder_8h.html" title=" " alt="" coords="2132,252,2331,291"/>
+<area shape="rect" id="node15" href="$InflationConfiguration_8h.html" title=" " alt="" coords="1173,339,1330,377"/>
+<area shape="rect" id="node17" href="$PacketHandlers_8h.html" title=" " alt="" coords="1800,432,2010,457"/>
+<area shape="rect" id="node19" href="$BlockChainConfiguration_8h.html" title=" " alt="" coords="655,339,835,377"/>
+<area shape="rect" id="node20" href="$NotificationPublisher_8h.html" title=" " alt="" coords="3217,252,3395,291"/>
+<area shape="rect" id="node22" href="$TransactionPlugin_8h.html" title=" " alt="" coords="2961,252,3142,291"/>
+<area shape="rect" id="node23" href="$DemuxObserverBuilder_8h.html" title=" " alt="" coords="1749,252,1923,291"/>
+<area shape="rect" id="node24" href="$ObserverTypes_8h.html" title=" " alt="" coords="2608,345,2730,371"/>
+<area shape="rect" id="node29" href="$DiagnosticCounter_8h.html" title=" " alt="" coords="1947,252,2108,291"/>
+<area shape="rect" id="node30" href="$DemuxValidatorBuilder_8h.html" title=" " alt="" coords="2352,339,2522,377"/>
+<area shape="rect" id="node31" href="$ValidatorTypes_8h.html" title=" " alt="" coords="2474,432,2594,457"/>
+<area shape="rect" id="node32" href="$plugins_8h.html" title=" " alt="" coords="2406,259,2531,284"/>
+<area shape="rect" id="node13" href="$FileSize_8h.html" title=" " alt="" coords="590,432,748,457"/>
+<area shape="rect" id="node16" href="$InflationCalculator_8h.html" title=" " alt="" coords="1088,425,1247,464"/>
+<area shape="rect" id="node18" href="$functions_8h.html" title=" " alt="" coords="2085,512,2221,537"/>
+<area shape="rect" id="node21" href="$WeakEntityInfo_8h.html" title=" " alt="" coords="3092,512,3214,537"/>
+<area shape="rect" id="node25" href="$AggregateNotificationObserver_8h.html" title=" " alt="" coords="2525,512,2739,537"/>
+<area shape="rect" id="node26" href="$EntityObserver_8h.html" title=" " alt="" coords="3058,432,3178,457"/>
+<area shape="rect" id="node27" href="$FunctionalNotificationObserver_8h.html" title=" " alt="" coords="2186,432,2400,457"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2800,512,2869,537"/>
+<area shape="rect" id="node36" href="$Elements_8h.html" title=" " alt="" coords="2758,259,2937,284"/>
+<area shape="rect" id="node37" href="$Block_8h.html" title=" " alt="" coords="2919,432,2984,457"/>
+<area shape="rect" id="node38" href="$BlockStatement_8h.html" title=" " alt="" coords="2982,345,3108,371"/>
+<area shape="rect" id="node39" href="$ContainerTypes_8h.html" title=" " alt="" coords="2719,432,2845,457"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2958,512,3065,537"/>
+<area shape="rect" id="node41" href="$EntityInfo_8h.html" title=" " alt="" coords="2820,345,2908,371"/>
+<area shape="rect" id="node43" href="$ExtensionsConfiguration_8h.html" title=" " alt="" coords="724,512,901,537"/>
+<area shape="rect" id="node44" href="$LoggingConfiguration_8h.html" title=" " alt="" coords="253,345,413,371"/>
+<area shape="rect" id="node46" href="$NodeConfiguration_8h.html" title=" " alt="" coords="488,345,631,371"/>
+<area shape="rect" id="node47" href="$PeersConfiguration_8h.html" title=" " alt="" coords="1094,512,1241,537"/>
+<area shape="rect" id="node48" href="$UserConfiguration_8h.html" title=" " alt="" coords="119,592,259,617"/>
+<area shape="rect" id="node49" title=" " alt="" coords="5,345,178,371"/>
+<area shape="rect" id="node45" href="$Logging_8h.html" title=" " alt="" coords="333,432,440,457"/>
+</map>

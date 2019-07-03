@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.16"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>CatapultServer: catapult-server/tools/statusgen/main.cpp File Reference</title>
+<title>CatapultServer: main.cpp File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -91,84 +91,64 @@ $(document).ready(function(){initNavTree('tools_2statusgen_2main_8cpp.html','');
 <a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
-<div class="title">main.cpp File Reference</div>  </div>
+<div class="title">tools/statusgen/main.cpp File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="_tool_main_8h_source.html">tools/ToolMain.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="model_2_facility_code_8h_source.html">catapult/model/FacilityCode.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_hex_formatter_8h_source.html">catapult/utils/HexFormatter.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_validation_result_8h_source.html">../../src/catapult/validators/ValidationResult.h</a>&quot;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2coresystem_2src_2validators_2_results_8h_source.html">../../plugins/coresystem/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2services_2hashcache_2src_2validators_2_results_8h_source.html">../../plugins/services/hashcache/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2services_2signature_2src_2validators_2_results_8h_source.html">../../plugins/services/signature/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2txes_2account__link_2src_2validators_2_results_8h_source.html">../../plugins/txes/account_link/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2txes_2aggregate_2src_2validators_2_results_8h_source.html">../../plugins/txes/aggregate/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2txes_2lock__hash_2src_2validators_2_results_8h_source.html">../../plugins/txes/lock_hash/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2txes_2lock__secret_2src_2validators_2_results_8h_source.html">../../plugins/txes/lock_secret/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2txes_2mosaic_2src_2validators_2_results_8h_source.html">../../plugins/txes/mosaic/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2txes_2multisig_2src_2validators_2_results_8h_source.html">../../plugins/txes/multisig/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2txes_2namespace_2src_2validators_2_results_8h_source.html">../../plugins/txes/namespace/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2txes_2restriction__account_2src_2validators_2_results_8h_source.html">../../plugins/txes/restriction_account/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="plugins_2txes_2transfer_2src_2validators_2_results_8h_source.html">../../plugins/txes/transfer/src/validators/Results.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_chain_results_8h_source.html">../../src/catapult/chain/ChainResults.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_consumer_results_8h_source.html">../../src/catapult/consumers/ConsumerResults.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="src_2catapult_2extensions_2_results_8h_source.html">../../src/catapult/extensions/Results.h</a>&quot;</code><br />
-</div><div class="textblock"><div class="dynheader">
-Include dependency graph for main.cpp:</div>
+<div class="textblock"><div class="dynheader">
+Include dependency graph for tools/statusgen/main.cpp:</div>
 <div class="dyncontent">
-<div class="center"><img src="tools_2statusgen_2main_8cpp__incl.png" border="0" usemap="#catapult-server_2tools_2statusgen_2main_8cpp" alt=""/></div>
-<map name="catapult-server_2tools_2statusgen_2main_8cpp" id="catapult-server_2tools_2statusgen_2main_8cpp">
-<area shape="rect" title=" " alt="" coords="1188,5,1329,44"/>
-<area shape="rect" href="_tool_main_8h.html" title=" " alt="" coords="27,105,145,131"/>
-<area shape="rect" href="model_2_facility_code_8h.html" title=" " alt="" coords="444,452,640,477"/>
-<area shape="rect" href="_hex_formatter_8h.html" title=" " alt="" coords="2267,599,2380,624"/>
-<area shape="rect" title=" " alt="" coords="2473,679,2545,704"/>
-<area shape="rect" href="_validation_result_8h.html" title=" " alt="" coords="1181,292,1373,331"/>
-<area shape="rect" href="plugins_2coresystem_2src_2validators_2_results_8h.html" title=" " alt="" coords="273,199,436,237"/>
-<area shape="rect" href="plugins_2services_2hashcache_2src_2validators_2_results_8h.html" title=" " alt="" coords="459,192,631,244"/>
-<area shape="rect" href="plugins_2services_2signature_2src_2validators_2_results_8h.html" title=" " alt="" coords="655,192,817,244"/>
-<area shape="rect" href="plugins_2txes_2account__link_2src_2validators_2_results_8h.html" title=" " alt="" coords="841,192,1022,244"/>
-<area shape="rect" href="plugins_2txes_2aggregate_2src_2validators_2_results_8h.html" title=" " alt="" coords="1047,192,1214,244"/>
-<area shape="rect" href="plugins_2txes_2lock__hash_2src_2validators_2_results_8h.html" title=" " alt="" coords="1289,192,1457,244"/>
-<area shape="rect" href="plugins_2txes_2lock__secret_2src_2validators_2_results_8h.html" title=" " alt="" coords="1480,192,1655,244"/>
-<area shape="rect" href="plugins_2txes_2mosaic_2src_2validators_2_results_8h.html" title=" " alt="" coords="1679,192,1829,244"/>
-<area shape="rect" href="plugins_2txes_2multisig_2src_2validators_2_results_8h.html" title=" " alt="" coords="1043,92,1196,144"/>
-<area shape="rect" href="plugins_2txes_2namespace_2src_2validators_2_results_8h.html" title=" " alt="" coords="1371,92,1548,144"/>
-<area shape="rect" href="plugins_2txes_2restriction__account_2src_2validators_2_results_8h.html" title=" " alt="" coords="1571,92,1734,144"/>
-<area shape="rect" href="plugins_2txes_2transfer_2src_2validators_2_results_8h.html" title=" " alt="" coords="1758,92,1910,144"/>
-<area shape="rect" href="_chain_results_8h.html" title=" " alt="" coords="1935,99,2086,137"/>
-<area shape="rect" href="_consumer_results_8h.html" title=" " alt="" coords="2110,99,2321,137"/>
-<area shape="rect" href="src_2catapult_2extensions_2_results_8h.html" title=" " alt="" coords="2346,99,2494,137"/>
-<area shape="rect" href="_tool_8h.html" title=" " alt="" coords="52,205,109,231"/>
-<area shape="rect" href="_command_parser_8h.html" title=" " alt="" coords="5,299,138,324"/>
-<area shape="rect" href="_options_8h.html" title=" " alt="" coords="22,379,100,404"/>
-<area shape="rect" title=" " alt="" coords="510,525,574,551"/>
-<area shape="rect" href="_stream_format_guard_8h.html" title=" " alt="" coords="2014,679,2169,704"/>
-<area shape="rect" href="_traits_8h.html" title=" " alt="" coords="2275,679,2373,704"/>
-<area shape="rect" title=" " alt="" coords="2396,679,2448,704"/>
-<area shape="rect" title=" " alt="" coords="2193,679,2251,704"/>
-<area shape="rect" href="_non_copyable_8h.html" title=" " alt="" coords="1264,765,1378,791"/>
-<area shape="rect" title=" " alt="" coords="2058,765,2126,791"/>
-<area shape="rect" href="_clamped_base_value_8h.html" title=" " alt="" coords="2191,759,2374,797"/>
-<area shape="rect" title=" " alt="" coords="2469,765,2552,791"/>
-<area shape="rect" href="_base_value_8h.html" title=" " alt="" coords="522,845,618,871"/>
-<area shape="rect" title=" " alt="" coords="314,919,373,944"/>
-<area shape="rect" href="validators_2_facility_code_8h.html" title=" " alt="" coords="1089,379,1195,404"/>
-<area shape="rect" href="_casting_8h.html" title=" " alt="" coords="1078,452,1233,477"/>
-<area shape="rect" href="_logging_8h.html" title=" " alt="" coords="1146,599,1253,624"/>
-<area shape="rect" href="exceptions_8h.html" title=" " alt="" coords="922,525,1069,551"/>
-<area shape="rect" title=" " alt="" coords="1195,525,1247,551"/>
-<area shape="rect" title=" " alt="" coords="1092,525,1171,551"/>
-<area shape="rect" title=" " alt="" coords="895,599,1096,624"/>
-<area shape="rect" href="_path_utils_8h.html" title=" " alt="" coords="658,679,744,704"/>
-<area shape="rect" title=" " alt="" coords="767,672,901,711"/>
-<area shape="rect" title=" " alt="" coords="925,679,1056,704"/>
-<area shape="rect" title=" " alt="" coords="1079,672,1219,711"/>
-<area shape="rect" title=" " alt="" coords="1242,672,1407,711"/>
-<area shape="rect" title=" " alt="" coords="1431,672,1616,711"/>
-<area shape="rect" title=" " alt="" coords="1641,679,1777,704"/>
-<area shape="rect" title=" " alt="" coords="1800,679,1991,704"/>
+<div class="center"><img src="tools_2statusgen_2main_8cpp__incl.png" border="0" usemap="#main_8cpp" alt=""/></div>
+<map name="main_8cpp" id="main_8cpp">
+<area shape="rect" title=" " alt="" coords="1221,5,1296,31"/>
+<area shape="rect" href="ToolMain_8h.html" title=" " alt="" coords="27,92,145,117"/>
+<area shape="rect" href="model_2FacilityCode_8h.html" title=" " alt="" coords="444,439,640,464"/>
+<area shape="rect" href="HexFormatter_8h.html" title=" " alt="" coords="2267,585,2380,611"/>
+<area shape="rect" title=" " alt="" coords="2473,665,2545,691"/>
+<area shape="rect" href="ValidationResult_8h.html" title=" " alt="" coords="1181,279,1373,317"/>
+<area shape="rect" href="plugins_2coresystem_2src_2validators_2Results_8h.html" title=" " alt="" coords="273,185,436,224"/>
+<area shape="rect" href="plugins_2services_2hashcache_2src_2validators_2Results_8h.html" title=" " alt="" coords="459,179,631,231"/>
+<area shape="rect" href="plugins_2services_2signature_2src_2validators_2Results_8h.html" title=" " alt="" coords="655,179,817,231"/>
+<area shape="rect" href="plugins_2txes_2account__link_2src_2validators_2Results_8h.html" title=" " alt="" coords="841,179,1022,231"/>
+<area shape="rect" href="plugins_2txes_2aggregate_2src_2validators_2Results_8h.html" title=" " alt="" coords="1047,179,1214,231"/>
+<area shape="rect" href="plugins_2txes_2lock__hash_2src_2validators_2Results_8h.html" title=" " alt="" coords="1289,179,1457,231"/>
+<area shape="rect" href="plugins_2txes_2lock__secret_2src_2validators_2Results_8h.html" title=" " alt="" coords="1480,179,1655,231"/>
+<area shape="rect" href="plugins_2txes_2mosaic_2src_2validators_2Results_8h.html" title=" " alt="" coords="1679,179,1829,231"/>
+<area shape="rect" href="plugins_2txes_2multisig_2src_2validators_2Results_8h.html" title=" " alt="" coords="1043,79,1196,131"/>
+<area shape="rect" href="plugins_2txes_2namespace_2src_2validators_2Results_8h.html" title=" " alt="" coords="1371,79,1548,131"/>
+<area shape="rect" href="plugins_2txes_2restriction__account_2src_2validators_2Results_8h.html" title=" " alt="" coords="1571,79,1734,131"/>
+<area shape="rect" href="plugins_2txes_2transfer_2src_2validators_2Results_8h.html" title=" " alt="" coords="1758,79,1910,131"/>
+<area shape="rect" href="ChainResults_8h.html" title=" " alt="" coords="1935,85,2086,124"/>
+<area shape="rect" href="ConsumerResults_8h.html" title=" " alt="" coords="2110,85,2321,124"/>
+<area shape="rect" href="src_2catapult_2extensions_2Results_8h.html" title=" " alt="" coords="2346,85,2494,124"/>
+<area shape="rect" href="Tool_8h.html" title=" " alt="" coords="52,192,109,217"/>
+<area shape="rect" href="CommandParser_8h.html" title=" " alt="" coords="5,285,138,311"/>
+<area shape="rect" href="Options_8h.html" title=" " alt="" coords="22,365,100,391"/>
+<area shape="rect" title=" " alt="" coords="510,512,574,537"/>
+<area shape="rect" href="StreamFormatGuard_8h.html" title=" " alt="" coords="2014,665,2169,691"/>
+<area shape="rect" href="Traits_8h.html" title=" " alt="" coords="2275,665,2373,691"/>
+<area shape="rect" title=" " alt="" coords="2396,665,2448,691"/>
+<area shape="rect" title=" " alt="" coords="2193,665,2251,691"/>
+<area shape="rect" href="NonCopyable_8h.html" title=" " alt="" coords="1264,752,1378,777"/>
+<area shape="rect" title=" " alt="" coords="2058,752,2126,777"/>
+<area shape="rect" href="ClampedBaseValue_8h.html" title=" " alt="" coords="2191,745,2374,784"/>
+<area shape="rect" title=" " alt="" coords="2469,752,2552,777"/>
+<area shape="rect" href="BaseValue_8h.html" title=" " alt="" coords="522,832,618,857"/>
+<area shape="rect" title=" " alt="" coords="314,905,373,931"/>
+<area shape="rect" href="validators_2FacilityCode_8h.html" title=" " alt="" coords="1089,365,1195,391"/>
+<area shape="rect" href="Casting_8h.html" title=" " alt="" coords="1078,439,1233,464"/>
+<area shape="rect" href="Logging_8h.html" title=" " alt="" coords="1146,585,1253,611"/>
+<area shape="rect" href="exceptions_8h.html" title=" " alt="" coords="922,512,1069,537"/>
+<area shape="rect" title=" " alt="" coords="1195,512,1247,537"/>
+<area shape="rect" title=" " alt="" coords="1092,512,1171,537"/>
+<area shape="rect" title=" " alt="" coords="895,585,1096,611"/>
+<area shape="rect" href="PathUtils_8h.html" title=" " alt="" coords="658,665,744,691"/>
+<area shape="rect" title=" " alt="" coords="767,659,901,697"/>
+<area shape="rect" title=" " alt="" coords="925,665,1056,691"/>
+<area shape="rect" title=" " alt="" coords="1079,659,1219,697"/>
+<area shape="rect" title=" " alt="" coords="1242,659,1407,697"/>
+<area shape="rect" title=" " alt="" coords="1431,659,1616,697"/>
+<area shape="rect" title=" " alt="" coords="1641,665,1777,691"/>
+<area shape="rect" title=" " alt="" coords="1800,665,1991,691"/>
 </map>
 </div>
 </div><table class="memberdecls">
@@ -330,8 +310,8 @@ Here is the call graph for this function:</div>
 <map name="tools_2statusgen_2main_8cpp_a217dbf8b442f20279ea00b898af96f52_cgraph" id="tools_2statusgen_2main_8cpp_a217dbf8b442f20279ea00b898af96f52_cgraph">
 <area shape="rect" title=" " alt="" coords="5,93,56,119"/>
 <area shape="rect" href="namespacecatapult_1_1tools.html#a003b21db87c3d7802f9c87647b5c2c35" title=" " alt="" coords="104,93,268,119"/>
-<area shape="rect" href="classcatapult_1_1tools_1_1_command_parser.html#a5a188c18e62afc27a6923e383c9503f5" title="Returns name of the command." alt="" coords="339,5,511,44"/>
-<area shape="rect" href="classcatapult_1_1tools_1_1_tool.html#a90e701b18b25f48e24ed4c22101a3b5b" title="Run the tool passing options collected from the command line." alt="" coords="344,68,506,93"/>
+<area shape="rect" href="classcatapult_1_1tools_1_1CommandParser.html#a5a188c18e62afc27a6923e383c9503f5" title="Returns name of the command." alt="" coords="339,5,511,44"/>
+<area shape="rect" href="classcatapult_1_1tools_1_1Tool.html#a90e701b18b25f48e24ed4c22101a3b5b" title="Run the tool passing options collected from the command line." alt="" coords="344,68,506,93"/>
 <area shape="rect" href="namespacecatapult_1_1thread.html#a7067b8be6d66ed95ea8f4058bf117fb6" title=" " alt="" coords="316,117,534,143"/>
 <area shape="rect" href="namespacecatapult_1_1version.html#a2bb99c53ab89c89f5615b78bf6d98557" title="Writes custom version information to out." alt="" coords="343,167,507,205"/>
 <area shape="rect" href="namespacecatapult_1_1thread.html#ad39b4a512159d72096deaa5fe027e1cb" title="Gets the maximum supported thread name length (excluding NUL&#45;terminator)." alt="" coords="582,111,750,149"/>
@@ -342,7 +322,7 @@ Here is the call graph for this function:</div>
 </div>
 </div><!-- contents -->
 </div><!-- doc-content -->
-<div class="ttc" id="atools_2statusgen_2main_8cpp_html_a24eb91dc050ed7df87ec1461ed2430d9"><div class="ttname"><a href="tools_2statusgen_2main_8cpp.html#a24eb91dc050ed7df87ec1461ed2430d9">STR</a></div><div class="ttdeci">#define STR(SYMBOL)</div><div class="ttdef"><b>Definition:</b> main.cpp:34</div></div>
+<div class="ttc" id="atools_2statusgen_2main_8cpp_html_a24eb91dc050ed7df87ec1461ed2430d9"><div class="ttname"><a href="tools_2statusgen_2main_8cpp.html#a24eb91dc050ed7df87ec1461ed2430d9">STR</a></div><div class="ttdeci">#define STR(SYMBOL)</div><div class="ttdef"><b>Definition:</b> tools/statusgen/main.cpp:34</div></div>
 <div class="ttc" id="anamespacecatapult_1_1validators_html_a1443a416b988117d3a7a79b1338af72c"><div class="ttname"><a href="namespacecatapult_1_1validators.html#a1443a416b988117d3a7a79b1338af72c">catapult::validators::MakeValidationResult</a></div><div class="ttdeci">constexpr ValidationResult MakeValidationResult(ResultSeverity severity, FacilityCode facility, uint16_t code, ResultFlags flags)</div><div class="ttdoc">Makes a validation result given severity, facility, code and flags.</div><div class="ttdef"><b>Definition:</b> ValidationResult.h:63</div></div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->

@@ -1,4 +1,0 @@
-<map id="catapult::thread::Task" name="catapult::thread::Task">
-<area shape="rect" id="node1" title="A task that can be dispatched to the scheduler." alt="" coords="15,92,163,117"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_time_span.html" title="Represents a time duration." alt="" coords="5,5,172,31"/>
-</map>

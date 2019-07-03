@@ -1,5 +1,5 @@
 <map id="catapult::extensions::CreateUndoEntityObserver" name="catapult::extensions::CreateUndoEntityObserver">
 <area shape="rect" id="node1" title="Creates an undo entity observer using pluginManager." alt="" coords="5,12,194,51"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#ad045b68aee655ab278d2950210217418" title="Creates an observer." alt="" coords="242,12,452,51"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1observers_1_1_demux_observer_builder.html#aa28541253a3a392e2a34fdaf754929e0" title="Builds a demultiplexing observer." alt="" coords="500,5,668,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1PluginManager.html#ad045b68aee655ab278d2950210217418" title="Creates an observer." alt="" coords="242,12,452,51"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1observers_1_1DemuxObserverBuilder.html#aa28541253a3a392e2a34fdaf754929e0" title="Builds a demultiplexing observer." alt="" coords="500,5,668,57"/>
 </map>

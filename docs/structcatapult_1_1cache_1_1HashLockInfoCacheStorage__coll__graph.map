@@ -1,0 +1,8 @@
+<map id="catapult::cache::HashLockInfoCacheStorage" name="catapult::cache::HashLockInfoCacheStorage">
+<area shape="rect" id="node1" title="Policy for saving and loading hash lock info cache data." alt="" coords="906,51,1084,89"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1LockInfoCacheStorage.html" title=" " alt="" coords="585,44,858,96"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1CacheStorageForBasicInsertRemoveCache.html" title=" " alt="" coords="311,8,537,60"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1CacheStorageFromDescriptor.html" title=" " alt="" coords="12,5,257,57"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1state_1_1HashLockInfoSerializer.html" title="Policy for saving and loading hash lock info data." alt="" coords="339,85,510,124"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1state_1_1LockInfoSerializer.html" title=" " alt="" coords="5,81,263,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="catapult::utils::CheckedArray::empty" name="catapult::utils::CheckedArray::empty">
+<area shape="rect" id="node1" title="Returns true if the array is empty, false otherwise." alt="" coords="467,5,626,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1Namespace.html#a4798d6bbae514fe0b4963d778184a9d2" title="Creates a namespace around path." alt="" coords="236,5,419,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1Namespace.html#a845cec068627cb1879f2bbeb1f362635" title="Creates a child namespace of this namespace with namespace identifier id." alt="" coords="5,5,188,44"/>
+</map>

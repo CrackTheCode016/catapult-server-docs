@@ -1,0 +1,4 @@
+<map id="catapult::io::FileQueueReader" name="catapult::io::FileQueueReader">
+<area shape="rect" id="node1" title="File based queue reader where each message is represented by a file (with incrementing names) in a di..." alt="" coords="5,105,204,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1IndexFile.html" title="Index file containing a uint64_t value." alt="" coords="31,5,178,31"/>
+</map>

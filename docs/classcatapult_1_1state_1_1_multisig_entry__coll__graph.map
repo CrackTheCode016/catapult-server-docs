@@ -1,7 +1,0 @@
-<map id="catapult::state::MultisigEntry" name="catapult::state::MultisigEntry">
-<area shape="rect" id="node1" title="Multisig entry." alt="" coords="435,68,592,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html" title="Mixin for storing information about cosignatories of an account." alt="" coords="183,5,340,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_multisig_cosignatory_of_mixin.html" title="Mixin for storing information about accounts that current account can cosign." alt="" coords="183,68,340,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="179,131,344,169"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1_key__tag.html" title=" " alt="" coords="5,137,130,163"/>
-</map>

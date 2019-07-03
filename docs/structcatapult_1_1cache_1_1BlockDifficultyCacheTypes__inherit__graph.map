@@ -1,0 +1,5 @@
+<map id="catapult::cache::BlockDifficultyCacheTypes" name="catapult::cache::BlockDifficultyCacheTypes">
+<area shape="rect" id="node1" title=" " alt="" coords="585,19,786,57"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1SingleSetCacheTypesAdapter.html" title=" " alt="" coords="267,5,537,71"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1CacheDatabaseMixin.html" title="Mixin that owns a cache database." alt="" coords="5,19,219,57"/>
+</map>

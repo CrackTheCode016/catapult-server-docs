@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structcatapult_1_1cache_1_1_basic_cache_mixins.html" title=" " alt="" coords="5,12,247,64"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_patricia_tree_cache_mixins.html" title=" " alt="" coords="295,5,527,71"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_lock_info_cache_delta_mixins.html" title="Mixins used by the lock info cache delta." alt="" coords="575,12,787,64"/>
+<area shape="rect" id="node1" href="$structcatapult_1_1cache_1_1BasicCacheMixins.html" title=" " alt="" coords="5,12,247,64"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1PatriciaTreeCacheMixins.html" title=" " alt="" coords="295,5,527,71"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1LockInfoCacheDeltaMixins.html" title="Mixins used by the lock info cache delta." alt="" coords="575,12,787,64"/>
 </map>

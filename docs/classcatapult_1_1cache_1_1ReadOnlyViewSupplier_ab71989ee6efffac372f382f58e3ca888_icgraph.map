@@ -1,0 +1,5 @@
+<map id="catapult::cache::ReadOnlyViewSupplier::asReadOnly" name="catapult::cache::ReadOnlyViewSupplier::asReadOnly">
+<area shape="rect" id="node1" title="Returns a read&#45;only view of this view." alt="" coords="399,12,579,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1timesync_1_1TimeSynchronizer.html#aa08ba15631f6765860e101998e6f724a" title="Calculates a time offset from samples using accountStateCacheView, height and nodeAge." alt="" coords="208,5,351,57"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1timesync.html#aa4945d3c267ffac0c896cb86ed6cc2d7" title=" " alt="" coords="5,12,160,51"/>
+</map>

@@ -1,4 +1,0 @@
-<map id="catapult::mongo::MongoPluginManager::addTransactionSupport" name="catapult::mongo::MongoPluginManager::addTransactionSupport">
-<area shape="rect" id="node1" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="231,5,451,44"/>
-<area shape="rect" id="node2" href="$_mongo_plugin_manager_8h.html#af2a241600d5e0ac986f77f0126143877" title="Entry point for registering a dynamic module with manager." alt="" coords="5,12,183,37"/>
-</map>

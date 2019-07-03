@@ -1,8 +1,8 @@
 <map id="catapult::model::PublicKeyToAddress" name="catapult::model::PublicKeyToAddress">
 <area shape="rect" id="node1" title="Creates an address from a public key (publicKey) for the network identified by networkIdentifier." alt="" coords="5,131,184,169"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html#aeb9ed1abd6eb2d2b1587a77d764491e6" title="Returns a const iterator to the first byte." alt="" coords="243,5,408,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html#aba9b7f8b1f716e8719c21e02473cbee3" title="Returns a const iterator to the first byte." alt="" coords="243,68,408,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="243,131,408,169"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html#aeb9ed1abd6eb2d2b1587a77d764491e6" title="Returns a const iterator to the first byte." alt="" coords="243,5,408,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html#aba9b7f8b1f716e8719c21e02473cbee3" title="Returns a const iterator to the first byte." alt="" coords="243,68,408,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1ByteArray.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="243,131,408,169"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1crypto.html#aa9ca944d273c204869d98759ecad3fc2" title="Calculates the ripemd160 hash of dataBuffer into hash." alt="" coords="232,193,419,219"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="264,243,387,281"/>
 </map>

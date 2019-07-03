@@ -1,7 +1,7 @@
 <map id="catapult::chain::CalculateDifficulty" name="catapult::chain::CalculateDifficulty">
 <area shape="rect" id="node1" title=" " alt="" coords="5,68,176,107"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1chain.html#a30e500e4784a7816b4c3dde157838419" title=" " alt="" coords="238,36,408,75"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_synchronized_cache.html#a2cffaf2c56eda437b5054bd0b356b21c" title="Returns a locked cache view based on this cache." alt="" coords="224,99,423,137"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_time_span.html#a108f936a27b57fcfce207a0db30dd12d" title="Returns the number of milliseconds." alt="" coords="472,5,639,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="471,68,640,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1SynchronizedCache.html#a2cffaf2c56eda437b5054bd0b356b21c" title="Returns a locked cache view based on this cache." alt="" coords="224,99,423,137"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1TimeSpan.html#a108f936a27b57fcfce207a0db30dd12d" title="Returns the number of milliseconds." alt="" coords="472,5,639,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="471,68,640,107"/>
 </map>

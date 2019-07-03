@@ -1,0 +1,8 @@
+<map id="catapult::timesync::ImportanceAwareNodeSelector::isCandidate" name="catapult::timesync::ImportanceAwareNodeSelector::isCandidate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,219,145"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ImportanceView.html#a12c7e3b42baba60c53e1fee91674056f" title="Gets the importance for publicKey at height or a default importance if no importance is set." alt="" coords="267,5,515,44"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1ionet_1_1NodeInfo.html#a1dde24d801643c7c6b485d8b78dc9c4d" title="Gets connection state for the service identified by serviceId or nullptr if no state exists." alt="" coords="308,68,474,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1ionet_1_1Node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="319,131,463,169"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1ionet_1_1NodeInfo.html#a99f5610606f534cb8197e09a5775548a" title="Gets the node source." alt="" coords="308,193,474,232"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1ImportanceView.html#aa88a70d0fe6047d1f5536280e63bfe3a" title="Tries to populate importance with the importance for publicKey at height." alt="" coords="563,5,772,44"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="catapult::cache::SynchronizedCache::createView" name="catapult::cache::SynchronizedCache::createView">
-<area shape="rect" id="node1" title="Returns a locked cache view based on this cache." alt="" coords="730,109,929,148"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1chain.html#a13cad25af08ab254f47503db6c75f24f" title=" " alt="" coords="492,5,662,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1handlers.html#ab674204da65fa21fbecbf2cf62d539e3" title="Creates a confirmed timestamped hashes producer factory around hashCache." alt="" coords="472,68,682,120"/>
-<area shape="rect" id="node6" href="$namespacecatapult_1_1cache.html#aea1e85b871cd2ac52a98bcd72c3fb1f6" title="Returns true if cache contains hash with timestamp." alt="" coords="483,144,671,183"/>
-<area shape="rect" id="node7" href="$namespacecatapult_1_1chain.html#aeaaed12b55036ecb30a8d819b2b6f47d" title=" " alt="" coords="482,207,671,245"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="190,75,424,113"/>
-<area shape="rect" id="node5" href="$_plugin_manager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,81,142,107"/>
-</map>

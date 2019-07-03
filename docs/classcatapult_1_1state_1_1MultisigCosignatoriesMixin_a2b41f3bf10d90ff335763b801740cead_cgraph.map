@@ -1,0 +1,4 @@
+<map id="catapult::state::MultisigCosignatoriesMixin::setMinRemoval" name="catapult::state::MultisigCosignatoriesMixin::setMinRemoval">
+<area shape="rect" id="node1" title="Sets the number of cosignatories required (minRemoval) when removing an account." alt="" coords="5,5,239,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1MultisigCosignatoriesMixin.html#ad1e6c7a75aec80d9109458dd2ee332b8" title="Gets the number of cosignatories required when removing an account." alt="" coords="287,5,502,44"/>
+</map>

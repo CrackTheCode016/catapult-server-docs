@@ -1,0 +1,7 @@
+<map id="catapult::tree::PatriciaTreeSerializer::SerializeValue" name="catapult::tree::PatriciaTreeSerializer::SerializeValue">
+<area shape="rect" id="node1" title="Serializes value to string." alt="" coords="5,92,201,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1TreeNode.html#a3e947b1deef95587199cdd1aa6086868" title="Gets a branch node interface to this node." alt="" coords="249,5,413,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1TreeNode.html#a1cc8411f5a12c6abfdcf67bff2fc10a6" title="Returns true if this node represents a branch node." alt="" coords="461,48,626,87"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1TreeNode.html#a9c3786ed65fe2afab1a53c406169f367" title="Gets a leaf node interface to this node." alt="" coords="249,120,413,159"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1tree_1_1TreeNode.html#ac79c06c7e9e84b71f43595d5dc713174" title="Returns true if this node represents a leaf node." alt="" coords="461,136,626,175"/>
+</map>

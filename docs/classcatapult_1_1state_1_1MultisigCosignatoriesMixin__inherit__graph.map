@@ -1,0 +1,4 @@
+<map id="catapult::state::MultisigCosignatoriesMixin" name="catapult::state::MultisigCosignatoriesMixin">
+<area shape="rect" id="node1" title="Mixin for storing information about cosignatories of an account." alt="" coords="5,5,162,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1MultisigEntry.html" title="Multisig entry." alt="" coords="5,92,162,131"/>
+</map>

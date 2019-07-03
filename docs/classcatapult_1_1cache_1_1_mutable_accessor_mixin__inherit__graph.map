@@ -1,9 +1,0 @@
-<map id="catapult::cache::MutableAccessorMixin&lt; TSet, TCacheDescriptor, TValueAdapter &gt;" name="catapult::cache::MutableAccessorMixin&lt; TSet, TCacheDescriptor, TValueAdapter &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="5,44,270,96"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_delta.html" title="Basic delta on top of the account state cache." alt="" coords="318,16,605,55"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_basic_multisig_cache_delta.html" title="Basic delta on top of the multisig cache." alt="" coords="333,81,590,120"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_read_only_view_supplier.html" title=" " alt="" coords="655,5,878,57"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_account_state_cache_delta.html" title="Delta on top of the account state cache." alt="" coords="928,12,1095,51"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_read_only_view_supplier.html" title=" " alt="" coords="653,81,880,133"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_multisig_cache_delta.html" title="Delta on top of the multisig cache." alt="" coords="930,88,1093,127"/>
-</map>

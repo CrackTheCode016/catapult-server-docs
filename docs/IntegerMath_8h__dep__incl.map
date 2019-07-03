@@ -1,0 +1,34 @@
+<map id="IntegerMath.h" name="IntegerMath.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1249,5,1353,31"/>
+<area shape="rect" id="node2" href="$BlockScorer_8cpp.html" title=" " alt="" coords="527,79,645,104"/>
+<area shape="rect" id="node3" href="$NemesisBlockLoader_8cpp.html" title=" " alt="" coords="669,79,841,104"/>
+<area shape="rect" id="node4" href="$PacketPayloadBuilder_8h.html" title=" " alt="" coords="865,79,1027,104"/>
+<area shape="rect" id="node27" href="$PatriciaTreeSerializer_8cpp.html" title=" " alt="" coords="1052,79,1224,104"/>
+<area shape="rect" id="node28" href="$TreeNode_8cpp.html" title=" " alt="" coords="1248,79,1353,104"/>
+<area shape="rect" id="node29" href="$BlockSpan_8cpp.html" title=" " alt="" coords="1378,79,1488,104"/>
+<area shape="rect" id="node30" href="$FileSize_8cpp.html" title=" " alt="" coords="1512,79,1606,104"/>
+<area shape="rect" id="node31" href="$IntegerMath_8cpp.html" title=" " alt="" coords="1630,79,1748,104"/>
+<area shape="rect" id="node32" href="$TimeSpan_8cpp.html" title=" " alt="" coords="1771,79,1878,104"/>
+<area shape="rect" id="node5" href="$PtHandlers_8cpp.html" title=" " alt="" coords="727,152,840,177"/>
+<area shape="rect" id="node6" href="$HandlerFactory_8h.html" title=" " alt="" coords="1670,152,1793,177"/>
+<area shape="rect" id="node18" href="$PacketPayloadFactory_8h.html" title=" " alt="" coords="864,152,1028,177"/>
+<area shape="rect" id="node7" href="$NodeDiscoveryHandlers_8cpp.html" title=" " alt="" coords="1436,225,1627,251"/>
+<area shape="rect" id="node8" href="$HashCacheDiagnosticHandlers_8cpp.html" title=" " alt="" coords="1837,225,2069,251"/>
+<area shape="rect" id="node9" href="$DiagnosticHandlers_8cpp.html" title=" " alt="" coords="1650,225,1812,251"/>
+<area shape="rect" id="node10" href="$CacheHandlers_8h.html" title=" " alt="" coords="2093,225,2218,251"/>
+<area shape="rect" id="node11" href="$CoreSystem_8cpp.html" title=" " alt="" coords="1606,299,1726,324"/>
+<area shape="rect" id="node12" href="$HashLockPlugin_8cpp.html" title=" " alt="" coords="1751,299,1893,324"/>
+<area shape="rect" id="node13" href="$SecretLockPlugin_8cpp.html" title=" " alt="" coords="1918,299,2068,324"/>
+<area shape="rect" id="node14" href="$MosaicPlugin_8cpp.html" title=" " alt="" coords="2092,299,2218,324"/>
+<area shape="rect" id="node15" href="$MultisigPlugin_8cpp.html" title=" " alt="" coords="2242,299,2370,324"/>
+<area shape="rect" id="node16" href="$NamespacePlugin_8cpp.html" title=" " alt="" coords="2394,299,2549,324"/>
+<area shape="rect" id="node17" href="$AccountRestrictionPlugin_8cpp.html" title=" " alt="" coords="2573,299,2767,324"/>
+<area shape="rect" id="node19" href="$NodeDiscoveryService_8cpp.html" title=" " alt="" coords="678,225,859,251"/>
+<area shape="rect" id="node20" href="$RemotePtApi_8cpp.html" title=" " alt="" coords="883,225,1009,251"/>
+<area shape="rect" id="node21" href="$RemoteDiagnosticApi_8cpp.html" title=" " alt="" coords="1032,225,1207,251"/>
+<area shape="rect" id="node22" href="$RemoteTransactionApi_8cpp.html" title=" " alt="" coords="1231,225,1413,251"/>
+<area shape="rect" id="node23" href="$ChainHandlers_8cpp.html" title=" " alt="" coords="5,225,140,251"/>
+<area shape="rect" id="node24" href="$MerkleHandlers_8cpp.html" title=" " alt="" coords="164,225,304,251"/>
+<area shape="rect" id="node25" href="$TransactionHandlers_8cpp.html" title=" " alt="" coords="328,225,497,251"/>
+<area shape="rect" id="node26" href="$BroadcastUtils_8cpp.html" title=" " alt="" coords="521,225,654,251"/>
+</map>

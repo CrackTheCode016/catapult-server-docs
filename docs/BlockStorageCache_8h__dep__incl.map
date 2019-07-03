@@ -1,0 +1,19 @@
+<map id="BlockStorageCache.h" name="BlockStorageCache.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1358,5,1509,31"/>
+<area shape="rect" id="node2" href="$HarvestingService_8cpp.html" title=" " alt="" coords="5,79,160,104"/>
+<area shape="rect" id="node3" href="$NetworkHeightService_8cpp.html" title=" " alt="" coords="184,79,363,104"/>
+<area shape="rect" id="node4" href="$TimeSynchronizationUtils_8cpp.html" title=" " alt="" coords="387,79,584,104"/>
+<area shape="rect" id="node5" href="$LocalChainApi_8cpp.html" title=" " alt="" coords="607,79,740,104"/>
+<area shape="rect" id="node6" href="$BlockChainSyncConsumer_8cpp.html" title=" " alt="" coords="763,79,968,104"/>
+<area shape="rect" id="node7" href="$LocalNodeStateFileStorage_8cpp.html" title=" " alt="" coords="991,79,1201,104"/>
+<area shape="rect" id="node8" href="$NemesisBlockLoader_8cpp.html" title=" " alt="" coords="1225,79,1397,104"/>
+<area shape="rect" id="node9" href="$HeightRequestProcessor_8h.html" title=" " alt="" coords="1470,79,1650,104"/>
+<area shape="rect" id="node10" href="$ChainHandlers_8cpp.html" title=" " alt="" coords="1321,152,1455,177"/>
+<area shape="rect" id="node12" href="$MerkleHandlers_8cpp.html" title=" " alt="" coords="1665,152,1805,177"/>
+<area shape="rect" id="node13" href="$BlockStorageCache_8cpp.html" title=" " alt="" coords="1725,79,1889,104"/>
+<area shape="rect" id="node14" href="$MultiBlockLoader_8cpp.html" title=" " alt="" coords="1913,79,2061,104"/>
+<area shape="rect" id="node15" href="$RecoveryOrchestrator_8cpp.html" title=" " alt="" coords="2085,79,2261,104"/>
+<area shape="rect" id="node16" href="$LocalNode_8cpp.html" title=" " alt="" coords="2285,79,2395,104"/>
+<area shape="rect" id="node17" href="$NemesisBlockNotifier_8cpp.html" title=" " alt="" coords="2419,79,2592,104"/>
+<area shape="rect" id="node11" href="$DiagnosticHandlers_8cpp.html" title=" " alt="" coords="1479,152,1641,177"/>
+</map>

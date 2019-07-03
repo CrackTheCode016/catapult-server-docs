@@ -1,9 +1,0 @@
-<map id="catapult::cache::RelockableDetachedCatapultCache::Impl" name="catapult::cache::RelockableDetachedCatapultCache::Impl">
-<area shape="rect" id="node1" title=" " alt="" coords="1037,37,1236,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_catapult_cache.html" title="Central cache holding all sub caches." alt="" coords="712,5,880,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="711,68,881,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,55,662,120"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1_height__tag.html" title=" " alt="" coords="236,47,376,72"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,96,390,135"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,103,172,128"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="catapult::tools::KeyValueOutputBuilder::add" name="catapult::tools::KeyValueOutputBuilder::add">
+<area shape="rect" id="node1" title="Adds a key with a string value." alt="" coords="220,5,388,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1KeyValueOutputBuilder.html#af47f09a012b056914e7149f84bf34c18" title="Adds a key with multiple values that should be joined with separator." alt="" coords="5,5,172,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RegisterMongoSubsystem" name="RegisterMongoSubsystem">
+<area shape="rect" id="node1" title="Entry point for registering a dynamic module with manager." alt="" coords="5,81,183,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a205502e0f851c3b9807e5ff6959fc306" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="241,5,461,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1plugins.html#a726f00a98f6e5bc4be933c2f4c2390f9" title="Creates a mongo aggregate transaction plugin around transactionRegistry for transactions with type tr..." alt="" coords="231,68,471,120"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#aefa564a687e5eb292a4c3909393429e2" title="Gets the transaction registry." alt="" coords="250,144,452,183"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="519,5,724,44"/>
+</map>

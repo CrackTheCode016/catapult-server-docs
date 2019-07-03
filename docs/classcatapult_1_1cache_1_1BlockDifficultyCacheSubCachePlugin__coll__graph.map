@@ -1,0 +1,5 @@
+<map id="catapult::cache::BlockDifficultyCacheSubCachePlugin" name="catapult::cache::BlockDifficultyCacheSubCachePlugin">
+<area shape="rect" id="node1" title="Specialized block difficulty cache sub cache plugin." alt="" coords="529,12,730,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1SubCachePluginAdapter.html" title=" " alt="" coords="234,5,481,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1SubCachePlugin.html" title="Sub cache plugin that can be added to the main catapult cache." alt="" coords="5,12,186,51"/>
+</map>

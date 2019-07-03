@@ -1,0 +1,9 @@
+<map id="catapult::cache::HashCacheView" name="catapult::cache::HashCacheView">
+<area shape="rect" id="node1" title="View on top of the hash cache." alt="" coords="751,93,968,119"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="450,87,703,125"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicHashCacheView.html" title="Basic view on top of the hash cache." alt="" coords="220,87,402,125"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,5,172,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1SizeMixin.html" title="A mixin for adding size support to a cache." alt="" coords="10,55,167,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1ContainsMixin.html" title="A mixin for adding contains support to a cache." alt="" coords="10,117,167,156"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1IterationMixin.html" title="A mixin for adding iteration support to a cache." alt="" coords="10,180,167,219"/>
+</map>

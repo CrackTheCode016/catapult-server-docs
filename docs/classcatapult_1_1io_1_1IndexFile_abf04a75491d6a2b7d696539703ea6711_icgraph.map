@@ -1,0 +1,18 @@
+<map id="catapult::io::IndexFile::get" name="catapult::io::IndexFile::get">
+<area shape="rect" id="node1" title="Gets the index value." alt="" coords="762,169,935,195"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a24e4e5ea5b7f0b2690a30e07fe27bdc5" title="Gets the number of blocks." alt="" coords="518,68,712,107"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1local_1_1CatapultSystemState.html#adb1d2ca08b8143c120cd9ce0360b100f" title="Last server commit operation step that succeeded." alt="" coords="527,131,702,169"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1io_1_1FileQueueReader.html#a02a867dfd66c2ceea408ec61e1363ddf" title="Gets the number of pending messages." alt="" coords="515,193,714,232"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1io_1_1FileQueueReader.html#adf6c9116b9e3cab8a85e5856e2f4af98" title=" " alt="" coords="515,256,714,295"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1FileBlockStorage.html#aef8b9e02f5a88eece98a8e783517e195" title="Returns a range of at most maxHashes hashes starting at height." alt="" coords="271,5,465,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a903aabd2ccf7ab0aeac660f3829d0130" title=" " alt="" coords="271,68,465,107"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a6c981ab30cc4644b3c2e25865f6fda96" title="Saves blockElement." alt="" coords="271,131,465,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1FileBlockStorage.html#ac6f21d41fce2034f7438d712e896e7ee" title="Returns the block at height." alt="" coords="16,5,210,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a2e0e3e1c24a2d40d2850abe5d67bca57" title="Returns the block element (owning a block) at height." alt="" coords="16,68,210,107"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1io_1_1FileBlockStorage.html#aef2f29cadb297523a710773176d7db3f" title="Returns the optional block statement data at height." alt="" coords="16,131,210,169"/>
+<area shape="rect" id="node11" href="$namespacecatapult_1_1subscribers.html#aee3cd35a707419efa351ef3ba739069f" title="Reads all messages from queue described by descriptor into subscriber using readNextMessage." alt="" coords="296,193,440,232"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1io_1_1FileQueueReader.html#aee77e2e3727979357d565cff54ebaae0" title="Skips at most the next count messages." alt="" coords="269,256,467,295"/>
+<area shape="rect" id="node15" href="$classcatapult_1_1io_1_1FileQueueReader.html#a28d106aa56e2446549d9b1dd04bdd214" title="Tries to read the next message and forwards it to consumer if successful." alt="" coords="269,320,467,359"/>
+<area shape="rect" id="node14" href="$namespacecatapult_1_1consumers.html#ab5b07f56280bc03c283bfe1a5567d7ee" title="Creates a consumer that cleans up temporary state produced by the block chain sync consumer given dat..." alt="" coords="5,247,221,299"/>
+<area shape="rect" id="node16" href="$namespacecatapult_1_1subscribers.html#a7ad542fdc2dec0f88e17d62f78a44e69" title="Reads all messages from reader into subscriber using readNextMessage." alt="" coords="41,323,185,361"/>
+</map>

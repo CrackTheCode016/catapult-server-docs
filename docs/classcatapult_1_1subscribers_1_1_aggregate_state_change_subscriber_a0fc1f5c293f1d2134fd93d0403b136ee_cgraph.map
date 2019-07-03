@@ -1,4 +1,0 @@
-<map id="catapult::subscribers::AggregateStateChangeSubscriber::notifyScoreChange" name="catapult::subscribers::AggregateStateChangeSubscriber::notifyScoreChange">
-<area shape="rect" id="node1" title="Indicates chain score was changed to chainScore." alt="" coords="5,12,237,64"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_basic_aggregate_subscriber.html#a2dedfcd373056055be93d28a97925c46" title=" " alt="" coords="285,5,472,71"/>
-</map>

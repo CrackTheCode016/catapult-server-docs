@@ -1,0 +1,9 @@
+<map id="NemesisFundingState.h" name="NemesisFundingState.h">
+<area shape="rect" id="node1" title=" " alt="" coords="340,5,504,31"/>
+<area shape="rect" id="node2" href="$NemesisBlockLoader_8h.html" title=" " alt="" coords="246,79,404,104"/>
+<area shape="rect" id="node6" href="$NemesisFundingObserver_8h.html" title=" " alt="" coords="428,79,614,104"/>
+<area shape="rect" id="node3" href="$LocalNodeStateFileStorage_8cpp.html" title=" " alt="" coords="5,152,215,177"/>
+<area shape="rect" id="node4" href="$NemesisBlockLoader_8cpp.html" title=" " alt="" coords="435,152,607,177"/>
+<area shape="rect" id="node5" href="$NemesisBlockNotifier_8cpp.html" title=" " alt="" coords="239,152,411,177"/>
+<area shape="rect" id="node7" href="$NemesisFundingObserver_8cpp.html" title=" " alt="" coords="631,152,832,177"/>
+</map>

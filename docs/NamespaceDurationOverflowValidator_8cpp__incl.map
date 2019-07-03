@@ -1,0 +1,52 @@
+<map id="NamespaceDurationOverflowValidator.cpp" name="NamespaceDurationOverflowValidator.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="2776,5,2971,44"/>
+<area shape="rect" id="node2" href="$txes_2namespace_2src_2validators_2Validators_8h.html" title=" " alt="" coords="2631,92,2721,117"/>
+<area shape="rect" id="node29" href="$NamespaceCache_8h.html" title=" " alt="" coords="920,172,1123,197"/>
+<area shape="rect" id="node46" href="$ValidatorContext_8h.html" title=" " alt="" coords="3415,252,3548,291"/>
+<area shape="rect" id="node50" href="$src_2catapult_2constants_8h.html" title=" " alt="" coords="3491,92,3631,117"/>
+<area shape="rect" id="node3" href="$plugins_2txes_2namespace_2src_2validators_2Results_8h.html" title=" " alt="" coords="2175,172,2252,197"/>
+<area shape="rect" id="node7" href="$AliasNotifications_8h.html" title=" " alt="" coords="2818,172,3014,197"/>
+<area shape="rect" id="node18" href="$NamespaceNotifications_8h.html" title=" " alt="" coords="3037,172,3275,197"/>
+<area shape="rect" id="node19" href="$ValidatorTypes_8h.html" title=" " alt="" coords="2276,165,2404,204"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2044,172,2151,197"/>
+<area shape="rect" id="node4" href="$ValidationResult_8h.html" title=" " alt="" coords="1782,339,1914,377"/>
+<area shape="rect" id="node5" href="$Casting_8h.html" title=" " alt="" coords="1782,425,1938,451"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2492,505,2543,531"/>
+<area shape="rect" id="node8" href="$NamespaceConstants_8h.html" title=" " alt="" coords="3226,259,3390,284"/>
+<area shape="rect" id="node9" href="$NamespaceTypes_8h.html" title=" " alt="" coords="3062,259,3202,284"/>
+<area shape="rect" id="node10" href="$Notifications_8h.html" title=" " alt="" coords="2842,259,3038,284"/>
+<area shape="rect" id="node11" href="$NetworkInfo_8h.html" title=" " alt="" coords="3296,345,3400,371"/>
+<area shape="rect" id="node12" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="3245,425,3360,451"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2382,425,2440,451"/>
+<area shape="rect" id="node13" href="$ByteArray_8h.html" title=" " alt="" coords="3083,505,3200,531"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3164,585,3215,611"/>
+<area shape="rect" id="node15" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="3275,499,3458,537"/>
+<area shape="rect" id="node16" href="$RawBuffer_8h.html" title=" " alt="" coords="3483,505,3576,531"/>
+<area shape="rect" id="node20" href="$AggregateNotificationValidator_8h.html" title=" " alt="" coords="2163,259,2374,284"/>
+<area shape="rect" id="node21" href="$EntityValidator_8h.html" title=" " alt="" coords="1971,259,2088,284"/>
+<area shape="rect" id="node22" href="$WeakEntityInfo_8h.html" title=" " alt="" coords="2020,339,2199,377"/>
+<area shape="rect" id="node23" href="$VerifiableEntity_8h.html" title=" " alt="" coords="2022,425,2141,451"/>
+<area shape="rect" id="node24" href="$FunctionalNotificationValidator_8h.html" title=" " alt="" coords="2448,259,2659,284"/>
+<area shape="rect" id="node26" href="$functions_8h.html" title=" " alt="" coords="2683,259,2819,284"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1827,259,1896,284"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2630,425,2709,451"/>
+<area shape="rect" id="node30" href="$NamespaceCacheDelta_8h.html" title=" " alt="" coords="935,259,1108,284"/>
+<area shape="rect" id="node39" href="$NamespaceCacheStorage_8h.html" title=" " alt="" coords="240,425,429,451"/>
+<area shape="rect" id="node41" href="$NamespaceCacheView_8h.html" title=" " alt="" coords="1247,259,1417,284"/>
+<area shape="rect" id="node42" href="$BasicCache_8h.html" title=" " alt="" coords="334,259,527,284"/>
+<area shape="rect" id="node31" href="$NamespaceBaseSets_8h.html" title=" " alt="" coords="580,345,740,371"/>
+<area shape="rect" id="node32" href="$NamespaceCacheSerializers_8h.html" title=" " alt="" coords="499,425,704,451"/>
+<area shape="rect" id="node35" href="$NamespaceCacheMixins_8h.html" title=" " alt="" coords="1038,345,1218,371"/>
+<area shape="rect" id="node36" href="$CacheMixinAliases_8h.html" title=" " alt="" coords="1242,339,1422,377"/>
+<area shape="rect" id="node37" href="$ReadOnlyArtifactCache_8h.html" title=" " alt="" coords="1497,339,1709,377"/>
+<area shape="rect" id="node38" href="$ReadOnlyViewSupplier_8h.html" title=" " alt="" coords="815,339,1014,377"/>
+<area shape="rect" id="node33" href="$NamespaceCacheTypes_8h.html" title=" " alt="" coords="653,505,830,531"/>
+<area shape="rect" id="node34" href="$RootNamespaceHistorySerializer_8h.html" title=" " alt="" coords="412,499,628,537"/>
+<area shape="rect" id="node40" href="$src_2catapult_2cache_2CacheStorageInclude_8h.html" title=" " alt="" coords="191,499,388,537"/>
+<area shape="rect" id="node43" href="$CacheConfiguration_8h.html" title=" " alt="" coords="356,345,506,371"/>
+<area shape="rect" id="node44" href="$CacheConstants_8h.html" title=" " alt="" coords="25,345,156,371"/>
+<area shape="rect" id="node45" href="$SynchronizedCache_8h.html" title=" " alt="" coords="180,345,332,371"/>
+<area shape="rect" id="node47" href="$ReadOnlyCatapultCache_8h.html" title=" " alt="" coords="2706,339,2926,377"/>
+<area shape="rect" id="node48" href="$ResolverContext_8h.html" title=" " alt="" coords="3000,345,3221,371"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3423,345,3483,371"/>
+</map>

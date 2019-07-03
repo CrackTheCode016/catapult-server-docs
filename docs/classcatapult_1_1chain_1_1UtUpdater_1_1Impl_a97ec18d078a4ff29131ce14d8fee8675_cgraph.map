@@ -1,0 +1,8 @@
+<map id="catapult::chain::UtUpdater::Impl::update" name="catapult::chain::UtUpdater::Impl::update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,181,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1UtUpdater_1_1Impl.html#a1f7b981d40aa5c5e484f018a8b7c0c07" title=" " alt="" coords="273,5,448,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1chain_1_1UtUpdater_1_1Impl.html#a805168b392b794f7b0e31783f008e3ec" title=" " alt="" coords="273,68,448,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1RelockableDetachedCatapultCache.html#a739910a53012b9492ca52f0b8b0800ef" title=" " alt="" coords="229,131,492,169"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1BasicTransactionsCache.html#af721b96ea9e0b2c56065a0a065a46b97" title="Gets a write only view of the cache." alt="" coords="247,193,474,232"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicTransactionsCacheModifierProxy.html#ad5f64fcd407816902b6dd760376850d7" title=" " alt="" coords="540,5,767,44"/>
+</map>

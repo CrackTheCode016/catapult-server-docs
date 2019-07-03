@@ -1,0 +1,4 @@
+<map id="catapult::model::WeakEntityInfoT::isAssociatedBlockHeaderSet" name="catapult::model::WeakEntityInfoT::isAssociatedBlockHeaderSet">
+<area shape="rect" id="node1" title="Returns true if this info has an associated block header." alt="" coords="240,5,469,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1WeakEntityInfoT.html#a42a9022e1dd7aa60a5607a2cf24ac31f" title="Coerces this info into a differently typed info." alt="" coords="5,5,192,44"/>
+</map>

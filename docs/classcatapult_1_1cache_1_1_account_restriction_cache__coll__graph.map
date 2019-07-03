@@ -1,6 +1,0 @@
-<map id="catapult::cache::AccountRestrictionCache" name="catapult::cache::AccountRestrictionCache">
-<area shape="rect" id="node1" title="Synchronized cache composed of account restriction information." alt="" coords="55,281,221,320"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache.html" title=" " alt="" coords="5,193,270,232"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_cache.html" title=" " alt="" coords="34,80,242,132"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="55,5,221,31"/>
-</map>

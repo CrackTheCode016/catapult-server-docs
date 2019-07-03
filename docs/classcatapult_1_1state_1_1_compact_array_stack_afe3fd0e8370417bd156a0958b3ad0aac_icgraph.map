@@ -1,5 +1,0 @@
-<map id="catapult::state::CompactArrayStack::pop" name="catapult::state::CompactArrayStack::pop">
-<area shape="rect" id="node1" title="Pops the top value from the stack." alt="" coords="234,37,399,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_importance_snapshots.html#a5f65b53a9d641a16e38d74453774865a" title="Pops the current importance." alt="" coords="5,5,186,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_activity_buckets.html#a89b04165ee8009a57ff587d84ea3d653" title="Pops the current bucket." alt="" coords="16,68,176,107"/>
-</map>

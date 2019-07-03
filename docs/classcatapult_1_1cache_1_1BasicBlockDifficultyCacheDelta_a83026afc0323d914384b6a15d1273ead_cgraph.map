@@ -1,0 +1,7 @@
+<map id="catapult::cache::BasicBlockDifficultyCacheDelta::remove" name="catapult::cache::BasicBlockDifficultyCacheDelta::remove">
+<area shape="rect" id="node1" title="Removes a block difficulty info from the set given a height." alt="" coords="5,37,199,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicBlockDifficultyCacheDelta.html#ac54672de913546edf7513109415aa30d" title=" " alt="" coords="247,37,480,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicBlockDifficultyCacheDelta.html#a0e32e88152ea370804fc2d4662f367bc" title=" " alt="" coords="528,37,740,76"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1SizeMixin.html#afc1d503716779cb07a5ba691459e6d17" title="Gets the number of elements in the cache." alt="" coords="788,5,964,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="791,68,961,107"/>
+</map>

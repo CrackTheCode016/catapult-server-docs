@@ -1,6 +1,0 @@
-<map id="catapult::cache::BasicMosaicCacheDelta::remove" name="catapult::cache::BasicMosaicCacheDelta::remove">
-<area shape="rect" id="node1" title="Removes the value identified by mosaicId from the cache." alt="" coords="5,37,199,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_insert_remove_mixin.html#a37f652aaa396f79c68c5dfa55c3b7958" title="Removes the value identified by key from the cache." alt="" coords="264,5,448,44"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1cache.html#a63c113e75b392a5db207d13e82ea2862" title="Removes an identifier with grouping key from groupedSet." alt="" coords="247,68,466,107"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="514,5,637,44"/>
-</map>

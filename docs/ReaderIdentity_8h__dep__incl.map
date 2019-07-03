@@ -1,0 +1,8 @@
+<map id="ReaderIdentity.h" name="ReaderIdentity.h">
+<area shape="rect" id="node1" title=" " alt="" coords="115,5,234,31"/>
+<area shape="rect" id="node2" href="$ReaderIdentity_8cpp.html" title=" " alt="" coords="35,79,167,104"/>
+<area shape="rect" id="node3" href="$SocketReader_8h.html" title=" " alt="" coords="191,79,307,104"/>
+<area shape="rect" id="node4" href="$SocketReader_8cpp.html" title=" " alt="" coords="5,152,136,177"/>
+<area shape="rect" id="node5" href="$ChainedSocketReader_8cpp.html" title=" " alt="" coords="159,152,339,177"/>
+<area shape="rect" id="node6" href="$PacketReaders_8cpp.html" title=" " alt="" coords="363,152,501,177"/>
+</map>

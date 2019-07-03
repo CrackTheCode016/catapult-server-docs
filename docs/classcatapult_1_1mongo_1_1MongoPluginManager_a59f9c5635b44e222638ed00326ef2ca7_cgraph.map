@@ -1,0 +1,4 @@
+<map id="catapult::mongo::MongoPluginManager::addReceiptSupport" name="catapult::mongo::MongoPluginManager::addReceiptSupport">
+<area shape="rect" id="node1" title="Adds support for a receipt described by pReceiptPlugin." alt="" coords="5,5,207,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="255,5,460,44"/>
+</map>

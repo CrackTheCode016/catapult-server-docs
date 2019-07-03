@@ -1,6 +1,0 @@
-<map id="catapult::mongo::MongoTransactionPlugin" name="catapult::mongo::MongoTransactionPlugin">
-<area shape="rect" id="node1" title="A mongo transaction plugin." alt="" coords="287,19,520,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1_mongo_transaction_plugin_factory_1_1_basic_transaction_plugin_t.html" title=" " alt="" coords="568,5,818,71"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_mongo_transaction_plugin_t.html" title=" " alt="" coords="5,19,239,57"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1_mongo_transaction_plugin_factory_1_1_transaction_plugin_t.html" title=" " alt="" coords="866,12,1136,64"/>
-</map>

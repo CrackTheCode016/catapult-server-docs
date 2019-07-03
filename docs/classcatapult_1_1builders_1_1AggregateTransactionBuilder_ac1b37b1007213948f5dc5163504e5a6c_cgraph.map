@@ -1,0 +1,5 @@
+<map id="catapult::builders::AggregateTransactionBuilder::build" name="catapult::builders::AggregateTransactionBuilder::build">
+<area shape="rect" id="node1" title="Builds a new aggregate transaction." alt="" coords="5,28,206,80"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1AggregateTransactionBuilder.html#a5502817671d9fc935952915a705808d2" title="Returns size of aggregate transaction." alt="" coords="254,5,486,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#ac6a67817daca54a72e2e111370a2754a" title=" " alt="" coords="534,41,668,67"/>
+</map>

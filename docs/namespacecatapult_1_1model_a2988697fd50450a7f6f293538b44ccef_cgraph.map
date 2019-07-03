@@ -2,14 +2,14 @@
 <area shape="rect" id="node1" title=" " alt="" coords="5,285,213,311"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#aa9e6351df8caac136b953884a926056b" title="Calculates hashAlgorithm hash of data." alt="" coords="261,139,467,164"/>
 <area shape="rect" id="node9" href="$namespacecatapult_1_1model.html#a08935d2bd96a2131222d773589f88811" title=" " alt="" coords="276,341,451,380"/>
-<area shape="rect" id="node11" href="$classcatapult_1_1model_1_1_plugin_registry.html#a5c0c2c3a04861e9031d6e48a130e540d" title="Finds the plugin corresponding to type or nullptr if none is registered." alt="" coords="531,279,736,317"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1model_1_1PluginRegistry.html#a5c0c2c3a04861e9031d6e48a130e540d" title="Finds the plugin corresponding to type or nullptr if none is registered." alt="" coords="531,279,736,317"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1crypto.html#ae19dae0760b2caf6ffd27f16c722ba35" title="Calculates bitcoin&#39;s hash 160 of dataBuffer into hash (sha256 + ripemd)." alt="" coords="543,5,724,31"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1crypto.html#add60777c5173c64d612ee4510005df28" title="Calculates the 256&#45;bit Keccak hash of dataBuffer into hash." alt="" coords="537,55,730,80"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1crypto.html#aee98b9f93c550dcef1bf93c24c4f0b5d" title="Calculates double sha256 hash of dataBuffer into hash." alt="" coords="551,104,716,143"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1crypto.html#a66aad84b21ea4a9e761e828aa84be790" title="Calculates the 256&#45;bit SHA3 hash of dataBuffer into hash." alt="" coords="543,167,723,192"/>
 <area shape="rect" id="node8" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="572,216,695,255"/>
 <area shape="rect" id="node4" href="$namespacecatapult_1_1crypto.html#aa9ca944d273c204869d98759ecad3fc2" title="Calculates the ripemd160 hash of dataBuffer into hash." alt="" coords="800,5,987,31"/>
-<area shape="rect" id="node10" href="$classcatapult_1_1crypto_1_1_keccak_builder.html#adab53de41fffaaa4ae3df2c995739fc6" title="Finalize hash calculation. Returns result in output." alt="" coords="552,341,715,380"/>
-<area shape="rect" id="node12" href="$classcatapult_1_1model_1_1_transaction_plugin.html#a66652063e4e450f4877e80fc31bf6fea" title=" " alt="" coords="515,404,752,443"/>
-<area shape="rect" id="node13" href="$classcatapult_1_1crypto_1_1_keccak_builder.html#ade3e4c47c5a61ec0ae7841ed077d390c" title="Updates the state of hash with data inside dataBuffer." alt="" coords="552,467,715,505"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1crypto_1_1KeccakBuilder.html#adab53de41fffaaa4ae3df2c995739fc6" title="Finalize hash calculation. Returns result in output." alt="" coords="552,341,715,380"/>
+<area shape="rect" id="node12" href="$classcatapult_1_1model_1_1TransactionPlugin.html#a66652063e4e450f4877e80fc31bf6fea" title=" " alt="" coords="515,404,752,443"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1crypto_1_1KeccakBuilder.html#ade3e4c47c5a61ec0ae7841ed077d390c" title="Updates the state of hash with data inside dataBuffer." alt="" coords="552,467,715,505"/>
 </map>

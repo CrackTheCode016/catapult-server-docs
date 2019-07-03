@@ -1,0 +1,4 @@
+<map id="catapult::io::BlockChangeSubscriber" name="catapult::io::BlockChangeSubscriber">
+<area shape="rect" id="node1" title="Block change subscriber." alt="" coords="36,5,208,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1AggregateBlockChangeSubscriber.html" title="Aggregate block change subscriber." alt="" coords="5,92,239,144"/>
+</map>

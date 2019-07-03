@@ -1,0 +1,20 @@
+<map id="catapult::builders::MosaicAliasBuilder" name="catapult::builders::MosaicAliasBuilder">
+<area shape="rect" id="node1" title="Builder for a mosaic alias transaction." alt="" coords="1394,247,1535,285"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1TransactionBuilder.html" title="Base transaction builder." alt="" coords="1205,116,1345,155"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="772,7,937,45"/>
+<area shape="rect" id="node4" title=" " alt="" coords="583,5,634,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="769,81,940,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="524,55,693,120"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1Amount__tag.html" title=" " alt="" coords="239,56,387,81"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="229,199,397,237"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="516,144,702,209"/>
+<area shape="rect" id="node14" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="507,233,710,299"/>
+<area shape="rect" id="node17" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="518,323,699,388"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,205,172,231"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="759,151,950,189"/>
+<area shape="rect" id="node12" href="$structcatapult_1_1Timestamp__tag.html" title=" " alt="" coords="230,105,396,131"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="974,247,1181,285"/>
+<area shape="rect" id="node15" href="$structcatapult_1_1NamespaceId__tag.html" title="Namespace identifier." alt="" coords="221,315,405,340"/>
+<area shape="rect" id="node16" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="988,319,1167,357"/>
+<area shape="rect" id="node18" href="$structcatapult_1_1MosaicId__tag.html" title=" " alt="" coords="236,364,390,389"/>
+</map>

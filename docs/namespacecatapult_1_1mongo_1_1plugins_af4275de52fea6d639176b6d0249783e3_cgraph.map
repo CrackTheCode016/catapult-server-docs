@@ -1,9 +1,9 @@
 <map id="catapult::mongo::plugins::ToDbModel" name="catapult::mongo::plugins::ToDbModel">
 <area shape="rect" id="node1" title="Maps a multisig entry and accountAddress to the corresponding db model value." alt="" coords="5,163,171,201"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html#aa5ba82ee1e19e803b4b9d5d3dc256ea1" title="Gets cosignatory account keys." alt="" coords="232,5,452,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_multisig_entry.html#a4c67485c741bb86e106b3b452a923d3f" title="Gets the account public key." alt="" coords="263,68,420,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html#af3acdd84c36366f6fe485965d617fba6" title="Gets the number of cosignatories required when approving (any) transaction." alt="" coords="234,131,450,169"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_multisig_cosignatories_mixin.html#ad1e6c7a75aec80d9109458dd2ee332b8" title="Gets the number of cosignatories required when removing an account." alt="" coords="234,193,449,232"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1_multisig_cosignatory_of_mixin.html#ab340c051d5e4df67eac61b5b131cf9e2" title="Gets multisig account keys." alt="" coords="219,256,464,295"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1MultisigCosignatoriesMixin.html#aa5ba82ee1e19e803b4b9d5d3dc256ea1" title="Gets cosignatory account keys." alt="" coords="232,5,452,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1MultisigEntry.html#a4c67485c741bb86e106b3b452a923d3f" title="Gets the account public key." alt="" coords="263,68,420,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1MultisigCosignatoriesMixin.html#af3acdd84c36366f6fe485965d617fba6" title="Gets the number of cosignatories required when approving (any) transaction." alt="" coords="234,131,450,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1MultisigCosignatoriesMixin.html#ad1e6c7a75aec80d9109458dd2ee332b8" title="Gets the number of cosignatories required when removing an account." alt="" coords="234,193,449,232"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1MultisigCosignatoryOfMixin.html#ab340c051d5e4df67eac61b5b131cf9e2" title="Gets multisig account keys." alt="" coords="219,256,464,295"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1mongo_1_1mappers.html#abe995238cacf9b478fd4c7eb08357792" title="Converts raw array (pData) of size elements into bson binary type." alt="" coords="254,319,430,357"/>
 </map>

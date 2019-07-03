@@ -1,0 +1,9 @@
+<map id="catapult::ionet::PacketPayloadFactory::FromEntities" name="catapult::ionet::PacketPayloadFactory::FromEntities">
+<area shape="rect" id="node1" title="Creates a packet payload with the specified packet type around multiple entities." alt="" coords="5,59,206,97"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1PacketPayloadBuilder.html#aa6c9d9d416c66bfc9bd0838daa974209" title="Appends all entities to the payload." alt="" coords="254,27,455,65"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1ionet_1_1PacketPayloadBuilder.html#a6b96015e8a151cc4a46e82feeef5b5e7" title="Builds the packet payload." alt="" coords="254,89,455,128"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1PacketPayloadBuilder.html#a88bda1a2f062b32a4ae1ce1cf6a4d52e" title="Appends a single entity (pEntity) to the payload." alt="" coords="503,27,703,65"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1ionet_1_1PacketPayloadBuilder.html#a65276e4a918c1faf8e96bb8ff006845a" title=" " alt="" coords="751,27,952,65"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1utils.html#ac6cdc88d1c0ed86a60963ef46f04c035" title="Adds delta to value if and only if there is no overflow." alt="" coords="1000,5,1183,31"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1ionet.html#ac3d4996594403f0c327116d1f5e2b5b0" title="Determines if header indicates a valid packet data size no greater than maxPacketDataSize." alt="" coords="1010,55,1173,93"/>
+</map>

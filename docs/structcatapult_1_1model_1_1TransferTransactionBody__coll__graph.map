@@ -1,0 +1,6 @@
+<map id="catapult::model::TransferTransactionBody&lt; THeader &gt;" name="catapult::model::TransferTransactionBody&lt; THeader &gt;">
+<area shape="rect" id="node1" title="Binary layout for a transfer transaction body." alt="" coords="5,193,201,232"/>
+<area shape="rect" id="node2" title=" " alt="" coords="45,93,118,119"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="143,80,322,132"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1UnresolvedAddress__tag.html" title=" " alt="" coords="124,5,341,31"/>
+</map>

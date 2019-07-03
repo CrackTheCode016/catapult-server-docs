@@ -1,0 +1,10 @@
+<map id="catapult::model::TransactionDeadlineNotification" name="catapult::model::TransactionDeadlineNotification">
+<area shape="rect" id="node1" title="Notifies the arrival of a transaction deadline." alt="" coords="1041,48,1230,87"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="730,5,915,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1TimeSpan.html" title="Represents a time duration." alt="" coords="739,55,906,80"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="728,104,918,143"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="492,91,678,156"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1Timestamp__tag.html" title=" " alt="" coords="222,83,389,108"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,132,390,171"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,139,172,164"/>
+</map>

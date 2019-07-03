@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classcatapult_1_1cache_1_1_synchronized_cache.html" title=" " alt="" coords="5,12,239,51"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache_with_init.html" title=" " alt="" coords="287,5,514,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_account_state_cache.html" title="Synchronized cache composed of stateful account information." alt="" coords="562,12,729,51"/>
+<area shape="rect" id="node1" href="$classcatapult_1_1cache_1_1SynchronizedCache.html" title=" " alt="" coords="5,12,239,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1SynchronizedCacheWithInit.html" title=" " alt="" coords="287,5,514,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1AccountStateCache.html" title="Synchronized cache composed of stateful account information." alt="" coords="562,12,729,51"/>
 </map>

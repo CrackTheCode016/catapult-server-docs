@@ -1,0 +1,20 @@
+<map id="catapult::state::CompactMosaicMap::optimize" name="catapult::state::CompactMosaicMap::optimize">
+<area shape="rect" id="node1" title="Optimizes access of the mosaic with id." alt="" coords="5,246,170,284"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#a2f2ad2f7e4e0bb40c281a863d75b8490" title="Returns a const iterator to the element following the last element of the underlying container." alt="" coords="715,31,880,70"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#a14bf42c0658b0b7da62c097424b45859" title="Erases the mosaic with id." alt="" coords="222,246,387,284"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#a61206ad9e549b928dc19aab4f265b011" title="Finds the mosaic with id." alt="" coords="453,31,618,70"/>
+<area shape="rect" id="node12" href="$namespacecatapult_1_1utils.html#a508395bb4e89df8a51c25694ae908313" title=" " alt="" coords="218,560,391,586"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#aa2ceebac9f7c406719e6b79555bb1373" title="Inserts a mosaic pair." alt="" coords="222,498,387,536"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1CompactMosaicMap_1_1FirstLevelStorage.html#abd4b255bd2f56db7f5f254fee24314b0" title=" " alt="" coords="697,395,898,447"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#ad5653f429aaca51ff58df932a9021520" title=" " alt="" coords="453,298,618,336"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1state_1_1CompactMosaicMap_1_1FirstLevelStorage.html#ab244f5da12c19008dfaefb7de6fc8f71" title=" " alt="" coords="697,234,898,286"/>
+<area shape="rect" id="node9" href="$structcatapult_1_1state_1_1CompactMosaicMap_1_1FirstLevelStorage.html#a114bbca1841d9a5b43df2f7e2204fd35" title=" " alt="" coords="680,132,915,171"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#aa890a463d0e97f04b41be912cc714856" title=" " alt="" coords="439,412,632,451"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1state_1_1CompactMosaicMap_1_1FirstLevelStorage.html#ae2e1b5707c6b2bd1033a4c76e2b4b207" title=" " alt="" coords="697,471,898,523"/>
+<area shape="rect" id="node8" href="$structcatapult_1_1state_1_1CompactMosaicMap_1_1FirstLevelStorage.html#a8d497459d77b2f00f3d000c04a9aa092" title=" " alt="" coords="963,414,1164,466"/>
+<area shape="rect" id="node14" href="$namespacecatapult_1_1utils.html#a0a5134988410371a761164ab2ec0c326" title="Coerces a reference (ref) to a const reference." alt="" coords="475,755,596,794"/>
+<area shape="rect" id="node15" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#aa427d7d3719bb9af163fc519d744b6d9" title="Returns true if the map is empty." alt="" coords="453,692,618,731"/>
+<area shape="rect" id="node17" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#acad321946a7dbac74fdbed59ce0c615f" title=" " alt="" coords="444,527,627,566"/>
+<area shape="rect" id="node18" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#a7824df5c4274c3da395512f49d6620a8" title=" " alt="" coords="709,547,886,586"/>
+<area shape="rect" id="node16" href="$structcatapult_1_1state_1_1CompactMosaicMap_1_1FirstLevelStorage.html#a399e1b4d8671c2aaa155660387ca01cb" title=" " alt="" coords="697,686,898,738"/>
+</map>

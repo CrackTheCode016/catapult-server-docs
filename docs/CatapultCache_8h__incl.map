@@ -1,0 +1,31 @@
+<map id="CatapultCache.h" name="CatapultCache.h">
+<area shape="rect" id="node1" title=" " alt="" coords="507,5,628,31"/>
+<area shape="rect" id="node2" href="$CatapultCacheDelta_8h.html" title=" " alt="" coords="641,225,793,251"/>
+<area shape="rect" id="node25" href="$SubCachePlugin_8h.html" title=" " alt="" coords="378,299,509,324"/>
+<area shape="rect" id="node27" href="$CatapultCacheDetachableDelta_8h.html" title=" " alt="" coords="630,79,849,104"/>
+<area shape="rect" id="node29" href="$CatapultCacheView_8h.html" title=" " alt="" coords="468,225,616,251"/>
+<area shape="rect" id="node3" href="$StateHashInfo_8h.html" title=" " alt="" coords="652,299,769,324"/>
+<area shape="rect" id="node26" title=" " alt="" coords="494,372,564,397"/>
+<area shape="rect" id="node4" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="587,372,702,397"/>
+<area shape="rect" id="node19" title=" " alt="" coords="751,592,808,617"/>
+<area shape="rect" id="node5" href="$ByteArray_8h.html" title=" " alt="" coords="574,445,691,471"/>
+<area shape="rect" id="node11" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="5,665,188,704"/>
+<area shape="rect" id="node17" title=" " alt="" coords="652,592,704,617"/>
+<area shape="rect" id="node20" href="$RawBuffer_8h.html" title=" " alt="" coords="284,445,405,471"/>
+<area shape="rect" id="node6" href="$HexFormatter_8h.html" title=" " alt="" coords="528,519,641,544"/>
+<area shape="rect" id="node7" href="$StreamFormatGuard_8h.html" title=" " alt="" coords="355,592,510,617"/>
+<area shape="rect" id="node10" href="$Traits_8h.html" title=" " alt="" coords="187,592,284,617"/>
+<area shape="rect" id="node18" title=" " alt="" coords="549,592,621,617"/>
+<area shape="rect" id="node8" href="$NonCopyable_8h.html" title=" " alt="" coords="261,899,375,924"/>
+<area shape="rect" id="node9" title=" " alt="" coords="327,672,395,697"/>
+<area shape="rect" id="node16" title=" " alt="" coords="213,672,296,697"/>
+<area shape="rect" id="node12" href="$BaseValue_8h.html" title=" " alt="" coords="99,752,195,777"/>
+<area shape="rect" id="node13" href="$ImmutableValue_8h.html" title=" " alt="" coords="141,825,269,851"/>
+<area shape="rect" id="node14" title=" " alt="" coords="293,825,352,851"/>
+<area shape="rect" id="node15" title=" " alt="" coords="66,825,117,851"/>
+<area shape="rect" id="node21" title=" " alt="" coords="342,519,412,544"/>
+<area shape="rect" id="node22" title=" " alt="" coords="126,519,180,544"/>
+<area shape="rect" id="node23" title=" " alt="" coords="436,519,505,544"/>
+<area shape="rect" id="node24" title=" " alt="" coords="254,519,318,544"/>
+<area shape="rect" id="node28" href="$CatapultCacheDetachedDelta_8h.html" title=" " alt="" coords="635,152,844,177"/>
+</map>

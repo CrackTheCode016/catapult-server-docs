@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountStateSerializer" name="catapult::state::AccountStateSerializer">
+<area shape="rect" id="node1" title="Policy for saving and loading account state data." alt="" coords="9,5,169,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1AccountStateCacheStorage.html" title="Policy for saving and loading account state cache data." alt="" coords="5,92,172,131"/>
+</map>

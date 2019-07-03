@@ -1,0 +1,5 @@
+<map id="catapult::utils::BlockSpan::FromHours" name="catapult::utils::BlockSpan::FromHours">
+<area shape="rect" id="node1" title="Creates a block span from the given number of hours." alt="" coords="5,37,176,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BlockSpan.html#a4704d4f8a52d14031f803c82b0de1ac4" title="Creates a default (zero) block span." alt="" coords="224,5,394,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BlockSpan.html#a094dac0b62d0f2cf7c57f0c52a037658" title="Returns the number of hours." alt="" coords="224,68,394,107"/>
+</map>

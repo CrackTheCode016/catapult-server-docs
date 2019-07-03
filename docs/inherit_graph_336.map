@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classcatapult_1_1subscribers_1_1_basic_aggregate_subscriber.html" title=" " alt="" coords="5,5,201,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_aggregate_block_change_subscriber.html" title="Aggregate block change subscriber." alt="" coords="249,40,482,92"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_block_change_subscriber.html" title="Block change subscriber." alt="" coords="17,81,189,120"/>
+<area shape="rect" id="node1" href="$classcatapult_1_1subscribers_1_1BasicAggregateSubscriber.html" title=" " alt="" coords="5,5,201,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1AggregateBlockChangeSubscriber.html" title="Aggregate block change subscriber." alt="" coords="249,40,482,92"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1BlockChangeSubscriber.html" title="Block change subscriber." alt="" coords="17,81,189,120"/>
 </map>

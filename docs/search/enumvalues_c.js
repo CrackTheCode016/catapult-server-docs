@@ -16,6 +16,6 @@ var searchData=
   ['post_5ftasks',['Post_Tasks',['../namespacecatapult_1_1extensions.html#ad8d24063d78a3f18f9abc5f5512c41b8a6ae08431351b7303a21e951bce9046d4',1,'catapult::extensions']]],
   ['post_5ftransaction_5fevent_5fhandlers',['Post_Transaction_Event_Handlers',['../namespacecatapult_1_1extensions.html#ad8d24063d78a3f18f9abc5f5512c41b8a752e689c50b6f6541fcff2e75c2d9ec3',1,'catapult::extensions']]],
   ['production',['Production',['../namespacecatapult_1_1extensions.html#afce07291e6e6a9f82f47d588ff57a189a756d97bb256b8580d4d71ee0c547804e',1,'catapult::extensions']]],
-  ['ptchange',['PtChange',['../classcatapult_1_1subscribers_1_1_subscription_manager.html#a0441dd63b6c00ec4098f55f884011a83adf7b5070df6d33d15217992bdd81cb58',1,'catapult::subscribers::SubscriptionManager']]],
+  ['ptchange',['PtChange',['../classcatapult_1_1subscribers_1_1SubscriptionManager.html#a0441dd63b6c00ec4098f55f884011a83adf7b5070df6d33d15217992bdd81cb58',1,'catapult::subscribers::SubscriptionManager']]],
   ['purge',['Purge',['../namespacecatapult_1_1tools_1_1nemgen.html#a57a8b4c6d8bde2be321230f777c3874cad67c704564d7976991e2f23e4315ccfd',1,'catapult::tools::nemgen']]]
 ];

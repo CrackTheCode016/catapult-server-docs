@@ -1,9 +1,9 @@
 <map id="catapult::tools::nemgen::CreateNemesisBlockElement" name="catapult::tools::nemgen::CreateNemesisBlockElement">
 <area shape="rect" id="node1" title="Wraps a block element around block according to config." alt="" coords="5,271,207,309"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_block_extensions.html#a14a28a2a831271495814b46467d9740f" title=" " alt="" coords="255,153,466,205"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1BlockExtensions.html#a14a28a2a831271495814b46467d9740f" title=" " alt="" coords="255,153,466,205"/>
 <area shape="rect" id="node11" href="$namespacecatapult_1_1tools_1_1nemgen.html#a3b11fe8d1492167f1c3c0d00fe9493dd" title="Creates a transaction registry that has basic transaction types registered." alt="" coords="267,381,454,420"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1model.html#aa9e6351df8caac136b953884a926056b" title="Calculates hashAlgorithm hash of data." alt="" coords="541,111,747,136"/>
-<area shape="rect" id="node10" href="$structcatapult_1_1model_1_1_transaction_container.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="550,160,738,199"/>
+<area shape="rect" id="node10" href="$structcatapult_1_1model_1_1TransactionContainer.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="550,160,738,199"/>
 <area shape="rect" id="node4" href="$namespacecatapult_1_1crypto.html#ae19dae0760b2caf6ffd27f16c722ba35" title="Calculates bitcoin&#39;s hash 160 of dataBuffer into hash (sha256 + ripemd)." alt="" coords="828,5,1009,31"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1crypto.html#add60777c5173c64d612ee4510005df28" title="Calculates the 256&#45;bit Keccak hash of dataBuffer into hash." alt="" coords="822,55,1015,80"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1crypto.html#aee98b9f93c550dcef1bf93c24c4f0b5d" title="Calculates double sha256 hash of dataBuffer into hash." alt="" coords="836,104,1001,143"/>
@@ -15,5 +15,5 @@
 <area shape="rect" id="node14" href="$namespacecatapult_1_1plugins.html#ae3f45da01f0d1e95dd1248a8f1e471a5" title="Creates a mosaic supply change transaction plugin." alt="" coords="514,375,774,427"/>
 <area shape="rect" id="node15" href="$namespacecatapult_1_1plugins.html#a0a0625792174ddc83dd8866881f92b72" title="Creates a register namespace transaction plugin given the rental fee configuration (config)." alt="" coords="518,451,770,503"/>
 <area shape="rect" id="node16" href="$namespacecatapult_1_1plugins.html#ac0912acd0af3fd75b2d1c06fba6efd31" title="Creates a transfer transaction plugin." alt="" coords="536,527,752,565"/>
-<area shape="rect" id="node17" href="$classcatapult_1_1model_1_1_plugin_registry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="541,589,746,628"/>
+<area shape="rect" id="node17" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="541,589,746,628"/>
 </map>

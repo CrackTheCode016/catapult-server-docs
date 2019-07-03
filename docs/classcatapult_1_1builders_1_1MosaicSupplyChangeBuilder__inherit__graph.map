@@ -1,0 +1,4 @@
+<map id="catapult::builders::MosaicSupplyChangeBuilder" name="catapult::builders::MosaicSupplyChangeBuilder">
+<area shape="rect" id="node1" title="Builder for a mosaic supply change transaction." alt="" coords="5,92,205,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1TransactionBuilder.html" title="Base transaction builder." alt="" coords="36,5,175,44"/>
+</map>

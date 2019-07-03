@@ -1,0 +1,6 @@
+<map id="catapult::utils::TimeSpan::seconds" name="catapult::utils::TimeSpan::seconds">
+<area shape="rect" id="node1" title="Returns the number of seconds." alt="" coords="432,37,599,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1chain.html#a5c611da94bc92a61745a161f07ee78f0" title=" " alt="" coords="213,5,384,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1TimeSpan.html#a256e7555925b89dfaefa72612882d8ae" title="Creates a time span from the given number of seconds." alt="" coords="215,68,382,107"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a7e146e588c04baf3a95726c2ca4cb655" title="Tries to parse str into a TimeSpan (parsedValue)." alt="" coords="5,68,165,107"/>
+</map>

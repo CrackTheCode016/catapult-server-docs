@@ -1,8 +1,0 @@
-<map id="catapult::io::BlockStorageCache::view" name="catapult::io::BlockStorageCache::view">
-<area shape="rect" id="node1" title="Gets a read only view of the storage." alt="" coords="426,123,598,161"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_nemesis_block_loader.html#ad736950942be94ecc2a52d8defad3262" title="Loads the nemesis block from storage, updates state in stateRef and verifies state hash (stateHashVer..." alt="" coords="219,81,374,133"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1local_1_1_nemesis_block_notifier.html#a2f7300f32498411fbfa1944f29d1339b" title=" " alt="" coords="215,157,378,196"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_nemesis_block_loader.html#ad5fc8a32762fad63a1517145636ad6cd" title=" " alt="" coords="9,5,164,57"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_nemesis_block_loader.html#a0d7e35ecf4dc8c7f1fc56513e8cfb69c" title=" " alt="" coords="9,81,164,133"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1local_1_1_nemesis_block_notifier.html#a3a2b9af37038e3df81b0263a4ff6dac3" title="Raises and forwards state change notifications to subscriber." alt="" coords="5,157,167,196"/>
-</map>

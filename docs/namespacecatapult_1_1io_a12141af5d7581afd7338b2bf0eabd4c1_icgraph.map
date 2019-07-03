@@ -1,5 +1,5 @@
 <map id="catapult::io::WriteBlockStatement" name="catapult::io::WriteBlockStatement">
 <area shape="rect" id="node1" title="Writes blockStatement into outputStream." alt="" coords="247,47,404,85"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_memory_block_storage.html#a5d1cde2dc88ba21f766f7dcba8c05ded" title="Returns the optional block statement data at height." alt="" coords="15,5,190,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_file_block_storage.html#a6c981ab30cc4644b3c2e25865f6fda96" title="Saves blockElement." alt="" coords="5,81,199,120"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1MemoryBlockStorage.html#a5d1cde2dc88ba21f766f7dcba8c05ded" title="Returns the optional block statement data at height." alt="" coords="15,5,190,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a6c981ab30cc4644b3c2e25865f6fda96" title="Saves blockElement." alt="" coords="5,81,199,120"/>
 </map>

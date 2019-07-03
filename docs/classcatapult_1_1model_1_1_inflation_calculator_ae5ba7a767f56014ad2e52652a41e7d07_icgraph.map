@@ -1,4 +1,0 @@
-<map id="catapult::model::InflationCalculator::add" name="catapult::model::InflationCalculator::add">
-<area shape="rect" id="node1" title="Adds inflation of amount starting at height." alt="" coords="246,5,412,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1config_1_1_inflation_configuration.html#a5801e9f49db60274661efa7f5cbf9eb3" title="Loads an inflation configuration from bag." alt="" coords="5,5,198,44"/>
-</map>

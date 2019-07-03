@@ -1,0 +1,9 @@
+<map id="catapult::model::ModifyMultisigCosignersNotification" name="catapult::model::ModifyMultisigCosignersNotification">
+<area shape="rect" id="node1" title="Notification of a multisig cosigners modification." alt="" coords="863,55,1067,93"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="529,5,714,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="539,55,704,93"/>
+<area shape="rect" id="node4" title=" " alt="" coords="236,61,287,87"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1model_1_1CosignatoryModification.html" title="Binary layout for cosignatory modification." alt="" coords="526,117,717,156"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="179,117,344,156"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1Key__tag.html" title=" " alt="" coords="5,124,130,149"/>
+</map>

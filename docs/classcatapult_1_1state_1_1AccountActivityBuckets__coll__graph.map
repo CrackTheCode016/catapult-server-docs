@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountActivityBuckets" name="catapult::state::AccountActivityBuckets">
+<area shape="rect" id="node1" title="Stack of account activity buckets." alt="" coords="330,12,490,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1CompactArrayStack.html" title=" " alt="" coords="5,5,214,57"/>
+</map>

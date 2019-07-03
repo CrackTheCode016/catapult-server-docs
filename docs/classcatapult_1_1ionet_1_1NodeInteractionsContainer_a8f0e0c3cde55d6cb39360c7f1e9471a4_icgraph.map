@@ -1,0 +1,8 @@
+<map id="catapult::ionet::NodeInteractionsContainer::BucketDuration" name="catapult::ionet::NodeInteractionsContainer::BucketDuration">
+<area shape="rect" id="node1" title="Maximum duration of an interaction bucket." alt="" coords="740,37,953,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1NodeInteractionsContainer.html#ad00b6c08b018a4e09453ef63903af9af" title=" " alt="" coords="480,37,692,76"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1NodeInteractionsContainer.html#acbb48024e7fb0821f22539274146408c" title="Increments failed interactions at timestamp." alt="" coords="219,5,432,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1ionet_1_1NodeInteractionsContainer.html#a3f0763d0a3bd30e2720ccf8f292334c9" title="Increments successful interactions at timestamp." alt="" coords="219,68,432,107"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1ionet_1_1NodeInfo.html#abb4fea6f5fb6b603e10cb5249e0834c9" title="Increments the number of failed interactions at timestamp." alt="" coords="5,5,171,44"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1ionet_1_1NodeInfo.html#a26df43ec363ec42464c06840617275fd" title="Increments the number of successful interactions at timestamp." alt="" coords="5,68,171,107"/>
+</map>

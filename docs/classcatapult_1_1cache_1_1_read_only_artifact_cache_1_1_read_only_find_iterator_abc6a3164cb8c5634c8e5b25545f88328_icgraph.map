@@ -1,4 +1,0 @@
-<map id="catapult::cache::ReadOnlyArtifactCache::ReadOnlyFindIterator::tryGet" name="catapult::cache::ReadOnlyArtifactCache::ReadOnlyFindIterator::tryGet">
-<area shape="rect" id="node1" title="Tries to get a const value." alt="" coords="222,5,458,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1validators_1_1_account_restriction_view.html#a088f5dcbd24ca01fbe051ca1801daddb" title="Tries to initialize the internal iterator for account restriction with address." alt="" coords="5,5,174,57"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="catapult::cache::BasicAggregateTransactionsCacheModifier::add" name="catapult::cache::BasicAggregateTransactionsCacheModifier::add">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,218,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_transaction_change_tracker.html#a6fd69c6a6e11a648036638100b53cade" title="Marks transaction info (transactionInfo) as added." alt="" coords="266,5,454,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1_transaction_info.html#a584d2073227eb80f653c9ca2439b520c" title="Creates a (shallow) copy of this info." alt="" coords="502,5,691,44"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1_transaction_info.html#a57ed5ca2b01ca74423ddf197f03fca91" title="Creates a transaction info." alt="" coords="739,5,927,44"/>
-</map>

@@ -1,5 +1,5 @@
 <map id="catapult::plugins::RegisterSignatureSystem" name="catapult::plugins::RegisterSignatureSystem">
 <area shape="rect" id="node1" title="Registers the signature verification system with manager." alt="" coords="5,47,178,85"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="226,5,421,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="247,81,401,120"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1PluginManager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="226,5,421,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1PluginManager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="247,81,401,120"/>
 </map>

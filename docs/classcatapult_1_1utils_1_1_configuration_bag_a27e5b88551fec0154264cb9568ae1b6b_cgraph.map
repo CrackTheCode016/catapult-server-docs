@@ -1,6 +1,0 @@
-<map id="catapult::utils::ConfigurationBag::tryGet" name="catapult::utils::ConfigurationBag::tryGet">
-<area shape="rect" id="node1" title=" " alt="" coords="5,37,191,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_configuration_bag.html#aca2cdb6c3b10b48215c7a772bd51b878" title=" " alt="" coords="239,5,425,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a4c052e6ad25d079b2c10376e2ce1ba57" title="Tries to parse str into a log level (parsedValue)." alt="" coords="252,68,412,107"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a06bf97a871a0448aaa5e6e9ea8c4feea" title="Tries to parse str into an enum value (parsedValue) given a mapping of strings to values (stringToVal..." alt="" coords="473,68,633,107"/>
-</map>

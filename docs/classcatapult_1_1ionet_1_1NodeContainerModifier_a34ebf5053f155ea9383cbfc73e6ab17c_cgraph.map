@@ -1,0 +1,8 @@
+<map id="catapult::ionet::NodeContainerModifier::add" name="catapult::ionet::NodeContainerModifier::add">
+<area shape="rect" id="node1" title=" " alt="" coords="5,105,207,144"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1NodeContainerModifier.html#ab218f361eab9c6febdeed5d52e8c687a" title=" " alt="" coords="267,5,491,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1NodeContainerModifier.html#afae40d45951288d76efd42076ace6931" title=" " alt="" coords="255,133,503,172"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1ionet_1_1Node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="562,76,706,115"/>
+<area shape="rect" id="node6" href="$namespacecolorPrint.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="315,196,443,221"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1ionet_1_1NodeInfo.html#a99f5610606f534cb8197e09a5775548a" title="Gets the node source." alt="" coords="551,139,717,177"/>
+</map>

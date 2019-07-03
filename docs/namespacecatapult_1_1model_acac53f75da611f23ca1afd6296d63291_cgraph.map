@@ -1,5 +1,5 @@
 <map id="catapult::model::FindFirstDifferenceIndex" name="catapult::model::FindFirstDifferenceIndex">
 <area shape="rect" id="node1" title="Compares two entity ranges (lhs and rhs) and returns the index of the first non&#45;equal element." alt="" coords="5,37,176,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_entity_range.html#a112eef35575ae82eaa6781cd954f22bb" title="Returns a const iterator that represents the first entity." alt="" coords="224,5,416,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_entity_range.html#ab2aafd9c853906a36e9d5b1d6f671077" title="Returns a const iterator that represents one past the last entity." alt="" coords="224,68,416,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1EntityRange.html#a112eef35575ae82eaa6781cd954f22bb" title="Returns a const iterator that represents the first entity." alt="" coords="224,5,416,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1EntityRange.html#ab2aafd9c853906a36e9d5b1d6f671077" title="Returns a const iterator that represents one past the last entity." alt="" coords="224,68,416,107"/>
 </map>

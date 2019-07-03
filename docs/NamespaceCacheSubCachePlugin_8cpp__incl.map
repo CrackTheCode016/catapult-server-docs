@@ -1,0 +1,52 @@
+<map id="NamespaceCacheSubCachePlugin.cpp" name="NamespaceCacheSubCachePlugin.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1860,5,2116,31"/>
+<area shape="rect" id="node2" href="$NamespaceCacheSubCachePlugin_8h.html" title=" " alt="" coords="1867,79,2109,104"/>
+<area shape="rect" id="node3" href="$NamespaceCache_8h.html" title=" " alt="" coords="1231,159,1374,184"/>
+<area shape="rect" id="node39" href="$NamespaceCacheStorage_8h.html" title=" " alt="" coords="1893,312,2082,337"/>
+<area shape="rect" id="node45" href="$SummaryAwareSubCachePluginAdapter_8h.html" title=" " alt="" coords="2273,152,2479,191"/>
+<area shape="rect" id="node4" href="$NamespaceCacheDelta_8h.html" title=" " alt="" coords="1216,239,1389,264"/>
+<area shape="rect" id="node41" href="$NamespaceCacheView_8h.html" title=" " alt="" coords="794,312,964,337"/>
+<area shape="rect" id="node42" href="$BasicCache_8h.html" title=" " alt="" coords="98,565,291,591"/>
+<area shape="rect" id="node5" href="$NamespaceBaseSets_8h.html" title=" " alt="" coords="1342,312,1503,337"/>
+<area shape="rect" id="node6" href="$NamespaceCacheSerializers_8h.html" title=" " alt="" coords="1695,392,1899,417"/>
+<area shape="rect" id="node29" href="$NamespaceCacheMixins_8h.html" title=" " alt="" coords="1278,479,1458,504"/>
+<area shape="rect" id="node31" href="$CacheMixinAliases_8h.html" title=" " alt="" coords="375,385,556,424"/>
+<area shape="rect" id="node35" href="$ReadOnlyArtifactCache_8h.html" title=" " alt="" coords="579,385,791,424"/>
+<area shape="rect" id="node37" href="$ReadOnlyViewSupplier_8h.html" title=" " alt="" coords="916,385,1115,424"/>
+<area shape="rect" id="node7" href="$NamespaceCacheTypes_8h.html" title=" " alt="" coords="1076,479,1254,504"/>
+<area shape="rect" id="node26" href="$CachePatriciaTree_8h.html" title=" " alt="" coords="1923,385,2117,424"/>
+<area shape="rect" id="node27" href="$PatriciaTreeEncoderAdapters_8h.html" title=" " alt="" coords="1190,385,1372,424"/>
+<area shape="rect" id="node28" href="$BasePatriciaTree_8h.html" title=" " alt="" coords="1396,385,1569,424"/>
+<area shape="rect" id="node22" href="$RootNamespaceHistorySerializer_8h.html" title=" " alt="" coords="1973,472,2189,511"/>
+<area shape="rect" id="node24" href="$CacheSerializerAdapter_8h.html" title=" " alt="" coords="1557,472,1762,511"/>
+<area shape="rect" id="node25" href="$IdentifierGroupSerializer_8h.html" title=" " alt="" coords="1787,472,1949,511"/>
+<area shape="rect" id="node8" href="$Namespace_8h.html" title=" " alt="" coords="1294,645,1452,671"/>
+<area shape="rect" id="node10" href="$NamespaceEntry_8h.html" title=" " alt="" coords="1607,565,1795,591"/>
+<area shape="rect" id="node11" href="$RootNamespaceHistory_8h.html" title=" " alt="" coords="1912,565,2138,591"/>
+<area shape="rect" id="node12" href="$CacheDatabaseMixin_8h.html" title=" " alt="" coords="711,559,918,597"/>
+<area shape="rect" id="node17" href="$CacheDescriptorAdapters_8h.html" title=" " alt="" coords="941,559,1152,597"/>
+<area shape="rect" id="node18" href="$BaseSetDelta_8h.html" title=" " alt="" coords="1227,559,1399,597"/>
+<area shape="rect" id="node20" href="$Hashers_8h.html" title=" " alt="" coords="1424,565,1584,591"/>
+<area shape="rect" id="node21" href="$IdentifierGroup_8h.html" title=" " alt="" coords="487,559,638,597"/>
+<area shape="rect" id="node9" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="1316,719,1431,744"/>
+<area shape="rect" id="node13" href="$CacheConfiguration_8h.html" title=" " alt="" coords="739,645,890,671"/>
+<area shape="rect" id="node14" href="$FileSize_8h.html" title=" " alt="" coords="586,719,744,744"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1992,719,2046,744"/>
+<area shape="rect" id="node15" href="$Casting_8h.html" title=" " alt="" coords="361,792,439,817"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2196,645,2265,671"/>
+<area shape="rect" id="node23" href="$Stream_8h.html" title=" " alt="" coords="1665,645,1805,671"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1819,565,1888,591"/>
+<area shape="rect" id="node32" href="$CacheMixins_8h.html" title=" " alt="" coords="528,479,637,504"/>
+<area shape="rect" id="node33" href="$PatriciaTreeCacheMixins_8h.html" title=" " alt="" coords="324,479,505,504"/>
+<area shape="rect" id="node34" href="$DeltaElementsMixin_8h.html" title=" " alt="" coords="91,472,300,511"/>
+<area shape="rect" id="node36" href="$ReadOnlySimpleCache_8h.html" title=" " alt="" coords="712,479,883,504"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1482,479,1534,504"/>
+<area shape="rect" id="node40" href="$src_2catapult_2cache_2CacheStorageInclude_8h.html" title=" " alt="" coords="2140,385,2337,424"/>
+<area shape="rect" id="node43" href="$CacheConstants_8h.html" title=" " alt="" coords="232,645,363,671"/>
+<area shape="rect" id="node44" href="$SynchronizedCache_8h.html" title=" " alt="" coords="5,645,157,671"/>
+<area shape="rect" id="node46" href="$SubCachePluginAdapter_8h.html" title=" " alt="" coords="2459,479,2637,504"/>
+<area shape="rect" id="node47" href="$CacheChangesStorageAdapter_8h.html" title=" " alt="" coords="2470,565,2687,591"/>
+<area shape="rect" id="node48" href="$CacheStorageAdapter_8h.html" title=" " alt="" coords="2711,565,2875,591"/>
+<area shape="rect" id="node49" href="$SubCachePlugin_8h.html" title=" " alt="" coords="2314,565,2446,591"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2899,565,2968,591"/>
+</map>

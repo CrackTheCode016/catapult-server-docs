@@ -1,0 +1,8 @@
+<map id="catapult::chain::PtUpdater::Impl::update" name="catapult::chain::PtUpdater::Impl::update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,180,107"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1thread.html#ab80df77826dbc94dbeeda80587106996" title="Produces a future that is ready immediately and holds the given value." alt="" coords="239,5,392,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#aff59ee6ef323316a3c2c6dcf888ac5cc" title=" " alt="" coords="228,68,403,107"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1thread.html#a0fff5e8091d4c126961774f093930327" title="Returns a future that is signaled when all futures in allFutures complete." alt="" coords="229,132,402,157"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1MemoryCacheProxy.html#af4babccc091c51d69a231201508c3893" title="Gets a read only view based on this cache." alt="" coords="451,65,656,104"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1thread_1_1future.html#ac0a0fbdbf594c5c70dc503923bf9c7a7" title="Configures continuation to run at the completion of this future." alt="" coords="476,128,631,167"/>
+</map>

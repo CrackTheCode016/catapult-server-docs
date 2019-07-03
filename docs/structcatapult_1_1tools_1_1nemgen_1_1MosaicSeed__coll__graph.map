@@ -1,0 +1,8 @@
+<map id="catapult::tools::nemgen::MosaicSeed" name="catapult::tools::nemgen::MosaicSeed">
+<area shape="rect" id="node1" title="A mosaic seed." alt="" coords="978,27,1138,65"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="711,27,881,65"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="492,13,662,79"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1Amount__tag.html" title=" " alt="" coords="232,5,379,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,55,390,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
+</map>

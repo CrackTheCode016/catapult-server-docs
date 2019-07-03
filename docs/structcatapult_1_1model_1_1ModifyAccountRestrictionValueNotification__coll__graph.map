@@ -1,0 +1,7 @@
+<map id="catapult::model::ModifyAccountRestrictionValueNotification&lt; TRestrictionValue, RestrictionAccount_Notification_Type &gt;" name="catapult::model::ModifyAccountRestrictionValueNotification&lt; TRestrictionValue, RestrictionAccount_Notification_Type &gt;">
+<area shape="rect" id="node1" title="Notification of an account restriction value modification." alt="" coords="587,41,842,107"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="179,5,364,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1AccountRestrictionDescriptor.html" title="Account restriction descriptor." alt="" coords="192,55,352,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="189,117,354,156"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1Key__tag.html" title=" " alt="" coords="5,124,130,149"/>
+</map>

@@ -1,4 +1,0 @@
-<map id="catapult::state::AccountRestriction::canBlock" name="catapult::state::AccountRestriction::canBlock">
-<area shape="rect" id="node1" title="Returns true if modification can be applied to the blocked values." alt="" coords="250,5,410,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_typed_account_restriction.html#a414dfe6229ff7aebff40884f040aedd6" title="Returns true if modification can be applied to the underlying restriction." alt="" coords="5,5,202,44"/>
-</map>

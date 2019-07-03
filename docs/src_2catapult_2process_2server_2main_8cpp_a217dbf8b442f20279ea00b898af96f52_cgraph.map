@@ -4,8 +4,8 @@
 <area shape="rect" id="node7" href="$namespacecatapult_1_1local.html#a6079c7bdf8f1c56abed2df35bd9cec8e" title="Creates and boots a local node around the specified key pair (keyPair) and bootstrapper (pBootstrappe..." alt="" coords="104,151,318,176"/>
 <area shape="rect" id="node8" href="$namespacecatapult_1_1process.html#a89dd533b7d67d6fcde0bb1935a32c94e" title=" " alt="" coords="144,200,278,239"/>
 <area shape="rect" id="node9" href="$namespacecatapult_1_1process.html#a91a87b15c89eaa7cbeefac4af9a6a739" title=" " alt="" coords="146,263,275,301"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_process_bootstrapper.html#a472a8b0e4507b7f8b18ea17f7dffc9a2" title="Adds static nodes to the bootstrapper." alt="" coords="380,5,534,57"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_process_bootstrapper.html#ade80851a60047cf4a799ce4668657255" title="Gets the configuration." alt="" coords="380,81,534,133"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1ProcessBootstrapper.html#a472a8b0e4507b7f8b18ea17f7dffc9a2" title="Adds static nodes to the bootstrapper." alt="" coords="380,5,534,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1ProcessBootstrapper.html#ade80851a60047cf4a799ce4668657255" title="Gets the configuration." alt="" coords="380,81,534,133"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1config.html#a54603550adbf6b0056aa0eeaa288ed9d" title="Loads peers from the specified path for the network identified by networkIdentifier." alt="" coords="366,157,549,196"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1config.html#a3f33d74e22bfd5d08a5ac93c40e93cbd" title="Loads peers from the specified stream (input) for the network identified by networkIdentifier." alt="" coords="597,157,779,196"/>
 </map>

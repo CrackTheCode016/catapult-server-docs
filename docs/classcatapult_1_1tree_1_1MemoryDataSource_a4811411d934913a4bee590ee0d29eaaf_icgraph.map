@@ -1,0 +1,4 @@
+<map id="catapult::tree::MemoryDataSource::size" name="catapult::tree::MemoryDataSource::size">
+<area shape="rect" id="node1" title="Gets the number of saved nodes." alt="" coords="283,12,465,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1ReadThroughMemoryDataSource.html#ab5733f4e5fdb4f680829ec10c64f3d11" title="Gets the number of saved nodes in the in memory cache." alt="" coords="5,5,235,57"/>
+</map>

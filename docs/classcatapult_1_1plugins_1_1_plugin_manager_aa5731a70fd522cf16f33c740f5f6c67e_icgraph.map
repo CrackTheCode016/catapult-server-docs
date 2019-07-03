@@ -1,4 +1,0 @@
-<map id="catapult::plugins::PluginManager::addHandlerHook" name="catapult::plugins::PluginManager::addHandlerHook">
-<area shape="rect" id="node1" title="Adds a (non&#45;diagnostic) handler hook." alt="" coords="224,5,442,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_cache_handlers.html#aca9c9af2d7014381e87c9145a3b446cc" title="Registers all cache handlers in pluginManager for cache with specified facility code." alt="" coords="5,5,176,44"/>
-</map>

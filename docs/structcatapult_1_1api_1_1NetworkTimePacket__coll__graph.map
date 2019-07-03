@@ -1,0 +1,12 @@
+<map id="catapult::api::NetworkTimePacket" name="catapult::api::NetworkTimePacket">
+<area shape="rect" id="node1" title="A network time response." alt="" coords="1499,77,1678,116"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1Packet.html" title="A packet header with a data payload." alt="" coords="1110,55,1262,80"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1ionet_1_1PacketHeader.html" title="A packet header that all transferable information is expected to have." alt="" coords="728,5,924,31"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="732,55,919,80"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1timesync_1_1CommunicationTimestamps.html" title="Represents the network timestamps for sending and receiving a time synchronization request / response..." alt="" coords="1089,104,1283,143"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="730,104,921,143"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="492,91,678,156"/>
+<area shape="rect" id="node8" href="$structcatapult_1_1Timestamp__tag.html" title=" " alt="" coords="222,83,389,108"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,132,390,171"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,139,172,164"/>
+</map>

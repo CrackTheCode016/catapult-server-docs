@@ -1,6 +1,6 @@
 var win32_8py =
 [
-    [ "CONSOLE_SCREEN_BUFFER_INFO", "classcolorama_1_1win32_1_1_c_o_n_s_o_l_e___s_c_r_e_e_n___b_u_f_f_e_r___i_n_f_o.html", "classcolorama_1_1win32_1_1_c_o_n_s_o_l_e___s_c_r_e_e_n___b_u_f_f_e_r___i_n_f_o" ],
+    [ "CONSOLE_SCREEN_BUFFER_INFO", "classcolorama_1_1win32_1_1CONSOLE__SCREEN__BUFFER__INFO.html", "classcolorama_1_1win32_1_1CONSOLE__SCREEN__BUFFER__INFO" ],
     [ "FillConsoleOutputAttribute", "win32_8py.html#acd6ed54afac44b110406d182cc73c57b", null ],
     [ "FillConsoleOutputCharacter", "win32_8py.html#a8ac1aa3580463a3eb9c44e3aed501346", null ],
     [ "GetConsoleScreenBufferInfo", "win32_8py.html#a3a7925a181c8ce7c41b4806392af30e4", null ],

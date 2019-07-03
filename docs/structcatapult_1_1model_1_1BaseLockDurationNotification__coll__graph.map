@@ -1,0 +1,9 @@
+<map id="catapult::model::BaseLockDurationNotification&lt; TDerivedNotification &gt;" name="catapult::model::BaseLockDurationNotification&lt; TDerivedNotification &gt;">
+<area shape="rect" id="node1" title="Base for lock duration notification." alt="" coords="1184,20,1387,72"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="885,5,1070,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="874,55,1082,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="508,48,824,100"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1BlockDuration__tag.html" title=" " alt="" coords="221,33,406,59"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="229,83,398,121"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,89,172,115"/>
+</map>

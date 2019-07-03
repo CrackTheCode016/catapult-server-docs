@@ -1,0 +1,4 @@
+<map id="catapult::model::InflationCalculator::getCumulativeAmount" name="catapult::model::InflationCalculator::getCumulativeAmount">
+<area shape="rect" id="node1" title="Gets the total inflation amount up to (but not including) height." alt="" coords="5,5,225,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="273,5,443,44"/>
+</map>

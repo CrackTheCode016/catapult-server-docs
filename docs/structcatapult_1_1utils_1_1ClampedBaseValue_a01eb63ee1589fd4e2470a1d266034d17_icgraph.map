@@ -1,0 +1,6 @@
+<map id="catapult::utils::ClampedBaseValue::ClampedBaseValue" name="catapult::utils::ClampedBaseValue::ClampedBaseValue">
+<area shape="rect" id="node1" title="Creates a clamped base value from a raw value." alt="" coords="255,88,464,127"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1utils_1_1ClampedBaseValue.html#a19f06028f684472d2f54e9c0980184a7" title=" " alt="" coords="5,5,207,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1utils_1_1ClampedBaseValue.html#a14fd65ff833eb3e5820a236ef8dfc829" title=" " alt="" coords="5,81,207,133"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1utils_1_1ClampedBaseValue.html#ab83325be79fe389df8b4c0a30b4b4c3d" title="Adds rhs and this value and returns a new value." alt="" coords="5,157,207,209"/>
+</map>

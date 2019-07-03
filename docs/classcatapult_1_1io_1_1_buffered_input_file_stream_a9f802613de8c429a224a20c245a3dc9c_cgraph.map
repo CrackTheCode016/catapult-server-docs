@@ -1,5 +1,0 @@
-<map id="catapult::io::BufferedInputFileStream::eof" name="catapult::io::BufferedInputFileStream::eof">
-<area shape="rect" id="node1" title="Returns true if no data is left in the stream." alt="" coords="5,37,178,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_raw_file.html#a397516c5db9fc1baa61a71082ef71654" title="Returns position in the file." alt="" coords="226,5,368,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_raw_file.html#a451b35a4a488ae95d3b9b9ef3b2acf50" title="Returns size of the file." alt="" coords="226,68,368,107"/>
-</map>

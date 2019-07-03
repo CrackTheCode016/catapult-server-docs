@@ -1,4 +1,4 @@
 <map id="catapult::deltaset::UpdateSet" name="catapult::deltaset::UpdateSet">
 <area shape="rect" id="node1" title=" " alt="" coords="5,12,127,51"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1deltaset_1_1_conditional_container.html#a2d2f3ed6827871da48c55391d8415fca" title="Applies all changes in deltas to the underlying container." alt="" coords="175,5,329,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1deltaset_1_1ConditionalContainer.html#a2d2f3ed6827871da48c55391d8415fca" title="Applies all changes in deltas to the underlying container." alt="" coords="175,5,329,57"/>
 </map>

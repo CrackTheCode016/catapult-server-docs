@@ -1,0 +1,4 @@
+<map id="catapult::disruptor::ConsumerResult" name="catapult::disruptor::ConsumerResult">
+<area shape="rect" id="node1" title="Result of a consumer operation." alt="" coords="39,5,167,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1disruptor_1_1ConsumerCompletionResult.html" title="Extended consumer result passed to completion callback." alt="" coords="5,92,201,131"/>
+</map>

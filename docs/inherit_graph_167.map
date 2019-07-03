@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="node1" title=" " alt="" coords="5,84,197,109"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_sub_cache_plugin_adapter_1_1_sub_cache_view_adapter_1_1_merkle_root_accessor.html" title=" " alt="" coords="245,5,503,84"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_sub_cache_plugin_adapter_1_1_sub_cache_view_adapter_1_1_merkle_root_mutator.html" title=" " alt="" coords="250,108,498,187"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1SubCachePluginAdapter_1_1SubCacheViewAdapter_1_1MerkleRootAccessor.html" title=" " alt="" coords="245,5,503,84"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1SubCachePluginAdapter_1_1SubCacheViewAdapter_1_1MerkleRootMutator.html" title=" " alt="" coords="250,108,498,187"/>
 </map>

@@ -1,6 +1,0 @@
-<map id="catapult::cache::MemoryPtCacheView::shortHashPairs" name="catapult::cache::MemoryPtCacheView::shortHashPairs">
-<area shape="rect" id="node1" title=" " alt="" coords="5,68,192,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_entity_range.html#a61bd0c035dd26c7810cbd93624eca50c" title="Returns a const iterator that represents the first entity." alt="" coords="240,5,432,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_entity_range.html#a3af196b6f22546dff7f79f380e42ce65" title=" " alt="" coords="240,68,432,107"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a70e366dcaf59162ed7a2a45c8b593d89" title="Gets the short hash corresponding to hash." alt="" coords="245,131,428,156"/>
-</map>

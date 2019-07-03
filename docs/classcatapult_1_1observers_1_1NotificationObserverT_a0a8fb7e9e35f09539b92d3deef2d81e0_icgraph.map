@@ -1,0 +1,10 @@
+<map id="catapult::observers::NotificationObserverT::notify" name="catapult::observers::NotificationObserverT::notify">
+<area shape="rect" id="node1" title="Notifies the observer with a notification to process and an observer context." alt="" coords="735,40,893,92"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1ProcessingNotificationSubscriber.html#adac2f1dc58f91c72b8b50484c6e74545" title=" " alt="" coords="487,5,667,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1chain_1_1ProcessingUndoNotificationSubscriber.html#a33bac3a2d99680f40afba212904c348f" title="Undoes all executions." alt="" coords="467,81,687,120"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1ProcessingNotificationSubscriber.html#a80cd22c6c7fb7693b00a55611b21cea7" title="Notifies the subscriber of notification." alt="" coords="229,12,419,51"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1harvesting_1_1HarvestingUtFacade_1_1Impl.html#acc0e357c7305ac7f1e54cd090010a56f" title=" " alt="" coords="249,75,399,127"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1chain_1_1ProcessingNotificationSubscriber.html#a64be3e2a20b72551e640dd5cb677a272" title="Undoes all executions since enableUndo was first called." alt="" coords="230,151,418,189"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1chain_1_1UtUpdater_1_1Impl.html#a165effc0ff1a7535a6ba0d70c3c19d52" title=" " alt="" coords="5,116,181,155"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1harvesting_1_1HarvestingUtFacade_1_1Impl.html#aa1768a72679de54a6b4cad6a85f3a2c5" title=" " alt="" coords="18,179,168,231"/>
+</map>

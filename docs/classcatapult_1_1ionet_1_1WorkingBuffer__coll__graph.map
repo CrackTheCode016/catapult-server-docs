@@ -1,0 +1,4 @@
+<map id="catapult::ionet::WorkingBuffer" name="catapult::ionet::WorkingBuffer">
+<area shape="rect" id="node1" title="A buffer for storing working data." alt="" coords="22,105,182,144"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1PacketSocketOptions.html" title="Packet socket options." alt="" coords="5,5,199,44"/>
+</map>

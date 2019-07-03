@@ -1,0 +1,5 @@
+<map id="catapult::tree::TreeNodePath::Join" name="catapult::tree::TreeNodePath::Join">
+<area shape="rect" id="node1" title="Joins lhs, nibble and rhs into a new path." alt="" coords="5,37,170,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1TreeNodePath.html#af4c4d521e885f93f05660a4d2b59dae0" title="Gets the number of nibbles in this path." alt="" coords="218,5,383,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1TreeNodePath.html#a7302da21e453aa0a817fbf285d23353c" title="Creates a default path." alt="" coords="218,68,383,107"/>
+</map>

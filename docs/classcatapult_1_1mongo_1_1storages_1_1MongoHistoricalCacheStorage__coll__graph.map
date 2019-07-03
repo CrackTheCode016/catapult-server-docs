@@ -1,0 +1,10 @@
+<map id="catapult::mongo::storages::MongoHistoricalCacheStorage&lt; TCacheTraits &gt;" name="catapult::mongo::storages::MongoHistoricalCacheStorage&lt; TCacheTraits &gt;">
+<area shape="rect" id="node1" title="A mongo cache storage that persists historical cache data using delete and insert." alt="" coords="619,109,828,161"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1ExternalCacheStorageT.html" title=" " alt="" coords="271,5,477,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1ExternalCacheStorage.html" title="Abstract class for saving cache data to external storage." alt="" coords="23,12,196,51"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1MongoBulkWriter.html" title=" " alt="" coords="279,81,469,120"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,81,214,120"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1mongo_1_1MongoDatabase.html" title="Represents a mongo database." alt="" coords="263,144,485,169"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1mongo_1_1MongoErrorPolicy.html" title="Error policy for checking mongo operation results." alt="" coords="277,193,471,232"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="26,200,193,225"/>
+</map>

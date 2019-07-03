@@ -1,5 +1,0 @@
-<map id="catapult::cache::detail::CacheViewReadLockPair&lt; TCacheView &gt;" name="catapult::cache::detail::CacheViewReadLockPair&lt; TCacheView &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="682,5,861,57"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1utils_1_1_basic_spin_reader_writer_lock_1_1_reader_lock_guard.html" title="A reader lock guard." alt="" coords="312,5,570,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock_1_1_lock_guard.html" title="Base class for RAII lock guards." alt="" coords="5,5,263,57"/>
-</map>

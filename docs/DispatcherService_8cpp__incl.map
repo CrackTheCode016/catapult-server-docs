@@ -1,0 +1,52 @@
+<map id="DispatcherService.cpp" name="DispatcherService.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1985,5,2140,31"/>
+<area shape="rect" id="node2" href="$DispatcherService_8h.html" title=" " alt="" coords="15,85,155,111"/>
+<area shape="rect" id="node4" href="$DispatcherSyncHandlers_8h.html" title=" " alt="" coords="351,85,531,111"/>
+<area shape="rect" id="node6" href="$PredicateUtils_8h.html" title=" " alt="" coords="844,85,958,111"/>
+<area shape="rect" id="node7" href="$UtUpdater_8h.html" title=" " alt="" coords="427,172,605,197"/>
+<area shape="rect" id="node10" href="$TransactionConsumers_8h.html" title=" " alt="" coords="629,165,802,204"/>
+<area shape="rect" id="node12" href="$RollbackInfo_8h.html" title=" " alt="" coords="1080,172,1186,197"/>
+<area shape="rect" id="node16" href="$ReadOnlyCatapultCache_8h.html" title=" " alt="" coords="2810,165,3030,204"/>
+<area shape="rect" id="node17" href="$AccountStateCache_8h.html" title=" " alt="" coords="2303,79,2457,117"/>
+<area shape="rect" id="node21" href="$BlockDifficultyCache_8h.html" title=" " alt="" coords="2481,79,2639,117"/>
+<area shape="rect" id="node23" href="$ImportanceView_8h.html" title=" " alt="" coords="1583,339,1723,377"/>
+<area shape="rect" id="node24" href="$MemoryUtCache_8h.html" title=" " alt="" coords="2662,79,2839,117"/>
+<area shape="rect" id="node25" href="$BlockExecutor_8h.html" title=" " alt="" coords="985,85,1188,111"/>
+<area shape="rect" id="node26" href="$BlockScorer_8h.html" title=" " alt="" coords="1210,172,1400,197"/>
+<area shape="rect" id="node27" href="$BlockChainConfiguration_8h.html" title=" " alt="" coords="1381,252,1560,291"/>
+<area shape="rect" id="node28" href="$ChainUtils_8h.html" title=" " alt="" coords="2237,172,2416,197"/>
+<area shape="rect" id="node29" href="$CatapultDataDirectory_8h.html" title=" " alt="" coords="2863,79,3024,117"/>
+<area shape="rect" id="node30" title=" " alt="" coords="3888,172,4031,197"/>
+<area shape="rect" id="node31" href="$AuditConsumer_8h.html" title=" " alt="" coords="3098,79,3235,117"/>
+<area shape="rect" id="node32" href="$BlockConsumers_8h.html" title=" " alt="" coords="555,79,692,117"/>
+<area shape="rect" id="node33" href="$ConsumerUtils_8h.html" title=" " alt="" coords="1787,79,1924,117"/>
+<area shape="rect" id="node34" href="$NodeInteractionResult_8h.html" title=" " alt="" coords="1767,165,1966,204"/>
+<area shape="rect" id="node35" href="$ReclaimMemoryInspector_8h.html" title=" " alt="" coords="3258,79,3445,117"/>
+<area shape="rect" id="node36" href="$UndoBlock_8h.html" title=" " alt="" coords="190,79,327,117"/>
+<area shape="rect" id="node37" href="$BatchRangeDispatcher_8h.html" title=" " alt="" coords="2040,165,2213,204"/>
+<area shape="rect" id="node38" href="$DispatcherUtils_8h.html" title=" " alt="" coords="1527,79,1662,117"/>
+<area shape="rect" id="node39" href="$ExecutionConfigurationFactory_8h.html" title=" " alt="" coords="3470,79,3687,117"/>
+<area shape="rect" id="node40" href="$LocalNodeChainScore_8h.html" title=" " alt="" coords="3711,79,3881,117"/>
+<area shape="rect" id="node41" href="$NodeInteractionUtils_8h.html" title=" " alt="" coords="3904,79,4061,117"/>
+<area shape="rect" id="node42" href="$PluginUtils_8h.html" title=" " alt="" coords="1367,79,1502,117"/>
+<area shape="rect" id="node43" href="$PluginManager_8h.html" title=" " alt="" coords="1475,172,1693,197"/>
+<area shape="rect" id="node44" href="$ServiceLocator_8h.html" title=" " alt="" coords="2440,165,2575,204"/>
+<area shape="rect" id="node45" href="$ServiceState_8h.html" title=" " alt="" coords="4084,79,4219,117"/>
+<area shape="rect" id="node46" href="$NodeContainer_8h.html" title=" " alt="" coords="4267,85,4471,111"/>
+<area shape="rect" id="node47" href="$StateChangeSubscriber_8h.html" title=" " alt="" coords="4495,79,4672,117"/>
+<area shape="rect" id="node48" href="$TransactionStatusSubscriber_8h.html" title=" " alt="" coords="1887,252,2093,291"/>
+<area shape="rect" id="node49" href="$MultiServicePool_8h.html" title=" " alt="" coords="2600,165,2786,204"/>
+<area shape="rect" id="node50" href="$AggregateEntityValidator_8h.html" title=" " alt="" coords="4697,79,4879,117"/>
+<area shape="rect" id="node3" href="$ServiceRegistrar_8h.html" title=" " alt="" coords="5,165,141,204"/>
+<area shape="rect" id="node5" href="$BlockChainSyncHandlers_8h.html" title=" " alt="" coords="165,165,352,204"/>
+<area shape="rect" id="node11" href="$Elements_8h.html" title=" " alt="" coords="827,172,1005,197"/>
+<area shape="rect" id="node8" href="$ChainFunctions_8h.html" title=" " alt="" coords="711,259,836,284"/>
+<area shape="rect" id="node9" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="1321,425,1436,451"/>
+<area shape="rect" id="node13" href="$RollbackStats_8h.html" title=" " alt="" coords="981,345,1095,371"/>
+<area shape="rect" id="node14" href="$TimeSpan_8h.html" title=" " alt="" coords="1170,345,1341,371"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2388,259,2446,284"/>
+<area shape="rect" id="node18" href="$AccountStateCacheDelta_8h.html" title=" " alt="" coords="3054,172,3236,197"/>
+<area shape="rect" id="node19" href="$AccountStateCacheView_8h.html" title=" " alt="" coords="3260,172,3438,197"/>
+<area shape="rect" id="node20" href="$BasicCache_8h.html" title=" " alt="" coords="3462,172,3655,197"/>
+<area shape="rect" id="node22" href="$BlockDifficultyCacheDelta_8h.html" title=" " alt="" coords="3679,172,3864,197"/>
+</map>

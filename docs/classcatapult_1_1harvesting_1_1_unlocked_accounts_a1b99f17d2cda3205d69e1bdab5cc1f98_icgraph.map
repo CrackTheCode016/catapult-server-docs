@@ -1,4 +1,0 @@
-<map id="catapult::harvesting::UnlockedAccounts::view" name="catapult::harvesting::UnlockedAccounts::view">
-<area shape="rect" id="node1" title="Gets a read only view of the unlocked accounts." alt="" coords="191,5,364,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1_harvester.html#a08b592dcdab16be8c308543326575026" title=" " alt="" coords="5,5,143,44"/>
-</map>

@@ -1,0 +1,7 @@
+<map id="catapult::io::FileBlockStorage::dropBlocksAfter" name="catapult::io::FileBlockStorage::dropBlocksAfter">
+<area shape="rect" id="node1" title="Drops all blocks after height." alt="" coords="5,61,199,100"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1IndexFile.html#adb43265aa6e6215e122a0e0723e9978a" title="Sets the index value to value." alt="" coords="247,40,420,65"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="249,89,418,128"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1IndexFile.html#adad14744c9d6b1ba0f202fa803d6ec7f" title=" " alt="" coords="468,5,615,44"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1io.html#a8613aa5dbcb9b6bb71adf19a828c495a" title="Writes value into output." alt="" coords="472,68,611,93"/>
+</map>

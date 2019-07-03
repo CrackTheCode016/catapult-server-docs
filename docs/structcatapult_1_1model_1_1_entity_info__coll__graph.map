@@ -1,6 +1,0 @@
-<map id="catapult::model::EntityInfo&lt; TEntity &gt;" name="catapult::model::EntityInfo&lt; TEntity &gt;">
-<area shape="rect" id="node1" title="Tuple composed of an entity and its associated metadata." alt="" coords="65,180,240,219"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,87,172,112"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="196,80,414,119"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1_hash256__tag.html" title=" " alt="" coords="227,5,382,31"/>
-</map>

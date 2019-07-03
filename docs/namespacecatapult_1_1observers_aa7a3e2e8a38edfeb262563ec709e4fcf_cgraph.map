@@ -1,8 +1,8 @@
 <map id="catapult::observers::LockStatusAccountBalanceObserver" name="catapult::observers::LockStatusAccountBalanceObserver">
 <area shape="rect" id="node1" title=" " alt="" coords="5,81,196,133"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1observers_1_1_observer_statement_builder.html#a77a803a413b2dd51acb95bea65f228c0" title="Adds receipt to this builder." alt="" coords="250,5,436,57"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1observers_1_1_observer_context.html#a3d450b334b1dc597c4e98204aaf16408" title="Statement builder." alt="" coords="244,81,442,133"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_catapult_cache_delta.html#aaf215397ffb3b1616d20ce453dde43a4" title="Gets a specific sub cache delta view." alt="" coords="259,157,427,196"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_block_statement_builder.html#a7dff4c3542a7a8df1edefc0eb5992f8f" title="Adds receipt to this builder." alt="" coords="490,12,703,51"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_transaction_statement.html#a4438c2434b00ce99a519395440e7b9d3" title="Adds receipt to this transaction statement." alt="" coords="751,12,939,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1observers_1_1ObserverStatementBuilder.html#a77a803a413b2dd51acb95bea65f228c0" title="Adds receipt to this builder." alt="" coords="250,5,436,57"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1observers_1_1ObserverContext.html#a3d450b334b1dc597c4e98204aaf16408" title="Statement builder." alt="" coords="244,81,442,133"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1CatapultCacheDelta.html#aaf215397ffb3b1616d20ce453dde43a4" title="Gets a specific sub cache delta view." alt="" coords="259,157,427,196"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1BlockStatementBuilder.html#a7dff4c3542a7a8df1edefc0eb5992f8f" title="Adds receipt to this builder." alt="" coords="490,12,703,51"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1TransactionStatement.html#a4438c2434b00ce99a519395440e7b9d3" title="Adds receipt to this transaction statement." alt="" coords="751,12,939,51"/>
 </map>

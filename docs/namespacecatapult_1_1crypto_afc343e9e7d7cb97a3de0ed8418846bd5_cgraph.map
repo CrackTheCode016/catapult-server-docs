@@ -1,15 +1,15 @@
 <map id="catapult::crypto::HashPrivateKey" name="catapult::crypto::HashPrivateKey">
 <area shape="rect" id="node1" title="Calculates hash of a privateKey." alt="" coords="5,252,220,277"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1_private_key.html#a364d8e0b79859577cd351848e31f8ae2" title="Returns a const iterator to the beginning of the raw key." alt="" coords="284,5,445,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_byte_array.html#aeb9ed1abd6eb2d2b1587a77d764491e6" title="Returns a const iterator to the first byte." alt="" coords="282,68,447,107"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="509,153,674,192"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1crypto_1_1_private_key.html#aba6d73db328cc06b761ae4b0dcbe1587" title="Returns a const pointer to the raw key." alt="" coords="284,183,445,221"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1crypto_1_1_private_key.html#af474cfd15c1a3285239d16cad2ec320f" title="Returns a const iterator to the end of the raw key." alt="" coords="284,245,445,284"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1PrivateKey.html#a364d8e0b79859577cd351848e31f8ae2" title="Returns a const iterator to the beginning of the raw key." alt="" coords="284,5,445,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1ByteArray.html#aeb9ed1abd6eb2d2b1587a77d764491e6" title="Returns a const iterator to the first byte." alt="" coords="282,68,447,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1ByteArray.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="509,153,674,192"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1crypto_1_1PrivateKey.html#aba6d73db328cc06b761ae4b0dcbe1587" title="Returns a const pointer to the raw key." alt="" coords="284,183,445,221"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1crypto_1_1PrivateKey.html#af474cfd15c1a3285239d16cad2ec320f" title="Returns a const iterator to the end of the raw key." alt="" coords="284,245,445,284"/>
 <area shape="rect" id="node9" href="$namespacecatapult_1_1crypto.html#a2daa5de9309093d546fb4fce1eaad2dc" title="Calculates the 512&#45;bit Keccak hash of dataBuffer into hash." alt="" coords="268,308,461,333"/>
 <area shape="rect" id="node10" href="$namespacecatapult_1_1crypto.html#a847b6f2d814e8b689fad72496e287158" title="Securely zeros out the memory backing the specified key." alt="" coords="270,357,459,383"/>
 <area shape="rect" id="node12" href="$namespacecatapult_1_1crypto.html#a8e44c8c0d13f7ab77269d4ba0261de11" title="Calculates the 512&#45;bit SHA3 hash of dataBuffer into hash." alt="" coords="274,407,454,432"/>
-<area shape="rect" id="node13" href="$classcatapult_1_1crypto_1_1_private_key.html#a632a883dcb1f950ba04feeeb22e1ed5b" title="Returns the size of the key." alt="" coords="284,456,445,495"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html#aba9b7f8b1f716e8719c21e02473cbee3" title="Returns a const iterator to the first byte." alt="" coords="509,5,674,44"/>
-<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1_byte_array.html#a79ef47736964cb180440d5efd52e0281" title="Returns a const iterator to one past the last byte." alt="" coords="509,245,674,284"/>
-<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1_byte_array.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="509,403,674,441"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1crypto_1_1PrivateKey.html#a632a883dcb1f950ba04feeeb22e1ed5b" title="Returns the size of the key." alt="" coords="284,456,445,495"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html#aba9b7f8b1f716e8719c21e02473cbee3" title="Returns a const iterator to the first byte." alt="" coords="509,5,674,44"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1ByteArray.html#a79ef47736964cb180440d5efd52e0281" title="Returns a const iterator to one past the last byte." alt="" coords="509,245,674,284"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1ByteArray.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="509,403,674,441"/>
 </map>

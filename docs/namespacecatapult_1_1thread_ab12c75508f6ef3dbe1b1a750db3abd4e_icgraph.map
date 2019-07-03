@@ -1,9 +1,9 @@
 <map id="catapult::thread::compose" name="catapult::thread::compose">
 <area shape="rect" id="node1" title=" " alt="" coords="519,75,694,100"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_mongo_bulk_writer.html#a0b11b5ba5450c0877d995134c4c2cfcb" title=" " alt="" coords="262,5,452,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a0fc99b014b5992e09fe8cc85c0fc931c" title=" " alt="" coords="243,68,471,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1MongoBulkWriter.html#a0b11b5ba5450c0877d995134c4c2cfcb" title=" " alt="" coords="262,5,452,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tools_1_1NetworkCensusTool.html#a0fc99b014b5992e09fe8cc85c0fc931c" title=" " alt="" coords="243,68,471,107"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1chain.html#af1d226aef9728eb4b6b58675b0e9773e" title="Creates a remote node synchronizer around pSynchronizer." alt="" coords="256,147,458,185"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="20,52,180,91"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tools_1_1NetworkCensusTool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="20,52,180,91"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1chain.html#a3c9d5898c8b240385eebc0cdb65753f6" title=" " alt="" coords="5,115,195,153"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1chain.html#a204f6307622212305d4feda6d24a9bfc" title=" " alt="" coords="16,177,184,216"/>
 <area shape="rect" id="node8" href="$namespacecatapult_1_1chain.html#a7e3515847edcce57393c390cadcc045c" title=" " alt="" coords="16,240,184,279"/>

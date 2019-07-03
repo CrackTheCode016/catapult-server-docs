@@ -1,0 +1,6 @@
+<map id="catapult::model::AccountAddressNotification" name="catapult::model::AccountAddressNotification">
+<area shape="rect" id="node1" title="Notification of use of an account address." alt="" coords="557,31,725,69"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="272,5,458,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="276,55,454,107"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1UnresolvedAddress__tag.html" title=" " alt="" coords="5,68,223,93"/>
+</map>

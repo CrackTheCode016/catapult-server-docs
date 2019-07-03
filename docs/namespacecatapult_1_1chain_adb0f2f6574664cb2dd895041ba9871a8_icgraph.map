@@ -1,6 +1,6 @@
 <map id="catapult::chain::ExecuteBlock" name="catapult::chain::ExecuteBlock">
 <area shape="rect" id="node1" title="Executes blockElement using the specified execution context (executionContext)." alt="" coords="569,51,732,89"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1tools_1_1nemgen.html#a0f28c896151d15d490fd3ac75cab79ca" title="Calculates the block execution dependent hashes after executing nemesis blockElement for network conf..." alt="" coords="294,5,521,57"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_nemesis_block_loader.html#ae785b9466a6087ffc7b14f505345abbb" title=" " alt="" coords="330,81,485,133"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1NemesisBlockLoader.html#ae785b9466a6087ffc7b14f505345abbb" title=" " alt="" coords="330,81,485,133"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1tools_1_1nemgen.html#a7ca0796ef874d605290ed3e0964314de" title=" " alt="" coords="5,5,246,57"/>
 </map>

@@ -1,10 +1,10 @@
 <map id="catapult::io::Read8" name="catapult::io::Read8">
 <area shape="rect" id="node1" title="Reads value from input." alt="" coords="356,269,488,295"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1tree_1_1_patricia_tree_serializer.html#a0b63e76cef6749d39131f7bbb51475c4" title="Deserializes tree node from buffer." alt="" coords="51,5,262,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_secret_lock_info_extended_data_serializer.html#a386df7d416b5f5d6d45f18d3f0ff22c8" title="Loads secret lock info extended data from input into lockInfo." alt="" coords="46,68,267,107"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1_account_restrictions_serializer.html#a501a102f5f39ab5c2bf6f19a1d42d08c" title="Loads a single value from input." alt="" coords="65,131,248,169"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1state_1_1_multisig_entry_serializer.html#aa7cd318a5901936da5aa03dc390e3076" title="Loads a single value from input." alt="" coords="78,193,235,232"/>
-<area shape="rect" id="node6" href="$structcatapult_1_1state_1_1_lock_info_serializer.html#ae089b312a0731e4810dd039368de132d" title="Loads a single value from input." alt="" coords="5,256,308,308"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1tree_1_1PatriciaTreeSerializer.html#a0b63e76cef6749d39131f7bbb51475c4" title="Deserializes tree node from buffer." alt="" coords="51,5,262,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1SecretLockInfoExtendedDataSerializer.html#a386df7d416b5f5d6d45f18d3f0ff22c8" title="Loads secret lock info extended data from input into lockInfo." alt="" coords="46,68,267,107"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1AccountRestrictionsSerializer.html#a501a102f5f39ab5c2bf6f19a1d42d08c" title="Loads a single value from input." alt="" coords="65,131,248,169"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1state_1_1MultisigEntrySerializer.html#aa7cd318a5901936da5aa03dc390e3076" title="Loads a single value from input." alt="" coords="78,193,235,232"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1state_1_1LockInfoSerializer.html#ae089b312a0731e4810dd039368de132d" title="Loads a single value from input." alt="" coords="5,256,308,308"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1subscribers.html#ae6107bd0eb08f2b854f57e3ca229db1f" title="Reads next block change from inputStream and forwards it to subscriber." alt="" coords="73,332,240,371"/>
 <area shape="rect" id="node8" href="$namespacecatapult_1_1subscribers.html#a7013806b04e73193f8d73294ee6bda84" title="Reads next partial transactions change from inputStream and forwards it to subscriber." alt="" coords="83,395,230,433"/>
 <area shape="rect" id="node9" href="$namespacecatapult_1_1subscribers.html#a411e08ba268c05951f18fb89f2c4c717" title="Reads next state change from inputStream and forwards it to subscriber using cacheChangesStorages for..." alt="" coords="74,457,240,496"/>

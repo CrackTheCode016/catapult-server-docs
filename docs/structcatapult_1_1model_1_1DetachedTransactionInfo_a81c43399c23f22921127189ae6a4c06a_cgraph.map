@@ -1,0 +1,4 @@
+<map id="catapult::model::DetachedTransactionInfo::copy" name="catapult::model::DetachedTransactionInfo::copy">
+<area shape="rect" id="node1" title="Creates a (shallow) copy of this info." alt="" coords="5,5,182,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1DetachedTransactionInfo.html#ae948ed846f8e4bcdb327a70bf7885753" title="Creates a transaction info." alt="" coords="230,5,498,44"/>
+</map>

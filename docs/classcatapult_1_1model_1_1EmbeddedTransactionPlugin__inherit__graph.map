@@ -1,0 +1,6 @@
+<map id="catapult::model::EmbeddedTransactionPlugin" name="catapult::model::EmbeddedTransactionPlugin">
+<area shape="rect" id="node1" title="An embedded transaction plugin." alt="" coords="277,25,460,64"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1TransactionPluginFactory_1_1BasicTransactionPluginT.html" title=" " alt="" coords="508,5,827,84"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1TransactionPluginT.html" title=" " alt="" coords="5,25,229,64"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1TransactionPluginFactory_1_1EmbeddedTransactionPluginT.html" title=" " alt="" coords="875,12,1083,77"/>
+</map>

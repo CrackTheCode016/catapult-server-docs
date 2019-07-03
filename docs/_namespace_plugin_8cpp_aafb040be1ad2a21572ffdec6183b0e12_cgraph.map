@@ -1,5 +1,0 @@
-<map id="RegisterSubsystem" name="RegisterSubsystem">
-<area shape="rect" id="node1" title="Entry point for registering a dynamic module with manager." alt="" coords="5,12,142,37"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a29457721bae46e7677543fac48690999" title="Registers namespace support with manager." alt="" coords="190,5,398,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="446,5,600,44"/>
-</map>

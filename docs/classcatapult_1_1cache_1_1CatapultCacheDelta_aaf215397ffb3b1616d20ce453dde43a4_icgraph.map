@@ -1,0 +1,14 @@
+<map id="catapult::cache::CatapultCacheDelta::sub" name="catapult::cache::CatapultCacheDelta::sub">
+<area shape="rect" id="node1" title="Gets a specific sub cache delta view." alt="" coords="551,252,719,291"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1observers.html#a6d65e43997123b2af278ee9eb18b71cb" title=" " alt="" coords="294,5,473,44"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1observers.html#aa7a3e2e8a38edfeb262563ec709e4fcf" title=" " alt="" coords="288,68,479,120"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1chain.html#a23c73aa0271948047a03b7b32841326e" title="Rollbacks blockElement using the specified execution context (executionContext)." alt="" coords="300,144,466,183"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1BlockDifficultyCacheSummaryCacheStorage.html#af1f416fcad5bb21f01a2e2c08e92d13a" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="279,207,488,259"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1NamespaceCacheSummaryCacheStorage.html#a00c669b78664344d2050a10cb8fa1664" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="282,283,484,335"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1AccountStateCacheSummaryCacheStorage.html#a8b934363d983968b70ef8409756e7b36" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="267,359,500,411"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1CacheChanges.html#aa5cb5416734dc01d4fa3026fa5f7b2c8" title="Gets a specific sub cache changes view." alt="" coords="264,435,503,460"/>
+<area shape="rect" id="node12" href="$namespacecatapult_1_1importance.html#acbe355d2436faa06fe132845d4b4fd0c" title=" " alt="" coords="313,484,454,523"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1consumers.html#ade1b31441ef4ddb61266d70b6f4e0b44" title="Undoes blockElement using the specified execution context (executionContext) for undo of specified ty..." alt="" coords="40,144,181,183"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1CacheChangesStorageAdapter.html#a3c403a32d4d3cbffd08bc41122e18825" title="Applies cache changes to the underlying cache." alt="" coords="5,397,216,436"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1cache_1_1CacheChangesStorageAdapter.html#a5cd17d1f0041ba8fd8eb6deceaeb35d6" title="Saves cache changes to output." alt="" coords="5,460,216,499"/>
+</map>

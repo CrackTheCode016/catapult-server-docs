@@ -1,7 +1,7 @@
 <map id="catapult::extensions::CreatePushEntitySink" name="catapult::extensions::CreatePushEntitySink">
 <area shape="rect" id="node1" title="Creates a sink that pushes entities using packetType and a service identified by serviceName in locat..." alt="" coords="5,37,164,76"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#a4dd66d1f9d3fb485a776a4ac02587377" title="Creates a payload around pBlock for broadcasting." alt="" coords="212,5,424,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_service_locator.html#ac9b1a47dc1ffdb9774f39fe1de5166fc" title="Gets the service with serviceName." alt="" coords="234,68,401,107"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_packet_payload_factory.html#af14bd8813cb4f8b620b3c194f067fc68" title="Creates a packet payload with the specified packet type around a single entity (pEntity)." alt="" coords="474,5,675,44"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1extensions_1_1_service_locator.html#ae980dc64fab6acecbe0c3e4c3cc83f43" title=" " alt="" coords="472,68,677,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1ServiceLocator.html#ac9b1a47dc1ffdb9774f39fe1de5166fc" title="Gets the service with serviceName." alt="" coords="234,68,401,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1PacketPayloadFactory.html#af14bd8813cb4f8b620b3c194f067fc68" title="Creates a packet payload with the specified packet type around a single entity (pEntity)." alt="" coords="474,5,675,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1extensions_1_1ServiceLocator.html#ae980dc64fab6acecbe0c3e4c3cc83f43" title=" " alt="" coords="472,68,677,107"/>
 </map>

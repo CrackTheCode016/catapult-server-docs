@@ -1,0 +1,4 @@
+<map id="catapult::harvesting::HarvestingUtFacade::commit" name="catapult::harvesting::HarvestingUtFacade::commit">
+<area shape="rect" id="node1" title="Commits all transactions into a block with specified seed header (blockHeader)." alt="" coords="5,5,156,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1harvesting_1_1HarvestingUtFacade.html#a9e885660c26ebe439eece09efe83e2c1" title="Gets locked height." alt="" coords="204,5,354,57"/>
+</map>

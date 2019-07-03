@@ -1,4 +1,4 @@
 <map id="catapult::mongo::plugins::CreateModifyMultisigAccountTransactionMongoPlugin" name="catapult::mongo::plugins::CreateModifyMultisigAccountTransactionMongoPlugin">
 <area shape="rect" id="node1" title="Creates a mongo modify multisig account transaction plugin." alt="" coords="231,5,502,57"/>
-<area shape="rect" id="node2" href="$_mongo_multisig_plugin_8cpp.html#af2a241600d5e0ac986f77f0126143877" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,183,44"/>
+<area shape="rect" id="node2" href="$MongoMultisigPlugin_8cpp.html#af2a241600d5e0ac986f77f0126143877" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,183,44"/>
 </map>

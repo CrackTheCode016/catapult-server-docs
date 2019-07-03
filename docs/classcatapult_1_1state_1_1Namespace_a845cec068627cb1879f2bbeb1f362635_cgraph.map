@@ -1,0 +1,7 @@
+<map id="catapult::state::Namespace::createChild" name="catapult::state::Namespace::createChild">
+<area shape="rect" id="node1" title="Creates a child namespace of this namespace with namespace identifier id." alt="" coords="5,68,188,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1Namespace.html#a4798d6bbae514fe0b4963d778184a9d2" title="Creates a namespace around path." alt="" coords="236,5,419,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1CheckedArray.html#aa32fd3c3b555a273f6eb652098f91243" title=" " alt="" coords="248,68,407,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1CheckedArray.html#a72226b5c3d67892663ae0cff57dd6c46" title="Gets the size of the array." alt="" coords="248,131,407,169"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1CheckedArray.html#a996310b3691d00996c470da6663733ec" title="Returns true if the array is empty, false otherwise." alt="" coords="467,5,626,44"/>
+</map>

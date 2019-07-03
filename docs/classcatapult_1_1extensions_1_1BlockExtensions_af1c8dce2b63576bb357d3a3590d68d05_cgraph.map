@@ -1,0 +1,7 @@
+<map id="catapult::extensions::BlockExtensions::updateBlockTransactionsHash" name="catapult::extensions::BlockExtensions::updateBlockTransactionsHash">
+<area shape="rect" id="node1" title=" " alt="" coords="5,61,213,113"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1BlockExtensions.html#a4410c1228c26c6f2ab02de18ebb56faf" title=" " alt="" coords="261,61,447,113"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1crypto_1_1MerkleHashBuilder.html#ac6464c676bcae4b32d851444dfe0fc77" title="Finalizes the merkle hash into hash." alt="" coords="510,5,669,44"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1TransactionContainer.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="495,68,684,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1crypto_1_1MerkleHashBuilder.html#a7d46636c1f99ddb7937023f3edd7b8dd" title="Adds hash to the merkle hash." alt="" coords="510,131,669,169"/>
+</map>

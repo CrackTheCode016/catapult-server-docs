@@ -1,0 +1,10 @@
+<map id="catapult::ionet::NetworkNode" name="catapult::ionet::NetworkNode">
+<area shape="rect" id="node1" title="Information about a catapult node that is propagated through the network." alt="" coords="1058,63,1250,88"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="739,23,940,61"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="492,7,689,72"/>
+<area shape="rect" id="node4" title=" " alt="" coords="244,5,367,31"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="221,55,390,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,61,172,87"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="757,87,922,125"/>
+<area shape="rect" id="node8" href="$structcatapult_1_1Key__tag.html" title=" " alt="" coords="529,96,653,121"/>
+</map>

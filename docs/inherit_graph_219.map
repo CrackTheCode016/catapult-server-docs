@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structcatapult_1_1config_1_1_node_configuration_1_1_connections_sub_configuration.html" title="Connections configuration." alt="" coords="5,5,235,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1config_1_1_node_configuration_1_1_incoming_connections_sub_configuration.html" title="Incoming connections configuration." alt="" coords="283,5,543,44"/>
+<area shape="rect" id="node1" href="$structcatapult_1_1config_1_1NodeConfiguration_1_1ConnectionsSubConfiguration.html" title="Connections configuration." alt="" coords="5,5,235,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1config_1_1NodeConfiguration_1_1IncomingConnectionsSubConfiguration.html" title="Incoming connections configuration." alt="" coords="283,5,543,44"/>
 </map>

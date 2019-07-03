@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.16"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>CatapultServer: catapult-server/extensions/timesync/src/types.h Source File</title>
+<title>CatapultServer: types.h Source File</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -87,7 +87,7 @@ $(document).ready(function(){initNavTree('extensions_2timesync_2src_2types_8h_so
 
 <div class="header">
   <div class="headertitle">
-<div class="title">types.h</div>  </div>
+<div class="title">extensions/timesync/src/types.h</div>  </div>
 </div><!--header-->
 <div class="contents">
 <a href="extensions_2timesync_2src_2types_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160; </div>
@@ -96,17 +96,17 @@ $(document).ready(function(){initNavTree('extensions_2timesync_2src_2types_8h_so
 <div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160; </div>
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespacecatapult.html">catapult</a> { <span class="keyword">namespace </span>timesync {</div>
 <div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160; </div>
-<div class="line"><a name="l00027"></a><span class="lineno"><a class="line" href="structcatapult_1_1timesync_1_1_time_offset__tag.html">   27</a></span>&#160;    <span class="keyword">struct </span><a class="code" href="structcatapult_1_1timesync_1_1_time_offset__tag.html">TimeOffset_tag</a> {};</div>
-<div class="line"><a name="l00028"></a><span class="lineno"><a class="line" href="namespacecatapult_1_1timesync.html#a8e1ce725afb7a589997262928ae123ea">   28</a></span>&#160;    <span class="keyword">using</span> <a class="code" href="classcatapult_1_1utils_1_1_base_value.html">TimeOffset</a> = <a class="code" href="classcatapult_1_1utils_1_1_base_value.html">utils::BaseValue&lt;int64_t, TimeOffset_tag&gt;</a>;</div>
+<div class="line"><a name="l00027"></a><span class="lineno"><a class="line" href="structcatapult_1_1timesync_1_1TimeOffset__tag.html">   27</a></span>&#160;    <span class="keyword">struct </span><a class="code" href="structcatapult_1_1timesync_1_1TimeOffset__tag.html">TimeOffset_tag</a> {};</div>
+<div class="line"><a name="l00028"></a><span class="lineno"><a class="line" href="namespacecatapult_1_1timesync.html#a8e1ce725afb7a589997262928ae123ea">   28</a></span>&#160;    <span class="keyword">using</span> <a class="code" href="classcatapult_1_1utils_1_1BaseValue.html">TimeOffset</a> = <a class="code" href="classcatapult_1_1utils_1_1BaseValue.html">utils::BaseValue&lt;int64_t, TimeOffset_tag&gt;</a>;</div>
 <div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160; </div>
-<div class="line"><a name="l00031"></a><span class="lineno"><a class="line" href="structcatapult_1_1timesync_1_1_node_age__tag.html">   31</a></span>&#160;    <span class="keyword">struct </span><a class="code" href="structcatapult_1_1timesync_1_1_node_age__tag.html">NodeAge_tag</a> {};</div>
-<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="namespacecatapult_1_1timesync.html#a11decb9fde499ae2b490c2da7b18d502">   32</a></span>&#160;    <span class="keyword">using</span> <a class="code" href="classcatapult_1_1utils_1_1_base_value.html">NodeAge</a> = <a class="code" href="classcatapult_1_1utils_1_1_base_value.html">utils::BaseValue&lt;int64_t, NodeAge_tag&gt;</a>;</div>
+<div class="line"><a name="l00031"></a><span class="lineno"><a class="line" href="structcatapult_1_1timesync_1_1NodeAge__tag.html">   31</a></span>&#160;    <span class="keyword">struct </span><a class="code" href="structcatapult_1_1timesync_1_1NodeAge__tag.html">NodeAge_tag</a> {};</div>
+<div class="line"><a name="l00032"></a><span class="lineno"><a class="line" href="namespacecatapult_1_1timesync.html#a11decb9fde499ae2b490c2da7b18d502">   32</a></span>&#160;    <span class="keyword">using</span> <a class="code" href="classcatapult_1_1utils_1_1BaseValue.html">NodeAge</a> = <a class="code" href="classcatapult_1_1utils_1_1BaseValue.html">utils::BaseValue&lt;int64_t, NodeAge_tag&gt;</a>;</div>
 <div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;}}</div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
-<div class="ttc" id="aclasscatapult_1_1utils_1_1_base_value_html"><div class="ttname"><a href="classcatapult_1_1utils_1_1_base_value.html">catapult::utils::BaseValue</a></div><div class="ttdoc">Immutable wrapper for basic types, to provide some type-safety.</div><div class="ttdef"><b>Definition:</b> BaseValue.h:100</div></div>
-<div class="ttc" id="astructcatapult_1_1timesync_1_1_node_age__tag_html"><div class="ttname"><a href="structcatapult_1_1timesync_1_1_node_age__tag.html">catapult::timesync::NodeAge_tag</a></div><div class="ttdoc">Node age.</div><div class="ttdef"><b>Definition:</b> types.h:31</div></div>
-<div class="ttc" id="astructcatapult_1_1timesync_1_1_time_offset__tag_html"><div class="ttname"><a href="structcatapult_1_1timesync_1_1_time_offset__tag.html">catapult::timesync::TimeOffset_tag</a></div><div class="ttdoc">Time offset.</div><div class="ttdef"><b>Definition:</b> types.h:27</div></div>
+<div class="ttc" id="astructcatapult_1_1timesync_1_1TimeOffset__tag_html"><div class="ttname"><a href="structcatapult_1_1timesync_1_1TimeOffset__tag.html">catapult::timesync::TimeOffset_tag</a></div><div class="ttdoc">Time offset.</div><div class="ttdef"><b>Definition:</b> extensions/timesync/src/types.h:27</div></div>
+<div class="ttc" id="astructcatapult_1_1timesync_1_1NodeAge__tag_html"><div class="ttname"><a href="structcatapult_1_1timesync_1_1NodeAge__tag.html">catapult::timesync::NodeAge_tag</a></div><div class="ttdoc">Node age.</div><div class="ttdef"><b>Definition:</b> extensions/timesync/src/types.h:31</div></div>
+<div class="ttc" id="aclasscatapult_1_1utils_1_1BaseValue_html"><div class="ttname"><a href="classcatapult_1_1utils_1_1BaseValue.html">catapult::utils::BaseValue</a></div><div class="ttdoc">Immutable wrapper for basic types, to provide some type-safety.</div><div class="ttdef"><b>Definition:</b> BaseValue.h:100</div></div>
 <div class="ttc" id="asrc_2catapult_2types_8h_html"><div class="ttname"><a href="src_2catapult_2types_8h.html">types.h</a></div></div>
 <div class="ttc" id="anamespacecatapult_html"><div class="ttname"><a href="namespacecatapult.html">catapult</a></div><div class="ttdef"><b>Definition:</b> AddressExtractionExtension.cpp:28</div></div>
 <!-- start footer part -->

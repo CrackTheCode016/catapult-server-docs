@@ -1,0 +1,6 @@
+<map id="catapult::chain::ProcessingUndoNotificationSubscriber::observe" name="catapult::chain::ProcessingUndoNotificationSubscriber::observe">
+<area shape="rect" id="node1" title=" " alt="" coords="703,5,886,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1ProcessingUndoNotificationSubscriber.html#af99eb010840aefe95d490b3d7ac0ba17" title="Notifies the subscriber of notification." alt="" coords="472,5,655,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1ProcessingNotificationSubscriber.html#adac2f1dc58f91c72b8b50484c6e74545" title=" " alt="" coords="244,5,424,57"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1chain_1_1ProcessingNotificationSubscriber.html#a80cd22c6c7fb7693b00a55611b21cea7" title="Notifies the subscriber of notification." alt="" coords="5,12,196,51"/>
+</map>

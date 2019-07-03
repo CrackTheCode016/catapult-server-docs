@@ -1,0 +1,6 @@
+<map id="catapult::ionet::PacketPayloadBuilder::build" name="catapult::ionet::PacketPayloadBuilder::build">
+<area shape="rect" id="node1" title="Builds the packet payload." alt="" coords="265,68,466,107"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#a7fd30bc6cc96bfc09e9c84051123eaba" title="Creates a payload around transactionInfos for broadcasting using packetType." alt="" coords="5,5,217,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1PacketPayloadFactory.html#af2fa99caec5c6bcf2411c10d11a56ba8" title="Creates a packet payload with the specified packet type around multiple entities." alt="" coords="11,68,212,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1ionet_1_1PacketPayloadFactory.html#abcb79c10751d938198c46e582c42ad55" title="Creates a packet payload with the specified packet type around a fixed size structure range." alt="" coords="10,131,212,169"/>
+</map>

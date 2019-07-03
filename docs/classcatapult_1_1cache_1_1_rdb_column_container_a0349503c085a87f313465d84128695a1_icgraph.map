@@ -1,5 +1,0 @@
-<map id="catapult::cache::RdbColumnContainer::setProp" name="catapult::cache::RdbColumnContainer::setProp">
-<area shape="rect" id="node1" title="Sets property value of a column (propertyName) to value." alt="" coords="255,37,444,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_cache_patricia_tree_1_1_impl.html#acd10070462f217fb942c636bff537a8b" title=" " alt="" coords="5,5,207,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_rdb_column_container.html#a1a32e5511679575ffb23ba195251deed" title="Sets size of the column to newSize." alt="" coords="12,68,200,107"/>
-</map>

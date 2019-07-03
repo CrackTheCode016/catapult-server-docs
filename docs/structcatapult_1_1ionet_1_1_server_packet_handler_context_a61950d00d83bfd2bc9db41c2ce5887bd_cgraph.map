@@ -1,4 +1,0 @@
-<map id="catapult::ionet::ServerPacketHandlerContext::response" name="catapult::ionet::ServerPacketHandlerContext::response">
-<area shape="rect" id="node1" title="Gets the response associated with this context." alt="" coords="5,5,197,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1_server_packet_handler_context.html#af3d782e5c42a75a2945e4dc013efaaec" title="Returns true if a response has been associated with this context." alt="" coords="245,5,448,44"/>
-</map>

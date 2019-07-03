@@ -1,11 +1,11 @@
 var namespacecatapult_1_1cache_1_1detail =
 [
-    [ "CacheFindIterator", "classcatapult_1_1cache_1_1detail_1_1_cache_find_iterator.html", "classcatapult_1_1cache_1_1detail_1_1_cache_find_iterator" ],
-    [ "CacheViewAccessor", "classcatapult_1_1cache_1_1detail_1_1_cache_view_accessor.html", "classcatapult_1_1cache_1_1detail_1_1_cache_view_accessor" ],
-    [ "CacheViewReadLockPair", "structcatapult_1_1cache_1_1detail_1_1_cache_view_read_lock_pair.html", "structcatapult_1_1cache_1_1detail_1_1_cache_view_read_lock_pair" ],
-    [ "IsActiveAdapter", "classcatapult_1_1cache_1_1detail_1_1_is_active_adapter.html", "classcatapult_1_1cache_1_1detail_1_1_is_active_adapter" ],
-    [ "NoOpAdapter", "structcatapult_1_1cache_1_1detail_1_1_no_op_adapter.html", "structcatapult_1_1cache_1_1detail_1_1_no_op_adapter" ],
-    [ "OrderedMemorySetAdapter", "structcatapult_1_1cache_1_1detail_1_1_ordered_memory_set_adapter.html", "structcatapult_1_1cache_1_1detail_1_1_ordered_memory_set_adapter" ],
-    [ "OrderedSetAdapter", "structcatapult_1_1cache_1_1detail_1_1_ordered_set_adapter.html", "structcatapult_1_1cache_1_1detail_1_1_ordered_set_adapter" ],
-    [ "UnorderedMapAdapter", "structcatapult_1_1cache_1_1detail_1_1_unordered_map_adapter.html", "structcatapult_1_1cache_1_1detail_1_1_unordered_map_adapter" ]
+    [ "CacheFindIterator", "classcatapult_1_1cache_1_1detail_1_1CacheFindIterator.html", "classcatapult_1_1cache_1_1detail_1_1CacheFindIterator" ],
+    [ "CacheViewAccessor", "classcatapult_1_1cache_1_1detail_1_1CacheViewAccessor.html", "classcatapult_1_1cache_1_1detail_1_1CacheViewAccessor" ],
+    [ "CacheViewReadLockPair", "structcatapult_1_1cache_1_1detail_1_1CacheViewReadLockPair.html", "structcatapult_1_1cache_1_1detail_1_1CacheViewReadLockPair" ],
+    [ "IsActiveAdapter", "classcatapult_1_1cache_1_1detail_1_1IsActiveAdapter.html", "classcatapult_1_1cache_1_1detail_1_1IsActiveAdapter" ],
+    [ "NoOpAdapter", "structcatapult_1_1cache_1_1detail_1_1NoOpAdapter.html", "structcatapult_1_1cache_1_1detail_1_1NoOpAdapter" ],
+    [ "OrderedMemorySetAdapter", "structcatapult_1_1cache_1_1detail_1_1OrderedMemorySetAdapter.html", "structcatapult_1_1cache_1_1detail_1_1OrderedMemorySetAdapter" ],
+    [ "OrderedSetAdapter", "structcatapult_1_1cache_1_1detail_1_1OrderedSetAdapter.html", "structcatapult_1_1cache_1_1detail_1_1OrderedSetAdapter" ],
+    [ "UnorderedMapAdapter", "structcatapult_1_1cache_1_1detail_1_1UnorderedMapAdapter.html", "structcatapult_1_1cache_1_1detail_1_1UnorderedMapAdapter" ]
 ];

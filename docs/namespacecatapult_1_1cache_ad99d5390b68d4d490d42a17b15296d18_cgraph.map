@@ -1,9 +1,9 @@
 <map id="catapult::cache::ProcessForwardedAccountState" name="catapult::cache::ProcessForwardedAccountState">
 <area shape="rect" id="node1" title="Forwards account state or linked account state found in cache associated with publicKey to action." alt="" coords="5,68,172,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_const_accessor_mixin.html#a15634356f499e9cc082fb4dde7a5fb6b" title="Finds the cache value identified by key." alt="" coords="223,5,431,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1detail_1_1_cache_find_iterator.html#ac1f51bc9f26b5a4eae399ed33b0f8182" title=" " alt="" coords="247,68,408,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ConstAccessorMixin.html#a15634356f499e9cc082fb4dde7a5fb6b" title="Finds the cache value identified by key." alt="" coords="223,5,431,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1detail_1_1CacheFindIterator.html#ac1f51bc9f26b5a4eae399ed33b0f8182" title=" " alt="" coords="247,68,408,107"/>
 <area shape="rect" id="node5" href="$namespacecatapult_1_1state.html#a1233028ae5c92508f80a917319917857" title="Requires that remoteAccountState and mainAccountState state are linked." alt="" coords="220,131,435,169"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1detail_1_1_cache_find_iterator.html#a2cd731ed742432ceef504c8a49aaab28" title="Tries to get a const value." alt="" coords="483,68,662,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1detail_1_1CacheFindIterator.html#a2cd731ed742432ceef504c8a49aaab28" title="Tries to get a const value." alt="" coords="483,68,662,107"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1model.html#ad38590910f93b13b4563bf02c275bdb7" title="Creates an encoded address from an address." alt="" coords="488,131,656,169"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1utils.html#a6df7a03546b149e9dbbf3b2a0aea7a13" title=" " alt="" coords="710,137,907,163"/>
 </map>

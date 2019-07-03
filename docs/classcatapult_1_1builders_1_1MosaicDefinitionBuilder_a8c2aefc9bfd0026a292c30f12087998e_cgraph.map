@@ -1,0 +1,7 @@
+<map id="catapult::builders::MosaicDefinitionBuilder::buildImpl" name="catapult::builders::MosaicDefinitionBuilder::buildImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,173,116"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a0cb97216cb5d15f539fe613cd3c9fd88" title="Generates a mosaic id given owner and nonce." alt="" coords="221,36,396,75"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1builders_1_1TransactionBuilder.html#ac57a42d66793bbe4450f92fc6b152967" title="Returns signer." alt="" coords="239,99,378,151"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1crypto_1_1KeccakBuilder.html#adab53de41fffaaa4ae3df2c995739fc6" title="Finalize hash calculation. Returns result in output." alt="" coords="444,5,607,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1crypto_1_1KeccakBuilder.html#ade3e4c47c5a61ec0ae7841ed077d390c" title="Updates the state of hash with data inside dataBuffer." alt="" coords="444,68,607,107"/>
+</map>

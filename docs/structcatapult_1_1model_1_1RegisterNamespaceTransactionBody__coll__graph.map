@@ -1,0 +1,12 @@
+<map id="catapult::model::RegisterNamespaceTransactionBody&lt; THeader &gt;" name="catapult::model::RegisterNamespaceTransactionBody&lt; THeader &gt;">
+<area shape="rect" id="node1" title="Binary layout for a register namespace transaction body." alt="" coords="1216,48,1408,100"/>
+<area shape="rect" id="node2" title=" " alt="" coords="941,5,1014,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="874,55,1082,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="508,45,824,97"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1BlockDuration__tag.html" title=" " alt="" coords="221,41,406,67"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1ImmutableValue.html" title=" " alt="" coords="229,95,398,133"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1utils_1_1BasicBaseValue.html" title=" " alt="" coords="564,121,768,187"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,101,172,127"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1BaseValue.html" title=" " alt="" coords="874,120,1081,159"/>
+<area shape="rect" id="node10" href="$structcatapult_1_1NamespaceId__tag.html" title="Namespace identifier." alt="" coords="222,163,405,188"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="catapult::cache::HashLockInfoBaseSets" name="catapult::cache::HashLockInfoBaseSets">
+<area shape="rect" id="node1" title=" " alt="" coords="1036,68,1214,107"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1LockInfoBaseSets.html" title=" " alt="" coords="737,55,987,120"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1CacheDatabaseMixin.html" title="Mixin that owns a cache database." alt="" coords="368,5,582,44"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1HashLockInfoCacheTypes.html" title="Hash lock info cache types." alt="" coords="386,68,564,107"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1cache_1_1LockInfoCacheTypes.html" title=" " alt="" coords="5,68,305,107"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1CachePatriciaTree.html" title=" " alt="" coords="354,131,596,183"/>
+</map>

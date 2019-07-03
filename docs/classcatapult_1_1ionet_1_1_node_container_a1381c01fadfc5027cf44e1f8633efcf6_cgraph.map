@@ -1,5 +1,0 @@
-<map id="catapult::ionet::NodeContainer::modifier" name="catapult::ionet::NodeContainer::modifier">
-<area shape="rect" id="node1" title="Gets a write only view of the nodes." alt="" coords="5,5,207,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="255,5,478,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_basic_spin_reader_writer_lock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="526,5,692,44"/>
-</map>

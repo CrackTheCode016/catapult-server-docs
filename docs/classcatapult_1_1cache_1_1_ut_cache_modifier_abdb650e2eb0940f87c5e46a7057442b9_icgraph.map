@@ -1,5 +1,0 @@
-<map id="catapult::cache::UtCacheModifier::removeAll" name="catapult::cache::UtCacheModifier::removeAll">
-<area shape="rect" id="node1" title="Removes all transactions from the cache." alt="" coords="447,5,617,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_ut_cache_modifier_proxy.html#a5a35d247b0307959f8b66275947bd058" title="Removes all transactions from the cache." alt="" coords="229,5,399,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1chain_1_1_ut_updater_1_1_impl.html#a40de5c8b2f5b6419d76cf3f4f93ece5b" title=" " alt="" coords="5,5,181,44"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="catapult::state::AccountImportanceSnapshots::set" name="catapult::state::AccountImportanceSnapshots::set">
-<area shape="rect" id="node1" title="Sets the current account importance to importance at height." alt="" coords="5,37,182,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_importance_snapshots.html#a809c312ac230a2631df63efcabe9d0dd" title="Gets the height at which the current importance was calculated." alt="" coords="230,5,424,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_compact_array_stack.html#aed143b13bd3502146986961e26ef41f8" title="Pushes value onto the stack." alt="" coords="244,68,410,107"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_compact_array_stack.html#afa0b4316adb54f3a500bb57618ee5217" title="Returns a const iterator to the first element of the underlying container." alt="" coords="472,5,637,44"/>
-</map>

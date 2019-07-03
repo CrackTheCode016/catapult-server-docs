@@ -1,4 +1,4 @@
 <map id="catapult::cache::FindDeactivatingIdentifiersAtHeight" name="catapult::cache::FindDeactivatingIdentifiersAtHeight">
 <area shape="rect" id="node1" title="Finds identifiers of all values in set (with grouped view groupedSet) that are deactivating at height..." alt="" coords="248,5,466,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_height_based_touch_mixin.html#aa19887af123929cdbd8910e0798538c1" title="Touches the cache at height and returns identifiers of all deactivating elements." alt="" coords="5,5,200,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1HeightBasedTouchMixin.html#aa19887af123929cdbd8910e0798538c1" title="Touches the cache at height and returns identifiers of all deactivating elements." alt="" coords="5,5,200,44"/>
 </map>

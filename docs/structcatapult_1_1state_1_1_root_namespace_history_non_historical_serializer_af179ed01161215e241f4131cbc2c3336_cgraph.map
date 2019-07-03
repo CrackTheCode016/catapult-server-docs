@@ -1,6 +1,0 @@
-<map id="catapult::state::RootNamespaceHistoryNonHistoricalSerializer::Save" name="catapult::state::RootNamespaceHistoryNonHistoricalSerializer::Save">
-<area shape="rect" id="node1" title="Saves history to output." alt="" coords="5,68,241,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_root_namespace_history.html#a3737fb8a0eab77e0f680b5486133f5a6" title="Gets a const reference to the most recent root namespace." alt="" coords="289,5,500,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_root_namespace_history.html#a7907244836c3f0240eedf0f34a4bf310" title="Gets the root namespace history size." alt="" coords="289,68,500,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_root_namespace_history.html#ac83c337dc1d606334c0192503fb1102b" title="Gets the id of the root namespace history." alt="" coords="289,131,500,169"/>
-</map>

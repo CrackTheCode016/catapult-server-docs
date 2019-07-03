@@ -1,5 +1,0 @@
-<map id="catapult::cache::AccountStateCacheSummaryCacheStorage" name="catapult::cache::AccountStateCacheSummaryCacheStorage">
-<area shape="rect" id="node1" title="CacheStorage implementation for saving and loading summary account state cache data." alt="" coords="12,165,245,204"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_summary_cache_storage.html" title=" " alt="" coords="5,79,252,117"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_cache_storage.html" title="Interface for loading and saving cache data." alt="" coords="27,5,231,31"/>
-</map>

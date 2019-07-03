@@ -1,6 +1,6 @@
 <map id="catapult::utils::map_erase_if" name="catapult::utils::map_erase_if">
 <area shape="rect" id="node1" title="Removes all entries from map that fulfill the given predicate." alt="" coords="496,47,629,85"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1timesync_1_1filters_1_1_aggregate_synchronization_filter.html#ac18a98dde4c828f3f117567ed48f945b" title="Filters samples according to nodeAge." alt="" coords="224,5,448,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1consumers_1_1_recent_hash_cache.html#a38c2caa750ac0cd33a109dd06dc63cb7" title=" " alt="" coords="225,81,446,120"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1consumers_1_1_recent_hash_cache.html#a31e4a21f0f801685751b79f066266c84" title=" " alt="" coords="5,81,176,120"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1timesync_1_1filters_1_1AggregateSynchronizationFilter.html#ac18a98dde4c828f3f117567ed48f945b" title="Filters samples according to nodeAge." alt="" coords="224,5,448,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1consumers_1_1RecentHashCache.html#a38c2caa750ac0cd33a109dd06dc63cb7" title=" " alt="" coords="225,81,446,120"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1consumers_1_1RecentHashCache.html#a31e4a21f0f801685751b79f066266c84" title=" " alt="" coords="5,81,176,120"/>
 </map>

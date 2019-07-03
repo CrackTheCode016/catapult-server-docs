@@ -1,0 +1,8 @@
+<map id="Validators.h" name="Validators.h">
+<area shape="rect" id="node1" title=" " alt="" coords="550,5,641,31"/>
+<area shape="rect" id="node2" href="$AccountLinkActionValidator_8cpp.html" title=" " alt="" coords="5,85,212,111"/>
+<area shape="rect" id="node3" href="$AccountLinkAvailabilityValidator_8cpp.html" title=" " alt="" coords="236,85,469,111"/>
+<area shape="rect" id="node4" href="$NewRemoteAccountAvailabilityValidator_8cpp.html" title=" " alt="" coords="493,79,698,117"/>
+<area shape="rect" id="node5" href="$RemoteInteractionValidator_8cpp.html" title=" " alt="" coords="723,85,929,111"/>
+<area shape="rect" id="node6" href="$RemoteSenderValidator_8cpp.html" title=" " alt="" coords="954,85,1141,111"/>
+</map>

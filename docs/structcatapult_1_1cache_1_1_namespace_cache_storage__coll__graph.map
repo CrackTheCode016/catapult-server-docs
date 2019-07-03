@@ -1,5 +1,0 @@
-<map id="catapult::cache::NamespaceCacheStorage" name="catapult::cache::NamespaceCacheStorage">
-<area shape="rect" id="node1" title="Policy for saving and loading namespace cache data." alt="" coords="360,37,550,76"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_cache_storage_from_descriptor.html" title=" " alt="" coords="5,5,312,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_root_namespace_history_serializer.html" title="Policy for saving and loading root namespace history data." alt="" coords="53,68,264,107"/>
-</map>

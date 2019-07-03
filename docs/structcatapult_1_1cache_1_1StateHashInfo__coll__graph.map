@@ -1,0 +1,5 @@
+<map id="catapult::cache::StateHashInfo" name="catapult::cache::StateHashInfo">
+<area shape="rect" id="node1" title="Information about a cache state hash." alt="" coords="13,180,216,205"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="5,80,223,119"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1Hash256__tag.html" title=" " alt="" coords="37,5,192,31"/>
+</map>

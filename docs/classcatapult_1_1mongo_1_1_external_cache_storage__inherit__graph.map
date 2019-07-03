@@ -1,8 +1,0 @@
-<map id="catapult::mongo::ExternalCacheStorage" name="catapult::mongo::ExternalCacheStorage">
-<area shape="rect" id="node1" title="Abstract class for saving cache data to external storage." alt="" coords="5,68,178,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_aggregate_external_cache_storage.html" title="Aggregate for saving cache data to external storage." alt="" coords="236,5,421,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1_external_cache_storage_t.html" title="Typed interface for saving cache data to external storage." alt="" coords="237,68,421,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1_external_cache_storage_t.html" title=" " alt="" coords="226,131,431,183"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_flat_cache_storage.html" title="A mongo cache storage that persists flat cache data using delete and upsert." alt="" coords="496,92,673,144"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_historical_cache_storage.html" title="A mongo cache storage that persists historical cache data using delete and insert." alt="" coords="479,168,689,220"/>
-</map>

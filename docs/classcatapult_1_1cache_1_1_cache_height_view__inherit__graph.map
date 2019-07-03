@@ -1,4 +1,0 @@
-<map id="catapult::cache::CacheHeightView" name="catapult::cache::CacheHeightView">
-<area shape="rect" id="node1" title="A read only view on top of a cache height." alt="" coords="5,79,230,104"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="34,5,201,31"/>
-</map>

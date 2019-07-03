@@ -1,8 +1,0 @@
-<map id="catapult::state::AccountRestrictionDescriptor::operationType" name="catapult::state::AccountRestrictionDescriptor::operationType">
-<area shape="rect" id="node1" title="Gets the operation type." alt="" coords="712,31,872,83"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_account_restriction.html#a49138b706aacc3d680435eddc420a611" title=" " alt="" coords="458,37,664,76"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_account_restriction.html#a861f89f6c8f30ff4e5dd01d7c4f8b19b" title="Returns true if modification can be applied to the allowed values." alt="" coords="250,5,410,44"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1_account_restriction.html#a35a3eaf42038e9bf74a80a58a678f4f6" title="Returns true if modification can be applied to the blocked values." alt="" coords="250,68,410,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_typed_account_restriction.html#a913a82bbd66960d8dfddefb3ff89b860" title="Returns true if modification can be applied to the underlying restriction." alt="" coords="5,5,202,44"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1_typed_account_restriction.html#a414dfe6229ff7aebff40884f040aedd6" title="Returns true if modification can be applied to the underlying restriction." alt="" coords="5,68,202,107"/>
-</map>

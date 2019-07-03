@@ -1,0 +1,7 @@
+<map id="catapult::model::EntityRange::SubRange::totalSize" name="catapult::model::EntityRange::SubRange::totalSize">
+<area shape="rect" id="node1" title=" " alt="" coords="302,100,494,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1EntityRange_1_1MultiBufferRange.html#a54d38426833930f0fd44fa84dde22769" title=" " alt="" coords="5,5,254,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1EntityRange_1_1SingleBufferRange.html#a255134e17ea26d27d741bdba1e016468" title=" " alt="" coords="34,68,226,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1EntityRange_1_1SingleEntityRange.html#ad0f983c1b55dbb985c94dd13ca85076b" title=" " alt="" coords="34,131,226,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1EntityRange.html#af9a321366fa7fc047a30f126d5630804" title="Gets the total size of the range in bytes." alt="" coords="34,193,226,232"/>
+</map>

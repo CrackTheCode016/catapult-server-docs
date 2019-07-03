@@ -1,5 +1,0 @@
-<map id="catapult::sync::RollbackStats::add" name="catapult::sync::RollbackStats::add">
-<area shape="rect" id="node1" title="Adds info about rollbackSize at timestamp to current statistics." alt="" coords="215,37,376,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1sync_1_1_rollback_info.html#abe7188c745ab42d416b22a44b683491f" title="Adds counter to ignored statistics and resets the counter." alt="" coords="5,5,167,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1sync_1_1_rollback_info.html#ae28c69946304acbb7f7b311d8b1225b7" title="Adds counter to committed statistics and resets the counter." alt="" coords="5,68,167,107"/>
-</map>

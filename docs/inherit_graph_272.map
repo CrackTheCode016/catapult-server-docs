@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structcatapult_1_1disruptor_1_1_consumer_result.html" title="Result of a consumer operation." alt="" coords="5,5,133,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1disruptor_1_1_consumer_completion_result.html" title="Extended consumer result passed to completion callback." alt="" coords="181,5,377,44"/>
+<area shape="rect" id="node1" href="$structcatapult_1_1disruptor_1_1ConsumerResult.html" title="Result of a consumer operation." alt="" coords="5,5,133,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1disruptor_1_1ConsumerCompletionResult.html" title="Extended consumer result passed to completion callback." alt="" coords="181,5,377,44"/>
 </map>

@@ -1,8 +1,4 @@
 <map id="catapult::plugins::RegisterCoreSystem" name="catapult::plugins::RegisterCoreSystem">
-<area shape="rect" id="node1" title=" " alt="" coords="1189,12,1333,51"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a7dbb88f436701c9dfe75f11580691c85" title="Loads a plugin named name with manager from directory into modules." alt="" coords="1002,12,1141,51"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1tools_1_1nemgen_1_1_plugin_loader.html#a2c0776420f4908952f5a13d2fa56bce6" title=" " alt="" coords="777,12,954,51"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1tools_1_1nemgen_1_1_plugin_loader.html#af8fa71b1f0a7432eecd49595ac9916ee" title="Loads all configured plugins." alt="" coords="569,12,729,51"/>
-<area shape="rect" id="node5" href="$namespacecatapult_1_1tools_1_1nemgen.html#a0f28c896151d15d490fd3ac75cab79ca" title="Calculates the block execution dependent hashes after executing nemesis blockElement for network conf..." alt="" coords="294,5,521,57"/>
-<area shape="rect" id="node6" href="$namespacecatapult_1_1tools_1_1nemgen.html#a7ca0796ef874d605290ed3e0964314de" title=" " alt="" coords="5,5,246,57"/>
+<area shape="rect" id="node1" title=" " alt="" coords="193,5,337,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a7dbb88f436701c9dfe75f11580691c85" title="Loads a plugin named name with manager from directory into modules." alt="" coords="5,5,145,44"/>
 </map>

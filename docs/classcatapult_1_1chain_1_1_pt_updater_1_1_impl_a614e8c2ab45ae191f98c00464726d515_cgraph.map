@@ -1,6 +1,0 @@
-<map id="catapult::chain::PtUpdater::Impl::handleComplete" name="catapult::chain::PtUpdater::Impl::handleComplete">
-<area shape="rect" id="node1" title=" " alt="" coords="5,37,180,76"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1partialtransaction.html#a143289bb6891ad6005ba5b6911bd3c5e" title="Stitches a weak cosigned transaction info into a full aggregate transaction." alt="" coords="228,37,405,76"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_weak_cosigned_transaction_info.html#ad350a72b1f0db059c1062dc4d0b57e77" title="Gets the cosignatures." alt="" coords="453,5,662,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_weak_cosigned_transaction_info.html#a960f29cfd1cdd66e239cff14895237f3" title="Gets the transaction." alt="" coords="453,68,662,107"/>
-</map>

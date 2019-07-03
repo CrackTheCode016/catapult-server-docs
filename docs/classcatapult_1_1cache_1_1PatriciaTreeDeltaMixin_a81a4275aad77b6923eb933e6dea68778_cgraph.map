@@ -1,0 +1,6 @@
+<map id="catapult::cache::PatriciaTreeDeltaMixin::updateMerkleRoot" name="catapult::cache::PatriciaTreeDeltaMixin::updateMerkleRoot">
+<area shape="rect" id="node1" title="Recalculates the merkle root given the specified chain height if supported." alt="" coords="5,37,232,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1cache.html#afaeea05b7037dbff7de3e4561e64e664" title=" " alt="" coords="303,5,493,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1PatriciaTreeDeltaMixin.html#a07c270ce3ae16d205e860e836f9fd7e9" title=" " alt="" coords="280,68,516,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1detail_1_1IsActiveAdapter.html#a591c7aaf9df1e7223cf11e0779f1e292" title=" " alt="" coords="564,5,740,44"/>
+</map>

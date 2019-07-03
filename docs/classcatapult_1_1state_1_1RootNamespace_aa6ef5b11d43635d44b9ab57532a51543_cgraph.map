@@ -1,0 +1,9 @@
+<map id="catapult::state::RootNamespace::add" name="catapult::state::RootNamespace::add">
+<area shape="rect" id="node1" title="Adds the child namespace ns." alt="" coords="5,113,246,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1Namespace.html#a824bce69d307a4fcb32da351f69b56b6" title="Gets the namespace id." alt="" coords="294,5,495,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1CheckedArray.html#a72226b5c3d67892663ae0cff57dd6c46" title="Gets the size of the array." alt="" coords="543,47,702,85"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1Namespace.html#aaadb38b37ea350a70c5c019f244af34b" title="Gets the parent namespace id." alt="" coords="303,107,486,145"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1state_1_1Namespace.html#a0bdf7d7025290d7ae659fafadbfce646" title="Gets the path." alt="" coords="303,169,486,208"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1state_1_1Namespace.html#ae47b05fc83ad48ced4146f46b0aa9f29" title="Gets the corresponding root namespace id." alt="" coords="303,232,486,271"/>
+<area shape="rect" id="node5" href="$namespacecatapult.html#a067e324878b4ac5285fe60bf3278f298" title="Base id for namespaces." alt="" coords="549,109,696,148"/>
+</map>

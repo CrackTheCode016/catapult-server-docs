@@ -1,0 +1,6 @@
+<map id="catapult::ionet::PacketPayloadBuilder::appendEntity" name="catapult::ionet::PacketPayloadBuilder::appendEntity">
+<area shape="rect" id="node1" title="Appends a single entity (pEntity) to the payload." alt="" coords="5,27,206,65"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1PacketPayloadBuilder.html#a65276e4a918c1faf8e96bb8ff006845a" title=" " alt="" coords="254,27,455,65"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#ac6cdc88d1c0ed86a60963ef46f04c035" title="Adds delta to value if and only if there is no overflow." alt="" coords="503,5,686,31"/>
+<area shape="rect" id="node4" href="$namespacecatapult_1_1ionet.html#ac3d4996594403f0c327116d1f5e2b5b0" title="Determines if header indicates a valid packet data size no greater than maxPacketDataSize." alt="" coords="513,55,676,93"/>
+</map>

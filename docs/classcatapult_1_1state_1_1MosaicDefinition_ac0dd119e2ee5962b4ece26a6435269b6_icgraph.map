@@ -1,0 +1,4 @@
+<map id="catapult::state::MosaicDefinition::isActive" name="catapult::state::MosaicDefinition::isActive">
+<area shape="rect" id="node1" title="Returns true if the mosaic definition is active at height." alt="" coords="238,5,448,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1MosaicEntry.html#a94ce70dcb2c37faf6f9e16b2c2d47448" title="Returns true if entry is active at height." alt="" coords="5,5,190,44"/>
+</map>

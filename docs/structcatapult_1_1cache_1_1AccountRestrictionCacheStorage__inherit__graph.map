@@ -1,0 +1,6 @@
+<map id="catapult::cache::AccountRestrictionCacheStorage" name="catapult::cache::AccountRestrictionCacheStorage">
+<area shape="rect" id="node1" title="Policy for saving and loading account restriction cache data." alt="" coords="590,47,760,85"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1CacheStorageForBasicInsertRemoveCache.html" title=" " alt="" coords="288,5,542,57"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1CacheStorageFromDescriptor.html" title=" " alt="" coords="5,5,240,57"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1AccountRestrictionsSerializer.html" title="Policy for saving and loading account restrictions data." alt="" coords="336,81,495,120"/>
+</map>

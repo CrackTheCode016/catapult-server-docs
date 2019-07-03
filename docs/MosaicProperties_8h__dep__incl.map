@@ -1,0 +1,44 @@
+<map id="MosaicProperties.h" name="MosaicProperties.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1022,5,1158,31"/>
+<area shape="rect" id="node2" href="$MosaicDefinitionTransaction_8h.html" title=" " alt="" coords="516,445,715,471"/>
+<area shape="rect" id="node7" href="$MosaicNotifications_8h.html" title=" " alt="" coords="960,445,1108,471"/>
+<area shape="rect" id="node23" href="$MosaicProperties_8cpp.html" title=" " alt="" coords="1071,79,1221,104"/>
+<area shape="rect" id="node24" href="$MosaicDefinition_8h.html" title=" " alt="" coords="1734,79,1864,104"/>
+<area shape="rect" id="node3" href="$MosaicDefinitionMapper_8cpp.html" title=" " alt="" coords="214,525,403,551"/>
+<area shape="rect" id="node4" href="$MosaicDefinitionTransactionPlugin_8cpp.html" title=" " alt="" coords="622,519,811,557"/>
+<area shape="rect" id="node5" href="$MosaicDefinitionBuilder_8h.html" title=" " alt="" coords="427,525,598,551"/>
+<area shape="rect" id="node6" href="$MosaicDefinitionBuilder_8cpp.html" title=" " alt="" coords="5,612,190,637"/>
+<area shape="rect" id="node8" href="$txes_2mosaic_2src_2observers_2Observers_8h.html" title=" " alt="" coords="1910,525,2004,551"/>
+<area shape="rect" id="node11" href="$MosaicSupplyChangeTransactionPlugin_8cpp.html" title=" " alt="" coords="834,519,1055,557"/>
+<area shape="rect" id="node12" href="$txes_2mosaic_2src_2validators_2Validators_8h.html" title=" " alt="" coords="1079,525,1170,551"/>
+<area shape="rect" id="node9" href="$MosaicDefinitionObserver_8cpp.html" title=" " alt="" coords="2129,612,2328,637"/>
+<area shape="rect" id="node10" href="$MosaicSupplyChangeObserver_8cpp.html" title=" " alt="" coords="1875,612,2105,637"/>
+<area shape="rect" id="node13" href="$ActiveMosaicView_8cpp.html" title=" " alt="" coords="1911,692,2064,717"/>
+<area shape="rect" id="node14" href="$MaxMosaicsValidator_8cpp.html" title=" " alt="" coords="215,612,386,637"/>
+<area shape="rect" id="node15" href="$MosaicAvailabilityValidator_8cpp.html" title=" " alt="" coords="1213,612,1415,637"/>
+<area shape="rect" id="node16" href="$MosaicDurationValidator_8cpp.html" title=" " alt="" coords="1439,612,1629,637"/>
+<area shape="rect" id="node17" href="$MosaicIdValidator_8cpp.html" title=" " alt="" coords="410,612,561,637"/>
+<area shape="rect" id="node18" href="$MosaicPropertiesValidator_8cpp.html" title=" " alt="" coords="586,612,786,637"/>
+<area shape="rect" id="node19" href="$MosaicSupplyChangeAllowedValidator_8cpp.html" title=" " alt="" coords="1652,605,1850,644"/>
+<area shape="rect" id="node20" href="$MosaicSupplyChangeValidator_8cpp.html" title=" " alt="" coords="810,612,1037,637"/>
+<area shape="rect" id="node21" href="$MosaicTransferValidator_8cpp.html" title=" " alt="" coords="2327,692,2516,717"/>
+<area shape="rect" id="node22" href="$ProperMosaicValidator_8cpp.html" title=" " alt="" coords="1225,692,1405,717"/>
+<area shape="rect" id="node25" href="$MosaicDefinition_8cpp.html" title=" " alt="" coords="1727,152,1871,177"/>
+<area shape="rect" id="node26" href="$MosaicEntry_8h.html" title=" " alt="" coords="2365,152,2470,177"/>
+<area shape="rect" id="node27" href="$MosaicEntryMapper_8h.html" title=" " alt="" coords="2655,225,2805,251"/>
+<area shape="rect" id="node28" href="$MosaicEntryMapper_8cpp.html" title=" " alt="" coords="2621,299,2785,324"/>
+<area shape="rect" id="node30" href="$MosaicCacheTypes_8h.html" title=" " alt="" coords="2105,225,2254,251"/>
+<area shape="rect" id="node40" href="$MosaicEntry_8cpp.html" title=" " alt="" coords="2277,225,2396,251"/>
+<area shape="rect" id="node41" href="$MosaicEntrySerializer_8h.html" title=" " alt="" coords="2420,225,2581,251"/>
+<area shape="rect" id="node29" href="$MongoMosaicCacheStorage_8cpp.html" title=" " alt="" coords="2716,612,2931,637"/>
+<area shape="rect" id="node31" href="$MosaicCacheSerializers_8h.html" title=" " alt="" coords="2119,299,2295,324"/>
+<area shape="rect" id="node32" href="$MosaicBaseSets_8h.html" title=" " alt="" coords="2039,372,2170,397"/>
+<area shape="rect" id="node39" href="$MosaicCacheStorage_8h.html" title=" " alt="" coords="2307,372,2467,397"/>
+<area shape="rect" id="node33" href="$MosaicCacheDelta_8h.html" title=" " alt="" coords="2032,445,2177,471"/>
+<area shape="rect" id="node38" href="$MosaicCacheView_8h.html" title=" " alt="" coords="2201,445,2342,471"/>
+<area shape="rect" id="node34" href="$MosaicCache_8h.html" title=" " alt="" coords="2213,525,2327,551"/>
+<area shape="rect" id="node37" href="$MosaicCacheDelta_8cpp.html" title=" " alt="" coords="2028,525,2186,551"/>
+<area shape="rect" id="node35" href="$MosaicPlugin_8cpp.html" title=" " alt="" coords="2566,612,2691,637"/>
+<area shape="rect" id="node36" href="$ActiveMosaicView_8h.html" title=" " alt="" coords="2352,612,2491,637"/>
+<area shape="rect" id="node42" href="$MosaicEntrySerializer_8cpp.html" title=" " alt="" coords="2371,299,2545,324"/>
+</map>

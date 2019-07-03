@@ -1,5 +1,0 @@
-<map id="catapult::timesync::TimeSynchronizationState::offset" name="catapult::timesync::TimeSynchronizationState::offset">
-<area shape="rect" id="node1" title="Gets the offset." alt="" coords="440,5,624,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1timesync_1_1_time_synchronization_state.html#a7781633f5bdaced6c969bb4d0b620450" title="Updates the current offset using offset." alt="" coords="208,5,392,57"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1timesync.html#aa4945d3c267ffac0c896cb86ed6cc2d7" title=" " alt="" coords="5,12,160,51"/>
-</map>

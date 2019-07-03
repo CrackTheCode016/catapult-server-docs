@@ -6,5 +6,5 @@
 <area shape="rect" id="node4" href="$src_2catapult_2process_2server_2main_8cpp.html#a217dbf8b442f20279ea00b898af96f52" title=" " alt="" coords="283,12,334,37"/>
 <area shape="rect" id="node6" href="$namespacecatapult_1_1tools.html#a5e1dc0e2a96be906c6c8c2a242821238" title="Loads optional api peers configuration from resourcesPath for network networkIdentifier." alt="" coords="213,64,404,103"/>
 <area shape="rect" id="node8" href="$namespacecatapult_1_1tools.html#ab9db32124adb85d59e6ddbb3d6468ad5" title="Loads p2p peers configuration from resourcesPath for network networkIdentifier." alt="" coords="221,127,396,152"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1tools_1_1_network_census_tool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,92,165,131"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1tools_1_1NetworkCensusTool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,92,165,131"/>
 </map>

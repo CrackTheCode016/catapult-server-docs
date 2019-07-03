@@ -1,5 +1,0 @@
-<map id="catapult::utils::FileSize::FromBytes" name="catapult::utils::FileSize::FromBytes">
-<area shape="rect" id="node1" title="Creates a file size from the given number of bytes." alt="" coords="5,37,159,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_file_size.html#acaf0adf03843be93e22aaa8352fa3cde" title="Returns the number of bytes." alt="" coords="207,5,361,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_file_size.html#adf4440f82033f600734263830bedef6b" title="Creates a default (zero) file size." alt="" coords="207,68,361,107"/>
-</map>

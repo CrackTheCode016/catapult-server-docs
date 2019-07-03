@@ -1,0 +1,10 @@
+<map id="RegisterSubsystem" name="RegisterSubsystem">
+<area shape="rect" id="node1" title="Entry point for registering a dynamic module with manager." alt="" coords="5,157,142,183"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#ac34308261fb4204bd98475d9954970b8" title="Registers account link support with manager." alt="" coords="190,151,400,189"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1plugins_1_1PluginManager.html#ade167f60b0bc7eaa07e2a4adde4bfea9" title="Adds an observer hook." alt="" coords="448,5,674,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1plugins_1_1PluginManager.html#a7f21a94da7a0ae3d2f5f3dcc69ec7e8f" title="Adds a stateful validator hook." alt="" coords="468,68,654,120"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1PluginManager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="463,144,659,196"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1plugins_1_1PluginManager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="456,220,666,272"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1plugins.html#a3ca2971dff79cfa47c5f39f47f51a2d5" title="Creates an account link transaction plugin." alt="" coords="460,296,663,348"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="722,227,928,265"/>
+</map>

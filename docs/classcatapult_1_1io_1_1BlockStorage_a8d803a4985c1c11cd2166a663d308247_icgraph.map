@@ -1,0 +1,5 @@
+<map id="catapult::io::BlockStorage::loadBlock" name="catapult::io::BlockStorage::loadBlock">
+<area shape="rect" id="node1" title="Returns the block at height." alt="" coords="226,37,398,76"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1local.html#a6fd8c0913d15c12ed90d4afa19b54368" title="Returns starting height of storage." alt="" coords="9,5,174,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1BlockStorageView.html#ac55c8538d2725474fc6916e346edd508" title="Returns the block at height." alt="" coords="5,68,178,107"/>
+</map>

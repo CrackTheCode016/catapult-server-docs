@@ -1,5 +1,5 @@
 <map id="catapult::validators::DECLARE_STATEFUL_VALIDATOR" name="catapult::validators::DECLARE_STATEFUL_VALIDATOR">
 <area shape="rect" id="node1" title=" " alt="" coords="5,37,251,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_resolver_context.html#a78f35bf5b5bab9edbe8250f6f51b13eb" title="Resolves mosaic id (mosaicId)." alt="" coords="302,5,474,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_read_only_catapult_cache.html#aadf7f69e090262199ce4ebed0bc47adf" title="Gets a specific sub cache read&#45;only view." alt="" coords="299,68,477,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1ResolverContext.html#a78f35bf5b5bab9edbe8250f6f51b13eb" title="Resolves mosaic id (mosaicId)." alt="" coords="302,5,474,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1ReadOnlyCatapultCache.html#aadf7f69e090262199ce4ebed0bc47adf" title="Gets a specific sub cache read&#45;only view." alt="" coords="299,68,477,107"/>
 </map>

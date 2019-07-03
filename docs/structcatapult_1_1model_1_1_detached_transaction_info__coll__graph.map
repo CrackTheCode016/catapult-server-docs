@@ -1,7 +1,0 @@
-<map id="catapult::model::DetachedTransactionInfo" name="catapult::model::DetachedTransactionInfo">
-<area shape="rect" id="node1" title=" " alt="" coords="65,268,241,307"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_entity_info.html" title=" " alt="" coords="65,180,240,219"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,87,172,112"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="196,80,414,119"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1_hash256__tag.html" title=" " alt="" coords="227,5,382,31"/>
-</map>

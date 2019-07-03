@@ -1,0 +1,8 @@
+<map id="catapult::chain::ProcessingNotificationSubscriber::observe" name="catapult::chain::ProcessingNotificationSubscriber::observe">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,186,83"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#ac38f7d38ce04417a201dd07aa6589877" title="Checks if type has channel set." alt="" coords="696,12,845,37"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1chain_1_1ProcessingUndoNotificationSubscriber.html#af99eb010840aefe95d490b3d7ac0ba17" title="Notifies the subscriber of notification." alt="" coords="234,31,417,83"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1observers_1_1NotificationObserverT.html#a0a8fb7e9e35f09539b92d3deef2d81e0" title="Notifies the observer with a notification to process and an observer context." alt="" coords="247,107,404,159"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="893,5,1016,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1chain_1_1ProcessingUndoNotificationSubscriber.html#a88dc96277a74619aacdec7b6022f9a88" title=" " alt="" coords="465,31,648,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="RegisterMongoSubsystem" name="RegisterMongoSubsystem">
+<area shape="rect" id="node1" title="Entry point for registering a dynamic module with manager." alt="" coords="5,220,183,245"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a2b053127534de9d3ec9c5492c13a10ac" title="Adds support for an external cache storage described by pStorage." alt="" coords="250,5,451,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a205502e0f851c3b9807e5ff6959fc306" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="241,68,460,107"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1mongo_1_1plugins.html#ab6d98b2c49ae0f1dc8e90e3ccfa2fa5d" title="Creates a mongo account address restriction transaction plugin." alt="" coords="236,131,465,183"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1mongo_1_1plugins.html#a3938444caacee2108e78ccc6d7972682" title="Creates a mongo account mosaic restriction transaction plugin." alt="" coords="239,207,461,259"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1mongo_1_1plugins.html#aeab93c41f3007a314a98dd7cc466b880" title="Creates a mongo account operation restriction transaction plugin." alt="" coords="231,283,470,335"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a0d588a55756f41c83044d3a71d44e754" title="Gets the mongo storage context." alt="" coords="250,359,451,397"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1mongo_1_1MongoPluginManager.html#a719d3cfadd87964f1c4b0c70e58c40e3" title="Gets the network idenfifier." alt="" coords="250,421,451,460"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1ExternalCacheStorageBuilder.html#aaaa19876fe63c2b3a1d43b78009249b2" title="Adds pStorage to the builder." alt="" coords="531,5,709,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="518,68,723,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountImportanceSnapshots::height" name="catapult::state::AccountImportanceSnapshots::height">
+<area shape="rect" id="node1" title="Gets the height at which the current importance was calculated." alt="" coords="5,5,200,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1CompactArrayStack.html#afa0b4316adb54f3a500bb57618ee5217" title="Returns a const iterator to the first element of the underlying container." alt="" coords="248,5,413,44"/>
+</map>

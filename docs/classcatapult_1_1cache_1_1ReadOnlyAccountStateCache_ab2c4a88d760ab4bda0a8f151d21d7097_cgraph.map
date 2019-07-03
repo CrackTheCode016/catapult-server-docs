@@ -1,0 +1,5 @@
+<map id="catapult::cache::ReadOnlyAccountStateCache::networkIdentifier" name="catapult::cache::ReadOnlyAccountStateCache::networkIdentifier">
+<area shape="rect" id="node1" title="Gets the network identifier." alt="" coords="5,37,250,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1BasicAccountStateCacheView.html#a93106ae23b0ce5fe965dc88fa9bc8411" title="Gets the network identifier." alt="" coords="299,5,524,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicAccountStateCacheDelta.html#a4edf67138cc9cadfc8754b3e5f305f9a" title="Gets the network identifier." alt="" coords="298,68,525,107"/>
+</map>

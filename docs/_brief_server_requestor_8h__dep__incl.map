@@ -1,9 +1,0 @@
-<map id="catapult&#45;server/src/catapult/net/BriefServerRequestor.h" name="catapult&#45;server/src/catapult/net/BriefServerRequestor.h">
-<area shape="rect" id="node1" title=" " alt="" coords="434,5,670,44"/>
-<area shape="rect" id="node2" href="$_node_ping_requestor_8h.html" title=" " alt="" coords="263,92,529,131"/>
-<area shape="rect" id="node5" href="$_node_network_time_requestor_8h.html" title=" " alt="" coords="567,92,852,131"/>
-<area shape="rect" id="node3" href="$_node_discovery_service_8cpp.html" title=" " alt="" coords="5,179,232,231"/>
-<area shape="rect" id="node4" href="$_node_ping_requestor_8cpp.html" title=" " alt="" coords="256,185,536,224"/>
-<area shape="rect" id="node6" href="$_node_network_time_requestor_8cpp.html" title=" " alt="" coords="560,185,859,224"/>
-<area shape="rect" id="node7" href="$_time_synchronization_service_8cpp.html" title=" " alt="" coords="883,179,1109,231"/>
-</map>

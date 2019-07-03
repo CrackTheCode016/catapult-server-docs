@@ -1,6 +1,0 @@
-<map id="catapult::cache::SingleCacheChangesT::addedElements" name="catapult::cache::SingleCacheChangesT::addedElements">
-<area shape="rect" id="node1" title="Gets pointers to all added elements." alt="" coords="263,88,457,127"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_historical_cache_storage.html#a6be5f402245bd0f5735c38a84c088f1b" title="Saves cache changes to external storage." alt="" coords="5,5,215,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1storages_1_1_mongo_flat_cache_storage.html#a208fb0e80d665422147e77cca92791ca" title="Saves cache changes to external storage." alt="" coords="22,81,199,133"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1cache.html#a05687345b68559318e81c71808a19548" title="Writes serialized cache changes into outputStream." alt="" coords="16,157,204,196"/>
-</map>

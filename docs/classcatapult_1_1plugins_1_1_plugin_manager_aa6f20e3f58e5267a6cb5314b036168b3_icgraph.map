@@ -1,6 +1,0 @@
-<map id="catapult::plugins::PluginManager::addDiagnosticHandlerHook" name="catapult::plugins::PluginManager::addDiagnosticHandlerHook">
-<area shape="rect" id="node1" title="Adds a diagnostic handler hook." alt="" coords="472,31,674,83"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_cache_handlers.html#aca9c9af2d7014381e87c9145a3b446cc" title="Registers all cache handlers in pluginManager for cache with specified facility code." alt="" coords="222,5,392,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="190,68,424,107"/>
-<area shape="rect" id="node4" href="$_plugin_manager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,75,142,100"/>
-</map>

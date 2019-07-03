@@ -1,6 +1,0 @@
-<map id="catapult::state::MosaicEntry::mosaicId" name="catapult::state::MosaicEntry::mosaicId">
-<area shape="rect" id="node1" title="Gets the mosaic id." alt="" coords="253,68,438,107"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_mosaic_cache_descriptor.html#a602364a1dd21f91de7ccad7ebaabcbf1" title="Gets the key corresponding to entry." alt="" coords="5,5,205,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1_mosaic_entry_serializer.html#a84816d872bbad66674874ad83e1dca65" title="Saves entry to output." alt="" coords="12,68,197,107"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1plugins.html#ac323a1fbb6d2f961220b582db762fba9" title="Maps a mosaic entry to the corresponding db model value." alt="" coords="22,131,188,169"/>
-</map>

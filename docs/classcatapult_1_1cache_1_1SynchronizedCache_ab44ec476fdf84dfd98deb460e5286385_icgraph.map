@@ -1,0 +1,4 @@
+<map id="catapult::cache::SynchronizedCache::cache" name="catapult::cache::SynchronizedCache::cache">
+<area shape="rect" id="node1" title="Gets a typed reference to the underlying cache." alt="" coords="281,12,480,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1SynchronizedCacheWithInit.html#a3a30f77957568ee7cf7ec54f39f42050" title="Initializes the underlying cache with args." alt="" coords="5,5,233,57"/>
+</map>

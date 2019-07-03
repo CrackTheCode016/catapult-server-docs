@@ -1,7 +1,0 @@
-<map id="catapult::cache::AccountStateBaseSets" name="catapult::cache::AccountStateBaseSets">
-<area shape="rect" id="node1" title=" " alt="" coords="598,75,765,113"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_cache_database_mixin.html" title="Mixin that owns a cache database." alt="" coords="232,5,446,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1deltaset_1_1_base_set.html" title=" " alt="" coords="242,68,436,120"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,81,172,107"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_cache_patricia_tree.html" title=" " alt="" coords="221,144,457,196"/>
-</map>

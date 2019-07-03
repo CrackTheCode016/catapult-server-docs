@@ -1,0 +1,5 @@
+<map id="catapult::tools::nemgen::BlockExecutionHashesInfo" name="catapult::tools::nemgen::BlockExecutionHashesInfo">
+<area shape="rect" id="node1" title="Information about block execution dependent hashes." alt="" coords="21,193,208,232"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="5,80,223,119"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1Hash256__tag.html" title=" " alt="" coords="37,5,192,31"/>
+</map>

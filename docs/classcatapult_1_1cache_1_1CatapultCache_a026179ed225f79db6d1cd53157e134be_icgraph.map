@@ -1,0 +1,4 @@
+<map id="catapult::cache::CatapultCache::commit" name="catapult::cache::CatapultCache::commit">
+<area shape="rect" id="node1" title="Commits all pending changes to the underlying storage and sets the cache height to height." alt="" coords="208,12,376,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1NemesisBlockLoader.html#a0d7e35ecf4dc8c7f1fc56513e8cfb69c" title=" " alt="" coords="5,5,160,57"/>
+</map>

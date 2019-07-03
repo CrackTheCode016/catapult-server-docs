@@ -1,0 +1,5 @@
+<map id="catapult::state::RootNamespaceHistory::numActiveRootChildren" name="catapult::state::RootNamespaceHistory::numActiveRootChildren">
+<area shape="rect" id="node1" title="Gets the number of children of the most recent root namespace." alt="" coords="5,37,216,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1RootNamespaceHistory.html#a3737fb8a0eab77e0f680b5486133f5a6" title="Gets a const reference to the most recent root namespace." alt="" coords="264,5,475,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1RootNamespace.html#a21a5938b8d566109166ad5455e46171b" title="Gets the number of child namespaces." alt="" coords="264,68,475,107"/>
+</map>

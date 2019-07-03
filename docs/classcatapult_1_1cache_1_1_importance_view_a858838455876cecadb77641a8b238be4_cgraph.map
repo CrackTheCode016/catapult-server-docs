@@ -1,9 +1,0 @@
-<map id="catapult::cache::ImportanceView::canHarvest" name="catapult::cache::ImportanceView::canHarvest">
-<area shape="rect" id="node1" title="Returns true if publicKey can harvest at height." alt="" coords="5,100,190,139"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_read_only_account_state_cache.html#ab481fd4a2948d8566a997b2b5d900beb" title="Gets the harvesting mosaic id." alt="" coords="238,65,500,104"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_read_only_account_state_cache.html#a089f831154c7bddef72cd6c255000702" title="Gets the minimum harvester balance." alt="" coords="256,128,482,180"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_view.html#af3a37567e9d69ab363e1b14467f54ad6" title="Gets the harvesting mosaic id." alt="" coords="555,5,797,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_delta.html#ade9be4e372a8d5aaea33a803d15ce955" title="Gets the harvesting mosaic id." alt="" coords="554,68,799,107"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_view.html#a43d810e16e2b41ed4036512972ed7b2f" title="Gets the minimum harvester balance." alt="" coords="549,132,804,171"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_basic_account_state_cache_delta.html#a80ada5ebf3de4c02236d883227b512a5" title="Gets the minimum harvester balance." alt="" coords="548,195,805,233"/>
-</map>

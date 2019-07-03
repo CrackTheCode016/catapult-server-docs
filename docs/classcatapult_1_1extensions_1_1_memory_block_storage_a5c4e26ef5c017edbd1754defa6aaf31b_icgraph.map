@@ -1,6 +1,0 @@
-<map id="catapult::extensions::MemoryBlockStorage::requireHeight" name="catapult::extensions::MemoryBlockStorage::requireHeight">
-<area shape="rect" id="node1" title=" " alt="" coords="229,81,385,133"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_memory_block_storage.html#ab103d40641b3d6da772307410f00c2c6" title="Returns the block at height." alt="" coords="15,5,171,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_memory_block_storage.html#ac5a1803c19dce323755a6fd3c2fe8d65" title="Returns the block element (owning a block) at height." alt="" coords="15,81,171,133"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_memory_block_storage.html#a5d1cde2dc88ba21f766f7dcba8c05ded" title="Returns the optional block statement data at height." alt="" coords="5,157,181,209"/>
-</map>

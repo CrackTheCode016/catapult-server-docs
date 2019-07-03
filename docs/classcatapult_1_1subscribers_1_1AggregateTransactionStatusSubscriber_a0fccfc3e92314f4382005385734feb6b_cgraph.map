@@ -1,0 +1,4 @@
+<map id="catapult::subscribers::AggregateTransactionStatusSubscriber::notifyStatus" name="catapult::subscribers::AggregateTransactionStatusSubscriber::notifyStatus">
+<area shape="rect" id="node1" title="Indicates transaction with hash completed with status." alt="" coords="5,12,203,64"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1BasicAggregateSubscriber.html#a2dedfcd373056055be93d28a97925c46" title=" " alt="" coords="251,5,462,71"/>
+</map>

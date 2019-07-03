@@ -1,5 +1,0 @@
-<map id="catapult::subscribers::AggregateStateChangeSubscriber&lt; TStateChangeSubscriber &gt;" name="catapult::subscribers::AggregateStateChangeSubscriber&lt; TStateChangeSubscriber &gt;">
-<area shape="rect" id="node1" title="Aggregate state change subscriber." alt="" coords="247,40,479,92"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_basic_aggregate_subscriber.html" title=" " alt="" coords="5,5,199,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1subscribers_1_1_state_change_subscriber.html" title="State change subscriber." alt="" coords="17,81,187,120"/>
-</map>

@@ -1,4 +1,4 @@
 <map id="catapult::utils::Log2" name="catapult::utils::Log2">
 <area shape="rect" id="node1" title="Calculates log2(value)." alt="" coords="228,12,365,37"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1_branch_tree_node.html#ac682ab7952cc60f32ac50759387963f9" title="Gets the index of the highest set link." alt="" coords="5,5,180,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1BranchTreeNode.html#ac682ab7952cc60f32ac50759387963f9" title="Gets the index of the highest set link." alt="" coords="5,5,180,44"/>
 </map>

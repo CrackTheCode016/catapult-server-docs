@@ -1,6 +1,6 @@
 <map id="catapult::handlers::RegisterTimeSyncNetworkTimeHandler" name="catapult::handlers::RegisterTimeSyncNetworkTimeHandler">
 <area shape="rect" id="node1" title="Registers a time sync network time handler in handlers that responds with communication timestamps us..." alt="" coords="5,31,221,83"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#ac1fa68ef796099c33e1c1f4749b8bab0" title="Checks if packet is valid with type." alt="" coords="283,5,446,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_server_packet_handlers.html#a9d9c29de1ef114fb21252ffa4feb7715" title="Registers a handler for the specified packet type." alt="" coords="269,68,460,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1ServerPacketHandlers.html#a9d9c29de1ef114fb21252ffa4feb7715" title="Registers a handler for the specified packet type." alt="" coords="269,68,460,107"/>
 <area shape="rect" id="node4" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="508,68,631,107"/>
 </map>

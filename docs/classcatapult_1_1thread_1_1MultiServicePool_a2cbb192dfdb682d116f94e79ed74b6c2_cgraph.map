@@ -1,0 +1,6 @@
+<map id="catapult::thread::MultiServicePool::CreateThreadPool" name="catapult::thread::MultiServicePool::CreateThreadPool">
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,199,107"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1thread.html#a898e8075b18cda345233e85f5c14fe24" title=" " alt="" coords="266,5,427,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1MultiServicePool.html#a10bd9d4e6476b00d506ce51fa984d71a" title="A default pool concurrency level based on the local hardware configuration." alt="" coords="247,68,447,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1thread_1_1MultiServicePool.html#a6d2fa0b4961f8338a49d35a33a3b1686" title="Gets the number of active worker threads." alt="" coords="250,131,443,169"/>
+</map>

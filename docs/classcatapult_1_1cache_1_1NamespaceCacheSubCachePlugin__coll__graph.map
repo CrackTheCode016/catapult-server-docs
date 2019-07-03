@@ -1,0 +1,6 @@
+<map id="catapult::cache::NamespaceCacheSubCachePlugin" name="catapult::cache::NamespaceCacheSubCachePlugin">
+<area shape="rect" id="node1" title="Specialized namespace cache sub cache plugin." alt="" coords="22,279,212,317"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1SummaryAwareSubCachePluginAdapter.html" title="Specialized sub cache plugin adapter that provides proper handling of summary cache state." alt="" coords="5,192,229,231"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1SubCachePluginAdapter.html" title="A SubCachePlugin implementation that wraps a SynchronizedCache." alt="" coords="27,92,208,144"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1SubCachePlugin.html" title="Sub cache plugin that can be added to the main catapult cache." alt="" coords="27,5,208,44"/>
+</map>

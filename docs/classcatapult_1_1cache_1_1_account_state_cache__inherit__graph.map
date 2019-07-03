@@ -1,5 +1,0 @@
-<map id="catapult::cache::AccountStateCache" name="catapult::cache::AccountStateCache">
-<area shape="rect" id="node1" title="Synchronized cache composed of stateful account information." alt="" coords="39,192,205,231"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_synchronized_cache_with_init.html" title=" " alt="" coords="8,92,236,144"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_synchronized_cache.html" title=" " alt="" coords="5,5,239,44"/>
-</map>

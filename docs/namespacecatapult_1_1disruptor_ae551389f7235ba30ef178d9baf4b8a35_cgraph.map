@@ -1,5 +1,5 @@
 <map id="catapult::disruptor::operator&lt;&lt;" name="catapult::disruptor::operator&lt;&lt;">
 <area shape="rect" id="node1" title="Insertion operator for outputting element to out." alt="" coords="5,37,133,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1_disruptor_element.html#a0f232458429dea531c95e5ed59c7b543" title="Gets the element id." alt="" coords="190,5,339,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1disruptor_1_1_disruptor_element.html#a6c901a12245582d0cee5ce17b08db428" title="Gets the consumer input." alt="" coords="181,68,349,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1DisruptorElement.html#a0f232458429dea531c95e5ed59c7b543" title="Gets the element id." alt="" coords="190,5,339,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1disruptor_1_1DisruptorElement.html#a6c901a12245582d0cee5ce17b08db428" title="Gets the consumer input." alt="" coords="181,68,349,107"/>
 </map>

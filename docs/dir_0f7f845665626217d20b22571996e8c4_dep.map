@@ -1,19 +1,19 @@
-<map id="catapult&#45;server/extensions/mongo/plugins/restriction_account/src" name="catapult&#45;server/extensions/mongo/plugins/restriction_account/src">
+<map id="src" name="src">
 <area shape="rect" id="node3" href="dir_3ccbb1a93f864272b6efed85c12d3303.html" title="storages" alt="" coords="78,157,151,205"/>
-<area shape="rect" id="edge9-headlabel" href="dir_000045_000047.html" title="1" alt="" coords="119,132,127,145"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000035_000172.html" title="1" alt="" coords="119,132,127,145"/>
 <area shape="rect" id="node2" href="dir_dcdbd71c7b73898b475127f6c97696e4.html" title="mappers" alt="" coords="78,253,151,301"/>
 <area shape="rect" id="node4" href="dir_6e77d1c8f936559d2897a71d6623c45f.html" title="src" alt="" coords="5,349,77,397"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000046_000050.html" title="2" alt="" coords="74,333,82,346"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000037_000040.html" title="2" alt="" coords="74,333,82,346"/>
 <area shape="rect" id="node5" href="dir_b029c1933000b647493fc184aa72bc64.html" title="src" alt="" coords="56,445,128,493"/>
-<area shape="rect" id="edge4-headlabel" href="dir_000046_000051.html" title="1" alt="" coords="102,422,109,435"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000037_000004.html" title="1" alt="" coords="102,422,109,435"/>
 <area shape="rect" id="node6" href="dir_a603158e195a33c353754615efb67653.html" title="plugins" alt="" coords="92,541,164,589"/>
-<area shape="rect" id="edge5-headlabel" href="dir_000046_000078.html" title="1" alt="" coords="141,518,148,531"/>
-<area shape="rect" id="edge7-headlabel" href="dir_000047_000046.html" title="1" alt="" coords="119,228,127,241"/>
-<area shape="rect" id="edge6-headlabel" href="dir_000047_000050.html" title="2" alt="" coords="51,326,58,339"/>
-<area shape="rect" id="edge8-headlabel" href="dir_000047_000078.html" title="1" alt="" coords="153,521,160,535"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000050_000051.html" title="69" alt="" coords="71,418,85,431"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000051_000078.html" title="26" alt="" coords="104,514,119,527"/>
-<area shape="rect" id="edge10-headlabel" href="dir_000078_000051.html" title="513" alt="" coords="97,507,120,520"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000037_000010.html" title="1" alt="" coords="141,518,148,531"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000172_000037.html" title="1" alt="" coords="119,228,127,241"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000172_000040.html" title="2" alt="" coords="51,326,58,339"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000172_000010.html" title="1" alt="" coords="153,521,160,535"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000040_000004.html" title="69" alt="" coords="71,418,85,431"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000004_000010.html" title="26" alt="" coords="104,514,119,527"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000010_000004.html" title="513" alt="" coords="97,507,120,520"/>
 <area shape="rect" id="clust2" href="dir_0f7f845665626217d20b22571996e8c4.html" alt="" coords="68,51,161,312"/>
 <area shape="rect" id="clust1" href="dir_dbe5777ba532acea5a859f48db1735e7.html" title="restriction_account" alt="" coords="49,16,181,323"/>
 </map>

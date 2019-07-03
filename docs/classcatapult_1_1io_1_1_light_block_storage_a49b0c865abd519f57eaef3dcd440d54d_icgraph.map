@@ -1,7 +1,0 @@
-<map id="catapult::io::LightBlockStorage::chainHeight" name="catapult::io::LightBlockStorage::chainHeight">
-<area shape="rect" id="node1" title="Gets the number of blocks." alt="" coords="477,92,631,131"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_block_storage_modifier.html#ad83fc8e1cb38c1c6b865c18276174c7e" title="Creates a view around storage, stagingStorage and cache data (cachedData) with lock context readLock." alt="" coords="226,5,429,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_block_storage_modifier.html#a68ed3955b979e23c82d8ca86d6e2e6cb" title="Commits all staged changes to the primary storage." alt="" coords="5,120,178,159"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1local.html#a6fd8c0913d15c12ed90d4afa19b54368" title="Returns starting height of storage." alt="" coords="245,120,409,159"/>
-<area shape="rect" id="node5" href="$namespacecatapult_1_1io.html#a5fdd349a81e8473d5b9d5147c309ccde" title="Moves block files starting at startHeight from sourceStorage to destinationStorage." alt="" coords="234,183,421,208"/>
-</map>

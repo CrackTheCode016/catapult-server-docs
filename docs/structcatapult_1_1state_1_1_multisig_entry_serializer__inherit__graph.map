@@ -1,4 +1,0 @@
-<map id="catapult::state::MultisigEntrySerializer" name="catapult::state::MultisigEntrySerializer">
-<area shape="rect" id="node1" title="Policy for saving and loading multisig entry data." alt="" coords="9,5,166,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_multisig_cache_storage.html" title="Policy for saving and loading multisig cache data." alt="" coords="5,92,169,131"/>
-</map>

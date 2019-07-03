@@ -1,0 +1,9 @@
+<map id="catapult::state::RootNamespaceHistory::back" name="catapult::state::RootNamespaceHistory::back">
+<area shape="rect" id="node1" title="Gets a const reference to the most recent root namespace." alt="" coords="559,131,770,169"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1RootNamespaceHistory.html#a8581d78236743f209dadeba160756dfb" title=" " alt="" coords="288,5,499,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1RootNamespaceHistory.html#ae710f1ca0857619bda68bb3fabbced7f" title="Returns true if history is active at height (excluding grace period)." alt="" coords="288,68,499,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1RootNamespaceHistory.html#a35bffccb697647d48fd7aff1c895d43f" title="Gets the number of children of the most recent root namespace." alt="" coords="288,131,499,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1RootNamespaceHistory.html#a643d4535157d5c63687998385726432d" title="Adds a new root namespace around owner and lifetime at the end of the history." alt="" coords="288,193,499,232"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1state_1_1RootNamespaceHistoryNonHistoricalSerializer.html#af179ed01161215e241f4131cbc2c3336" title="Saves history to output." alt="" coords="276,256,511,295"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheDelta.html#ac59718570eaf02df72dffca232a5c71b" title="Inserts the root namespace ns into the cache." alt="" coords="5,193,228,232"/>
+</map>

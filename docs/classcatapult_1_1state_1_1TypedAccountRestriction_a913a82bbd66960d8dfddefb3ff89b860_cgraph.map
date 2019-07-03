@@ -1,0 +1,8 @@
+<map id="catapult::state::TypedAccountRestriction::canAllow" name="catapult::state::TypedAccountRestriction::canAllow">
+<area shape="rect" id="node1" title="Returns true if modification can be applied to the underlying restriction." alt="" coords="5,68,202,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1AccountRestriction.html#a861f89f6c8f30ff4e5dd01d7c4f8b19b" title="Returns true if modification can be applied to the allowed values." alt="" coords="251,40,411,79"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1state.html#a5090a046fb7d46a6f648fe18abfe12c0" title="Converts value to a vector." alt="" coords="250,103,413,128"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1AccountRestriction.html#a49138b706aacc3d680435eddc420a611" title=" " alt="" coords="461,40,668,79"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1AccountRestriction.html#ad48e4528f03a7ce66c1f703efba2734a" title="Returns true if value is known." alt="" coords="716,5,876,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1AccountRestrictionDescriptor.html#abd05b5af1843bd16f9c95a931ca359c8" title="Gets the operation type." alt="" coords="716,68,876,120"/>
+</map>

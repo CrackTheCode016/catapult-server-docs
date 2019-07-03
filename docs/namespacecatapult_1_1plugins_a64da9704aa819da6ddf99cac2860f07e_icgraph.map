@@ -1,5 +1,5 @@
 <map id="catapult::plugins::CreateSecretProofTransactionPlugin" name="catapult::plugins::CreateSecretProofTransactionPlugin">
 <area shape="rect" id="node1" title="Creates a secret proof transaction plugin." alt="" coords="442,5,643,57"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#a724e91faec9c0652a73fbff6ec60726f" title="Registers secret lock support with manager." alt="" coords="190,12,394,51"/>
-<area shape="rect" id="node3" href="$_secret_lock_plugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,142,44"/>
+<area shape="rect" id="node3" href="$SecretLockPlugin_8cpp.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,142,44"/>
 </map>

@@ -1,5 +1,0 @@
-<map id="catapult::mongo::storages::MongoFlatCacheStorage&lt; TCacheTraits &gt;" name="catapult::mongo::storages::MongoFlatCacheStorage&lt; TCacheTraits &gt;">
-<area shape="rect" id="node1" title="A mongo cache storage that persists flat cache data using delete and upsert." alt="" coords="20,192,197,244"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1_external_cache_storage_t.html" title=" " alt="" coords="5,92,211,144"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1_external_cache_storage.html" title="Abstract class for saving cache data to external storage." alt="" coords="22,5,194,44"/>
-</map>

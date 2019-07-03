@@ -1,0 +1,4 @@
+<map id="catapult::state::AccountActivityBuckets::ActivityBucket" name="catapult::state::AccountActivityBuckets::ActivityBucket">
+<area shape="rect" id="node1" title="Temporal activity information including height." alt="" coords="12,105,213,144"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1AccountActivityBuckets_1_1HeightDetachedActivityBucket.html" title="Temporal activity information excluding height." alt="" coords="5,5,219,57"/>
+</map>

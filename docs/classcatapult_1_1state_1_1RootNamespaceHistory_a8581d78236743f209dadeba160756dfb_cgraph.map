@@ -1,0 +1,7 @@
+<map id="catapult::state::RootNamespaceHistory::isActive" name="catapult::state::RootNamespaceHistory::isActive">
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,216,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1RootNamespaceHistory.html#a3737fb8a0eab77e0f680b5486133f5a6" title="Gets a const reference to the most recent root namespace." alt="" coords="264,5,475,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1RootNamespaceHistory.html#a083ef15414c8d7c05ec607bdea41e7fd" title="Gets a value indicating whether or not the history is empty." alt="" coords="264,68,475,107"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1state_1_1NamespaceLifetime.html#a92462c0618b42366b891fb6487f65e6f" title="Returns true if history is active at height (including grace period)." alt="" coords="264,131,475,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1state_1_1RootNamespace.html#a278c22154f5856d322e26d0becafaf16" title="Gets a const reference to the lifetime of this namespace." alt="" coords="264,193,475,232"/>
+</map>

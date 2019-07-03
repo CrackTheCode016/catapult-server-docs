@@ -1,6 +1,0 @@
-<map id="catapult::io::BufferedInputFileStream::read" name="catapult::io::BufferedInputFileStream::read">
-<area shape="rect" id="node1" title=" " alt="" coords="5,68,178,107"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_raw_file.html#a397516c5db9fc1baa61a71082ef71654" title="Returns position in the file." alt="" coords="226,5,368,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_raw_file.html#a4e20ed81e7004f41013eaee2a3d1271f" title=" " alt="" coords="226,68,368,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_raw_file.html#a451b35a4a488ae95d3b9b9ef3b2acf50" title="Returns size of the file." alt="" coords="226,131,368,169"/>
-</map>

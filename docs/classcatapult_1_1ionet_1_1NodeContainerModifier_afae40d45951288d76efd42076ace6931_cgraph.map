@@ -1,0 +1,5 @@
+<map id="catapult::ionet::NodeContainerModifier::ensureAtLeastOneEmptySlot" name="catapult::ionet::NodeContainerModifier::ensureAtLeastOneEmptySlot">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,253,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1Node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="313,5,456,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1ionet_1_1NodeInfo.html#a99f5610606f534cb8197e09a5775548a" title="Gets the node source." alt="" coords="301,68,467,107"/>
+</map>

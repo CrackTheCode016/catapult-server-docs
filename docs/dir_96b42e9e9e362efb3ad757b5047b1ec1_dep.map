@@ -1,6 +1,6 @@
-<map id="catapult&#45;server/src/catapult/deltaset" name="catapult&#45;server/src/catapult/deltaset">
+<map id="deltaset" name="deltaset">
 <area shape="rect" id="node1" href="dir_96b42e9e9e362efb3ad757b5047b1ec1.html" title="deltaset" alt="" coords="27,51,99,99"/>
 <area shape="rect" id="node2" href="dir_000db1a06ac98013603cb8178d18f70c.html" title="utils" alt="" coords="27,147,99,195"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000202_000204.html" title="2" alt="" coords="67,121,75,135"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000088_000084.html" title="2" alt="" coords="67,121,75,135"/>
 <area shape="rect" id="clust1" href="dir_74f517ce9840cce4030038d7f494cec0.html" title="catapult" alt="" coords="16,16,109,109"/>
 </map>

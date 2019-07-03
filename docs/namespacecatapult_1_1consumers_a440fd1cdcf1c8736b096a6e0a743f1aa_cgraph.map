@@ -1,4 +1,4 @@
 <map id="catapult::consumers::Continue" name="catapult::consumers::Continue">
 <area shape="rect" id="node1" title="Creates a continuation consumer result." alt="" coords="5,5,146,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1disruptor_1_1_consumer_result.html#ac376c73b62a6b669aa8c19c7de0f52e0" title="Creates a consumer result indicating that processing should continue." alt="" coords="194,5,383,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1disruptor_1_1ConsumerResult.html#ac376c73b62a6b669aa8c19c7de0f52e0" title="Creates a consumer result indicating that processing should continue." alt="" coords="194,5,383,44"/>
 </map>

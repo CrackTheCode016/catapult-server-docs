@@ -1,6 +1,6 @@
 <map id="catapult::extensions::UpdateAsyncTcpServerSettings" name="catapult::extensions::UpdateAsyncTcpServerSettings">
 <area shape="rect" id="node1" title="Updates settings with values in config." alt="" coords="5,37,222,76"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#a359a29ae2dae3565b873ae60960e07ae" title="Extracts connection settings from config." alt="" coords="274,5,440,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1net_1_1_connection_settings.html#afc06547fd0da845f536017fb6990715d" title="Gets the packet socket options represented by the configured settings." alt="" coords="270,68,444,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_file_size.html#acaf0adf03843be93e22aaa8352fa3cde" title="Returns the number of bytes." alt="" coords="492,68,646,107"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1net_1_1ConnectionSettings.html#afc06547fd0da845f536017fb6990715d" title="Gets the packet socket options represented by the configured settings." alt="" coords="270,68,444,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1FileSize.html#acaf0adf03843be93e22aaa8352fa3cde" title="Returns the number of bytes." alt="" coords="492,68,646,107"/>
 </map>

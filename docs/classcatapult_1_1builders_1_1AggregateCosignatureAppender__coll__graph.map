@@ -1,0 +1,7 @@
+<map id="catapult::builders::AggregateCosignatureAppender" name="catapult::builders::AggregateCosignatureAppender">
+<area shape="rect" id="node1" title="Helper to add cosignatures to an aggregate transaction." alt="" coords="681,37,901,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="253,5,515,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1GenerationHash__tag.html" title=" " alt="" coords="5,12,204,37"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="275,68,493,107"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1Hash256__tag.html" title=" " alt="" coords="27,75,182,100"/>
+</map>

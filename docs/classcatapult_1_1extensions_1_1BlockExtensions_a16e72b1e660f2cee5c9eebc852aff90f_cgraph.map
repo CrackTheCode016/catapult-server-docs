@@ -1,0 +1,10 @@
+<map id="catapult::extensions::BlockExtensions::verifyFullBlock" name="catapult::extensions::BlockExtensions::verifyFullBlock">
+<area shape="rect" id="node1" title="Cryptographically verifies a full block by checking all signatures and hashes." alt="" coords="5,156,193,208"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1BlockExtensions.html#a4410c1228c26c6f2ab02de18ebb56faf" title=" " alt="" coords="241,60,427,112"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1TransactionContainer.html#ac5072430a8356dafebbcbf56000514ae" title=" " alt="" coords="475,131,664,169"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1extensions_1_1TransactionExtensions.html#ab98d6262d473ac3d124d4d8bd0be84be" title="Verifies signature of the transaction." alt="" coords="252,188,416,240"/>
+<area shape="rect" id="node8" href="$namespacecatapult_1_1model.html#a54957fa1b9c0a81c8c0cb96427380966" title="Validates signature of block header." alt="" coords="241,264,427,303"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1crypto_1_1MerkleHashBuilder.html#ac6464c676bcae4b32d851444dfe0fc77" title="Finalizes the merkle hash into hash." alt="" coords="490,5,649,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1crypto_1_1MerkleHashBuilder.html#a7d46636c1f99ddb7937023f3edd7b8dd" title="Adds hash to the merkle hash." alt="" coords="490,68,649,107"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1crypto.html#a1018e06d8c0660dee234fc6963f3958c" title=" " alt="" coords="493,236,646,261"/>
+</map>

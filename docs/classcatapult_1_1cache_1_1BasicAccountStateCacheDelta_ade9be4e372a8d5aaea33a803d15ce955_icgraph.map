@@ -1,0 +1,6 @@
+<map id="catapult::cache::BasicAccountStateCacheDelta::harvestingMosaicId" name="catapult::cache::BasicAccountStateCacheDelta::harvestingMosaicId">
+<area shape="rect" id="node1" title="Gets the harvesting mosaic id." alt="" coords="548,37,792,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ReadOnlyAccountStateCache.html#ab481fd4a2948d8566a997b2b5d900beb" title="Gets the harvesting mosaic id." alt="" coords="238,5,500,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1BasicAccountStateCacheDelta.html#ad6bec67be5a68eeb81f800a674e64ada" title="Gets all high value addresses." alt="" coords="244,68,495,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1ImportanceView.html#a858838455876cecadb77641a8b238be4" title="Returns true if publicKey can harvest at height." alt="" coords="5,5,190,44"/>
+</map>

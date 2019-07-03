@@ -1,5 +1,0 @@
-<map id="catapult::ionet::NodeInteractionsContainer::pruneBuckets" name="catapult::ionet::NodeInteractionsContainer::pruneBuckets">
-<area shape="rect" id="node1" title="Prunes buckets at timestamp." alt="" coords="219,37,432,76"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1_node_info.html#abb4fea6f5fb6b603e10cb5249e0834c9" title="Increments the number of failed interactions at timestamp." alt="" coords="5,5,171,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1ionet_1_1_node_info.html#a26df43ec363ec42464c06840617275fd" title="Increments the number of successful interactions at timestamp." alt="" coords="5,68,171,107"/>
-</map>

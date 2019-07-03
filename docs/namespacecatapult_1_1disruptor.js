@@ -1,15 +1,15 @@
 var namespacecatapult_1_1disruptor =
 [
-    [ "BatchRangeDispatcher", "classcatapult_1_1disruptor_1_1_batch_range_dispatcher.html", "classcatapult_1_1disruptor_1_1_batch_range_dispatcher" ],
-    [ "ConsumerCompletionResult", "structcatapult_1_1disruptor_1_1_consumer_completion_result.html", "structcatapult_1_1disruptor_1_1_consumer_completion_result" ],
-    [ "ConsumerDispatcher", "classcatapult_1_1disruptor_1_1_consumer_dispatcher.html", "classcatapult_1_1disruptor_1_1_consumer_dispatcher" ],
-    [ "ConsumerDispatcherOptions", "structcatapult_1_1disruptor_1_1_consumer_dispatcher_options.html", "structcatapult_1_1disruptor_1_1_consumer_dispatcher_options" ],
-    [ "ConsumerEntry", "classcatapult_1_1disruptor_1_1_consumer_entry.html", "classcatapult_1_1disruptor_1_1_consumer_entry" ],
-    [ "ConsumerInput", "classcatapult_1_1disruptor_1_1_consumer_input.html", "classcatapult_1_1disruptor_1_1_consumer_input" ],
-    [ "ConsumerResult", "structcatapult_1_1disruptor_1_1_consumer_result.html", "structcatapult_1_1disruptor_1_1_consumer_result" ],
-    [ "Disruptor", "classcatapult_1_1disruptor_1_1_disruptor.html", "classcatapult_1_1disruptor_1_1_disruptor" ],
-    [ "DisruptorBarrier", "classcatapult_1_1disruptor_1_1_disruptor_barrier.html", "classcatapult_1_1disruptor_1_1_disruptor_barrier" ],
-    [ "DisruptorBarriers", "classcatapult_1_1disruptor_1_1_disruptor_barriers.html", "classcatapult_1_1disruptor_1_1_disruptor_barriers" ],
-    [ "DisruptorElement", "classcatapult_1_1disruptor_1_1_disruptor_element.html", "classcatapult_1_1disruptor_1_1_disruptor_element" ],
-    [ "FreeTransactionElement", "structcatapult_1_1disruptor_1_1_free_transaction_element.html", "structcatapult_1_1disruptor_1_1_free_transaction_element" ]
+    [ "BatchRangeDispatcher", "classcatapult_1_1disruptor_1_1BatchRangeDispatcher.html", "classcatapult_1_1disruptor_1_1BatchRangeDispatcher" ],
+    [ "ConsumerCompletionResult", "structcatapult_1_1disruptor_1_1ConsumerCompletionResult.html", "structcatapult_1_1disruptor_1_1ConsumerCompletionResult" ],
+    [ "ConsumerDispatcher", "classcatapult_1_1disruptor_1_1ConsumerDispatcher.html", "classcatapult_1_1disruptor_1_1ConsumerDispatcher" ],
+    [ "ConsumerDispatcherOptions", "structcatapult_1_1disruptor_1_1ConsumerDispatcherOptions.html", "structcatapult_1_1disruptor_1_1ConsumerDispatcherOptions" ],
+    [ "ConsumerEntry", "classcatapult_1_1disruptor_1_1ConsumerEntry.html", "classcatapult_1_1disruptor_1_1ConsumerEntry" ],
+    [ "ConsumerInput", "classcatapult_1_1disruptor_1_1ConsumerInput.html", "classcatapult_1_1disruptor_1_1ConsumerInput" ],
+    [ "ConsumerResult", "structcatapult_1_1disruptor_1_1ConsumerResult.html", "structcatapult_1_1disruptor_1_1ConsumerResult" ],
+    [ "Disruptor", "classcatapult_1_1disruptor_1_1Disruptor.html", "classcatapult_1_1disruptor_1_1Disruptor" ],
+    [ "DisruptorBarrier", "classcatapult_1_1disruptor_1_1DisruptorBarrier.html", "classcatapult_1_1disruptor_1_1DisruptorBarrier" ],
+    [ "DisruptorBarriers", "classcatapult_1_1disruptor_1_1DisruptorBarriers.html", "classcatapult_1_1disruptor_1_1DisruptorBarriers" ],
+    [ "DisruptorElement", "classcatapult_1_1disruptor_1_1DisruptorElement.html", "classcatapult_1_1disruptor_1_1DisruptorElement" ],
+    [ "FreeTransactionElement", "structcatapult_1_1disruptor_1_1FreeTransactionElement.html", "structcatapult_1_1disruptor_1_1FreeTransactionElement" ]
 ];

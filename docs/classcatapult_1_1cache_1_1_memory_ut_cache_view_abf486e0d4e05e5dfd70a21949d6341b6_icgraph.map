@@ -1,4 +1,0 @@
-<map id="catapult::cache::MemoryUtCacheView::contains" name="catapult::cache::MemoryUtCacheView::contains">
-<area shape="rect" id="node1" title="Returns true if the cache contains an unconfirmed transaction with associated hash,..." alt="" coords="293,5,472,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a29ef7cb572c3c118f9b6d7c9e9a3006b" title="Gets the known hash predicate augmented with a check in utCache." alt="" coords="5,5,245,44"/>
-</map>

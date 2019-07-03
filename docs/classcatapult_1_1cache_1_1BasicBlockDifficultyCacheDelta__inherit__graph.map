@@ -1,0 +1,9 @@
+<map id="catapult::cache::BasicBlockDifficultyCacheDelta" name="catapult::cache::BasicBlockDifficultyCacheDelta">
+<area shape="rect" id="node1" title="Basic delta on top of the block difficulty cache." alt="" coords="227,87,411,125"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="459,80,685,132"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="9,5,176,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1SizeMixin.html" title="A mixin for adding size support to a cache." alt="" coords="5,55,179,93"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1ContainsMixin.html" title="A mixin for adding contains support to a cache." alt="" coords="5,117,179,156"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1deltaset_1_1DeltaElementsMixin.html" title="Mixin that wraps BaseSetDelta and provides a facade on top of BaseSetDelta::deltas()." alt="" coords="5,180,179,219"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1BlockDifficultyCacheDelta.html" title="Delta on top of the block difficulty cache." alt="" coords="733,87,934,125"/>
+</map>

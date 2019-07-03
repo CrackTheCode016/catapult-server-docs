@@ -1,4 +1,0 @@
-<map id="catapult::state::CompactMosaicMap::find" name="catapult::state::CompactMosaicMap::find">
-<area shape="rect" id="node1" title="Finds the mosaic with id." alt="" coords="5,5,170,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_compact_mosaic_map.html#a2f2ad2f7e4e0bb40c281a863d75b8490" title="Returns a const iterator to the element following the last element of the underlying container." alt="" coords="218,5,384,44"/>
-</map>

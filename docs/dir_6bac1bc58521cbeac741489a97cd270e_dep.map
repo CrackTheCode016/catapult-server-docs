@@ -1,9 +1,9 @@
-<map id="catapult&#45;server/extensions/eventsource" name="catapult&#45;server/extensions/eventsource">
+<map id="eventsource" name="eventsource">
 <area shape="rect" id="node2" href="dir_d450fee947cd3d4cefecd9bf1205357d.html" title="src" alt="" coords="43,157,115,205"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000006_000007.html" title="1" alt="" coords="86,132,93,146"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000078_000079.html" title="1" alt="" coords="86,132,93,146"/>
 <area shape="rect" id="node3" href="dir_b029c1933000b647493fc184aa72bc64.html" title="src" alt="" coords="79,253,151,301"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000006_000051.html" title="9" alt="" coords="131,231,138,244"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000007_000051.html" title="8" alt="" coords="103,226,111,240"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000078_000004.html" title="9" alt="" coords="131,231,138,244"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000079_000004.html" title="8" alt="" coords="103,226,111,240"/>
 <area shape="rect" id="clust2" href="dir_6bac1bc58521cbeac741489a97cd270e.html" alt="" coords="27,51,141,216"/>
 <area shape="rect" id="clust1" href="dir_e2d31cf0b82612ae486700e2c578b532.html" title="extensions" alt="" coords="16,16,152,227"/>
 </map>

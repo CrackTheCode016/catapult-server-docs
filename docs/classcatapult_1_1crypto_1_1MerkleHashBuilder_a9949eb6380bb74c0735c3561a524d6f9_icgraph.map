@@ -1,0 +1,4 @@
+<map id="catapult::crypto::MerkleHashBuilder::TreeSize" name="catapult::crypto::MerkleHashBuilder::TreeSize">
+<area shape="rect" id="node1" title="Calculates the number of nodes in a merkle tree with leafCount leaves." alt="" coords="212,5,372,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1MerkleHashBuilder.html#a7f5c4fd10103a28a4cecbbc1ab4f0ba9" title="Finalizes the complete merkle tree into tree." alt="" coords="5,5,164,44"/>
+</map>

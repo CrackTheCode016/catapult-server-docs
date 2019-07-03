@@ -1,10 +1,10 @@
 <map id="catapult::io::MoveBlockFiles" name="catapult::io::MoveBlockFiles">
 <area shape="rect" id="node1" title="Moves block files starting at startHeight from sourceStorage to destinationStorage." alt="" coords="5,200,192,225"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_light_block_storage.html#a49b0c865abd519f57eaef3dcd440d54d" title="Gets the number of blocks." alt="" coords="272,5,427,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_light_block_storage.html#a1f50117a8d9bd065451e7188c8f016ac" title="Drops all blocks after height." alt="" coords="264,68,434,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_block_storage.html#a9fb551c66b64488c5ea853633e520d8b" title="Returns the block element (owning a block) at height." alt="" coords="263,131,435,169"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1_block_storage.html#a8136e1093a7d87d0941e05f22a68cf43" title="Returns the optional block statement data at height." alt="" coords="261,193,437,232"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1_prunable_block_storage.html#ab7b84a667df17e586f40e723f70f2c7a" title="Purges all blocks from storage." alt="" coords="260,256,439,295"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1LightBlockStorage.html#a49b0c865abd519f57eaef3dcd440d54d" title="Gets the number of blocks." alt="" coords="272,5,427,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1LightBlockStorage.html#a1f50117a8d9bd065451e7188c8f016ac" title="Drops all blocks after height." alt="" coords="264,68,434,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1BlockStorage.html#a9fb551c66b64488c5ea853633e520d8b" title="Returns the block element (owning a block) at height." alt="" coords="263,131,435,169"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1io_1_1BlockStorage.html#a8136e1093a7d87d0941e05f22a68cf43" title="Returns the optional block statement data at height." alt="" coords="261,193,437,232"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1PrunableBlockStorage.html#ab7b84a667df17e586f40e723f70f2c7a" title="Purges all blocks from storage." alt="" coords="260,256,439,295"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1io.html#a70c9935b894cf766792b2a832f5b4756" title="Reads block statement from inputStream into blockStatement." alt="" coords="240,319,458,344"/>
-<area shape="rect" id="node8" href="$classcatapult_1_1io_1_1_light_block_storage.html#abc542413765c5e11311c91be80a9cbb8" title="Saves blockElement." alt="" coords="272,368,427,407"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1io_1_1LightBlockStorage.html#abc542413765c5e11311c91be80a9cbb8" title="Saves blockElement." alt="" coords="272,368,427,407"/>
 </map>

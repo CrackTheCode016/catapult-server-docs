@@ -1,7 +1,0 @@
-<map id="catapult::local::CatapultSystemState::qualifyRootFile" name="catapult::local::CatapultSystemState::qualifyRootFile">
-<area shape="rect" id="node1" title=" " alt="" coords="286,100,478,139"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1local_1_1_catapult_system_state.html#adb1d2ca08b8143c120cd9ce0360b100f" title="Last server commit operation step that succeeded." alt="" coords="34,5,209,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1local_1_1_catapult_system_state.html#a32dc62af25edcbbc7c89516b85bb1b27" title="Resets system state to indicate no crash." alt="" coords="42,68,202,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1local_1_1_catapult_system_state.html#a217da13f1c3f1a7d3588f29cb1198eb0" title="true if broker should be recovered." alt="" coords="5,131,238,169"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1local_1_1_catapult_system_state.html#a0e991ace25ec601f755f1f00f54b6ba4" title="true if server should be recovered." alt="" coords="5,193,238,232"/>
-</map>

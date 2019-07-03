@@ -1,4 +1,0 @@
-<map id="catapult::io::BufferedOutputFileStream" name="catapult::io::BufferedOutputFileStream">
-<area shape="rect" id="node1" title="Provides a buffered output stream around raw file." alt="" coords="5,79,189,117"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_output_stream.html" title="Writer interface." alt="" coords="9,5,185,31"/>
-</map>

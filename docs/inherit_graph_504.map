@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structcatapult_1_1state_1_1_account_activity_buckets_1_1_height_detached_activity_bucket.html" title="Temporal activity information excluding height." alt="" coords="5,5,219,57"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_account_activity_buckets_1_1_activity_bucket.html" title="Temporal activity information including height." alt="" coords="267,12,469,51"/>
+<area shape="rect" id="node1" href="$structcatapult_1_1state_1_1AccountActivityBuckets_1_1HeightDetachedActivityBucket.html" title="Temporal activity information excluding height." alt="" coords="5,5,219,57"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1AccountActivityBuckets_1_1ActivityBucket.html" title="Temporal activity information including height." alt="" coords="267,12,469,51"/>
 </map>

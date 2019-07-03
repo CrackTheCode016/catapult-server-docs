@@ -1,5 +1,5 @@
 <map id="catapult::observers::Bind" name="catapult::observers::Bind">
 <area shape="rect" id="node1" title="Binds resolverContext to statementBuilder." alt="" coords="5,37,139,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_block_statement_builder.html#af4a0a621c60e01532c164695ef5fca9f" title="Adds a resolution entry for resolving unresolved value to resolved value." alt="" coords="187,5,400,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1_resolver_context.html#a78f35bf5b5bab9edbe8250f6f51b13eb" title="Resolves mosaic id (mosaicId)." alt="" coords="208,68,379,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1BlockStatementBuilder.html#af4a0a621c60e01532c164695ef5fca9f" title="Adds a resolution entry for resolving unresolved value to resolved value." alt="" coords="187,5,400,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1model_1_1ResolverContext.html#a78f35bf5b5bab9edbe8250f6f51b13eb" title="Resolves mosaic id (mosaicId)." alt="" coords="208,68,379,107"/>
 </map>

@@ -1,4 +1,4 @@
 <map id="catapult::utils::VerifyBagSizeLte" name="catapult::utils::VerifyBagSizeLte">
 <area shape="rect" id="node1" title="Verifies that the number of properties in bag is no greater than expectedSize." alt="" coords="5,5,169,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_configuration_bag.html#a0f43155a38e4cad0ca8383306c38c562" title="Returns the number of properties in this bag." alt="" coords="217,5,403,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ConfigurationBag.html#a0f43155a38e4cad0ca8383306c38c562" title="Returns the number of properties in this bag." alt="" coords="217,5,403,44"/>
 </map>

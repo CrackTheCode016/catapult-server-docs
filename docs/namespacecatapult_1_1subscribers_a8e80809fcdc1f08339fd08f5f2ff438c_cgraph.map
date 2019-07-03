@@ -1,6 +1,6 @@
 <map id="catapult::subscribers::ReadNextTransactionStatus" name="catapult::subscribers::ReadNextTransactionStatus">
 <area shape="rect" id="node1" title="Reads next transaction status from inputStream and forwards it to subscriber." alt="" coords="5,81,200,120"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1_transaction_status_subscriber.html#add5dbb304a4144eb3cd1c6d30c1f6456" title="Indicates transaction with hash completed with status." alt="" coords="248,5,448,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_input_stream.html#aa10d1d3d15ae047bdc5e91947a405936" title=" " alt="" coords="265,81,431,120"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1TransactionStatusSubscriber.html#add5dbb304a4144eb3cd1c6d30c1f6456" title="Indicates transaction with hash completed with status." alt="" coords="248,5,448,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1InputStream.html#aa10d1d3d15ae047bdc5e91947a405936" title=" " alt="" coords="265,81,431,120"/>
 <area shape="rect" id="node4" href="$namespacecatapult_1_1io.html#acf81a286806cb47a476bf4e9e8b5dd65" title="Reads value from input." alt="" coords="278,144,418,169"/>
 </map>

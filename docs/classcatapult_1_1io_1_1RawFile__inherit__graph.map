@@ -1,0 +1,4 @@
+<map id="catapult::io::RawFile" name="catapult::io::RawFile">
+<area shape="rect" id="node1" title="Wrapper for low&#45;level i/o operations on files." alt="" coords="18,79,159,104"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="5,5,172,31"/>
+</map>

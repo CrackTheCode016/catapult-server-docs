@@ -1,0 +1,16 @@
+<map id="catapult::utils::TimeSpan::FromHours" name="catapult::utils::TimeSpan::FromHours">
+<area shape="rect" id="node1" title="Creates a time span from the given number of hours." alt="" coords="1024,131,1191,169"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BlockSpan.html#ad63b4a287582aa133319cdc70b975319" title="Returns the approximate number of blocks given the generation target time (generationTargetTime)." alt="" coords="783,5,954,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1NodeInteractionsContainer.html#a8f0e0c3cde55d6cb39360c7f1e9471a4" title="Maximum duration of an interaction bucket." alt="" coords="762,68,975,107"/>
+<area shape="rect" id="node9" href="$namespacecatapult_1_1model.html#ab77df00009625f4d579d98712bb9b8f3" title="Calculates the duration of the rollback variability buffer for the block chain described by config." alt="" coords="761,131,976,169"/>
+<area shape="rect" id="node13" href="$classcatapult_1_1ionet_1_1NodeInteractionsContainer.html#a88de274776af755a2306b953a784ed21" title="Maximum duration of an interaction." alt="" coords="762,193,975,232"/>
+<area shape="rect" id="node14" href="$namespacecatapult_1_1utils.html#a7e146e588c04baf3a95726c2ca4cb655" title="Tries to parse str into a TimeSpan (parsedValue)." alt="" coords="788,256,949,295"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1ionet_1_1NodeInteractionsContainer.html#ad00b6c08b018a4e09453ef63903af9af" title=" " alt="" coords="500,68,713,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1ionet_1_1NodeInteractionsContainer.html#acbb48024e7fb0821f22539274146408c" title="Increments failed interactions at timestamp." alt="" coords="230,5,442,44"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1ionet_1_1NodeInteractionsContainer.html#a3f0763d0a3bd30e2720ccf8f292334c9" title="Increments successful interactions at timestamp." alt="" coords="230,68,442,107"/>
+<area shape="rect" id="node6" href="$structcatapult_1_1ionet_1_1NodeInfo.html#abb4fea6f5fb6b603e10cb5249e0834c9" title="Increments the number of failed interactions at timestamp." alt="" coords="5,5,171,44"/>
+<area shape="rect" id="node8" href="$structcatapult_1_1ionet_1_1NodeInfo.html#a26df43ec363ec42464c06840617275fd" title="Increments the number of successful interactions at timestamp." alt="" coords="5,68,171,107"/>
+<area shape="rect" id="node10" href="$namespacecatapult_1_1model.html#a930d36e80ee9ec6091c0a8af5571705e" title="Calculates the duration of time that expired transactions should be cached for the block chain descri..." alt="" coords="517,131,696,169"/>
+<area shape="rect" id="node11" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="219,131,452,169"/>
+<area shape="rect" id="node12" href="$PluginManager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="20,137,157,163"/>
+</map>

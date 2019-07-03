@@ -1,0 +1,7 @@
+<map id="catapult::local::ProcessHost" name="catapult::local::ProcessHost">
+<area shape="rect" id="node1" title="Catapult process host." alt="" coords="241,55,427,80"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1local_1_1Broker.html" title="Represents a broker." alt="" coords="487,5,636,31"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1local_1_1LocalNode.html" title="Represents a local node." alt="" coords="475,55,649,80"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1local_1_1RecoveryOrchestrator.html" title="Represents a recovery orchestrator." alt="" coords="478,104,645,143"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,55,193,80"/>
+</map>

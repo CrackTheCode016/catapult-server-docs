@@ -1,4 +1,4 @@
 <map id="catapult::model::CalculateTransactionFee" name="catapult::model::CalculateTransactionFee">
 <area shape="rect" id="node1" title="Calculates the fee for transaction contained in block with feeMultiplier." alt="" coords="5,5,180,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_basic_base_value.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="228,5,398,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1BasicBaseValue.html#aa05240affd049a57bf780d59b5753d52" title="Unwraps this value and returns the underlying raw value." alt="" coords="228,5,398,44"/>
 </map>

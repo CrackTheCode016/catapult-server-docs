@@ -1,0 +1,7 @@
+<map id="catapult::io::FileQueueReader::process" name="catapult::io::FileQueueReader::process">
+<area shape="rect" id="node1" title=" " alt="" coords="515,48,714,87"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1FileQueueReader.html#aee77e2e3727979357d565cff54ebaae0" title="Skips at most the next count messages." alt="" coords="269,15,467,53"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1FileQueueReader.html#a28d106aa56e2446549d9b1dd04bdd214" title="Tries to read the next message and forwards it to consumer if successful." alt="" coords="269,79,467,117"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1consumers.html#ab5b07f56280bc03c283bfe1a5567d7ee" title="Creates a consumer that cleans up temporary state produced by the block chain sync consumer given dat..." alt="" coords="5,5,221,57"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1subscribers.html#a7ad542fdc2dec0f88e17d62f78a44e69" title="Reads all messages from reader into subscriber using readNextMessage." alt="" coords="41,81,185,120"/>
+</map>

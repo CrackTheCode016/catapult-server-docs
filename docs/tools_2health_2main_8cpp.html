@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.16"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>CatapultServer: catapult-server/tools/health/main.cpp File Reference</title>
+<title>CatapultServer: main.cpp File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -90,72 +90,64 @@ $(document).ready(function(){initNavTree('tools_2health_2main_8cpp.html','');});
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
-<div class="title">main.cpp File Reference</div>  </div>
+<div class="title">tools/health/main.cpp File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="_api_node_health_utils_8h_source.html">ApiNodeHealthUtils.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_network_census_tool_8h_source.html">tools/NetworkCensusTool.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_tool_main_8h_source.html">tools/ToolMain.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_tool_thread_utils_8h_source.html">tools/ToolThreadUtils.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_remote_chain_api_8h_source.html">catapult/api/RemoteChainApi.h</a>&quot;</code><br />
-<code>#include &quot;catapult/extensions/RemoteDiagnosticApi.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="_diagnostic_counter_id_8h_source.html">catapult/utils/DiagnosticCounterId.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_functional_8h_source.html">catapult/utils/Functional.h</a>&quot;</code><br />
-</div><div class="textblock"><div class="dynheader">
-Include dependency graph for main.cpp:</div>
+<div class="textblock"><div class="dynheader">
+Include dependency graph for tools/health/main.cpp:</div>
 <div class="dyncontent">
-<div class="center"><img src="tools_2health_2main_8cpp__incl.png" border="0" usemap="#catapult-server_2tools_2health_2main_8cpp" alt=""/></div>
-<map name="catapult-server_2tools_2health_2main_8cpp" id="catapult-server_2tools_2health_2main_8cpp">
-<area shape="rect" title=" " alt="" coords="1688,5,1829,44"/>
-<area shape="rect" href="_api_node_health_utils_8h.html" title=" " alt="" coords="921,99,1069,124"/>
-<area shape="rect" href="_network_census_tool_8h.html" title=" " alt="" coords="1570,99,1753,124"/>
-<area shape="rect" href="_tool_main_8h.html" title=" " alt="" coords="1962,99,2080,124"/>
-<area shape="rect" href="_tool_thread_utils_8h.html" title=" " alt="" coords="143,99,300,124"/>
-<area shape="rect" href="_remote_chain_api_8h.html" title=" " alt="" coords="1211,92,1386,131"/>
-<area shape="rect" title=" " alt="" coords="2104,92,2269,131"/>
-<area shape="rect" href="_diagnostic_counter_id_8h.html" title=" " alt="" coords="1777,92,1938,131"/>
-<area shape="rect" href="_functional_8h.html" title=" " alt="" coords="2293,99,2464,124"/>
-<area shape="rect" href="_chain_api_8h.html" title=" " alt="" coords="711,185,870,211"/>
-<area shape="rect" href="_future_8h.html" title=" " alt="" coords="913,272,1076,297"/>
-<area shape="rect" href="_api_types_8h.html" title=" " alt="" coords="580,272,668,297"/>
-<area shape="rect" href="_non_copyable_8h.html" title=" " alt="" coords="786,439,899,464"/>
-<area shape="rect" href="_chain_score_8h.html" title=" " alt="" coords="298,272,491,297"/>
-<area shape="rect" href="_range_types_8h.html" title=" " alt="" coords="692,272,889,297"/>
-<area shape="rect" href="exceptions_8h.html" title=" " alt="" coords="811,359,957,384"/>
-<area shape="rect" href="_logging_8h.html" title=" " alt="" coords="572,439,679,464"/>
-<area shape="rect" title=" " alt="" coords="984,439,1045,464"/>
-<area shape="rect" href="_path_utils_8h.html" title=" " alt="" coords="46,519,132,544"/>
-<area shape="rect" title=" " alt="" coords="156,512,290,551"/>
-<area shape="rect" title=" " alt="" coords="313,519,444,544"/>
-<area shape="rect" title=" " alt="" coords="468,512,607,551"/>
-<area shape="rect" title=" " alt="" coords="631,512,796,551"/>
-<area shape="rect" title=" " alt="" coords="819,512,1004,551"/>
-<area shape="rect" title=" " alt="" coords="1029,519,1165,544"/>
-<area shape="rect" title=" " alt="" coords="1189,519,1379,544"/>
-<area shape="rect" href="functions_8h.html" title=" " alt="" coords="246,439,383,464"/>
-<area shape="rect" title=" " alt="" coords="309,352,448,391"/>
-<area shape="rect" title=" " alt="" coords="472,359,531,384"/>
-<area shape="rect" href="_block_8h.html" title=" " alt="" coords="1113,359,1178,384"/>
-<area shape="rect" href="src_2catapult_2types_8h.html" title=" " alt="" coords="1401,439,1516,464"/>
-<area shape="rect" title=" " alt="" coords="1151,439,1209,464"/>
-<area shape="rect" href="_future_shared_state_8h.html" title=" " alt="" coords="555,359,736,384"/>
-<area shape="rect" href="_tool_8h.html" title=" " alt="" coords="2243,185,2300,211"/>
-<area shape="rect" href="_tool_configuration_utils_8h.html" title=" " alt="" coords="1891,185,2053,211"/>
-<area shape="rect" href="_tool_network_utils_8h.html" title=" " alt="" coords="1335,185,1467,211"/>
-<area shape="rect" href="_node_8h.html" title=" " alt="" coords="1602,185,1750,211"/>
-<area shape="rect" href="_future_utils_8h.html" title=" " alt="" coords="1069,185,1258,211"/>
-<area shape="rect" href="_command_parser_8h.html" title=" " alt="" coords="2244,272,2377,297"/>
-<area shape="rect" href="_catapult_configuration_8h.html" title=" " alt="" coords="2009,265,2170,304"/>
-<area shape="rect" href="_key_pair_8h.html" title=" " alt="" coords="1374,359,1543,384"/>
-<area shape="rect" href="_node_roles_8h.html" title=" " alt="" coords="1804,272,1985,297"/>
-<area shape="rect" href="_network_info_8h.html" title=" " alt="" coords="1668,359,1772,384"/>
-<area shape="rect" href="_hashers_8h.html" title=" " alt="" coords="1439,272,1599,297"/>
-<area shape="rect" title=" " alt="" coords="1622,272,1730,297"/>
-<area shape="rect" title=" " alt="" coords="2024,359,2078,384"/>
-<area shape="rect" href="_exception_logging_8h.html" title=" " alt="" coords="21,179,179,217"/>
-<area shape="rect" title=" " alt="" coords="5,265,184,304"/>
-<area shape="rect" href="_remote_api_8h.html" title=" " alt="" coords="1252,359,1350,384"/>
-<area shape="rect" title=" " alt="" coords="2337,185,2420,211"/>
+<div class="center"><img src="tools_2health_2main_8cpp__incl.png" border="0" usemap="#main_8cpp" alt=""/></div>
+<map name="main_8cpp" id="main_8cpp">
+<area shape="rect" title=" " alt="" coords="1721,5,1796,31"/>
+<area shape="rect" href="ApiNodeHealthUtils_8h.html" title=" " alt="" coords="921,85,1069,111"/>
+<area shape="rect" href="NetworkCensusTool_8h.html" title=" " alt="" coords="1570,85,1753,111"/>
+<area shape="rect" href="ToolMain_8h.html" title=" " alt="" coords="1962,85,2080,111"/>
+<area shape="rect" href="ToolThreadUtils_8h.html" title=" " alt="" coords="143,85,300,111"/>
+<area shape="rect" href="RemoteChainApi_8h.html" title=" " alt="" coords="1211,79,1386,117"/>
+<area shape="rect" title=" " alt="" coords="2104,79,2269,117"/>
+<area shape="rect" href="DiagnosticCounterId_8h.html" title=" " alt="" coords="1777,79,1938,117"/>
+<area shape="rect" href="Functional_8h.html" title=" " alt="" coords="2293,85,2464,111"/>
+<area shape="rect" href="ChainApi_8h.html" title=" " alt="" coords="711,172,870,197"/>
+<area shape="rect" href="Future_8h.html" title=" " alt="" coords="913,259,1076,284"/>
+<area shape="rect" href="ApiTypes_8h.html" title=" " alt="" coords="580,259,668,284"/>
+<area shape="rect" href="NonCopyable_8h.html" title=" " alt="" coords="786,425,899,451"/>
+<area shape="rect" href="ChainScore_8h.html" title=" " alt="" coords="298,259,491,284"/>
+<area shape="rect" href="RangeTypes_8h.html" title=" " alt="" coords="692,259,889,284"/>
+<area shape="rect" href="exceptions_8h.html" title=" " alt="" coords="811,345,957,371"/>
+<area shape="rect" href="Logging_8h.html" title=" " alt="" coords="572,425,679,451"/>
+<area shape="rect" title=" " alt="" coords="984,425,1045,451"/>
+<area shape="rect" href="PathUtils_8h.html" title=" " alt="" coords="46,505,132,531"/>
+<area shape="rect" title=" " alt="" coords="156,499,290,537"/>
+<area shape="rect" title=" " alt="" coords="313,505,444,531"/>
+<area shape="rect" title=" " alt="" coords="468,499,607,537"/>
+<area shape="rect" title=" " alt="" coords="631,499,796,537"/>
+<area shape="rect" title=" " alt="" coords="819,499,1004,537"/>
+<area shape="rect" title=" " alt="" coords="1029,505,1165,531"/>
+<area shape="rect" title=" " alt="" coords="1189,505,1379,531"/>
+<area shape="rect" href="functions_8h.html" title=" " alt="" coords="246,425,383,451"/>
+<area shape="rect" title=" " alt="" coords="309,339,448,377"/>
+<area shape="rect" title=" " alt="" coords="472,345,531,371"/>
+<area shape="rect" href="Block_8h.html" title=" " alt="" coords="1113,345,1178,371"/>
+<area shape="rect" href="src_2catapult_2types_8h.html" title=" " alt="" coords="1401,425,1516,451"/>
+<area shape="rect" title=" " alt="" coords="1151,425,1209,451"/>
+<area shape="rect" href="FutureSharedState_8h.html" title=" " alt="" coords="555,345,736,371"/>
+<area shape="rect" href="Tool_8h.html" title=" " alt="" coords="2243,172,2300,197"/>
+<area shape="rect" href="ToolConfigurationUtils_8h.html" title=" " alt="" coords="1891,172,2053,197"/>
+<area shape="rect" href="ToolNetworkUtils_8h.html" title=" " alt="" coords="1335,172,1467,197"/>
+<area shape="rect" href="Node_8h.html" title=" " alt="" coords="1602,172,1750,197"/>
+<area shape="rect" href="FutureUtils_8h.html" title=" " alt="" coords="1069,172,1258,197"/>
+<area shape="rect" href="CommandParser_8h.html" title=" " alt="" coords="2244,259,2377,284"/>
+<area shape="rect" href="CatapultConfiguration_8h.html" title=" " alt="" coords="2009,252,2170,291"/>
+<area shape="rect" href="KeyPair_8h.html" title=" " alt="" coords="1374,345,1543,371"/>
+<area shape="rect" href="NodeRoles_8h.html" title=" " alt="" coords="1804,259,1985,284"/>
+<area shape="rect" href="NetworkInfo_8h.html" title=" " alt="" coords="1668,345,1772,371"/>
+<area shape="rect" href="Hashers_8h.html" title=" " alt="" coords="1439,259,1599,284"/>
+<area shape="rect" title=" " alt="" coords="1622,259,1730,284"/>
+<area shape="rect" title=" " alt="" coords="2024,345,2078,371"/>
+<area shape="rect" href="ExceptionLogging_8h.html" title=" " alt="" coords="21,165,179,204"/>
+<area shape="rect" title=" " alt="" coords="5,252,184,291"/>
+<area shape="rect" href="RemoteApi_8h.html" title=" " alt="" coords="1252,345,1350,371"/>
+<area shape="rect" title=" " alt="" coords="2337,172,2420,197"/>
 </map>
 </div>
 </div><table class="memberdecls">
@@ -206,8 +198,8 @@ Here is the call graph for this function:</div>
 <map name="tools_2health_2main_8cpp_a217dbf8b442f20279ea00b898af96f52_cgraph" id="tools_2health_2main_8cpp_a217dbf8b442f20279ea00b898af96f52_cgraph">
 <area shape="rect" title=" " alt="" coords="5,93,56,119"/>
 <area shape="rect" href="namespacecatapult_1_1tools.html#a003b21db87c3d7802f9c87647b5c2c35" title=" " alt="" coords="104,93,268,119"/>
-<area shape="rect" href="classcatapult_1_1tools_1_1_command_parser.html#a5a188c18e62afc27a6923e383c9503f5" title="Returns name of the command." alt="" coords="339,5,511,44"/>
-<area shape="rect" href="classcatapult_1_1tools_1_1_tool.html#a90e701b18b25f48e24ed4c22101a3b5b" title="Run the tool passing options collected from the command line." alt="" coords="344,68,506,93"/>
+<area shape="rect" href="classcatapult_1_1tools_1_1CommandParser.html#a5a188c18e62afc27a6923e383c9503f5" title="Returns name of the command." alt="" coords="339,5,511,44"/>
+<area shape="rect" href="classcatapult_1_1tools_1_1Tool.html#a90e701b18b25f48e24ed4c22101a3b5b" title="Run the tool passing options collected from the command line." alt="" coords="344,68,506,93"/>
 <area shape="rect" href="namespacecatapult_1_1thread.html#a7067b8be6d66ed95ea8f4058bf117fb6" title=" " alt="" coords="316,117,534,143"/>
 <area shape="rect" href="namespacecatapult_1_1version.html#a2bb99c53ab89c89f5615b78bf6d98557" title="Writes custom version information to out." alt="" coords="343,167,507,205"/>
 <area shape="rect" href="namespacecatapult_1_1thread.html#ad39b4a512159d72096deaa5fe027e1cb" title="Gets the maximum supported thread name length (excluding NUL&#45;terminator)." alt="" coords="582,111,750,149"/>
@@ -224,7 +216,7 @@ Here is the call graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="_harvester_8cpp.html#ae13c68bff5b86902acfacde59ce0bf94">Height</a> ChainHeight</td>
+          <td class="memname"><a class="el" href="Harvester_8cpp.html#ae13c68bff5b86902acfacde59ce0bf94">Height</a> ChainHeight</td>
         </tr>
       </table>
 </div><div class="memdoc">

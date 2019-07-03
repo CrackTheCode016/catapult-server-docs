@@ -1,4 +1,4 @@
 <map id="catapult::model::GenerateMosaicId" name="catapult::model::GenerateMosaicId">
 <area shape="rect" id="node1" title="Generates a mosaic id given owner and nonce." alt="" coords="221,12,396,51"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_mosaic_definition_builder.html#a8c2aefc9bfd0026a292c30f12087998e" title=" " alt="" coords="5,5,173,57"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1MosaicDefinitionBuilder.html#a8c2aefc9bfd0026a292c30f12087998e" title=" " alt="" coords="5,5,173,57"/>
 </map>

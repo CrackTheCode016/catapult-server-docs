@@ -1,8 +1,0 @@
-<map id="catapult::cache::RocksDatabase::put" name="catapult::cache::RocksDatabase::put">
-<area shape="rect" id="node1" title="Puts value with key in columnId." alt="" coords="728,44,967,69"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_rdb_column_container.html#a9306d32a60e597cfe0a9c3771b5e163d" title="Inserts element with key and value." alt="" coords="492,5,680,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_rdb_column_container.html#a02a5a84148235da60a32f40950039da5" title=" " alt="" coords="492,68,680,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_rdb_column_container.html#a0349503c085a87f313465d84128695a1" title="Sets property value of a column (propertyName) to value." alt="" coords="255,68,444,107"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_cache_patricia_tree_1_1_impl.html#acd10070462f217fb942c636bff537a8b" title=" " alt="" coords="5,36,207,75"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_rdb_column_container.html#a1a32e5511679575ffb23ba195251deed" title="Sets size of the column to newSize." alt="" coords="12,99,200,137"/>
-</map>

@@ -1,7 +1,7 @@
 <map id="catapult::ionet::ExtractEntitiesFromPacket" name="catapult::ionet::ExtractEntitiesFromPacket">
 <area shape="rect" id="node1" title=" " alt="" coords="5,68,159,107"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1ionet.html#a173bce61bb498ae19e3a787b7e9721c6" title="Calculates the data size of packet." alt="" coords="219,5,386,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_entity_range.html#a9e0b9046486fc3fa7e2c2f7cdb9218e8" title=" " alt="" coords="207,68,398,107"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1ionet_1_1_packet.html#a26bd36a8a62b26f68fcf00963652aad2" title="Returns a non&#45;const pointer to data contained in this packet." alt="" coords="226,131,379,169"/>
-<area shape="rect" id="node3" href="$namespacecolor_print.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="446,12,574,37"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1EntityRange.html#a9e0b9046486fc3fa7e2c2f7cdb9218e8" title=" " alt="" coords="207,68,398,107"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1ionet_1_1Packet.html#a26bd36a8a62b26f68fcf00963652aad2" title="Returns a non&#45;const pointer to data contained in this packet." alt="" coords="226,131,379,169"/>
+<area shape="rect" id="node3" href="$namespacecolorPrint.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="446,12,574,37"/>
 </map>

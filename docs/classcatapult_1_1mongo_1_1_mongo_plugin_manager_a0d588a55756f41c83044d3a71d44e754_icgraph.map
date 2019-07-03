@@ -1,5 +1,0 @@
-<map id="catapult::mongo::MongoPluginManager::mongoContext" name="catapult::mongo::MongoPluginManager::mongoContext">
-<area shape="rect" id="node1" title="Gets the mongo storage context." alt="" coords="231,33,432,72"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1mongo.html#a7d765493570a5e7b5615867e76b29d2b" title=" " alt="" coords="8,5,181,44"/>
-<area shape="rect" id="node3" href="$_mongo_hash_lock_plugin_8cpp.html#af2a241600d5e0ac986f77f0126143877" title="Entry point for registering a dynamic module with manager." alt="" coords="5,68,183,93"/>
-</map>

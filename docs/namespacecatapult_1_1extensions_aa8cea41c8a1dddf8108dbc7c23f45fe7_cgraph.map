@@ -3,6 +3,6 @@
 <area shape="rect" id="node2" href="$namespacecatapult_1_1extensions.html#ab9de0383e2af982aa309a308ce62d5f6" title="Parses a unified namespace name into a path." alt="" coords="220,68,403,107"/>
 <area shape="rect" id="node3" href="$namespacecatapult_1_1model.html#aea1fc483602cf46bd07fe34fff4075e8" title="Generates a namespace id given parentId and namespace name." alt="" coords="451,36,626,75"/>
 <area shape="rect" id="node6" href="$namespacecatapult.html#a067e324878b4ac5285fe60bf3278f298" title="Base id for namespaces." alt="" coords="465,99,612,137"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1crypto_1_1_keccak_builder.html#adab53de41fffaaa4ae3df2c995739fc6" title="Finalize hash calculation. Returns result in output." alt="" coords="674,5,836,44"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1crypto_1_1_keccak_builder.html#ade3e4c47c5a61ec0ae7841ed077d390c" title="Updates the state of hash with data inside dataBuffer." alt="" coords="674,68,836,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1crypto_1_1KeccakBuilder.html#adab53de41fffaaa4ae3df2c995739fc6" title="Finalize hash calculation. Returns result in output." alt="" coords="674,5,836,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1crypto_1_1KeccakBuilder.html#ade3e4c47c5a61ec0ae7841ed077d390c" title="Updates the state of hash with data inside dataBuffer." alt="" coords="674,68,836,107"/>
 </map>

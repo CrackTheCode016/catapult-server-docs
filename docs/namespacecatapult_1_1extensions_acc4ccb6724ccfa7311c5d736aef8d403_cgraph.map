@@ -1,4 +1,4 @@
 <map id="catapult::extensions::GetUtCacheOptions" name="catapult::extensions::GetUtCacheOptions">
 <area shape="rect" id="node1" title="Extracts unconfirmed transactions cache options from config." alt="" coords="5,5,153,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_file_size.html#acaf0adf03843be93e22aaa8352fa3cde" title="Returns the number of bytes." alt="" coords="201,5,355,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1FileSize.html#acaf0adf03843be93e22aaa8352fa3cde" title="Returns the number of bytes." alt="" coords="201,5,355,44"/>
 </map>

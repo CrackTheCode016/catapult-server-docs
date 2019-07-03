@@ -1,0 +1,5 @@
+<map id="catapult::crypto::PrivateKey::Generate" name="catapult::crypto::PrivateKey::Generate">
+<area shape="rect" id="node1" title="Generates a new private key using the specified byte generator." alt="" coords="5,37,166,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html#aeb9ed1abd6eb2d2b1587a77d764491e6" title="Returns a const iterator to the first byte." alt="" coords="214,5,379,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html#a05ff5e160e1015f60fa4af1a96028082" title="Returns the array size." alt="" coords="214,68,379,107"/>
+</map>

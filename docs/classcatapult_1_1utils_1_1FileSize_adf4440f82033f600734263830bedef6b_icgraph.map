@@ -1,0 +1,8 @@
+<map id="catapult::utils::FileSize::FileSize" name="catapult::utils::FileSize::FileSize">
+<area shape="rect" id="node1" title="Creates a default (zero) file size." alt="" coords="878,149,1032,188"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1FileSize.html#a02d95ac2171f398d79079e2998e7a1b7" title="Creates a file size from the given number of bytes." alt="" coords="676,149,830,188"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1FileSize.html#acfa88fa369c3f69972192aad05e7161f" title="Creates a file size from the given number of kilobytes." alt="" coords="474,92,628,131"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1utils.html#a6862daa058be1c9b797ece9a2e9c6bf2" title="Tries to parse str into a FileSize (parsedValue)." alt="" coords="5,63,165,101"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1FileSize.html#a0f95c54ad4eebefd00c00e6ec5187f3d" title="Creates a file size from the given number of megabytes." alt="" coords="243,5,397,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1RocksDatabase.html#a8dbd58ba76b286f4920555eb1b369315" title="Creates database around settings." alt="" coords="213,120,426,159"/>
+</map>

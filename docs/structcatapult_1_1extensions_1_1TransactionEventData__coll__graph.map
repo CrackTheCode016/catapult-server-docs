@@ -1,0 +1,5 @@
+<map id="catapult::extensions::TransactionEventData" name="catapult::extensions::TransactionEventData">
+<area shape="rect" id="node1" title="Data associated with a transaction event." alt="" coords="8,180,168,219"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1ByteArray.html" title="Base class for wrappers of byte array types, to provide some type&#45;safety." alt="" coords="5,80,170,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="62,5,113,31"/>
+</map>

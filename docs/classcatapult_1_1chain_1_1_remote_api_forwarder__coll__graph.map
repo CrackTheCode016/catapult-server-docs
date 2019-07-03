@@ -1,8 +1,0 @@
-<map id="catapult::chain::RemoteApiForwarder" name="catapult::chain::RemoteApiForwarder">
-<area shape="rect" id="node1" title="Simplifies interacting with remote nodes via apis." alt="" coords="906,48,1087,87"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1net_1_1_packet_io_picker.html" title="An interface for picking packet io pairs." alt="" coords="531,5,722,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_time_span.html" title="Represents a time duration." alt="" coords="543,55,710,80"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1_transaction_registry.html" title="A registry of transaction plugins." alt="" coords="532,104,721,143"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1_transaction_registry_t.html" title=" " alt="" coords="275,104,482,143"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1model_1_1_plugin_registry.html" title=" " alt="" coords="5,104,225,143"/>
-</map>

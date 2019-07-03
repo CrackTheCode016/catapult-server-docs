@@ -1,0 +1,4 @@
+<map id="catapult::api::ChainApi" name="catapult::api::ChainApi">
+<area shape="rect" id="node1" title="An api for retrieving chain information from a node." alt="" coords="22,79,176,104"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,5,193,31"/>
+</map>

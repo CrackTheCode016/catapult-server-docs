@@ -1,0 +1,4 @@
+<map id="catapult::subscribers::AggregateUtChangeSubscriber::notifyAdds" name="catapult::subscribers::AggregateUtChangeSubscriber::notifyAdds">
+<area shape="rect" id="node1" title="Indicates transaction infos (transactionInfos) were added to unconfirmed transactions." alt="" coords="5,12,219,64"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1subscribers_1_1BasicAggregateSubscriber.html#a2dedfcd373056055be93d28a97925c46" title=" " alt="" coords="267,5,454,71"/>
+</map>

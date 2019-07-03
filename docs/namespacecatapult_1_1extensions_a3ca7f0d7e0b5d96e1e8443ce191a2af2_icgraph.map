@@ -1,12 +1,12 @@
 <map id="catapult::extensions::SetOnce" name="catapult::extensions::SetOnce">
 <area shape="rect" id="node1" title="Sets dest to source if and only if dest is unset." alt="" coords="322,316,462,355"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a0f49e3f9fd08595c8578af52f8c3299d" title="Sets the factory for creating a BlockRangeConsumerFunc bound to an input source." alt="" coords="38,5,241,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a5a911634f9f48d8517b5ac70e8b2ee37" title="Sets the chain synced predicate." alt="" coords="35,81,245,133"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a5f8421f31f91718de0ac179a3880311d" title="Sets the factory for creating a CompletionAwareBlockRangeConsumerFunc bound to an input source." alt="" coords="22,157,258,209"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1partialtransaction_1_1_pt_server_hooks.html#a9c5ef337713dfc16a36db9dd288724c1" title="Sets the cosignature range consumer." alt="" coords="12,233,267,285"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1partialtransaction_1_1_pt_server_hooks.html#ae955ea901423d7249b94372f7b5b93b9" title="Sets the cosigned transaction infos consumer." alt="" coords="5,309,274,361"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1extensions_1_1_extension_manager.html#aa6f2efcc1068e9e3caca0c6ccf356dff" title="Registers a network time supplier." alt="" coords="33,385,247,437"/>
-<area shape="rect" id="node8" href="$classcatapult_1_1partialtransaction_1_1_pt_server_hooks.html#a2e95665dddea19243e5d373e61e03fef" title="Sets the partial transaction range consumer." alt="" coords="11,461,268,500"/>
-<area shape="rect" id="node9" href="$classcatapult_1_1extensions_1_1_server_hooks.html#a4b07b5fb6d4bbc81699394d8ef2a66d0" title="Sets the remote heights chain retriever." alt="" coords="34,524,246,576"/>
-<area shape="rect" id="node10" href="$classcatapult_1_1extensions_1_1_server_hooks.html#ab716fc0deba96a2170564a54ef9285f6" title="Sets the factory for creating a TransactionRangeConsumerFunc bound to an input source." alt="" coords="40,600,240,652"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1extensions_1_1ServerHooks.html#a0f49e3f9fd08595c8578af52f8c3299d" title="Sets the factory for creating a BlockRangeConsumerFunc bound to an input source." alt="" coords="38,5,241,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1extensions_1_1ServerHooks.html#a5a911634f9f48d8517b5ac70e8b2ee37" title="Sets the chain synced predicate." alt="" coords="35,81,245,133"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1extensions_1_1ServerHooks.html#a5f8421f31f91718de0ac179a3880311d" title="Sets the factory for creating a CompletionAwareBlockRangeConsumerFunc bound to an input source." alt="" coords="22,157,258,209"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1partialtransaction_1_1PtServerHooks.html#a9c5ef337713dfc16a36db9dd288724c1" title="Sets the cosignature range consumer." alt="" coords="12,233,267,285"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1partialtransaction_1_1PtServerHooks.html#ae955ea901423d7249b94372f7b5b93b9" title="Sets the cosigned transaction infos consumer." alt="" coords="5,309,274,361"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1extensions_1_1ExtensionManager.html#aa6f2efcc1068e9e3caca0c6ccf356dff" title="Registers a network time supplier." alt="" coords="33,385,247,437"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1partialtransaction_1_1PtServerHooks.html#a2e95665dddea19243e5d373e61e03fef" title="Sets the partial transaction range consumer." alt="" coords="11,461,268,500"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1extensions_1_1ServerHooks.html#a4b07b5fb6d4bbc81699394d8ef2a66d0" title="Sets the remote heights chain retriever." alt="" coords="34,524,246,576"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1extensions_1_1ServerHooks.html#ab716fc0deba96a2170564a54ef9285f6" title="Sets the factory for creating a TransactionRangeConsumerFunc bound to an input source." alt="" coords="40,600,240,652"/>
 </map>

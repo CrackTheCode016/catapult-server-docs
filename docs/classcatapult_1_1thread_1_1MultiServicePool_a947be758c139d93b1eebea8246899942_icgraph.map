@@ -1,0 +1,5 @@
+<map id="catapult::thread::MultiServicePool::shutdown" name="catapult::thread::MultiServicePool::shutdown">
+<area shape="rect" id="node1" title="Safely shuts down the thread pool and its dependent services." alt="" coords="247,37,440,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1thread_1_1MultiServicePool.html#afa86e199944a723021e0997d4e3a1a2c" title=" " alt="" coords="5,5,199,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1thread_1_1MultiServicePool.html#a6ad528db531b65f8888d033bcfa29b68" title="Destroys the pool." alt="" coords="5,68,199,107"/>
+</map>

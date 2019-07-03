@@ -1,4 +1,0 @@
-<map id="catapult::ionet::PacketPayload" name="catapult::ionet::PacketPayload">
-<area shape="rect" id="node1" title="A packet payload that can be written." alt="" coords="5,92,206,117"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1_packet_header.html" title="A packet header that all transferable information is expected to have." alt="" coords="8,5,204,31"/>
-</map>

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.16"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>CatapultServer: catapult-server/tools/benchmark/main.cpp File Reference</title>
+<title>CatapultServer: main.cpp File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -90,71 +90,64 @@ $(document).ready(function(){initNavTree('tools_2benchmark_2main_8cpp.html','');
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
-<div class="title">main.cpp File Reference</div>  </div>
+<div class="title">tools/benchmark/main.cpp File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="_tool_main_8h_source.html">tools/ToolMain.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_tool_keys_8h_source.html">tools/ToolKeys.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_tool_thread_utils_8h_source.html">tools/ToolThreadUtils.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_signer_8h_source.html">catapult/crypto/Signer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_io_thread_pool_8h_source.html">catapult/thread/IoThreadPool.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_parallel_for_8h_source.html">catapult/thread/ParallelFor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="_stack_logger_8h_source.html">catapult/utils/StackLogger.h</a>&quot;</code><br />
-</div><div class="textblock"><div class="dynheader">
-Include dependency graph for main.cpp:</div>
+<div class="textblock"><div class="dynheader">
+Include dependency graph for tools/benchmark/main.cpp:</div>
 <div class="dyncontent">
-<div class="center"><img src="tools_2benchmark_2main_8cpp__incl.png" border="0" usemap="#catapult-server_2tools_2benchmark_2main_8cpp" alt=""/></div>
-<map name="catapult-server_2tools_2benchmark_2main_8cpp" id="catapult-server_2tools_2benchmark_2main_8cpp">
-<area shape="rect" title=" " alt="" coords="945,5,1094,44"/>
-<area shape="rect" href="_tool_main_8h.html" title=" " alt="" coords="302,99,420,124"/>
-<area shape="rect" href="_tool_keys_8h.html" title=" " alt="" coords="413,179,531,204"/>
-<area shape="rect" href="_tool_thread_utils_8h.html" title=" " alt="" coords="1395,259,1552,284"/>
-<area shape="rect" href="_signer_8h.html" title=" " alt="" coords="735,179,896,204"/>
-<area shape="rect" href="_io_thread_pool_8h.html" title=" " alt="" coords="1577,252,1743,291"/>
-<area shape="rect" href="_parallel_for_8h.html" title=" " alt="" coords="1150,92,1308,131"/>
-<area shape="rect" href="_stack_logger_8h.html" title=" " alt="" coords="928,259,1112,284"/>
-<area shape="rect" href="_tool_8h.html" title=" " alt="" coords="246,179,303,204"/>
-<area shape="rect" href="_command_parser_8h.html" title=" " alt="" coords="56,259,189,284"/>
-<area shape="rect" href="_options_8h.html" title=" " alt="" coords="83,345,162,371"/>
-<area shape="rect" href="src_2catapult_2types_8h.html" title=" " alt="" coords="398,432,513,457"/>
-<area shape="rect" title=" " alt="" coords="5,432,189,457"/>
-<area shape="rect" href="_byte_array_8h.html" title=" " alt="" coords="72,519,189,544"/>
-<area shape="rect" title=" " alt="" coords="14,672,66,697"/>
-<area shape="rect" href="_clamped_base_value_8h.html" title=" " alt="" coords="354,512,537,551"/>
-<area shape="rect" href="_raw_buffer_8h.html" title=" " alt="" coords="779,519,900,544"/>
-<area shape="rect" href="_hex_formatter_8h.html" title=" " alt="" coords="77,599,190,624"/>
-<area shape="rect" title=" " alt="" coords="198,672,255,697"/>
-<area shape="rect" title=" " alt="" coords="813,599,867,624"/>
-<area shape="rect" title=" " alt="" coords="661,599,725,624"/>
-<area shape="rect" href="_key_pair_8h.html" title=" " alt="" coords="517,259,686,284"/>
-<area shape="rect" href="_address_8h.html" title=" " alt="" coords="301,259,472,284"/>
-<area shape="rect" href="_key_generator_8h.html" title=" " alt="" coords="544,345,659,371"/>
-<area shape="rect" href="_private_key_8h.html" title=" " alt="" coords="683,345,778,371"/>
-<area shape="rect" href="functions_8h.html" title=" " alt="" coords="662,432,799,457"/>
-<area shape="rect" title=" " alt="" coords="677,519,755,544"/>
-<area shape="rect" href="_network_info_8h.html" title=" " alt="" coords="315,345,418,371"/>
-<area shape="rect" href="_exception_logging_8h.html" title=" " alt="" coords="2040,339,2197,377"/>
-<area shape="rect" href="_logging_8h.html" title=" " alt="" coords="1305,345,1463,371"/>
-<area shape="rect" title=" " alt="" coords="2349,425,2528,464"/>
-<area shape="rect" href="_path_utils_8h.html" title=" " alt="" coords="990,432,1076,457"/>
-<area shape="rect" title=" " alt="" coords="1316,425,1449,464"/>
-<area shape="rect" title=" " alt="" coords="1473,432,1604,457"/>
-<area shape="rect" title=" " alt="" coords="1628,425,1767,464"/>
-<area shape="rect" title=" " alt="" coords="1791,425,1956,464"/>
-<area shape="rect" title=" " alt="" coords="1979,425,2164,464"/>
-<area shape="rect" title=" " alt="" coords="2189,432,2325,457"/>
-<area shape="rect" title=" " alt="" coords="1101,432,1291,457"/>
-<area shape="rect" title=" " alt="" coords="1625,345,1695,371"/>
-<area shape="rect" href="_future_8h.html" title=" " alt="" coords="1194,179,1265,204"/>
-<area shape="rect" title=" " alt="" coords="1288,179,1397,204"/>
-<area shape="rect" href="_future_shared_state_8h.html" title=" " alt="" coords="1139,259,1320,284"/>
-<area shape="rect" href="_non_copyable_8h.html" title=" " alt="" coords="1487,345,1600,371"/>
-<area shape="rect" title=" " alt="" coords="1225,345,1281,371"/>
-<area shape="rect" title=" " alt="" coords="1144,345,1202,371"/>
-<area shape="rect" href="_stack_timer_8h.html" title=" " alt="" coords="971,345,1069,371"/>
-<area shape="rect" href="_time_span_8h.html" title=" " alt="" coords="853,345,946,371"/>
-<area shape="rect" title=" " alt="" coords="905,432,967,457"/>
-<area shape="rect" title=" " alt="" coords="822,432,881,457"/>
+<div class="center"><img src="tools_2benchmark_2main_8cpp__incl.png" border="0" usemap="#main_8cpp" alt=""/></div>
+<map name="main_8cpp" id="main_8cpp">
+<area shape="rect" title=" " alt="" coords="982,5,1058,31"/>
+<area shape="rect" href="ToolMain_8h.html" title=" " alt="" coords="302,85,420,111"/>
+<area shape="rect" href="ToolKeys_8h.html" title=" " alt="" coords="413,165,531,191"/>
+<area shape="rect" href="ToolThreadUtils_8h.html" title=" " alt="" coords="1395,245,1552,271"/>
+<area shape="rect" href="Signer_8h.html" title=" " alt="" coords="735,165,896,191"/>
+<area shape="rect" href="IoThreadPool_8h.html" title=" " alt="" coords="1577,239,1743,277"/>
+<area shape="rect" href="ParallelFor_8h.html" title=" " alt="" coords="1150,79,1308,117"/>
+<area shape="rect" href="StackLogger_8h.html" title=" " alt="" coords="928,245,1112,271"/>
+<area shape="rect" href="Tool_8h.html" title=" " alt="" coords="246,165,303,191"/>
+<area shape="rect" href="CommandParser_8h.html" title=" " alt="" coords="56,245,189,271"/>
+<area shape="rect" href="Options_8h.html" title=" " alt="" coords="83,332,162,357"/>
+<area shape="rect" href="src_2catapult_2types_8h.html" title=" " alt="" coords="398,419,513,444"/>
+<area shape="rect" title=" " alt="" coords="5,419,189,444"/>
+<area shape="rect" href="ByteArray_8h.html" title=" " alt="" coords="72,505,189,531"/>
+<area shape="rect" title=" " alt="" coords="14,659,66,684"/>
+<area shape="rect" href="ClampedBaseValue_8h.html" title=" " alt="" coords="354,499,537,537"/>
+<area shape="rect" href="RawBuffer_8h.html" title=" " alt="" coords="779,505,900,531"/>
+<area shape="rect" href="HexFormatter_8h.html" title=" " alt="" coords="77,585,190,611"/>
+<area shape="rect" title=" " alt="" coords="198,659,255,684"/>
+<area shape="rect" title=" " alt="" coords="813,585,867,611"/>
+<area shape="rect" title=" " alt="" coords="661,585,725,611"/>
+<area shape="rect" href="KeyPair_8h.html" title=" " alt="" coords="517,245,686,271"/>
+<area shape="rect" href="Address_8h.html" title=" " alt="" coords="301,245,472,271"/>
+<area shape="rect" href="KeyGenerator_8h.html" title=" " alt="" coords="544,332,659,357"/>
+<area shape="rect" href="PrivateKey_8h.html" title=" " alt="" coords="683,332,778,357"/>
+<area shape="rect" href="functions_8h.html" title=" " alt="" coords="662,419,799,444"/>
+<area shape="rect" title=" " alt="" coords="677,505,755,531"/>
+<area shape="rect" href="NetworkInfo_8h.html" title=" " alt="" coords="315,332,418,357"/>
+<area shape="rect" href="ExceptionLogging_8h.html" title=" " alt="" coords="2040,325,2197,364"/>
+<area shape="rect" href="Logging_8h.html" title=" " alt="" coords="1305,332,1463,357"/>
+<area shape="rect" title=" " alt="" coords="2349,412,2528,451"/>
+<area shape="rect" href="PathUtils_8h.html" title=" " alt="" coords="990,419,1076,444"/>
+<area shape="rect" title=" " alt="" coords="1316,412,1449,451"/>
+<area shape="rect" title=" " alt="" coords="1473,419,1604,444"/>
+<area shape="rect" title=" " alt="" coords="1628,412,1767,451"/>
+<area shape="rect" title=" " alt="" coords="1791,412,1956,451"/>
+<area shape="rect" title=" " alt="" coords="1979,412,2164,451"/>
+<area shape="rect" title=" " alt="" coords="2189,419,2325,444"/>
+<area shape="rect" title=" " alt="" coords="1101,419,1291,444"/>
+<area shape="rect" title=" " alt="" coords="1625,332,1695,357"/>
+<area shape="rect" href="Future_8h.html" title=" " alt="" coords="1194,165,1265,191"/>
+<area shape="rect" title=" " alt="" coords="1288,165,1397,191"/>
+<area shape="rect" href="FutureSharedState_8h.html" title=" " alt="" coords="1139,245,1320,271"/>
+<area shape="rect" href="NonCopyable_8h.html" title=" " alt="" coords="1487,332,1600,357"/>
+<area shape="rect" title=" " alt="" coords="1225,332,1281,357"/>
+<area shape="rect" title=" " alt="" coords="1144,332,1202,357"/>
+<area shape="rect" href="StackTimer_8h.html" title=" " alt="" coords="971,332,1069,357"/>
+<area shape="rect" href="TimeSpan_8h.html" title=" " alt="" coords="853,332,946,357"/>
+<area shape="rect" title=" " alt="" coords="905,419,967,444"/>
+<area shape="rect" title=" " alt="" coords="822,419,881,444"/>
 </map>
 </div>
 </div><table class="memberdecls">
@@ -205,8 +198,8 @@ Here is the call graph for this function:</div>
 <map name="tools_2benchmark_2main_8cpp_a217dbf8b442f20279ea00b898af96f52_cgraph" id="tools_2benchmark_2main_8cpp_a217dbf8b442f20279ea00b898af96f52_cgraph">
 <area shape="rect" title=" " alt="" coords="5,93,56,119"/>
 <area shape="rect" href="namespacecatapult_1_1tools.html#a003b21db87c3d7802f9c87647b5c2c35" title=" " alt="" coords="104,93,268,119"/>
-<area shape="rect" href="classcatapult_1_1tools_1_1_command_parser.html#a5a188c18e62afc27a6923e383c9503f5" title="Returns name of the command." alt="" coords="339,5,511,44"/>
-<area shape="rect" href="classcatapult_1_1tools_1_1_tool.html#a90e701b18b25f48e24ed4c22101a3b5b" title="Run the tool passing options collected from the command line." alt="" coords="344,68,506,93"/>
+<area shape="rect" href="classcatapult_1_1tools_1_1CommandParser.html#a5a188c18e62afc27a6923e383c9503f5" title="Returns name of the command." alt="" coords="339,5,511,44"/>
+<area shape="rect" href="classcatapult_1_1tools_1_1Tool.html#a90e701b18b25f48e24ed4c22101a3b5b" title="Run the tool passing options collected from the command line." alt="" coords="344,68,506,93"/>
 <area shape="rect" href="namespacecatapult_1_1thread.html#a7067b8be6d66ed95ea8f4058bf117fb6" title=" " alt="" coords="316,117,534,143"/>
 <area shape="rect" href="namespacecatapult_1_1version.html#a2bb99c53ab89c89f5615b78bf6d98557" title="Writes custom version information to out." alt="" coords="343,167,507,205"/>
 <area shape="rect" href="namespacecatapult_1_1thread.html#ad39b4a512159d72096deaa5fe027e1cb" title="Gets the maximum supported thread name length (excluding NUL&#45;terminator)." alt="" coords="582,111,750,149"/>

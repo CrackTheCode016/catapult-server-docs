@@ -1,0 +1,4 @@
+<map id="catapult::builders::TransferBuilder" name="catapult::builders::TransferBuilder">
+<area shape="rect" id="node1" title="Builder for a transfer transaction." alt="" coords="14,92,136,131"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1TransactionBuilder.html" title="Base transaction builder." alt="" coords="5,5,145,44"/>
+</map>

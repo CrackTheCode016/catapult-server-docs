@@ -1,0 +1,5 @@
+<map id="catapult::state::AccountBalances::size" name="catapult::state::AccountBalances::size">
+<area shape="rect" id="node1" title="Returns the number of mosaics owned." alt="" coords="486,5,646,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1AccountStateNonHistoricalSerializer.html#ad281db9730de4a014c0c3b6b1a7db833" title="Saves accountState to output." alt="" coords="213,5,438,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1state_1_1AccountStateSerializer.html#a0222b98ca9ca1cdeb04e14686eb21d2d" title="Saves accountState to output." alt="" coords="5,5,165,44"/>
+</map>

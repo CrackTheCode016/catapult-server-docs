@@ -1,0 +1,11 @@
+<map id="catapult::cache::BasicAccountRestrictionCacheDelta" name="catapult::cache::BasicAccountRestrictionCacheDelta">
+<area shape="rect" id="node1" title="Basic delta on top of the account restriction cache." alt="" coords="255,212,455,251"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="23,5,190,31"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1SizeMixin.html" title="A mixin for adding size support to a cache." alt="" coords="5,55,207,93"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,117,207,156"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1ConstAccessorMixin.html" title="A mixin for adding const access support to a cache." alt="" coords="5,180,207,219"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,243,207,281"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1PatriciaTreeDeltaMixin.html" title="A mixin for adding patricia tree support to a delta cache." alt="" coords="5,305,207,344"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1BasicInsertRemoveMixin.html" title="A mixin for adding basic insert and remove support to a cache." alt="" coords="5,368,207,407"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,431,207,469"/>
+</map>

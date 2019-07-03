@@ -1,5 +1,0 @@
-<map id="catapult::state::MultisigCosignatoriesMixin::cosignatories" name="catapult::state::MultisigCosignatoriesMixin::cosignatories">
-<area shape="rect" id="node1" title="Gets cosignatory account keys." alt="" coords="219,37,439,76"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1state_1_1_multisig_entry_serializer.html#a296cadb684b960ade4a6fd3902cff675" title="Saves entry to output." alt="" coords="10,5,167,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1mongo_1_1plugins.html#af4275de52fea6d639176b6d0249783e3" title="Maps a multisig entry and accountAddress to the corresponding db model value." alt="" coords="5,68,171,107"/>
-</map>

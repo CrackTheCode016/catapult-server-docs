@@ -1,0 +1,8 @@
+<map id="catapult::io::OutputStream::flush" name="catapult::io::OutputStream::flush">
+<area shape="rect" id="node1" title=" " alt="" coords="312,177,488,216"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1CacheStorageAdapter.html#a5614ee8bd165e12cd8d22d44f828686d" title=" " alt="" coords="32,5,237,71"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BlockDifficultyCacheSummaryCacheStorage.html#af1f416fcad5bb21f01a2e2c08e92d13a" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="30,95,239,147"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1NamespaceCacheSummaryCacheStorage.html#a00c669b78664344d2050a10cb8fa1664" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="34,171,236,223"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1AccountStateCacheSummaryCacheStorage.html#a8b934363d983968b70ef8409756e7b36" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="18,247,251,299"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1cache.html#a2392f0677afddac5dcb23cbd9f0635ab" title="Saves supplementalData and chainHeight to output." alt="" coords="5,323,264,348"/>
+</map>

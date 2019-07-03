@@ -1,8 +1,0 @@
-<map id="catapult::deltaset::BaseSetDeltaIterationView::iterator::Contains" name="catapult::deltaset::BaseSetDeltaIterationView::iterator::Contains">
-<area shape="rect" id="node1" title=" " alt="" coords="737,44,924,96"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1deltaset_1_1_base_set_delta_iteration_view_1_1iterator.html#ada2d65adb0e46c4b2bd8c1a2c978bed6" title=" " alt="" coords="494,5,685,57"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1deltaset_1_1_base_set_delta_iteration_view_1_1iterator.html#a13bedd575739fcf38b1e715631df8be9" title=" " alt="" coords="490,81,689,133"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1deltaset_1_1_base_set_delta_iteration_view_1_1iterator.html#acad14ea415b4d63f78fa8a5d50f9d5ca" title=" " alt="" coords="240,44,442,96"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1deltaset_1_1_base_set_delta_iteration_view_1_1iterator.html#aaa2b413665fda4962d1f40afbfc03c8f" title="Creates an iterator around the original elements and deltas at position given a total of size element..." alt="" coords="5,5,192,57"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1deltaset_1_1_base_set_delta_iteration_view_1_1iterator.html#a969ac7b014c4581d57cbfe25bd548635" title="Advances the iterator to the next position." alt="" coords="5,81,192,133"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="catapult::tools::MultiNodeConnector::pool" name="catapult::tools::MultiNodeConnector::pool">
+<area shape="rect" id="node1" title="Gets the underlying pool used by the connector." alt="" coords="489,5,660,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tools_1_1NetworkCensusTool.html#a0fc99b014b5992e09fe8cc85c0fc931c" title=" " alt="" coords="213,5,441,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tools_1_1NetworkCensusTool.html#a23810a9982832a8d665e1be3084a0d23" title="Run the tool passing options collected from the command line." alt="" coords="5,5,165,44"/>
+</map>

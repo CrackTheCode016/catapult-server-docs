@@ -1,4 +1,0 @@
-<map id="catapult::deltaset::ConditionalContainer&lt; TKeyTraits, TStorageSet, TMemorySet &gt;" name="catapult::deltaset::ConditionalContainer&lt; TKeyTraits, TStorageSet, TMemorySet &gt;">
-<area shape="rect" id="node1" title="A conditional container that delegates to either a storage or a memory backed container." alt="" coords="5,105,188,171"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1deltaset_1_1detail_1_1_stl_container_traits.html" title=" " alt="" coords="9,5,184,57"/>
-</map>

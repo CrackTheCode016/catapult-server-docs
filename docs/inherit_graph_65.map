@@ -1,6 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structcatapult_1_1state_1_1_account_restrictions_serializer.html" title="Policy for saving and loading account restrictions data." alt="" coords="336,5,495,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_account_restriction_cache_storage.html" title="Policy for saving and loading account restriction cache data." alt="" coords="590,40,760,79"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_cache_storage_from_descriptor.html" title=" " alt="" coords="5,68,240,120"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1_cache_storage_for_basic_insert_remove_cache.html" title=" " alt="" coords="288,68,542,120"/>
+<area shape="rect" id="node1" href="$structcatapult_1_1state_1_1AccountRestrictionsSerializer.html" title="Policy for saving and loading account restrictions data." alt="" coords="336,5,495,44"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1AccountRestrictionCacheStorage.html" title="Policy for saving and loading account restriction cache data." alt="" coords="590,40,760,79"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1CacheStorageFromDescriptor.html" title=" " alt="" coords="5,68,240,120"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1CacheStorageForBasicInsertRemoveCache.html" title=" " alt="" coords="288,68,542,120"/>
 </map>

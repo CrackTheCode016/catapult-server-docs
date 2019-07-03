@@ -1,6 +1,0 @@
-<map id="catapult::net::ServerChallengeRequest" name="catapult::net::ServerChallengeRequest">
-<area shape="rect" id="node1" title="Packet representing a challenge request from a server to a client." alt="" coords="111,152,312,191"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1ionet_1_1_packet.html" title="A packet header with a data payload." alt="" coords="135,79,288,104"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1ionet_1_1_packet_header.html" title="A packet header that all transferable information is expected to have." alt="" coords="5,5,202,31"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="226,5,413,31"/>
-</map>

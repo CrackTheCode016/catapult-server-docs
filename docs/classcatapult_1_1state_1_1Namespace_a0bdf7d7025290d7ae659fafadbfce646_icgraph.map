@@ -1,0 +1,5 @@
+<map id="catapult::state::Namespace::path" name="catapult::state::Namespace::path">
+<area shape="rect" id="node1" title="Gets the path." alt="" coords="294,31,477,69"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1RootNamespace.html#aa6ef5b11d43635d44b9ab57532a51543" title="Adds the child namespace ns." alt="" coords="5,5,246,31"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1NamespaceFlatMapTypesSerializer.html#a173929ef6ca09eb5e40f1fc934237392" title="Serializes element to string." alt="" coords="31,55,220,107"/>
+</map>

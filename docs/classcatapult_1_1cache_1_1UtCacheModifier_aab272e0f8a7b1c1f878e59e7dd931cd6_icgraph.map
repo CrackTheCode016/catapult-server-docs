@@ -1,0 +1,4 @@
+<map id="catapult::cache::UtCacheModifier::count" name="catapult::cache::UtCacheModifier::count">
+<area shape="rect" id="node1" title="Gets the number of transactions an account with public key has placed into the cache." alt="" coords="224,5,394,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1UtCacheModifierProxy.html#a435004794c0fbbdbb0da4b613f55575b" title="Gets the number of transactions an account with public key has placed into the cache." alt="" coords="5,5,176,44"/>
+</map>

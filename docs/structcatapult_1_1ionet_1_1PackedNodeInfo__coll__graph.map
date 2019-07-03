@@ -1,0 +1,7 @@
+<map id="catapult::ionet::PackedNodeInfo" name="catapult::ionet::PackedNodeInfo">
+<area shape="rect" id="node1" title="Information about a node and its interactions." alt="" coords="525,88,735,113"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1TrailingVariableDataLayout.html" title=" " alt="" coords="179,5,404,57"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="209,81,374,120"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1Key__tag.html" title=" " alt="" coords="5,88,130,113"/>
+<area shape="rect" id="node5" href="$structcatapult_1_1ionet_1_1PackedNodeInteractions.html" title="Node interactions." alt="" coords="198,144,386,183"/>
+</map>

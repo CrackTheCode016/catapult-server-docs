@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classcatapult_1_1ionet_1_1_batch_packet_reader.html" title="An read&#45;optimized interface for reading packets." alt="" coords="5,5,192,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_socket.html" title=" " alt="" coords="240,40,433,65"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_packet_io.html" title="An interface for reading and writing packets." alt="" coords="17,68,180,93"/>
+<area shape="rect" id="node1" href="$classcatapult_1_1ionet_1_1BatchPacketReader.html" title="An read&#45;optimized interface for reading packets." alt="" coords="5,5,192,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1PacketSocket.html" title=" " alt="" coords="240,40,433,65"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1PacketIo.html" title="An interface for reading and writing packets." alt="" coords="17,68,180,93"/>
 </map>

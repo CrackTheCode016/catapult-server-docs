@@ -1,5 +1,5 @@
 <map id="catapult::nodediscovery::IsNodeCompatible" name="catapult::nodediscovery::IsNodeCompatible">
 <area shape="rect" id="node1" title="Determines if node is compatible with expected network (networkIdentifier) and identity (identityKey)..." alt="" coords="5,37,167,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="215,5,358,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_node.html#a5fe7fdd2c161ca5e176b700f533d52b6" title="Gets tne metadata." alt="" coords="215,68,358,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1Node.html#a5c15c0960b1152789f5a663c683eda13" title="Gets the unique identifier (a public key)." alt="" coords="215,5,358,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1Node.html#a5fe7fdd2c161ca5e176b700f533d52b6" title="Gets tne metadata." alt="" coords="215,68,358,107"/>
 </map>

@@ -1,0 +1,12 @@
+<map id="catapult::chain::PtUpdater::Impl::checkCompleteness" name="catapult::chain::PtUpdater::Impl::checkCompleteness">
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,187,169"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a614e8c2ab45ae191f98c00464726d515" title=" " alt="" coords="250,36,425,75"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a4f97cdb3c32593030fd05f983b660841" title=" " alt="" coords="250,99,425,137"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1chain_1_1PtUpdater_1_1Impl.html#a2534872e7a7ad8ed05dd22e7e346ff59" title=" " alt="" coords="250,161,425,200"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1MemoryCacheProxy.html#af4babccc091c51d69a231201508c3893" title="Gets a read only view based on this cache." alt="" coords="235,224,440,263"/>
+<area shape="rect" id="node3" href="$namespacecatapult_1_1partialtransaction.html#a143289bb6891ad6005ba5b6911bd3c5e" title="Stitches a weak cosigned transaction info into a full aggregate transaction." alt="" coords="513,36,690,75"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1WeakCosignedTransactionInfo.html#ad350a72b1f0db059c1062dc4d0b57e77" title="Gets the cosignatures." alt="" coords="763,5,972,44"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1WeakCosignedTransactionInfo.html#a960f29cfd1cdd66e239cff14895237f3" title="Gets the transaction." alt="" coords="763,68,972,107"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1MemoryCacheProxy.html#a3a98cca9b709f3cec2df078b0a5a56ea" title=" " alt="" coords="499,129,704,168"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1BasicTransactionsCacheModifierProxy.html#ab307e969debdaf7dbc60103e6aa4d8ac" title="Removes the transaction identified by hash from the cache." alt="" coords="488,192,715,231"/>
+</map>

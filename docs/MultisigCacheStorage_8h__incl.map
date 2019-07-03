@@ -1,0 +1,52 @@
+<map id="MultisigCacheStorage.h" name="MultisigCacheStorage.h">
+<area shape="rect" id="node1" title=" " alt="" coords="785,5,948,31"/>
+<area shape="rect" id="node2" href="$MultisigCacheTypes_8h.html" title=" " alt="" coords="1000,79,1152,104"/>
+<area shape="rect" id="node48" href="$MultisigEntrySerializer_8h.html" title=" " alt="" coords="758,79,976,104"/>
+<area shape="rect" id="node50" href="$src_2catapult_2cache_2CacheStorageInclude_8h.html" title=" " alt="" coords="17,852,213,891"/>
+<area shape="rect" id="node3" href="$MultisigEntry_8h.html" title=" " alt="" coords="995,159,1157,184"/>
+<area shape="rect" id="node5" href="$Hashers_8h.html" title=" " alt="" coords="1272,325,1354,351"/>
+<area shape="rect" id="node27" href="$CacheDescriptorAdapters_8h.html" title=" " alt="" coords="439,152,649,191"/>
+<area shape="rect" id="node4" href="$ArraySet_8h.html" title=" " alt="" coords="1010,245,1172,271"/>
+<area shape="rect" id="node19" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="796,485,911,511"/>
+<area shape="rect" id="node24" title=" " alt="" coords="888,325,928,351"/>
+<area shape="rect" id="node25" title=" " alt="" coords="952,325,1067,351"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1141,325,1248,351"/>
+<area shape="rect" id="node6" href="$ByteArray_8h.html" title=" " alt="" coords="899,632,989,657"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1203,405,1264,431"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1288,405,1338,431"/>
+<area shape="rect" id="node7" href="$HexFormatter_8h.html" title=" " alt="" coords="942,705,1055,731"/>
+<area shape="rect" id="node14" title=" " alt="" coords="841,779,893,804"/>
+<area shape="rect" id="node8" href="$StreamFormatGuard_8h.html" title=" " alt="" coords="1013,779,1168,804"/>
+<area shape="rect" id="node9" href="$Traits_8h.html" title=" " alt="" coords="1192,779,1290,804"/>
+<area shape="rect" id="node15" title=" " alt="" coords="917,779,990,804"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1427,779,1485,804"/>
+<area shape="rect" id="node10" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="731,852,914,891"/>
+<area shape="rect" id="node11" href="$BaseValue_8h.html" title=" " alt="" coords="709,939,805,964"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1020,1012,1079,1037"/>
+<area shape="rect" id="node13" title=" " alt="" coords="329,1012,381,1037"/>
+<area shape="rect" id="node20" href="$RawBuffer_8h.html" title=" " alt="" coords="1137,559,1258,584"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1100,632,1169,657"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1382,632,1436,657"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1244,632,1308,657"/>
+<area shape="rect" id="node28" href="$CacheConfiguration_8h.html" title=" " alt="" coords="1413,405,1563,431"/>
+<area shape="rect" id="node32" href="$CacheDatabase_8h.html" title=" " alt="" coords="539,245,779,271"/>
+<area shape="rect" id="node39" href="$UpdateSet_8h.html" title=" " alt="" coords="144,239,320,277"/>
+<area shape="rect" id="node41" href="$BaseSet_8h.html" title=" " alt="" coords="318,405,501,431"/>
+<area shape="rect" id="node45" href="$ConditionalContainer_8h.html" title=" " alt="" coords="104,399,293,437"/>
+<area shape="rect" id="node46" href="$OrderedSet_8h.html" title=" " alt="" coords="344,239,515,277"/>
+<area shape="rect" id="node29" href="$FileSize_8h.html" title=" " alt="" coords="1204,485,1362,511"/>
+<area shape="rect" id="node30" href="$Casting_8h.html" title=" " alt="" coords="1035,559,1112,584"/>
+<area shape="rect" id="node31" href="$exceptions_8h.html" title=" " alt="" coords="620,632,767,657"/>
+<area shape="rect" id="node33" href="$RdbTypedColumnContainer_8h.html" title=" " alt="" coords="561,325,757,351"/>
+<area shape="rect" id="node36" href="$RocksDatabase_8h.html" title=" " alt="" coords="1053,405,1179,431"/>
+<area shape="rect" id="node34" href="$KeySerializers_8h.html" title=" " alt="" coords="760,405,878,431"/>
+<area shape="rect" id="node35" href="$RdbColumnContainer_8h.html" title=" " alt="" coords="576,405,736,431"/>
+<area shape="rect" id="node37" href="$RocksPruningFilter_8h.html" title=" " alt="" coords="934,485,1079,511"/>
+<area shape="rect" id="node38" title=" " alt="" coords="537,559,607,584"/>
+<area shape="rect" id="node40" href="$DeltaElements_8h.html" title=" " alt="" coords="42,559,262,584"/>
+<area shape="rect" id="node42" href="$BaseSetCommitPolicy_8h.html" title=" " alt="" coords="154,485,318,511"/>
+<area shape="rect" id="node43" href="$BaseSetDefaultTraits_8h.html" title=" " alt="" coords="493,485,651,511"/>
+<area shape="rect" id="node44" href="$BaseSetFindIterator_8h.html" title=" " alt="" coords="280,705,430,731"/>
+<area shape="rect" id="node47" href="$PruningBoundary_8h.html" title=" " alt="" coords="258,325,393,351"/>
+<area shape="rect" id="node49" href="$Stream_8h.html" title=" " alt="" coords="797,159,937,184"/>
+</map>

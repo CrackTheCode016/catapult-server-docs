@@ -1,9 +1,0 @@
-<map id="catapult::io::FileQueueWriter::flush" name="catapult::io::FileQueueWriter::flush">
-<area shape="rect" id="node1" title=" " alt="" coords="5,113,195,152"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1_index_file.html#a49fbbf549573362717f1266c10c99fe7" title="Increments the index value by one and returns the new value." alt="" coords="243,113,391,152"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1_index_file.html#a47835027fd86fa37a1f5a0e265c5de55" title="true if the index file exists." alt="" coords="451,5,599,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1_index_file.html#adad14744c9d6b1ba0f202fa803d6ec7f" title=" " alt="" coords="659,97,807,136"/>
-<area shape="rect" id="node5" href="$namespacecatapult_1_1io.html#a52de5e90503e45206202c60a287cf256" title="Reads value from input." alt="" coords="455,120,595,145"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1io_1_1_index_file.html#adb43265aa6e6215e122a0e0723e9978a" title="Sets the index value to value." alt="" coords="439,169,611,195"/>
-<area shape="rect" id="node7" href="$namespacecatapult_1_1io.html#a8613aa5dbcb9b6bb71adf19a828c495a" title="Writes value into output." alt="" coords="663,195,802,220"/>
-</map>

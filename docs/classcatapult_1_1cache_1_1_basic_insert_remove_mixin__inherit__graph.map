@@ -1,9 +1,0 @@
-<map id="catapult::cache::BasicInsertRemoveMixin&lt; TSet, TCacheDescriptor &gt;" name="catapult::cache::BasicInsertRemoveMixin&lt; TSet, TCacheDescriptor &gt;">
-<area shape="rect" id="node1" title="A mixin for adding basic insert and remove support to a cache." alt="" coords="5,47,273,85"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_account_restriction_cache_delta.html" title="Basic delta on top of the account restriction cache." alt="" coords="350,5,549,57"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_basic_hash_cache_delta.html" title="Basic delta on top of the hash cache." alt="" coords="321,81,577,120"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_read_only_view_supplier.html" title=" " alt="" coords="626,5,880,57"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_account_restriction_cache_delta.html" title="Delta on top of the account restriction cache." alt="" coords="940,12,1106,51"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_read_only_view_supplier.html" title=" " alt="" coords="625,81,881,120"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1cache_1_1_hash_cache_delta.html" title="Delta on top of the hash cache." alt="" coords="929,81,1117,120"/>
-</map>

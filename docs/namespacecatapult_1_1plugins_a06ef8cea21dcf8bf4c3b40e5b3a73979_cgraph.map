@@ -1,13 +1,13 @@
 <map id="catapult::plugins::RegisterMultisigSubsystem" name="catapult::plugins::RegisterMultisigSubsystem">
 <area shape="rect" id="node1" title="Registers multisig support with manager." alt="" coords="5,643,187,681"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a93ef30f395418b820bcf53c5b2573cbe" title="Adds support for a sub cache described by pSubCache." alt="" coords="242,5,468,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a44b626f44afa4b8c99292836df29a8b5" title="Adds a diagnostic counter hook." alt="" coords="253,68,456,120"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#ade167f60b0bc7eaa07e2a4adde4bfea9" title="Adds an observer hook." alt="" coords="241,144,468,183"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a7f21a94da7a0ae3d2f5f3dcc69ec7e8f" title="Adds a stateful validator hook." alt="" coords="262,207,448,259"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="257,283,452,335"/>
-<area shape="rect" id="node8" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="250,359,460,411"/>
-<area shape="rect" id="node10" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#ad3dc9345709b4cdb83cd6a4606609d0d" title="Gets the cache configuration for cache with name." alt="" coords="258,435,451,473"/>
-<area shape="rect" id="node11" href="$classcatapult_1_1plugins_1_1_plugin_manager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="278,497,432,536"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1plugins_1_1PluginManager.html#a93ef30f395418b820bcf53c5b2573cbe" title="Adds support for a sub cache described by pSubCache." alt="" coords="242,5,468,44"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1plugins_1_1PluginManager.html#a44b626f44afa4b8c99292836df29a8b5" title="Adds a diagnostic counter hook." alt="" coords="253,68,456,120"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1plugins_1_1PluginManager.html#ade167f60b0bc7eaa07e2a4adde4bfea9" title="Adds an observer hook." alt="" coords="241,144,468,183"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1plugins_1_1PluginManager.html#a7f21a94da7a0ae3d2f5f3dcc69ec7e8f" title="Adds a stateful validator hook." alt="" coords="262,207,448,259"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1plugins_1_1PluginManager.html#a2b7702bcb6987af35c918bf097836338" title="Adds a stateless validator hook." alt="" coords="257,283,452,335"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1plugins_1_1PluginManager.html#a1bc78d5641f9f31eeefba5cc39d0b426" title="Adds support for a transaction described by pTransactionPlugin." alt="" coords="250,359,460,411"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1plugins_1_1PluginManager.html#ad3dc9345709b4cdb83cd6a4606609d0d" title="Gets the cache configuration for cache with name." alt="" coords="258,435,451,473"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1plugins_1_1PluginManager.html#afd37ba8d67f8b642b1b937dbc51e5626" title="Gets the block chain configuration." alt="" coords="278,497,432,536"/>
 <area shape="rect" id="node12" href="$namespacecatapult_1_1plugins.html#aefa55fc26e3472a69c17a38ce9ef7355" title="Creates a modify multisig account transaction plugin." alt="" coords="258,560,452,612"/>
 <area shape="rect" id="node13" href="$namespacecatapult_1_1validators.html#a9c41a43ae4e0158251fd5682b70de6eb" title=" " alt="" coords="248,636,461,688"/>
 <area shape="rect" id="node14" href="$namespacecatapult_1_1validators.html#ae6a6b78d4dd8ea5016f3ba7ae4efedb9" title=" " alt="" coords="259,712,451,764"/>
@@ -18,7 +18,7 @@
 <area shape="rect" id="node19" href="$namespacecatapult_1_1validators.html#a3ccf9047949f1f5b9c54fa5c3ded86dc" title=" " alt="" coords="245,1092,464,1144"/>
 <area shape="rect" id="node20" href="$namespacecatapult_1_1validators.html#a561b26be1e0192f3886511733ed97d14" title=" " alt="" coords="240,1168,470,1220"/>
 <area shape="rect" id="node21" href="$namespacecatapult_1_1validators.html#a3d2952db3ef1eb8c7d63f4722b381108" title=" " alt="" coords="240,1244,469,1296"/>
-<area shape="rect" id="node22" href="$classcatapult_1_1cache_1_1_catapult_cache.html#ab29534a0c56ad0958c9bd78f88cf82c7" title="Gets a specific sub cache." alt="" coords="271,1320,439,1359"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_catapult_cache_builder.html#a3c3bbf959d2ca82fe354eb342b4f7111" title="Adds pSubCache to the builder with the specified storage traits." alt="" coords="540,5,709,44"/>
-<area shape="rect" id="node9" href="$classcatapult_1_1model_1_1_plugin_registry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="522,365,727,404"/>
+<area shape="rect" id="node22" href="$classcatapult_1_1cache_1_1CatapultCache.html#ab29534a0c56ad0958c9bd78f88cf82c7" title="Gets a specific sub cache." alt="" coords="271,1320,439,1359"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1CatapultCacheBuilder.html#a3c3bbf959d2ca82fe354eb342b4f7111" title="Adds pSubCache to the builder with the specified storage traits." alt="" coords="540,5,709,44"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1model_1_1PluginRegistry.html#a7e6ad2d2a5f4e3f6cf3edcc98747ba4e" title="Registers pPlugin with the registry." alt="" coords="522,365,727,404"/>
 </map>

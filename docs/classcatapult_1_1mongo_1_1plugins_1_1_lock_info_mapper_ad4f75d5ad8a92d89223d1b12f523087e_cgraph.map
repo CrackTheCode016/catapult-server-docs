@@ -1,8 +1,0 @@
-<map id="catapult::mongo::plugins::LockInfoMapper::ToDbModel" name="catapult::mongo::plugins::LockInfoMapper::ToDbModel">
-<area shape="rect" id="node1" title=" " alt="" coords="5,100,205,139"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1plugins_1_1_lock_info_mapper.html#a1c66cc4619c2d29f5823bf13f9dd5a9c" title=" " alt="" coords="269,68,494,107"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1mongo_1_1plugins_1_1_lock_info_mapper.html#ac993318186e8ae77fed267728c000a3d" title=" " alt="" coords="253,131,511,169"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="585,5,708,44"/>
-<area shape="rect" id="node4" href="$namespacecatapult_1_1mongo_1_1mappers.html#abe995238cacf9b478fd4c7eb08357792" title="Converts raw array (pData) of size elements into bson binary type." alt="" coords="559,68,735,107"/>
-<area shape="rect" id="node5" href="$namespacecatapult_1_1mongo_1_1mappers.html#aa06da8a74993f2239f74f4e43014edd6" title="Converts base value to int64_t." alt="" coords="559,131,735,169"/>
-</map>

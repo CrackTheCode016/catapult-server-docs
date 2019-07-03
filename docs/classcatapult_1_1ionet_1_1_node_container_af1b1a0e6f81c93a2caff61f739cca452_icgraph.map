@@ -1,5 +1,0 @@
-<map id="catapult::ionet::NodeContainer::view" name="catapult::ionet::NodeContainer::view">
-<area shape="rect" id="node1" title="Gets a read only view of the nodes." alt="" coords="279,37,481,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1nodediscovery_1_1_peers_processor.html#a841e1ba52d0440245cd68e0fe9d87f16" title="Processes all candidate nodes (candidateNodes) and forwards newly discovered partner nodes." alt="" coords="29,5,207,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1handlers.html#adf95e852bce73e9b6457e77cf10475cc" title="Registers a diagnostic nodes handler in handlers that responds with info about all (active) partner n..." alt="" coords="5,68,231,107"/>
-</map>

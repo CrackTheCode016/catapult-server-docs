@@ -1,6 +1,0 @@
-<map id="catapult::state::RootNamespace::id" name="catapult::state::RootNamespace::id">
-<area shape="rect" id="node1" title="Gets the namespace id." alt="" coords="276,75,504,100"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html#ac59718570eaf02df72dffca232a5c71b" title="Inserts the root namespace ns into the cache." alt="" coords="5,5,228,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_namespace_entry.html#a0301adff18000a0cb190a512ad4df1d5" title="Creates an entry around ns and root." alt="" coords="25,68,208,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1state_1_1_root_namespace.html#ab9ab94bf18e0796193bb12209c4ac05b" title=" " alt="" coords="11,131,222,169"/>
-</map>

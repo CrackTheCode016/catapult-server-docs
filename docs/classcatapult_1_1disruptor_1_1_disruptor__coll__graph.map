@@ -1,5 +1,0 @@
-<map id="catapult::disruptor::Disruptor" name="catapult::disruptor::Disruptor">
-<area shape="rect" id="node1" title="Disruptor wraps around CircularBuffer for usage within Consumer Dispatcher." alt="" coords="318,31,445,69"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,5,193,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_circular_buffer.html" title=" " alt="" coords="12,55,186,107"/>
-</map>

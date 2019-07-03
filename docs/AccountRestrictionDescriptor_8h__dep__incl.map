@@ -1,0 +1,46 @@
+<map id="AccountRestrictionDescriptor.h" name="AccountRestrictionDescriptor.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1714,5,1918,31"/>
+<area shape="rect" id="node2" href="$AccountRestrictionNotifications_8h.html" title=" " alt="" coords="1272,519,1488,544"/>
+<area shape="rect" id="node27" href="$AccountRestriction_8h.html" title=" " alt="" coords="1824,79,1968,104"/>
+<area shape="rect" id="node3" href="$txes_2restriction__account_2src_2observers_2Observers_8h.html" title=" " alt="" coords="954,599,1048,624"/>
+<area shape="rect" id="node13" href="$AccountRestrictionTransactionPlugin_8cpp.html" title=" " alt="" coords="729,592,930,631"/>
+<area shape="rect" id="node14" href="$txes_2restriction__account_2src_2validators_2Validators_8h.html" title=" " alt="" coords="2263,599,2353,624"/>
+<area shape="rect" id="node4" href="$MemoryHashCacheSystem_8cpp.html" title=" " alt="" coords="184,685,392,711"/>
+<area shape="rect" id="node5" href="$AccountLinkPlugin_8cpp.html" title=" " alt="" coords="417,685,573,711"/>
+<area shape="rect" id="node6" href="$HashLockPlugin_8cpp.html" title=" " alt="" coords="597,685,739,711"/>
+<area shape="rect" id="node7" href="$SecretLockPlugin_8cpp.html" title=" " alt="" coords="764,685,914,711"/>
+<area shape="rect" id="node8" href="$MosaicPlugin_8cpp.html" title=" " alt="" coords="938,685,1064,711"/>
+<area shape="rect" id="node9" href="$MultisigPlugin_8cpp.html" title=" " alt="" coords="1088,685,1216,711"/>
+<area shape="rect" id="node10" href="$NamespacePlugin_8cpp.html" title=" " alt="" coords="5,685,160,711"/>
+<area shape="rect" id="node11" href="$AccountRestrictionValueModificationObserver_8cpp.html" title=" " alt="" coords="2034,679,2270,717"/>
+<area shape="rect" id="node12" href="$AccountRestrictionPlugin_8cpp.html" title=" " alt="" coords="2708,685,2903,711"/>
+<area shape="rect" id="node15" href="$AccountAddressRestrictionNoSelfModificationValidator_8cpp.html" title=" " alt="" coords="1290,679,1499,717"/>
+<area shape="rect" id="node16" href="$AccountOperationRestrictionModificationValuesValidator_8cpp.html" title=" " alt="" coords="1801,679,2010,717"/>
+<area shape="rect" id="node17" href="$AccountOperationRestrictionNoSelfBlockingValidator_8cpp.html" title=" " alt="" coords="3910,765,4101,804"/>
+<area shape="rect" id="node18" href="$AccountRestrictionModificationTypesValidator_8cpp.html" title=" " alt="" coords="1573,679,1777,717"/>
+<area shape="rect" id="node19" href="$AccountRestrictionRedundantModificationValidator_8cpp.html" title=" " alt="" coords="2927,679,3124,717"/>
+<area shape="rect" id="node20" href="$AccountRestrictionTypeValidator_8cpp.html" title=" " alt="" coords="2447,685,2684,711"/>
+<area shape="rect" id="node21" href="$AccountRestrictionValueModificationValidator_8cpp.html" title=" " alt="" coords="3148,679,3385,717"/>
+<area shape="rect" id="node22" href="$AccountRestrictionView_8cpp.html" title=" " alt="" coords="2117,772,2302,797"/>
+<area shape="rect" id="node23" href="$AddressInteractionValidator_8cpp.html" title=" " alt="" coords="3268,772,3476,797"/>
+<area shape="rect" id="node24" href="$MaxAccountRestrictionValuesValidator_8cpp.html" title=" " alt="" coords="3409,679,3607,717"/>
+<area shape="rect" id="node25" href="$MosaicRecipientValidator_8cpp.html" title=" " alt="" coords="3500,772,3695,797"/>
+<area shape="rect" id="node26" href="$TransactionValidator_8cpp.html" title=" " alt="" coords="3719,772,3886,797"/>
+<area shape="rect" id="node28" href="$AccountRestriction_8cpp.html" title=" " alt="" coords="1817,152,1975,177"/>
+<area shape="rect" id="node29" href="$TypedAccountRestriction_8h.html" title=" " alt="" coords="2410,152,2590,177"/>
+<area shape="rect" id="node30" href="$AccountRestrictions_8h.html" title=" " alt="" coords="2834,225,2985,251"/>
+<area shape="rect" id="node31" href="$AccountRestrictionsMapper_8h.html" title=" " alt="" coords="3473,299,3668,324"/>
+<area shape="rect" id="node34" href="$AccountRestrictionCacheTypes_8h.html" title=" " alt="" coords="3037,299,3254,324"/>
+<area shape="rect" id="node42" href="$AccountRestrictions_8cpp.html" title=" " alt="" coords="3278,299,3442,324"/>
+<area shape="rect" id="node43" href="$AccountRestrictionsSerializer_8h.html" title=" " alt="" coords="2807,299,3012,324"/>
+<area shape="rect" id="node44" href="$AccountRestrictionsSerializer_8cpp.html" title=" " alt="" coords="2602,372,2822,397"/>
+<area shape="rect" id="node32" href="$AccountRestrictionsMapper_8cpp.html" title=" " alt="" coords="3466,372,3675,397"/>
+<area shape="rect" id="node33" href="$MongoAccountRestrictionCacheStorage_8cpp.html" title=" " alt="" coords="4027,679,4239,717"/>
+<area shape="rect" id="node35" href="$AccountRestrictionCacheSerializers_8h.html" title=" " alt="" coords="3098,372,3342,397"/>
+<area shape="rect" id="node36" href="$AccountRestrictionBaseSets_8h.html" title=" " alt="" coords="3273,445,3474,471"/>
+<area shape="rect" id="node41" href="$AccountRestrictionCacheStorage_8h.html" title=" " alt="" coords="2846,372,3074,397"/>
+<area shape="rect" id="node40" href="$AccountRestrictionCacheView_8h.html" title=" " alt="" coords="3215,519,3425,544"/>
+<area shape="rect" id="node37" href="$AccountRestrictionCacheDelta_8h.html" title=" " alt="" coords="3449,519,3663,544"/>
+<area shape="rect" id="node38" href="$AccountRestrictionCache_8h.html" title=" " alt="" coords="3465,599,3647,624"/>
+<area shape="rect" id="node39" href="$AccountRestrictionView_8h.html" title=" " alt="" coords="3732,685,3903,711"/>
+</map>

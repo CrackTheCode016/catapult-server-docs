@@ -1,5 +1,5 @@
 <map id="catapult::process::WaitForTerminationSignal" name="catapult::process::WaitForTerminationSignal">
 <area shape="rect" id="node1" title="Pauses until the program receives a termination signal." alt="" coords="5,24,179,63"/>
-<area shape="rect" id="node2" href="$namespaceforwards_validation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="227,5,382,31"/>
-<area shape="rect" id="node3" href="$namespacecolor_print.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="240,55,368,80"/>
+<area shape="rect" id="node2" href="$namespaceforwardsValidation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="227,5,382,31"/>
+<area shape="rect" id="node3" href="$namespacecolorPrint.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="240,55,368,80"/>
 </map>

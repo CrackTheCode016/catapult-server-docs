@@ -1,4 +1,0 @@
-<map id="catapult::timesync::ImportanceAwareNodeSelector::isCandidate" name="catapult::timesync::ImportanceAwareNodeSelector::isCandidate">
-<area shape="rect" id="node1" title=" " alt="" coords="267,5,481,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1timesync_1_1_importance_aware_node_selector.html#a2e24bb688851b2b235c11de0385d4447" title="Selects nodes from nodeContainerView that have a minimum importance at height according to importance..." alt="" coords="5,5,219,57"/>
-</map>

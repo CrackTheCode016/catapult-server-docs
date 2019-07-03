@@ -1,0 +1,5 @@
+<map id="catapult::cache::BasicAccountStateCacheView::harvestingMosaicId" name="catapult::cache::BasicAccountStateCacheView::harvestingMosaicId">
+<area shape="rect" id="node1" title="Gets the harvesting mosaic id." alt="" coords="548,5,790,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ReadOnlyAccountStateCache.html#ab481fd4a2948d8566a997b2b5d900beb" title="Gets the harvesting mosaic id." alt="" coords="238,5,500,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1ImportanceView.html#a858838455876cecadb77641a8b238be4" title="Returns true if publicKey can harvest at height." alt="" coords="5,5,190,44"/>
+</map>

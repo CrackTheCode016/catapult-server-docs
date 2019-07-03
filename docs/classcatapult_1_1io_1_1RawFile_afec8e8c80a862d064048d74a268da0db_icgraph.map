@@ -1,0 +1,6 @@
+<map id="catapult::io::RawFile::write" name="catapult::io::RawFile::write">
+<area shape="rect" id="node1" title=" " alt="" coords="479,40,620,79"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1BufferedOutputFileStream.html#a5092e5ab65759e5fa102d5f452e2a090" title=" " alt="" coords="247,11,431,49"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1io_1_1BufferedOutputFileStream.html#a3b01f7b57007802de94d9f73f65ecc03" title=" " alt="" coords="11,68,194,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1FileBlockStorage.html#a6c981ab30cc4644b3c2e25865f6fda96" title="Saves blockElement." alt="" coords="5,5,199,44"/>
+</map>

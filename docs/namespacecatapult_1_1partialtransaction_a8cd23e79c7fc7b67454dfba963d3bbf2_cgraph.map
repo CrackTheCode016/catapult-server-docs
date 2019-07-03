@@ -1,4 +1,4 @@
 <map id="catapult::partialtransaction::SplitCosignedTransactionInfos" name="catapult::partialtransaction::SplitCosignedTransactionInfos">
 <area shape="rect" id="node1" title=" " alt="" coords="5,5,214,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_entity_range.html#ac0207f6d3c5df0ff3d199c93284a0ed1" title="Merges all ranges into a single range." alt="" coords="262,5,454,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1EntityRange.html#ac0207f6d3c5df0ff3d199c93284a0ed1" title="Merges all ranges into a single range." alt="" coords="262,5,454,44"/>
 </map>

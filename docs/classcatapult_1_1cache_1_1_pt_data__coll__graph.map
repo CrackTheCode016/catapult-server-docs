@@ -1,8 +1,0 @@
-<map id="catapult::cache::PtData" name="catapult::cache::PtData">
-<area shape="rect" id="node1" title=" " alt="" coords="1229,61,1388,87"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="209,65,427,104"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1model_1_1_entity_info.html" title=" " alt="" coords="543,19,718,57"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1_hash256__tag.html" title=" " alt="" coords="5,72,160,97"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1_detached_transaction_info.html" title=" " alt="" coords="895,19,1071,57"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="235,5,402,31"/>
-</map>

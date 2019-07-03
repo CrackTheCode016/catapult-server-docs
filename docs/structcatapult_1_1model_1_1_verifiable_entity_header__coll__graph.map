@@ -1,7 +1,0 @@
-<map id="catapult::model::VerifiableEntityHeader" name="catapult::model::VerifiableEntityHeader">
-<area shape="rect" id="node1" title="Binary layout for a verifiable entity header." alt="" coords="576,37,750,76"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_size_prefixed_entity.html" title="Binary layout for a size prefixed entity." alt="" coords="258,5,452,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_non_copyable.html" title="A class that can neither be copied nor moved." alt="" coords="5,12,193,37"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_byte_array.html" title=" " alt="" coords="242,68,467,107"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1_signature__tag.html" title=" " alt="" coords="20,75,178,100"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="catapult&#45;server/src/catapult/extensions/LocalNodeStateRef.h" name="catapult&#45;server/src/catapult/extensions/LocalNodeStateRef.h">
-<area shape="rect" id="node1" title=" " alt="" coords="445,5,597,57"/>
-<area shape="rect" id="node2" href="$_local_node_state_file_storage_8cpp.html" title=" " alt="" coords="5,105,219,157"/>
-<area shape="rect" id="node3" href="$_nemesis_block_loader_8cpp.html" title=" " alt="" coords="243,105,418,157"/>
-<area shape="rect" id="node4" href="$_multi_block_loader_8cpp.html" title=" " alt="" coords="442,105,600,157"/>
-<area shape="rect" id="node5" href="$_recovery_orchestrator_8cpp.html" title=" " alt="" coords="625,105,805,157"/>
-<area shape="rect" id="node6" href="$_local_node_8cpp.html" title=" " alt="" coords="828,105,972,157"/>
-</map>

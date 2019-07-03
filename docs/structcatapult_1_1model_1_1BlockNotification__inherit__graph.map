@@ -1,0 +1,4 @@
+<map id="catapult::model::BlockNotification" name="catapult::model::BlockNotification">
+<area shape="rect" id="node1" title="Notifies the arrival of a block." alt="" coords="5,79,223,104"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="22,5,207,31"/>
+</map>

@@ -1,6 +1,6 @@
 var namespacecatapult_1_1mongo_1_1plugins =
 [
-    [ "LockInfoMapper", "classcatapult_1_1mongo_1_1plugins_1_1_lock_info_mapper.html", "classcatapult_1_1mongo_1_1plugins_1_1_lock_info_mapper" ],
-    [ "MongoLockInfoCacheStorageTraits", "structcatapult_1_1mongo_1_1plugins_1_1_mongo_lock_info_cache_storage_traits.html", "structcatapult_1_1mongo_1_1plugins_1_1_mongo_lock_info_cache_storage_traits" ],
-    [ "NamespaceDescriptor", "structcatapult_1_1mongo_1_1plugins_1_1_namespace_descriptor.html", "structcatapult_1_1mongo_1_1plugins_1_1_namespace_descriptor" ]
+    [ "LockInfoMapper", "classcatapult_1_1mongo_1_1plugins_1_1LockInfoMapper.html", "classcatapult_1_1mongo_1_1plugins_1_1LockInfoMapper" ],
+    [ "MongoLockInfoCacheStorageTraits", "structcatapult_1_1mongo_1_1plugins_1_1MongoLockInfoCacheStorageTraits.html", "structcatapult_1_1mongo_1_1plugins_1_1MongoLockInfoCacheStorageTraits" ],
+    [ "NamespaceDescriptor", "structcatapult_1_1mongo_1_1plugins_1_1NamespaceDescriptor.html", "structcatapult_1_1mongo_1_1plugins_1_1NamespaceDescriptor" ]
 ];

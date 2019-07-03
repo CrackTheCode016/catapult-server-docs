@@ -1,5 +1,0 @@
-<map id="catapult::model::TransactionChangeTracker::add" name="catapult::model::TransactionChangeTracker::add">
-<area shape="rect" id="node1" title="Marks transaction info (transactionInfo) as added." alt="" coords="5,5,194,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1_transaction_info.html#a584d2073227eb80f653c9ca2439b520c" title="Creates a (shallow) copy of this info." alt="" coords="242,5,430,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1_transaction_info.html#a57ed5ca2b01ca74423ddf197f03fca91" title="Creates a transaction info." alt="" coords="478,5,666,44"/>
-</map>

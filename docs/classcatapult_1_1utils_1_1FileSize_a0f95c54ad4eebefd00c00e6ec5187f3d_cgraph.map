@@ -1,0 +1,9 @@
+<map id="catapult::utils::FileSize::FromMegabytes" name="catapult::utils::FileSize::FromMegabytes">
+<area shape="rect" id="node1" title="Creates a file size from the given number of megabytes." alt="" coords="5,37,159,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1FileSize.html#acfa88fa369c3f69972192aad05e7161f" title="Creates a file size from the given number of kilobytes." alt="" coords="207,5,361,44"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1FileSize.html#a98acdd893a34ddee7c3848792a6bdad6" title="Returns the number of megabytes." alt="" coords="207,68,361,107"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1FileSize.html#a02d95ac2171f398d79079e2998e7a1b7" title="Creates a file size from the given number of bytes." alt="" coords="409,5,563,44"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1FileSize.html#ae2b3e8d87044a9bafb18699dfedfe3fc" title="Returns the number of kilobytes." alt="" coords="409,68,563,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1FileSize.html#acaf0adf03843be93e22aaa8352fa3cde" title="Returns the number of bytes." alt="" coords="611,68,765,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1FileSize.html#adf4440f82033f600734263830bedef6b" title="Creates a default (zero) file size." alt="" coords="611,5,765,44"/>
+</map>

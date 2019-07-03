@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classcatapult_1_1cache_1_1_cache_serializer_adapter.html" title=" " alt="" coords="5,5,256,57"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_multisig_entry_primary_serializer.html" title="Primary serializer for multisig cache." alt="" coords="304,12,468,51"/>
+<area shape="rect" id="node1" href="$classcatapult_1_1cache_1_1CacheSerializerAdapter.html" title=" " alt="" coords="5,5,256,57"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1MultisigEntryPrimarySerializer.html" title="Primary serializer for multisig cache." alt="" coords="304,12,468,51"/>
 </map>

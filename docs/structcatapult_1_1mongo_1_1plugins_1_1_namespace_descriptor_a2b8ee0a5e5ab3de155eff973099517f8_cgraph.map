@@ -1,4 +1,0 @@
-<map id="catapult::mongo::plugins::NamespaceDescriptor::IsRoot" name="catapult::mongo::plugins::NamespaceDescriptor::IsRoot">
-<area shape="rect" id="node1" title="Returns true if the described namespace is a root namespace." alt="" coords="5,5,212,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_checked_array.html#a72226b5c3d67892663ae0cff57dd6c46" title="Gets the size of the array." alt="" coords="260,5,419,44"/>
-</map>

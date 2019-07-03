@@ -1,52 +1,52 @@
-<map id="catapult&#45;server/tools/network/main.cpp" name="catapult&#45;server/tools/network/main.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="1805,5,1946,44"/>
-<area shape="rect" id="node2" href="$_tool_main_8h.html" title=" " alt="" coords="535,99,653,124"/>
-<area shape="rect" id="node9" href="$_key_value_output_builder_8h.html" title=" " alt="" coords="1395,272,1596,297"/>
-<area shape="rect" id="node19" href="$_network_census_tool_8h.html" title=" " alt="" coords="773,99,956,124"/>
-<area shape="rect" id="node43" href="$_tool_thread_utils_8h.html" title=" " alt="" coords="1593,99,1750,124"/>
-<area shape="rect" id="node46" title=" " alt="" coords="1774,99,1977,124"/>
-<area shape="rect" id="node47" title=" " alt="" coords="2000,92,2164,131"/>
-<area shape="rect" id="node48" href="$_functional_8h.html" title=" " alt="" coords="2367,185,2539,211"/>
-<area shape="rect" id="node49" title=" " alt="" coords="2240,99,2316,124"/>
-<area shape="rect" id="node50" title=" " alt="" coords="2340,99,2400,124"/>
-<area shape="rect" id="node3" href="$_tool_8h.html" title=" " alt="" coords="478,185,535,211"/>
-<area shape="rect" id="node4" href="$_command_parser_8h.html" title=" " alt="" coords="5,272,138,297"/>
-<area shape="rect" id="node5" href="$_options_8h.html" title=" " alt="" coords="34,352,112,377"/>
-<area shape="rect" id="node6" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="332,432,446,457"/>
-<area shape="rect" id="node7" href="$_clamped_base_value_8h.html" title=" " alt="" coords="1027,512,1210,551"/>
-<area shape="rect" id="node8" title=" " alt="" coords="571,519,623,544"/>
-<area shape="rect" id="node10" href="$_hex_formatter_8h.html" title=" " alt="" coords="1006,352,1119,377"/>
-<area shape="rect" id="node17" title=" " alt="" coords="1240,432,1298,457"/>
-<area shape="rect" id="node18" title=" " alt="" coords="1411,352,1479,377"/>
-<area shape="rect" id="node11" href="$_stream_format_guard_8h.html" title=" " alt="" coords="844,432,998,457"/>
-<area shape="rect" id="node14" href="$_traits_8h.html" title=" " alt="" coords="1119,432,1217,457"/>
-<area shape="rect" id="node16" title=" " alt="" coords="1022,432,1094,457"/>
-<area shape="rect" id="node12" href="$_non_copyable_8h.html" title=" " alt="" coords="750,519,863,544"/>
-<area shape="rect" id="node13" title=" " alt="" coords="887,519,955,544"/>
-<area shape="rect" id="node15" title=" " alt="" coords="1942,519,2025,544"/>
-<area shape="rect" id="node20" href="$_tool_configuration_utils_8h.html" title=" " alt="" coords="1140,185,1302,211"/>
-<area shape="rect" id="node23" href="$_tool_network_utils_8h.html" title=" " alt="" coords="162,272,293,297"/>
-<area shape="rect" id="node26" href="$_node_8h.html" title=" " alt="" coords="609,185,756,211"/>
-<area shape="rect" id="node31" href="$_future_utils_8h.html" title=" " alt="" coords="857,185,1046,211"/>
-<area shape="rect" id="node21" href="$_catapult_configuration_8h.html" title=" " alt="" coords="1210,265,1371,304"/>
-<area shape="rect" id="node22" href="$_extensions_configuration_8h.html" title=" " alt="" coords="1210,352,1387,377"/>
-<area shape="rect" id="node24" href="$_key_pair_8h.html" title=" " alt="" coords="202,352,371,377"/>
-<area shape="rect" id="node25" href="$_future_8h.html" title=" " alt="" coords="621,352,784,377"/>
-<area shape="rect" id="node27" href="$_node_roles_8h.html" title=" " alt="" coords="682,272,864,297"/>
-<area shape="rect" id="node28" href="$_network_info_8h.html" title=" " alt="" coords="395,352,589,377"/>
-<area shape="rect" id="node29" href="$_hashers_8h.html" title=" " alt="" coords="368,272,528,297"/>
-<area shape="rect" id="node30" title=" " alt="" coords="551,272,659,297"/>
-<area shape="rect" id="node32" href="$exceptions_8h.html" title=" " alt="" coords="989,272,1136,297"/>
-<area shape="rect" id="node42" title=" " alt="" coords="808,352,869,377"/>
-<area shape="rect" id="node33" href="$_logging_8h.html" title=" " alt="" coords="1809,352,1916,377"/>
-<area shape="rect" id="node34" href="$_path_utils_8h.html" title=" " alt="" coords="1537,432,1622,457"/>
-<area shape="rect" id="node35" title=" " alt="" coords="1646,425,1780,464"/>
-<area shape="rect" id="node36" title=" " alt="" coords="1803,432,1934,457"/>
-<area shape="rect" id="node37" title=" " alt="" coords="1958,425,2097,464"/>
-<area shape="rect" id="node38" title=" " alt="" coords="2121,425,2286,464"/>
-<area shape="rect" id="node39" title=" " alt="" coords="2310,425,2495,464"/>
-<area shape="rect" id="node40" title=" " alt="" coords="2519,432,2656,457"/>
-<area shape="rect" id="node41" title=" " alt="" coords="1322,432,1512,457"/>
-<area shape="rect" id="node44" href="$_exception_logging_8h.html" title=" " alt="" coords="1606,179,1764,217"/>
-<area shape="rect" id="node45" title=" " alt="" coords="1620,265,1798,304"/>
+<map id="main.cpp" name="main.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1838,5,1913,31"/>
+<area shape="rect" id="node2" href="$ToolMain_8h.html" title=" " alt="" coords="535,85,653,111"/>
+<area shape="rect" id="node9" href="$KeyValueOutputBuilder_8h.html" title=" " alt="" coords="1395,259,1596,284"/>
+<area shape="rect" id="node19" href="$NetworkCensusTool_8h.html" title=" " alt="" coords="773,85,956,111"/>
+<area shape="rect" id="node43" href="$ToolThreadUtils_8h.html" title=" " alt="" coords="1593,85,1750,111"/>
+<area shape="rect" id="node46" title=" " alt="" coords="1774,85,1977,111"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2000,79,2164,117"/>
+<area shape="rect" id="node48" href="$Functional_8h.html" title=" " alt="" coords="2367,172,2539,197"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2240,85,2316,111"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2340,85,2400,111"/>
+<area shape="rect" id="node3" href="$Tool_8h.html" title=" " alt="" coords="478,172,535,197"/>
+<area shape="rect" id="node4" href="$CommandParser_8h.html" title=" " alt="" coords="5,259,138,284"/>
+<area shape="rect" id="node5" href="$Options_8h.html" title=" " alt="" coords="34,339,112,364"/>
+<area shape="rect" id="node6" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="332,419,446,444"/>
+<area shape="rect" id="node7" href="$ClampedBaseValue_8h.html" title=" " alt="" coords="1027,499,1210,537"/>
+<area shape="rect" id="node8" title=" " alt="" coords="571,505,623,531"/>
+<area shape="rect" id="node10" href="$HexFormatter_8h.html" title=" " alt="" coords="1006,339,1119,364"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1240,419,1298,444"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1411,339,1479,364"/>
+<area shape="rect" id="node11" href="$StreamFormatGuard_8h.html" title=" " alt="" coords="844,419,998,444"/>
+<area shape="rect" id="node14" href="$Traits_8h.html" title=" " alt="" coords="1119,419,1217,444"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1022,419,1094,444"/>
+<area shape="rect" id="node12" href="$NonCopyable_8h.html" title=" " alt="" coords="750,505,863,531"/>
+<area shape="rect" id="node13" title=" " alt="" coords="887,505,955,531"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1942,505,2025,531"/>
+<area shape="rect" id="node20" href="$ToolConfigurationUtils_8h.html" title=" " alt="" coords="1140,172,1302,197"/>
+<area shape="rect" id="node23" href="$ToolNetworkUtils_8h.html" title=" " alt="" coords="162,259,293,284"/>
+<area shape="rect" id="node26" href="$Node_8h.html" title=" " alt="" coords="609,172,756,197"/>
+<area shape="rect" id="node31" href="$FutureUtils_8h.html" title=" " alt="" coords="857,172,1046,197"/>
+<area shape="rect" id="node21" href="$CatapultConfiguration_8h.html" title=" " alt="" coords="1210,252,1371,291"/>
+<area shape="rect" id="node22" href="$ExtensionsConfiguration_8h.html" title=" " alt="" coords="1210,339,1387,364"/>
+<area shape="rect" id="node24" href="$KeyPair_8h.html" title=" " alt="" coords="202,339,371,364"/>
+<area shape="rect" id="node25" href="$Future_8h.html" title=" " alt="" coords="621,339,784,364"/>
+<area shape="rect" id="node27" href="$NodeRoles_8h.html" title=" " alt="" coords="682,259,864,284"/>
+<area shape="rect" id="node28" href="$NetworkInfo_8h.html" title=" " alt="" coords="395,339,589,364"/>
+<area shape="rect" id="node29" href="$Hashers_8h.html" title=" " alt="" coords="368,259,528,284"/>
+<area shape="rect" id="node30" title=" " alt="" coords="551,259,659,284"/>
+<area shape="rect" id="node32" href="$exceptions_8h.html" title=" " alt="" coords="989,259,1136,284"/>
+<area shape="rect" id="node42" title=" " alt="" coords="808,339,869,364"/>
+<area shape="rect" id="node33" href="$Logging_8h.html" title=" " alt="" coords="1809,339,1916,364"/>
+<area shape="rect" id="node34" href="$PathUtils_8h.html" title=" " alt="" coords="1537,419,1622,444"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1646,412,1780,451"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1803,419,1934,444"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1958,412,2097,451"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2121,412,2286,451"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2310,412,2495,451"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2519,419,2656,444"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1322,419,1512,444"/>
+<area shape="rect" id="node44" href="$ExceptionLogging_8h.html" title=" " alt="" coords="1606,165,1764,204"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1620,252,1798,291"/>
 </map>

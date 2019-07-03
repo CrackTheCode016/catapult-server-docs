@@ -1,0 +1,4 @@
+<map id="catapult::model::EntityRange::size" name="catapult::model::EntityRange::size">
+<area shape="rect" id="node1" title="Gets the size of this range." alt="" coords="272,5,464,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1disruptor_1_1ConsumerInput.html#acc4106fb6c2e7725d08b5b5c641448a0" title="Creates a consumer input around a block range with an optional input source (inputSource)." alt="" coords="5,5,224,44"/>
+</map>

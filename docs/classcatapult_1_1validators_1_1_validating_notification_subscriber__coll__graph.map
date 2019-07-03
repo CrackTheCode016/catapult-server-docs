@@ -1,5 +1,0 @@
-<map id="catapult::validators::ValidatingNotificationSubscriber" name="catapult::validators::ValidatingNotificationSubscriber">
-<area shape="rect" id="node1" title="A notification subscriber that validates notifications." alt="" coords="311,40,527,79"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_notification_subscriber.html" title="A notification subscriber." alt="" coords="5,5,190,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1validators_1_1_notification_validator_t.html" title="A strongly typed notification validator." alt="" coords="18,68,178,120"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="catapult::model::NewRemoteAccountNotification" name="catapult::model::NewRemoteAccountNotification">
+<area shape="rect" id="node1" title="Notification of a new remote account." alt="" coords="5,79,198,117"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1Notification.html" title="A basic notification." alt="" coords="9,5,194,31"/>
+</map>

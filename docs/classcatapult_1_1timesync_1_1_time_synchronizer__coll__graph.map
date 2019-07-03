@@ -1,9 +1,0 @@
-<map id="catapult::timesync::TimeSynchronizer" name="catapult::timesync::TimeSynchronizer">
-<area shape="rect" id="node1" title="A time synchronizer that synchronizes local time with the network." alt="" coords="1150,47,1286,85"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1timesync_1_1filters_1_1_aggregate_synchronization_filter.html" title="Aggregate synchronization filter." alt="" coords="729,5,953,57"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_base_value.html" title=" " alt="" coords="745,81,937,120"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_basic_base_value.html" title=" " alt="" coords="492,68,680,133"/>
-<area shape="rect" id="node5" href="$structcatapult_1_1_importance__tag.html" title=" " alt="" coords="222,60,390,85"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1_immutable_value.html" title=" " alt="" coords="221,109,390,148"/>
-<area shape="rect" id="node7" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,116,172,141"/>
-</map>

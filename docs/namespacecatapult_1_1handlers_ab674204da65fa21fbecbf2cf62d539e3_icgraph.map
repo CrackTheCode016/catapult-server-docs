@@ -1,5 +1,5 @@
 <map id="catapult::handlers::CreateConfirmedTimestampedHashesProducerFactory" name="catapult::handlers::CreateConfirmedTimestampedHashesProducerFactory">
 <area shape="rect" id="node1" title="Creates a confirmed timestamped hashes producer factory around hashCache." alt="" coords="472,5,682,57"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1plugins.html#aca776f21338866f21830f375fef759b0" title="Registers the in&#45;memory hash cache with manager." alt="" coords="190,12,424,51"/>
-<area shape="rect" id="node3" href="$_plugin_manager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,142,44"/>
+<area shape="rect" id="node3" href="$PluginManager_8h.html#aafb040be1ad2a21572ffdec6183b0e12" title="Entry point for registering a dynamic module with manager." alt="" coords="5,19,142,44"/>
 </map>

@@ -1,0 +1,15 @@
+<map id="BasicProducer.h" name="BasicProducer.h">
+<area shape="rect" id="node1" title=" " alt="" coords="385,5,504,31"/>
+<area shape="rect" id="node2" href="$NodeDiscoveryHandlers_8cpp.html" title=" " alt="" coords="5,85,196,111"/>
+<area shape="rect" id="node3" href="$ConfirmedTimestampedHashesProducerFactory_8cpp.html" title=" " alt="" coords="219,79,427,117"/>
+<area shape="rect" id="node4" href="$CacheEntryInfosProducerFactory_8h.html" title=" " alt="" coords="452,85,680,111"/>
+<area shape="rect" id="node13" href="$DiagnosticHandlers_8cpp.html" title=" " alt="" coords="705,85,867,111"/>
+<area shape="rect" id="node5" href="$CacheHandlers_8h.html" title=" " alt="" coords="504,165,628,191"/>
+<area shape="rect" id="node6" href="$CoreSystem_8cpp.html" title=" " alt="" coords="17,239,136,264"/>
+<area shape="rect" id="node7" href="$HashLockPlugin_8cpp.html" title=" " alt="" coords="161,239,304,264"/>
+<area shape="rect" id="node8" href="$SecretLockPlugin_8cpp.html" title=" " alt="" coords="328,239,478,264"/>
+<area shape="rect" id="node9" href="$MosaicPlugin_8cpp.html" title=" " alt="" coords="503,239,629,264"/>
+<area shape="rect" id="node10" href="$MultisigPlugin_8cpp.html" title=" " alt="" coords="652,239,781,264"/>
+<area shape="rect" id="node11" href="$NamespacePlugin_8cpp.html" title=" " alt="" coords="804,239,959,264"/>
+<area shape="rect" id="node12" href="$AccountRestrictionPlugin_8cpp.html" title=" " alt="" coords="983,239,1178,264"/>
+</map>

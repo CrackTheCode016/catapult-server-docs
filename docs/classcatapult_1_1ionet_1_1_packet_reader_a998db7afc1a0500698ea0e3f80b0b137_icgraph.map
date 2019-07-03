@@ -1,5 +1,0 @@
-<map id="catapult::ionet::PacketReader::advance" name="catapult::ionet::PacketReader::advance">
-<area shape="rect" id="node1" title=" " alt="" coords="250,37,446,76"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_reader.html#a1c8bb9fa58a172ad2cb2c925936df4dd" title="Reads a fixed&#45;sized value from the packet." alt="" coords="5,5,202,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_packet_reader.html#a2a56f87736bda82182fb507a539b27a6" title="Reads a variable&#45;sized value from the packet." alt="" coords="5,68,202,107"/>
-</map>

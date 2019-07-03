@@ -1,0 +1,5 @@
+<map id="catapult::deltaset::ConditionalContainer::prune" name="catapult::deltaset::ConditionalContainer::prune">
+<area shape="rect" id="node1" title="Optionally prunes underlying container using pruningBoundary." alt="" coords="406,5,560,57"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1deltaset.html#a889358bebbcc9f47c368306a8efac71a" title=" " alt="" coords="236,12,358,51"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1deltaset_1_1detail_1_1OrderedSetCommitPolicy.html#a58f0b4f98f4e802a674f00680b0e2578" title=" " alt="" coords="5,5,188,57"/>
+</map>

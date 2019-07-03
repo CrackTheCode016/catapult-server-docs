@@ -1,6 +1,6 @@
 <map id="catapult::io::Read16" name="catapult::io::Read16">
 <area shape="rect" id="node1" title="Reads value from input." alt="" coords="559,67,699,92"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_state_version.html#a637378dcf8bf857a71a3cf3fd9d6f71d" title="Reads state version from input and verifies it." alt="" coords="317,60,511,99"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_cache_serializer_adapter.html#a21dcc63dcf8d5dda4b08e79f253309ea" title="Deserializes value from buffer." alt="" coords="5,5,269,71"/>
-<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1_namespace_flat_map_types_serializer.html#a4c9cca92ab72d42355f353117d6155a4" title="Deserializes value from buffer." alt="" coords="42,95,232,147"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1StateVersion.html#a637378dcf8bf857a71a3cf3fd9d6f71d" title="Reads state version from input and verifies it." alt="" coords="317,60,511,99"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1CacheSerializerAdapter.html#a21dcc63dcf8d5dda4b08e79f253309ea" title="Deserializes value from buffer." alt="" coords="5,5,269,71"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1cache_1_1NamespaceFlatMapTypesSerializer.html#a4c9cca92ab72d42355f353117d6155a4" title="Deserializes value from buffer." alt="" coords="42,95,232,147"/>
 </map>

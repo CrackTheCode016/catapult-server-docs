@@ -1,13 +1,13 @@
 <map id="catapult::extensions::BootServer" name="catapult::extensions::BootServer">
 <area shape="rect" id="node1" title=" " alt="" coords="5,120,145,159"/>
 <area shape="rect" id="node2" href="$namespacecatapult_1_1net.html#afa2d9f47bb93318f19eb03cdae524bd3" title=" " alt="" coords="228,5,406,44"/>
-<area shape="rect" id="node3" href="$namespaceforwards_validation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="771,81,927,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1subscribers_1_1_node_subscriber.html#a18860e0dc98f6cab8bc25a9e6af1bf18" title="Indicates a new incoming connection for node with identityKey connected to serviceId." alt="" coords="193,120,442,159"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1thread_1_1_multi_service_pool_1_1_service_group.html#a019d9bd1c85e2ec0c843ae511df227d2" title="Creates a new service by calling factory with args service arguments." alt="" coords="208,183,426,221"/>
+<area shape="rect" id="node3" href="$namespaceforwardsValidation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="771,81,927,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1subscribers_1_1NodeSubscriber.html#a18860e0dc98f6cab8bc25a9e6af1bf18" title="Indicates a new incoming connection for node with identityKey connected to serviceId." alt="" coords="193,120,442,159"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1thread_1_1MultiServicePool_1_1ServiceGroup.html#a019d9bd1c85e2ec0c843ae511df227d2" title="Creates a new service by calling factory with args service arguments." alt="" coords="208,183,426,221"/>
 <area shape="rect" id="node8" href="$namespacecatapult_1_1extensions.html#a36c4e1c84d6b159b665a9b7a6eb60667" title="Updates settings with values in config." alt="" coords="209,245,425,284"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1thread_1_1_multi_service_pool_1_1_service_group.html#ab75f3cc9c05376c5267942ce78548f9a" title="Registers an externally created service (pService) for cleanup." alt="" coords="490,136,723,175"/>
-<area shape="rect" id="node7" href="$namespace_parser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="799,143,899,168"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1thread_1_1MultiServicePool_1_1ServiceGroup.html#ab75f3cc9c05376c5267942ce78548f9a" title="Registers an externally created service (pService) for cleanup." alt="" coords="490,136,723,175"/>
+<area shape="rect" id="node7" href="$namespaceParser.html#a798f0eae1922b56d10b8f54f348f634d" title=" " alt="" coords="799,143,899,168"/>
 <area shape="rect" id="node9" href="$namespacecatapult_1_1extensions.html#a359a29ae2dae3565b873ae60960e07ae" title="Extracts connection settings from config." alt="" coords="524,229,690,268"/>
-<area shape="rect" id="node10" href="$structcatapult_1_1net_1_1_connection_settings.html#afc06547fd0da845f536017fb6990715d" title="Gets the packet socket options represented by the configured settings." alt="" coords="519,292,694,331"/>
-<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1_file_size.html#acaf0adf03843be93e22aaa8352fa3cde" title="Returns the number of bytes." alt="" coords="772,292,926,331"/>
+<area shape="rect" id="node10" href="$structcatapult_1_1net_1_1ConnectionSettings.html#afc06547fd0da845f536017fb6990715d" title="Gets the packet socket options represented by the configured settings." alt="" coords="519,292,694,331"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1utils_1_1FileSize.html#acaf0adf03843be93e22aaa8352fa3cde" title="Returns the number of bytes." alt="" coords="772,292,926,331"/>
 </map>

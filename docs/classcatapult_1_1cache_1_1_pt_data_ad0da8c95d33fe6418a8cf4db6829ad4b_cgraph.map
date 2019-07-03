@@ -1,6 +1,0 @@
-<map id="catapult::cache::PtData::add" name="catapult::cache::PtData::add">
-<area shape="rect" id="node1" title=" " alt="" coords="5,33,194,59"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1crypto.html#a66aad84b21ea4a9e761e828aa84be790" title="Calculates the 256&#45;bit SHA3 hash of dataBuffer into hash." alt="" coords="256,5,436,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_pt_data.html#a9a6c873e261c06cebe0ff3d9a100e56d" title=" " alt="" coords="242,55,450,93"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_pt_data.html#ad762aa592a83c8c21be9641527be71b3" title=" " alt="" coords="498,55,657,93"/>
-</map>

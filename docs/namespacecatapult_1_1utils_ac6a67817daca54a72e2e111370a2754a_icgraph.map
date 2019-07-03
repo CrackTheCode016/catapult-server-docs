@@ -1,10 +1,10 @@
 <map id="catapult::utils::Sum" name="catapult::utils::Sum">
 <area shape="rect" id="node1" title=" " alt="" coords="737,110,871,135"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1_aggregate_transaction_builder.html#ac1b37b1007213948f5dc5163504e5a6c" title="Builds a new aggregate transaction." alt="" coords="208,77,409,129"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1_root_namespace_history.html#aa9a465c561720d6e0a300223f33064c5" title=" " alt="" coords="466,41,681,79"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1builders_1_1_aggregate_transaction_builder.html#a5502817671d9fc935952915a705808d2" title="Returns size of aggregate transaction." alt="" coords="457,103,689,142"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1timesync_1_1_time_synchronizer.html#a510b8dfca1258dc1bbc0a110e19e6eb7" title=" " alt="" coords="502,166,645,218"/>
-<area shape="rect" id="node8" href="$classcatapult_1_1timesync_1_1_time_synchronizer.html#a6efaeac4aef27d89b6b71ce50f11d594" title=" " alt="" coords="502,242,645,294"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1timesync_1_1_time_synchronizer.html#aa08ba15631f6765860e101998e6f724a" title="Calculates a time offset from samples using accountStateCacheView, height and nodeAge." alt="" coords="237,187,380,239"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1builders_1_1AggregateTransactionBuilder.html#ac1b37b1007213948f5dc5163504e5a6c" title="Builds a new aggregate transaction." alt="" coords="208,77,409,129"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1state_1_1RootNamespaceHistory.html#aa9a465c561720d6e0a300223f33064c5" title=" " alt="" coords="466,41,681,79"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1builders_1_1AggregateTransactionBuilder.html#a5502817671d9fc935952915a705808d2" title="Returns size of aggregate transaction." alt="" coords="457,103,689,142"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1timesync_1_1TimeSynchronizer.html#a510b8dfca1258dc1bbc0a110e19e6eb7" title=" " alt="" coords="502,166,645,218"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1timesync_1_1TimeSynchronizer.html#a6efaeac4aef27d89b6b71ce50f11d594" title=" " alt="" coords="502,242,645,294"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1timesync_1_1TimeSynchronizer.html#aa08ba15631f6765860e101998e6f724a" title="Calculates a time offset from samples using accountStateCacheView, height and nodeAge." alt="" coords="237,187,380,239"/>
 <area shape="rect" id="node7" href="$namespacecatapult_1_1timesync.html#aa4945d3c267ffac0c896cb86ed6cc2d7" title=" " alt="" coords="5,194,160,233"/>
 </map>

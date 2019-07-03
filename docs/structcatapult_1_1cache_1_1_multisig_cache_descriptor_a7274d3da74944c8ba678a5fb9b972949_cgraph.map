@@ -1,4 +1,0 @@
-<map id="catapult::cache::MultisigCacheDescriptor::GetKeyFromValue" name="catapult::cache::MultisigCacheDescriptor::GetKeyFromValue">
-<area shape="rect" id="node1" title="Gets the key corresponding to entry." alt="" coords="5,5,242,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1state_1_1_multisig_entry.html#a4c67485c741bb86e106b3b452a923d3f" title="Gets the account public key." alt="" coords="290,5,447,44"/>
-</map>

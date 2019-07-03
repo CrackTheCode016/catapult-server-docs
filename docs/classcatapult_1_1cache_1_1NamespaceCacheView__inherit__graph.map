@@ -1,0 +1,12 @@
+<map id="catapult::cache::NamespaceCacheView" name="catapult::cache::NamespaceCacheView">
+<area shape="rect" id="node1" title="View on top of the namespace cache." alt="" coords="822,180,1011,219"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1ReadOnlyViewSupplier.html" title=" " alt="" coords="521,173,774,225"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1BasicNamespaceCacheView.html" title="Basic view on top of the namespace cache." alt="" coords="251,180,473,219"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="21,5,187,31"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,55,203,93"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1ContainsMixin.html" title="A mixin for adding contains support to a cache." alt="" coords="5,117,203,156"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,180,203,219"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1cache_1_1PatriciaTreeMixin.html" title="A mixin for adding patricia tree support to a cache." alt="" coords="5,243,203,281"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1cache_1_1NamespaceDeepSizeMixin.html" title="A mixin for calculating the deep size of namespaces." alt="" coords="5,305,203,344"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1NamespaceLookupMixin.html" title=" " alt="" coords="5,368,203,407"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="MultisigCacheView.h" name="MultisigCacheView.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1075,5,1219,31"/>
+<area shape="rect" id="node2" href="$MultisigBaseSets_8h.html" title=" " alt="" coords="911,85,1046,111"/>
+<area shape="rect" id="node3" href="$MultisigCacheSerializers_8h.html" title=" " alt="" coords="1057,165,1236,191"/>
+<area shape="rect" id="node32" href="$CacheMixinAliases_8h.html" title=" " alt="" coords="2807,79,2988,117"/>
+<area shape="rect" id="node46" href="$ReadOnlyArtifactCache_8h.html" title=" " alt="" coords="63,79,275,117"/>
+<area shape="rect" id="node49" href="$ReadOnlyViewSupplier_8h.html" title=" " alt="" coords="3300,79,3499,117"/>
+<area shape="rect" id="node4" href="$MultisigCacheTypes_8h.html" title=" " alt="" coords="903,245,1055,271"/>
+<area shape="rect" id="node21" href="$CachePatriciaTree_8h.html" title=" " alt="" coords="263,325,457,364"/>
+<area shape="rect" id="node23" href="$PatriciaTreeEncoderAdapters_8h.html" title=" " alt="" coords="57,325,239,364"/>
+<area shape="rect" id="node26" href="$SingleSetCacheTypesAdapter_8h.html" title=" " alt="" coords="593,239,761,277"/>
+<area shape="rect" id="node29" href="$BasePatriciaTree_8h.html" title=" " alt="" coords="2132,239,2305,277"/>
+<area shape="rect" id="node11" href="$MultisigEntrySerializer_8h.html" title=" " alt="" coords="1079,245,1297,271"/>
+<area shape="rect" id="node14" href="$CacheSerializerAdapter_8h.html" title=" " alt="" coords="1524,239,1729,277"/>
+<area shape="rect" id="node5" href="$MultisigEntry_8h.html" title=" " alt="" coords="1107,332,1269,357"/>
+<area shape="rect" id="node6" href="$CacheDescriptorAdapters_8h.html" title=" " alt="" coords="872,325,1082,364"/>
+<area shape="rect" id="node10" href="$Hashers_8h.html" title=" " alt="" coords="766,332,848,357"/>
+<area shape="rect" id="node7" href="$CacheDatabase_8h.html" title=" " alt="" coords="632,419,872,444"/>
+<area shape="rect" id="node8" href="$ConditionalContainer_8h.html" title=" " alt="" coords="896,412,1085,451"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1637,499,1707,524"/>
+<area shape="rect" id="node12" href="$Stream_8h.html" title=" " alt="" coords="1461,419,1601,444"/>
+<area shape="rect" id="node13" href="$src_2catapult_2types_8h.html" title=" " alt="" coords="411,499,525,524"/>
+<area shape="rect" id="node15" href="$StateVersion_8h.html" title=" " alt="" coords="1949,332,2057,357"/>
+<area shape="rect" id="node18" href="$BufferInputStreamAdapter_8h.html" title=" " alt="" coords="1731,325,1925,364"/>
+<area shape="rect" id="node19" href="$SizeCalculatingOutputStream_8h.html" title=" " alt="" coords="1344,325,1522,364"/>
+<area shape="rect" id="node20" href="$StringOutputStream_8h.html" title=" " alt="" coords="1546,325,1707,364"/>
+<area shape="rect" id="node16" href="$exceptions_8h.html" title=" " alt="" coords="2391,419,2537,444"/>
+<area shape="rect" id="node17" href="$HexFormatter_8h.html" title=" " alt="" coords="2699,499,2813,524"/>
+<area shape="rect" id="node22" href="$PatriciaTreeRdbDataSource_8h.html" title=" " alt="" coords="379,412,557,451"/>
+<area shape="rect" id="node24" href="$KeySerializers_8h.html" title=" " alt="" coords="45,419,163,444"/>
+<area shape="rect" id="node25" href="$Hashes_8h.html" title=" " alt="" coords="187,419,355,444"/>
+<area shape="rect" id="node27" href="$CacheDatabaseMixin_8h.html" title=" " alt="" coords="480,332,640,357"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2233,419,2316,444"/>
+<area shape="rect" id="node30" href="$BasePatriciaTreeDelta_8h.html" title=" " alt="" coords="2583,332,2748,357"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2793,419,2900,444"/>
+<area shape="rect" id="node33" href="$CacheMixins_8h.html" title=" " alt="" coords="2743,165,2852,191"/>
+<area shape="rect" id="node42" href="$PatriciaTreeCacheMixins_8h.html" title=" " alt="" coords="3127,245,3307,271"/>
+<area shape="rect" id="node44" href="$DeltaElementsMixin_8h.html" title=" " alt="" coords="3334,325,3543,364"/>
+<area shape="rect" id="node34" href="$IdentifierGroupCacheUtils_8h.html" title=" " alt="" coords="2430,245,2615,271"/>
+<area shape="rect" id="node35" href="$BaseSetDelta_8h.html" title=" " alt="" coords="2386,325,2558,364"/>
+<area shape="rect" id="node37" href="$IdentifierGroup_8h.html" title=" " alt="" coords="2771,325,2922,364"/>
+<area shape="rect" id="node38" href="$BaseSetDeltaIterationView_8h.html" title=" " alt="" coords="2800,239,2973,277"/>
+<area shape="rect" id="node39" href="$BaseSetIterationView_8h.html" title=" " alt="" coords="2946,332,3105,357"/>
+<area shape="rect" id="node40" href="$Casting_8h.html" title=" " alt="" coords="2233,332,2311,357"/>
+<area shape="rect" id="node41" href="$functions_8h.html" title=" " alt="" coords="2640,245,2776,271"/>
+<area shape="rect" id="node36" href="$BaseSetDefaultTraits_8h.html" title=" " alt="" coords="2561,419,2719,444"/>
+<area shape="rect" id="node43" href="$PatriciaTreeUtils_8h.html" title=" " alt="" coords="3180,332,3310,357"/>
+<area shape="rect" id="node45" href="$StlTraits_8h.html" title=" " alt="" coords="3375,412,3503,451"/>
+<area shape="rect" id="node47" href="$ReadOnlySimpleCache_8h.html" title=" " alt="" coords="84,165,255,191"/>
+<area shape="rect" id="node48" title=" " alt="" coords="135,245,204,271"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3597,165,3648,191"/>
+</map>

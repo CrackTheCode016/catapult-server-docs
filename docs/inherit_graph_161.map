@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structcatapult_1_1cache_1_1_single_set_and_patricia_tree_cache_types_adapter_1_1_base_set_delta_pointers.html" title="Wrapper around single delta set and patricia tree." alt="" coords="5,24,243,89"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_account_restriction_base_set_delta_pointers.html" title=" " alt="" coords="291,5,505,44"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_multisig_base_set_delta_pointers.html" title=" " alt="" coords="316,68,480,107"/>
+<area shape="rect" id="node1" href="$structcatapult_1_1cache_1_1SingleSetAndPatriciaTreeCacheTypesAdapter_1_1BaseSetDeltaPointers.html" title="Wrapper around single delta set and patricia tree." alt="" coords="5,24,243,89"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1AccountRestrictionBaseSetDeltaPointers.html" title=" " alt="" coords="291,5,505,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1MultisigBaseSetDeltaPointers.html" title=" " alt="" coords="316,68,480,107"/>
 </map>

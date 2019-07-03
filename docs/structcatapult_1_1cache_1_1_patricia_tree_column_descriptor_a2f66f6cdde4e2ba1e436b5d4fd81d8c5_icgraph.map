@@ -1,4 +1,0 @@
-<map id="catapult::cache::PatriciaTreeColumnDescriptor::GetKeyFromValue" name="catapult::cache::PatriciaTreeColumnDescriptor::GetKeyFromValue">
-<area shape="rect" id="node1" title="Gets the key corresponding to treeNode." alt="" coords="276,5,548,44"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_patricia_tree_column_descriptor.html#a3712ad619d3a26d27968a655926b32d0" title="Converts a value type (treeNode) to a storage type." alt="" coords="5,5,228,44"/>
-</map>

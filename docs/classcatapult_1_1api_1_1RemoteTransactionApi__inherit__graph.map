@@ -1,0 +1,4 @@
+<map id="catapult::api::RemoteTransactionApi" name="catapult::api::RemoteTransactionApi">
+<area shape="rect" id="node1" title="An api for retrieving transaction information from a remote node." alt="" coords="5,79,241,104"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1api_1_1RemoteApi.html" title="An api for retrieving information from a remote node." alt="" coords="40,5,207,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="catapult::cache::BlockDifficultyCacheSummaryCacheStorage::saveSummary" name="catapult::cache::BlockDifficultyCacheSummaryCacheStorage::saveSummary">
+<area shape="rect" id="node1" title="Saves cache (summary) data from cacheDelta to output." alt="" coords="5,93,215,145"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1io_1_1OutputStream.html#a61d553bfed97f20ce1bd7c38490debc7" title=" " alt="" coords="275,5,452,44"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1BlockDifficultyCacheStorage.html#ac49b084df56800f344c81c09cb1e332e" title="Saves info to output." alt="" coords="263,68,464,107"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1CatapultCacheDelta.html#aaf215397ffb3b1616d20ce453dde43a4" title="Gets a specific sub cache delta view." alt="" coords="280,131,448,169"/>
+<area shape="rect" id="node7" href="$namespacecatapult_1_1io.html#a8613aa5dbcb9b6bb71adf19a828c495a" title="Writes value into output." alt="" coords="294,193,433,219"/>
+<area shape="rect" id="node4" href="$namespaceforwardsValidation.html#a6344b857afb104cbdde1a01bb0aca2b6" title=" " alt="" coords="512,51,668,76"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1io.html#ade1752d622508047d91aca700d05aa1c" title="Writes base value into output." alt="" coords="528,100,652,125"/>
+</map>

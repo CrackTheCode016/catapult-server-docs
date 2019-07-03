@@ -1,8 +1,0 @@
-<map id="catapult::cache::BasicCache&lt; TCacheDescriptor, TBaseSet, TSubViewArgs &gt;" name="catapult::cache::BasicCache&lt; TCacheDescriptor, TBaseSet, TSubViewArgs &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="220,93,429,145"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1_basic_account_state_cache.html" title="Cache composed of stateful account information." alt="" coords="488,5,687,44"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1cache_1_1_basic_block_difficulty_cache.html" title=" " alt="" coords="496,68,680,107"/>
-<area shape="rect" id="node5" href="$classcatapult_1_1cache_1_1_basic_hash_cache.html" title=" " alt="" coords="497,131,679,169"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1cache_1_1_basic_namespace_cache.html" title="Cache composed of namespace information." alt="" coords="477,193,699,232"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="5,107,172,132"/>
-</map>

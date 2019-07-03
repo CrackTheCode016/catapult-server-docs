@@ -1,4 +1,0 @@
-<map id="catapult::disruptor::ConsumerInput::detachBlockRange" name="catapult::disruptor::ConsumerInput::detachBlockRange">
-<area shape="rect" id="node1" title="Detaches the block range associated with this input." alt="" coords="5,5,205,57"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1model_1_1_entity_range.html#a932bc3c75e5c6cf76d7fa7555bc59af0" title="Gets a value indicating whether or not this range is empty." alt="" coords="253,12,445,51"/>
-</map>

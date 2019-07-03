@@ -1,0 +1,5 @@
+<map id="catapult::io::PrunableBlockStorage::purge" name="catapult::io::PrunableBlockStorage::purge">
+<area shape="rect" id="node1" title="Purges all blocks from storage." alt="" coords="460,5,640,44"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1io.html#a5fdd349a81e8473d5b9d5147c309ccde" title="Moves block files starting at startHeight from sourceStorage to destinationStorage." alt="" coords="226,12,412,37"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1io_1_1BlockStorageModifier.html#a68ed3955b979e23c82d8ca86d6e2e6cb" title="Commits all staged changes to the primary storage." alt="" coords="5,5,178,44"/>
+</map>

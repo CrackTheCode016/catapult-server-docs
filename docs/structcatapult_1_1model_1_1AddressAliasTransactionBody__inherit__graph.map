@@ -1,0 +1,5 @@
+<map id="catapult::model::AddressAliasTransactionBody&lt; THeader &gt;" name="catapult::model::AddressAliasTransactionBody&lt; THeader &gt;">
+<area shape="rect" id="node1" title="Binary layout for an address alias transaction body." alt="" coords="17,165,185,217"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1SharedAliasBody.html" title="Binary layout for an alias transaction body." alt="" coords="5,79,196,117"/>
+<area shape="rect" id="node3" title=" " alt="" coords="64,5,137,31"/>
+</map>

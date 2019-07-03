@@ -1,5 +1,0 @@
-<map id="catapult::cache::BlockDifficultyCacheStorage" name="catapult::cache::BlockDifficultyCacheStorage">
-<area shape="rect" id="node1" title="Policy for saving and loading block difficulty cache data." alt="" coords="574,12,776,51"/>
-<area shape="rect" id="node2" href="$structcatapult_1_1cache_1_1_cache_storage_for_basic_insert_remove_cache.html" title=" " alt="" coords="300,5,526,57"/>
-<area shape="rect" id="node3" href="$structcatapult_1_1cache_1_1_cache_storage_from_descriptor.html" title=" " alt="" coords="5,5,252,57"/>
-</map>

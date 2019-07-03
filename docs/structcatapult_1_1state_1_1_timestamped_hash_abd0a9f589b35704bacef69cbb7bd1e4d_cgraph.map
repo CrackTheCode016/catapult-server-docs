@@ -1,4 +1,0 @@
-<map id="catapult::state::TimestampedHash::TimestampedHash" name="catapult::state::TimestampedHash::TimestampedHash">
-<area shape="rect" id="node1" title="Creates a timestamped hash from a timestamp and a hash." alt="" coords="5,5,197,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="245,5,410,44"/>
-</map>

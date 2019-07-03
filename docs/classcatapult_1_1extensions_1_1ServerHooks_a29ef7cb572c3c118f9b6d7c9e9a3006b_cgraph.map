@@ -1,0 +1,7 @@
+<map id="catapult::extensions::ServerHooks::knownHashPredicate" name="catapult::extensions::ServerHooks::knownHashPredicate">
+<area shape="rect" id="node1" title="Gets the known hash predicate augmented with a check in utCache." alt="" coords="5,37,245,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1MemoryUtCacheView.html#abf486e0d4e05e5dfd70a21949d6341b6" title="Returns true if the cache contains an unconfirmed transaction with associated hash,..." alt="" coords="293,5,472,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1MemoryUtCache.html#ac337541394dc7639d4b4a921967f559f" title="Gets a read only view based on this cache." alt="" coords="293,68,472,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1BasicSpinReaderWriterLock.html#a2f34179c267ef1f1cac8eaea1feef23e" title="Blocks until a reader lock can be acquired." alt="" coords="520,68,744,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1BasicSpinReaderWriterLock.html#a5eba0c0b2b9288154976ea08bfb2ca34" title=" " alt="" coords="792,68,958,107"/>
+</map>

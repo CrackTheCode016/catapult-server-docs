@@ -1,0 +1,10 @@
+<map id="catapult::mongo::MongoPluginManager" name="catapult::mongo::MongoPluginManager">
+<area shape="rect" id="node1" title="A manager for registering mongo plugins." alt="" coords="975,100,1177,139"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1ExternalCacheStorageBuilder.html" title="Builder for creating an aggregate external cache storage around external cache storages." alt="" coords="588,5,761,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1mongo_1_1MongoTransactionRegistry.html" title="A registry of mongo transaction plugins." alt="" coords="557,68,791,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1model_1_1TransactionRegistryT.html" title=" " alt="" coords="260,68,508,107"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1model_1_1PluginRegistry.html" title=" " alt="" coords="5,61,210,113"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1mongo_1_1MongoStorageContext.html" title="Context for creating a mongo storage." alt="" coords="569,131,780,169"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1mongo_1_1MongoReceiptRegistry.html" title="A registry of mongo receipt plugins." alt="" coords="569,193,779,232"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1model_1_1PluginRegistry.html" title=" " alt="" coords="281,187,487,239"/>
+</map>

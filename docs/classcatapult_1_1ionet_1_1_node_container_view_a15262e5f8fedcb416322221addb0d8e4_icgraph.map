@@ -1,5 +1,0 @@
-<map id="catapult::ionet::NodeContainerView::contains" name="catapult::ionet::NodeContainerView::contains">
-<area shape="rect" id="node1" title="Returns true if the node with identityKey is in the container, false otherwise." alt="" coords="440,5,642,44"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1nodediscovery.html#aeb94547a1a644c490e3bb42fc7a2b418" title="Filters nodes by returning all nodes not contained in view." alt="" coords="231,5,392,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1nodediscovery_1_1_peers_processor.html#a841e1ba52d0440245cd68e0fe9d87f16" title="Processes all candidate nodes (candidateNodes) and forwards newly discovered partner nodes." alt="" coords="5,5,183,44"/>
-</map>

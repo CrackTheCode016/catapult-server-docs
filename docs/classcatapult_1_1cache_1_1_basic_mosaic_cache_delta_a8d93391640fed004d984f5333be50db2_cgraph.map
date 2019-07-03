@@ -1,5 +1,0 @@
-<map id="catapult::cache::BasicMosaicCacheDelta::insert" name="catapult::cache::BasicMosaicCacheDelta::insert">
-<area shape="rect" id="node1" title="Inserts the mosaic entry into the cache." alt="" coords="5,5,199,44"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1cache_1_1_basic_insert_remove_mixin.html#a910ff2ee7daffc63557f77072f687068" title="Inserts value into the cache." alt="" coords="247,5,431,44"/>
-<area shape="rect" id="node3" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="479,5,602,44"/>
-</map>

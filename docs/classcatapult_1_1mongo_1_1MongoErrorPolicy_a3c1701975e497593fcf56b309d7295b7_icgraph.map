@@ -1,0 +1,4 @@
+<map id="catapult::mongo::MongoErrorPolicy::checkDeleted" name="catapult::mongo::MongoErrorPolicy::checkDeleted">
+<area shape="rect" id="node1" title="Checks that result indicates exactly numExpected deletions occurred given itemsDescription." alt="" coords="230,12,424,51"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1mongo_1_1storages_1_1MongoFlatCacheStorage.html#a08d88db298db8bc26e9c7a53cbc70274" title=" " alt="" coords="5,5,182,57"/>
+</map>

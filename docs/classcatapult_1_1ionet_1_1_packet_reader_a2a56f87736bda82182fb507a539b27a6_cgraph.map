@@ -1,8 +1,0 @@
-<map id="catapult::ionet::PacketReader::readVariable" name="catapult::ionet::PacketReader::readVariable">
-<area shape="rect" id="node1" title="Reads a variable&#45;sized value from the packet." alt="" coords="5,100,202,139"/>
-<area shape="rect" id="node2" href="$classcatapult_1_1ionet_1_1_packet_reader.html#a998db7afc1a0500698ea0e3f80b0b137" title=" " alt="" coords="250,5,446,44"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1ionet_1_1_packet_reader.html#acc5048a47f31e5ded5ee1ef25a88511c" title="Returns true if a reading error has been encountered, false otherwise." alt="" coords="250,68,446,107"/>
-<area shape="rect" id="node4" href="$classcatapult_1_1ionet_1_1_packet_reader.html#a919642b7f928ddd069057c653a3d3ade" title=" " alt="" coords="250,131,446,169"/>
-<area shape="rect" id="node6" href="$classcatapult_1_1ionet_1_1_packet_reader.html#a9ecd9925342fb0f01ef31524d49bd6e4" title=" " alt="" coords="250,193,446,232"/>
-<area shape="rect" id="node5" href="$namespacecolor_print.html#afa6a27b486eeee132011e7d472d06aff" title=" " alt="" coords="494,137,622,163"/>
-</map>

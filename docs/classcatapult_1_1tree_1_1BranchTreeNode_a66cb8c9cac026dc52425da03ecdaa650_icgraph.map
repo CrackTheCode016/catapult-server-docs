@@ -1,0 +1,6 @@
+<map id="catapult::tree::BranchTreeNode::setLink" name="catapult::tree::BranchTreeNode::setLink">
+<area shape="rect" id="node1" title="Sets the branch link at index." alt="" coords="313,68,488,107"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1BranchTreeNode.html#a2a14be0a9dab13a308e691d8e8d03e33" title="Clears the branch link at index." alt="" coords="47,5,222,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1BranchTreeNode.html#ac05ae2b22ffb0df952a46c0501000121" title="Sets the branch link at index to node." alt="" coords="47,68,222,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1tree_1_1PatriciaTree.html#a036d74bf6ca0234fa2e099f8b848b146" title=" " alt="" coords="5,131,265,196"/>
+</map>

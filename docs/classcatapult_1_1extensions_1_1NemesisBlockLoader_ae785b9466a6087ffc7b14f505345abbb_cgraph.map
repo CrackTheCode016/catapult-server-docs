@@ -1,0 +1,13 @@
+<map id="catapult::extensions::NemesisBlockLoader::execute" name="catapult::extensions::NemesisBlockLoader::execute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,200,160,252"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#a381b90947dfff379681769cfc6459190" title="Calculates the merkle hash for statement." alt="" coords="227,5,402,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1cache_1_1CatapultCacheDelta.html#afe77b3a02bfac33e1fc111bd245c6717" title="Calculates the cache state hash given height." alt="" coords="208,68,421,107"/>
+<area shape="rect" id="node4" href="$classcatapult_1_1plugins_1_1PluginManager.html#acd273b4765ad2b892cf956fd860eeaa2" title="Creates a resolver context given cache." alt="" coords="211,131,419,183"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1chain.html#adb0f2f6574664cb2dd895041ba9871a8" title="Executes blockElement using the specified execution context (executionContext)." alt="" coords="233,207,396,245"/>
+<area shape="rect" id="node7" href="$classcatapult_1_1state_1_1AccountBalances.html#ab3dc6d601f0a011011b2183743b7919b" title="Returns amount of funds of a given mosaic (mosaicId)." alt="" coords="235,269,395,308"/>
+<area shape="rect" id="node10" href="$classcatapult_1_1cache_1_1CatapultCacheDelta.html#a0d35e9890d2e49864ef8aa7fe659ee01" title="Creates a read&#45;only view of this delta." alt="" coords="230,332,399,371"/>
+<area shape="rect" id="node11" href="$classcatapult_1_1plugins_1_1PluginManager.html#af6c6f173d63caaf8cc4290945b5defdb" title="Gets the transaction registry." alt="" coords="223,395,407,447"/>
+<area shape="rect" id="node6" href="$namespacecatapult_1_1model.html#ae7294c79051bfca8adffe81cdcf8a66d" title="Extracts all entity infos from element into entityInfos." alt="" coords="472,207,632,245"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#a2f2ad2f7e4e0bb40c281a863d75b8490" title="Returns a const iterator to the element following the last element of the underlying container." alt="" coords="682,296,848,335"/>
+<area shape="rect" id="node9" href="$classcatapult_1_1state_1_1CompactMosaicMap.html#a61206ad9e549b928dc19aab4f265b011" title="Finds the mosaic with id." alt="" coords="469,324,634,363"/>
+</map>

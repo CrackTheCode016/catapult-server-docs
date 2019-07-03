@@ -1,0 +1,4 @@
+<map id="catapult::utils::TimeSpan::FromMilliseconds" name="catapult::utils::TimeSpan::FromMilliseconds">
+<area shape="rect" id="node1" title="Creates a time span from the given number of milliseconds." alt="" coords="5,5,172,44"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1TimeSpan.html#abed2663576b21626ff234f40ceffe563" title="Creates a default (zero) time span." alt="" coords="220,5,387,44"/>
+</map>

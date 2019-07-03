@@ -1,0 +1,10 @@
+<map id="catapult::cache::TransactionData" name="catapult::cache::TransactionData">
+<area shape="rect" id="node1" title=" " alt="" coords="1395,93,1611,119"/>
+<area shape="rect" id="node2" href="$structcatapult_1_1model_1_1TransactionInfo.html" title="A transaction and its associated metadata." alt="" coords="1135,60,1346,85"/>
+<area shape="rect" id="node3" href="$structcatapult_1_1model_1_1DetachedTransactionInfo.html" title=" " alt="" coords="910,19,1086,57"/>
+<area shape="rect" id="node4" href="$structcatapult_1_1model_1_1EntityInfo.html" title=" " alt="" coords="543,19,718,57"/>
+<area shape="rect" id="node5" href="$classcatapult_1_1utils_1_1MoveOnly.html" title="A class that can be moved but not copied." alt="" coords="235,5,402,31"/>
+<area shape="rect" id="node6" href="$classcatapult_1_1utils_1_1ByteArray.html" title=" " alt="" coords="209,65,427,104"/>
+<area shape="rect" id="node7" href="$structcatapult_1_1Hash256__tag.html" title=" " alt="" coords="5,72,160,97"/>
+<area shape="rect" id="node8" href="$classcatapult_1_1utils_1_1NonCopyable.html" title="A class that can neither be copied nor moved." alt="" coords="1147,109,1334,135"/>
+</map>

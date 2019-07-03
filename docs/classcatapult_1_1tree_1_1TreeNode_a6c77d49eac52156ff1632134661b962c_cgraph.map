@@ -1,0 +1,5 @@
+<map id="catapult::tree::TreeNode::empty" name="catapult::tree::TreeNode::empty">
+<area shape="rect" id="node1" title="Returns true if this node represents an empty node." alt="" coords="5,37,170,76"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1tree_1_1TreeNode.html#a1cc8411f5a12c6abfdcf67bff2fc10a6" title="Returns true if this node represents a branch node." alt="" coords="218,5,383,44"/>
+<area shape="rect" id="node3" href="$classcatapult_1_1tree_1_1TreeNode.html#ac79c06c7e9e84b71f43595d5dc713174" title="Returns true if this node represents a leaf node." alt="" coords="218,68,383,107"/>
+</map>
