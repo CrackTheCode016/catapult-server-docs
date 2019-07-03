@@ -1,9 +1,5 @@
 var searchData=
 [
-  ['d_2eh',['d.h',['../d_8h.html',1,'']]],
-  ['d_2epy',['d.py',['../d_8py.html',1,'']]],
-  ['d2_2eh',['d2.h',['../d2_8h.html',1,'']]],
-  ['d2_2epy',['d2.py',['../d2_8py.html',1,'']]],
   ['databaseconfiguration_2ecpp',['DatabaseConfiguration.cpp',['../_database_configuration_8cpp.html',1,'']]],
   ['databaseconfiguration_2eh',['DatabaseConfiguration.h',['../_database_configuration_8h.html',1,'']]],
   ['datasourceverbosity_2eh',['DataSourceVerbosity.h',['../_data_source_verbosity_8h.html',1,'']]],

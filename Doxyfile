@@ -874,7 +874,7 @@ RECURSIVE              = YES
 # Note that relative paths are relative to the directory from which doxygen is
 # run.
 
-EXCLUDE                =
+EXCLUDE                = catapult-server/external
 
 # The EXCLUDE_SYMLINKS tag can be used to select whether or not files or
 # directories that are symbolic links (a Unix file system feature) are excluded
@@ -891,29 +891,6 @@ EXCLUDE_SYMLINKS       = NO
 # exclude all test directories for example use the pattern */test/*
 
 EXCLUDE_PATTERNS       = */tests/*
-                        */bsoncxx/*
-                        */boost/*
-                        */checkProjectStructure/*
-                        */colorama/*
-                        */DepsChecker/*
-                        */forwardsValidation/*
-                        */HeaderParser/*
-                        */mongocxx/*
-                        */Parser/*
-                        */publishSdk/*
-                        */Rules/*
-                        */SimpleValidator/*
-                        */validation/*
-                        */crypto_hash_sha256_state/*
-                        */ge_cached/*
-                        */ge_p1p1/*
-                        */ge_p2/*
-                        */ge_p3/*
-                        */ge_precomp/*
-                        */Keccak_HashInstance/*
-                        */ripemd160/*
-                        */ripemd160_ctx/*
-
 
 # The EXCLUDE_SYMBOLS tag can be used to specify one or more symbol names
 # (namespaces, classes, functions, etc.) that should be excluded from the

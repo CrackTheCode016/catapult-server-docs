@@ -1,7 +1,5 @@
 var namespaces_dup =
 [
-    [ "base", "namespacebase.html", null ],
-    [ "base2", "namespacebase2.html", null ],
     [ "boost", "namespaceboost.html", "namespaceboost" ],
     [ "bsoncxx", "namespacebsoncxx.html", "namespacebsoncxx" ],
     [ "catapult", "namespacecatapult.html", "namespacecatapult" ],
@@ -9,8 +7,6 @@ var namespaces_dup =
     [ "colorama", "namespacecolorama.html", "namespacecolorama" ],
     [ "colorPrint", "namespacecolor_print.html", null ],
     [ "cppLexer", "namespacecpp_lexer.html", null ],
-    [ "d", "namespaced.html", null ],
-    [ "d2", "namespaced2.html", null ],
     [ "DepsChecker", "namespace_deps_checker.html", null ],
     [ "exclusions", "namespaceexclusions.html", null ],
     [ "forwardsValidation", "namespaceforwards_validation.html", null ],
@@ -21,6 +17,5 @@ var namespaces_dup =
     [ "rocksdb", "namespacerocksdb.html", null ],
     [ "Rules", "namespace_rules.html", null ],
     [ "SimpleValidator", "namespace_simple_validator.html", null ],
-    [ "sqrtm1", "namespacesqrtm1.html", null ],
     [ "validation", "namespacevalidation.html", null ]
 ];

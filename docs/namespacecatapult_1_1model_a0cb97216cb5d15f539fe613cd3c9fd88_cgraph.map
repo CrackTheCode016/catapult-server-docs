@@ -2,5 +2,4 @@
 <area shape="rect" id="node1" title="Generates a mosaic id given owner and nonce." alt="" coords="5,37,180,76"/>
 <area shape="rect" id="node2" href="$classcatapult_1_1crypto_1_1_keccak_builder.html#adab53de41fffaaa4ae3df2c995739fc6" title="Finalize hash calculation. Returns result in output." alt="" coords="228,5,391,44"/>
 <area shape="rect" id="node3" href="$classcatapult_1_1crypto_1_1_keccak_builder.html#ade3e4c47c5a61ec0ae7841ed077d390c" title="Updates the state of hash with data inside dataBuffer." alt="" coords="228,68,391,107"/>
-<area shape="rect" id="node4" href="$_keccak_hash_8c.html#aa5fa5b5707518a7abb4c8af87933628e" title=" " alt="" coords="439,75,586,100"/>
 </map>

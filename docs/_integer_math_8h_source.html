@@ -143,13 +143,13 @@ $(document).ready(function(){initNavTree('_integer_math_8h_source.html','');});
 <div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    }</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160; </div>
 <div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    <span class="keyword">template</span>&lt;<span class="keyword">typename</span> T, <span class="keyword">typename</span> X = std::enable_if_t&lt;std::is_<span class="keywordtype">unsigned</span>_v&lt;T&gt;&gt;&gt;</div>
-<div class="line"><a name="l00080"></a><span class="lineno"><a class="line" href="namespacecatapult_1_1utils.html#a0b19dd393206c971827bca353bece5e5">   80</a></span>&#160;    constexpr <span class="keywordtype">bool</span> <a class="code" href="namespacecatapult_1_1utils.html#a0b19dd393206c971827bca353bece5e5">IsPowerMultiple</a>(T lhs, T rhs, T <a class="code" href="namespacebase.html">base</a>) {</div>
+<div class="line"><a name="l00080"></a><span class="lineno"><a class="line" href="namespacecatapult_1_1utils.html#a0b19dd393206c971827bca353bece5e5">   80</a></span>&#160;    constexpr <span class="keywordtype">bool</span> <a class="code" href="namespacecatapult_1_1utils.html#a0b19dd393206c971827bca353bece5e5">IsPowerMultiple</a>(T lhs, T rhs, T base) {</div>
 <div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;        <span class="keywordflow">if</span> (lhs &gt; rhs || 0 != rhs % lhs)</div>
 <div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160; </div>
 <div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;        T quotient = rhs / lhs;</div>
 <div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;        <span class="keywordflow">while</span> (quotient &gt; 1) {</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;            <span class="keywordflow">if</span> (0 != <a class="code" href="namespacecatapult_1_1utils.html#aad9df4f7d5d2f391313136f383c2e603">DivideAndGetRemainder</a>(quotient, <a class="code" href="namespacebase.html">base</a>))</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;            <span class="keywordflow">if</span> (0 != <a class="code" href="namespacecatapult_1_1utils.html#aad9df4f7d5d2f391313136f383c2e603">DivideAndGetRemainder</a>(quotient, base))</div>
 <div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;        }</div>
 <div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160; </div>
@@ -160,7 +160,6 @@ $(document).ready(function(){initNavTree('_integer_math_8h_source.html','');});
 </div><!-- doc-content -->
 <div class="ttc" id="anamespacecatapult_1_1utils_html_adc12375bc3d8e572bb068950a141ae01"><div class="ttname"><a href="namespacecatapult_1_1utils.html#adc12375bc3d8e572bb068950a141ae01">catapult::utils::Pow2</a></div><div class="ttdeci">constexpr T Pow2(T value)</div><div class="ttdoc">Calculates 2^(value).</div><div class="ttdef"><b>Definition:</b> IntegerMath.h:66</div></div>
 <div class="ttc" id="aexceptions_8h_html"><div class="ttname"><a href="exceptions_8h.html">exceptions.h</a></div></div>
-<div class="ttc" id="anamespacebase_html"><div class="ttname"><a href="namespacebase.html">base</a></div><div class="ttdef"><b>Definition:</b> base.py:1</div></div>
 <div class="ttc" id="anamespacecatapult_1_1utils_html_a264632a1c79dd0a29ca6655a40d21537"><div class="ttname"><a href="namespacecatapult_1_1utils.html#a264632a1c79dd0a29ca6655a40d21537">catapult::utils::Log2TimesPowerOfTwo</a></div><div class="ttdeci">uint64_t Log2TimesPowerOfTwo(uint64_t value, uint64_t n)</div><div class="ttdoc">Calculates log2(value^(2^n)).</div><div class="ttdef"><b>Definition:</b> IntegerMath.cpp:48</div></div>
 <div class="ttc" id="anamespacecatapult_1_1utils_html_af13a35948682f7a19e821691caa55c49"><div class="ttname"><a href="namespacecatapult_1_1utils.html#af13a35948682f7a19e821691caa55c49">catapult::utils::GetNumBits</a></div><div class="ttdeci">constexpr T GetNumBits()</div><div class="ttdoc">Gets the number of bits in the specified type.</div><div class="ttdef"><b>Definition:</b> IntegerMath.h:40</div></div>
 <div class="ttc" id="a_integer_math_8h_html"><div class="ttname"><a href="_integer_math_8h.html">IntegerMath.h</a></div></div>

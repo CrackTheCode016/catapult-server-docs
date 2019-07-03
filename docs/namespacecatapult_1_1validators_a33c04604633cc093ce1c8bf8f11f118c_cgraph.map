@@ -1,8 +1,7 @@
 <map id="catapult::validators::DECLARE_STATEFUL_VALIDATOR" name="catapult::validators::DECLARE_STATEFUL_VALIDATOR">
-<area shape="rect" id="node1" title=" " alt="" coords="5,96,251,135"/>
-<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#ac29d61aff569222676796031c165a465" title="Returns a value indicating whether or not the given address is valid for the network identified by ne..." alt="" coords="299,96,458,135"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,68,251,107"/>
+<area shape="rect" id="node2" href="$namespacecatapult_1_1model.html#ac29d61aff569222676796031c165a465" title="Returns a value indicating whether or not the given address is valid for the network identified by ne..." alt="" coords="299,68,458,107"/>
 <area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html#aeb9ed1abd6eb2d2b1587a77d764491e6" title="Returns a const iterator to the first byte." alt="" coords="506,5,671,44"/>
 <area shape="rect" id="node4" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="506,68,671,107"/>
-<area shape="rect" id="node5" href="$ge__scalarmult__base_8c.html#aeea220203a9ea342ccc4a6b76d81b51b" title=" " alt="" coords="561,131,615,156"/>
-<area shape="rect" id="node6" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="527,180,650,219"/>
+<area shape="rect" id="node5" href="$namespacecatapult_1_1utils.html#a08cc4cd873439085f307c40b3617f909" title="Converts a strongly typed enumeration value to its underlying integral value." alt="" coords="527,131,650,169"/>
 </map>

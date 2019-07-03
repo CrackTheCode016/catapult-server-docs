@@ -65,9 +65,9 @@
 <area shape="rect" id="node64" href="$classcatapult_1_1cache_1_1_basic_account_restriction_cache_view.html" title="Basic view on top of the account restriction cache." alt="" coords="372,2449,572,2488"/>
 <area shape="rect" id="node65" href="$classcatapult_1_1cache_1_1_read_only_view_supplier.html" title=" " alt="" coords="664,2429,918,2481"/>
 <area shape="rect" id="node66" href="$classcatapult_1_1cache_1_1_account_restriction_cache_view.html" title="View on top of the account restriction cache." alt="" coords="1000,2436,1166,2475"/>
-<area shape="rect" id="node67" title=" " alt="" coords="106,1019,180,1044"/>
-<area shape="rect" id="node68" title=" " alt="" coords="106,104,180,129"/>
-<area shape="rect" id="node69" title=" " alt="" coords="106,548,180,573"/>
+<area shape="rect" id="node67" title=" " alt="" coords="106,104,180,129"/>
+<area shape="rect" id="node68" title=" " alt="" coords="106,548,180,573"/>
+<area shape="rect" id="node69" title=" " alt="" coords="106,1019,180,1044"/>
 <area shape="rect" id="node70" title=" " alt="" coords="106,4700,180,4725"/>
 <area shape="rect" id="node71" title=" " alt="" coords="106,3093,180,3119"/>
 <area shape="rect" id="node72" title=" " alt="" coords="106,1973,180,1999"/>
@@ -105,12 +105,12 @@
 <area shape="rect" id="node104" href="$classcatapult_1_1utils_1_1reader__reentrancy__error.html" title="Exception class that is thrown when reader reentrancy is detected." alt="" coords="1643,4525,1788,4564"/>
 <area shape="rect" id="node105" href="$classcatapult_1_1cache_1_1_height_based_pruning_mixin.html" title="A mixin for height&#45;based pruning." alt="" coords="5,647,280,685"/>
 <area shape="rect" id="node106" href="$classcatapult_1_1cache_1_1_height_based_touch_mixin.html" title="A mixin for height&#45;based touching." alt="" coords="11,709,275,748"/>
-<area shape="rect" id="node107" title=" " alt="" coords="108,4749,178,4775"/>
+<area shape="rect" id="node107" title=" " alt="" coords="108,2484,178,2509"/>
 <area shape="rect" id="node108" title=" " alt="" coords="108,2945,178,2971"/>
-<area shape="rect" id="node109" title=" " alt="" coords="108,2148,178,2173"/>
+<area shape="rect" id="node109" title=" " alt="" coords="108,4749,178,4775"/>
 <area shape="rect" id="node110" title=" " alt="" coords="108,153,178,179"/>
-<area shape="rect" id="node111" title=" " alt="" coords="108,2645,178,2671"/>
-<area shape="rect" id="node112" title=" " alt="" coords="108,2484,178,2509"/>
+<area shape="rect" id="node111" title=" " alt="" coords="108,2148,178,2173"/>
+<area shape="rect" id="node112" title=" " alt="" coords="108,2645,178,2671"/>
 <area shape="rect" id="node113" href="$classcatapult_1_1cache_1_1_iteration_mixin.html" title="A mixin for adding iteration support to a cache." alt="" coords="60,2883,226,2921"/>
 <area shape="rect" id="node114" href="$classcatapult_1_1utils_1_1_move_only.html" title="A class that can be moved but not copied." alt="" coords="60,3151,226,3176"/>
 <area shape="rect" id="node115" href="$classcatapult_1_1deltaset_1_1_base_set.html" title=" " alt="" coords="380,4012,564,4091"/>
@@ -153,9 +153,9 @@
 <area shape="rect" id="node147" href="$structcatapult_1_1model_1_1_detached_transaction_info.html" title=" " alt="" coords="703,3799,879,3837"/>
 <area shape="rect" id="node148" href="$structcatapult_1_1model_1_1_transaction_info.html" title="A transaction and its associated metadata." alt="" coords="978,4004,1188,4029"/>
 <area shape="rect" id="node149" href="$structcatapult_1_1cache_1_1_transaction_data.html" title=" " alt="" coords="1290,4104,1506,4129"/>
-<area shape="rect" id="node155" title=" " alt="" coords="81,1924,205,1949"/>
+<area shape="rect" id="node155" title=" " alt="" coords="81,1117,205,1143"/>
 <area shape="rect" id="node156" title=" " alt="" coords="81,252,205,277"/>
-<area shape="rect" id="node157" title=" " alt="" coords="81,1117,205,1143"/>
+<area shape="rect" id="node157" title=" " alt="" coords="81,1924,205,1949"/>
 <area shape="rect" id="node158" title=" " alt="" coords="57,1825,229,1851"/>
 <area shape="rect" id="node159" href="$classcatapult_1_1cache_1_1_mutable_accessor_mixin.html" title=" " alt="" coords="11,1413,275,1465"/>
 <area shape="rect" id="node160" href="$classcatapult_1_1cache_1_1_namespace_deep_size_mixin.html" title="A mixin for calculating the deep size of namespaces." alt="" coords="48,2023,238,2061"/>
@@ -224,24 +224,24 @@
 <area shape="rect" id="node221" href="$structcatapult_1_1model_1_1_embedded_transaction.html" title="Binary layout for an embedded transaction (non&#45;verifiable)." alt="" coords="1904,4935,2088,4973"/>
 <area shape="rect" id="node224" href="$classcatapult_1_1utils_1_1_integral_hex_formatter_guard.html" title=" " alt="" coords="1629,5260,1801,5299"/>
 <area shape="rect" id="node225" href="$structcatapult_1_1ionet_1_1_packet_header.html" title="A packet header that all transferable information is expected to have." alt="" coords="985,5773,1181,5799"/>
-<area shape="rect" id="node226" title=" " alt="" coords="81,301,205,327"/>
-<area shape="rect" id="node227" title=" " alt="" coords="81,772,205,797"/>
+<area shape="rect" id="node226" title=" " alt="" coords="81,772,205,797"/>
+<area shape="rect" id="node227" title=" " alt="" coords="81,301,205,327"/>
 <area shape="rect" id="node228" href="$classcatapult_1_1cache_1_1_patricia_tree_delta_mixin.html" title="A mixin for adding patricia tree support to a delta cache." alt="" coords="41,1489,245,1528"/>
 <area shape="rect" id="node229" href="$classcatapult_1_1cache_1_1_patricia_tree_mixin.html" title="A mixin for adding patricia tree support to a cache." alt="" coords="61,2085,224,2124"/>
 <area shape="rect" id="node230" title=" " alt="" coords="82,4799,204,4824"/>
 <area shape="rect" id="node231" href="$classcatapult_1_1api_1_1_remote_api.html" title="An api for retrieving information from a remote node." alt="" coords="1315,4825,1481,4851"/>
 <area shape="rect" id="node232" href="$classcatapult_1_1api_1_1_remote_pt_api.html" title="An api for retrieving partial transaction information from a remote node." alt="" coords="1625,4727,1805,4752"/>
 <area shape="rect" id="node233" href="$classcatapult_1_1api_1_1_remote_transaction_api.html" title="An api for retrieving transaction information from a remote node." alt="" coords="1597,4776,1833,4801"/>
-<area shape="rect" id="node234" title=" " alt="" coords="119,2533,167,2559"/>
+<area shape="rect" id="node234" title=" " alt="" coords="119,2995,167,3020"/>
 <area shape="rect" id="node235" title=" " alt="" coords="119,4848,167,4873"/>
-<area shape="rect" id="node236" title=" " alt="" coords="119,2995,167,3020"/>
+<area shape="rect" id="node236" title=" " alt="" coords="119,351,167,376"/>
 <area shape="rect" id="node237" title=" " alt="" coords="119,2273,167,2299"/>
-<area shape="rect" id="node238" title=" " alt="" coords="119,821,167,847"/>
-<area shape="rect" id="node239" title=" " alt="" coords="119,351,167,376"/>
-<area shape="rect" id="node240" title=" " alt="" coords="119,203,167,228"/>
-<area shape="rect" id="node241" title=" " alt="" coords="119,2695,167,2720"/>
-<area shape="rect" id="node242" title=" " alt="" coords="119,1552,167,1577"/>
-<area shape="rect" id="node243" title=" " alt="" coords="119,1216,167,1241"/>
+<area shape="rect" id="node238" title=" " alt="" coords="119,1552,167,1577"/>
+<area shape="rect" id="node239" title=" " alt="" coords="119,2695,167,2720"/>
+<area shape="rect" id="node240" title=" " alt="" coords="119,1216,167,1241"/>
+<area shape="rect" id="node241" title=" " alt="" coords="119,2533,167,2559"/>
+<area shape="rect" id="node242" title=" " alt="" coords="119,203,167,228"/>
+<area shape="rect" id="node243" title=" " alt="" coords="119,821,167,847"/>
 <area shape="rect" id="node244" title=" " alt="" coords="119,1364,167,1389"/>
 <area shape="rect" id="node245" href="$classcatapult_1_1cache_1_1_size_mixin.html" title="A mixin for adding size support to a cache." alt="" coords="55,2820,231,2859"/>
 <area shape="rect" id="node246" title=" " alt="" coords="1031,4557,1135,4583"/>

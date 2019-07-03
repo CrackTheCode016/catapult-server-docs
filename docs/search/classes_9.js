@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['keccak_5fhashinstance',['Keccak_HashInstance',['../struct_keccak___hash_instance.html',1,'']]],
   ['keccakbuilder',['KeccakBuilder',['../classcatapult_1_1crypto_1_1_keccak_builder.html',1,'catapult::crypto']]],
   ['keccakmodetag',['KeccakModeTag',['../structcatapult_1_1crypto_1_1_keccak_mode_tag.html',1,'catapult::crypto']]],
   ['key_5ftag',['Key_tag',['../structcatapult_1_1_key__tag.html',1,'catapult']]],

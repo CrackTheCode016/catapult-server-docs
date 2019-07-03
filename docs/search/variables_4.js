@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['d',['d',['../namespacebase.html#a823228eaddeebc063c1df69020779d96',1,'base.d()'],['../namespacebase2.html#aa3218bf93a125d152b69ba67ba00df14',1,'base2.d()'],['../namespaced.html#a900705c7c74e4f10e2792361968db38a',1,'d.d()'],['../namespaced2.html#af4b8d65688425bc94eb913e89f3fd562',1,'d2.d()'],['../ge__frombytes_8c.html#a0974daefcc79bbbd354f3a30f3150dba',1,'d():&#160;ge_frombytes.c']]],
-  ['d2',['d2',['../ge__p3__to__cached_8c.html#a36030d3ebca948e6666d93f1a4aa0659',1,'ge_p3_to_cached.c']]],
   ['data',['data',['../classcheck_project_structure_1_1_auto_container.html#ab2cd89924eb30ecb1609fcf7d4e96fa8',1,'checkProjectStructure.AutoContainer.data()'],['../structcatapult_1_1model_1_1_signature_notification.html#af7acb8f38b2c5d1511882a8ca87caa7d',1,'catapult::model::SignatureNotification::Data()'],['../tools_2benchmark_2main_8cpp.html#a972eb6ff969c770ce3c997263e750170',1,'Data():&#160;main.cpp']]],
   ['database',['Database',['../structcatapult_1_1mongo_1_1_mongo_bulk_writer_1_1_bulk_write_params.html#a6c80892f36979a2fdf7ef9e0a2ae8321',1,'catapult::mongo::MongoBulkWriter::BulkWriteParams']]],
   ['databasedirectory',['DatabaseDirectory',['../structcatapult_1_1cache_1_1_rocks_database_settings.html#ad395a04ac24a167d7b5ffb845f87ef69',1,'catapult::cache::RocksDatabaseSettings']]],
@@ -20,7 +18,6 @@ var searchData=
   ['default_5fvalue',['Default_Value',['../structcatapult_1_1_difficulty__tag.html#a54a11a2fddf79d45b22f9b866a32cf92',1,'catapult::Difficulty_tag']]],
   ['define',['Define',['../class_header_parser_1_1_pp_type.html#a3433423382d0d6b1be8d4fe94fe52406',1,'HeaderParser::PpType']]],
   ['defines',['defines',['../class_deps_checker_1_1_deps_checker.html#a114876c30aad78d01866a943786e064a',1,'DepsChecker::DepsChecker']]],
-  ['delimitedsuffix',['delimitedSuffix',['../struct_keccak___hash_instance.html#a97fb930d0695570d5955a7e5887fb22e',1,'Keccak_HashInstance']]],
   ['delta',['Delta',['../structcatapult_1_1model_1_1_mosaic_supply_change_notification.html#a845d67e27eac64922384171a09a73d56',1,'catapult::model::MosaicSupplyChangeNotification::Delta()'],['../structcatapult_1_1model_1_1_mosaic_supply_change_transaction_body.html#a70a5e31eda4d877627ef78fa4ecb7a46',1,'catapult::model::MosaicSupplyChangeTransactionBody::Delta()']]],
   ['dependencyviolations',['dependencyViolations',['../classcheck_project_structure_1_1_analyzer.html#a206461d82419829c2c5409b087afb7f6',1,'checkProjectStructure::Analyzer']]],
   ['depsfilter',['depsFilter',['../classcheck_project_structure_1_1_analyzer_options.html#a7d7c05da8aceb624dc7adda52458aae3',1,'checkProjectStructure::AnalyzerOptions']]],

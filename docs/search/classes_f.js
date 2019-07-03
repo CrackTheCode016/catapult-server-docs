@@ -73,8 +73,6 @@ var searchData=
   ['result',['Result',['../structcatapult_1_1chain_1_1_pt_validator_1_1_result.html',1,'catapult::chain::PtValidator']]],
   ['returnonnewlinevalidator',['ReturnOnNewLineValidator',['../classvalidation_1_1_return_on_new_line_validator.html',1,'validation']]],
   ['reversenotificationobserveradapter',['ReverseNotificationObserverAdapter',['../classcatapult_1_1observers_1_1_reverse_notification_observer_adapter.html',1,'catapult::observers']]],
-  ['ripemd160',['ripemd160',['../structripemd160.html',1,'']]],
-  ['ripemd160_5fctx',['ripemd160_ctx',['../structripemd160__ctx.html',1,'']]],
   ['rocksdatabase',['RocksDatabase',['../classcatapult_1_1cache_1_1_rocks_database.html',1,'catapult::cache']]],
   ['rocksdatabasesettings',['RocksDatabaseSettings',['../structcatapult_1_1cache_1_1_rocks_database_settings.html',1,'catapult::cache']]],
   ['rockspruningfilter',['RocksPruningFilter',['../classcatapult_1_1cache_1_1_rocks_pruning_filter.html',1,'catapult::cache']]],

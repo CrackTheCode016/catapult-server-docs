@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['have_5fbig_5fendian',['HAVE_BIG_ENDIAN',['../config_8h.html#a53bf89054fe7019a2c24ac257c5b1bd3',1,'config.h']]],
-  ['have_5flittle_5fendian',['HAVE_LITTLE_ENDIAN',['../config_8h.html#ad37a476f0311df75f719c7fe1ae153f5',1,'config.h']]]
+  ['make_5fbitwise_5fenum',['MAKE_BITWISE_ENUM',['../_bitwise_enum_8h.html#ad2d0d89d3f56801b3fbc1a7c1bdaa8dc',1,'BitwiseEnum.h']]],
+  ['make_5fobserver',['MAKE_OBSERVER',['../_observer_types_8h.html#a59c38d4e9c00b8c2603cdedb4149d49a',1,'ObserverTypes.h']]],
+  ['make_5fstateful_5fvalidator',['MAKE_STATEFUL_VALIDATOR',['../_validator_types_8h.html#aa66e82890019e49a95823ec57cdbce95',1,'ValidatorTypes.h']]],
+  ['make_5fstateless_5fvalidator',['MAKE_STATELESS_VALIDATOR',['../_validator_types_8h.html#abe92ea9a66d38a33a0586d7785bf114d',1,'ValidatorTypes.h']]]
 ];

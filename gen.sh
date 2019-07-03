@@ -2,7 +2,11 @@
 
 
 ## delete old output
-rm -rf html/
+rm -rf docs/
 
 ## new docs
 doxygen Doxyfile
+
+
+## rename
+mv html/ docs/

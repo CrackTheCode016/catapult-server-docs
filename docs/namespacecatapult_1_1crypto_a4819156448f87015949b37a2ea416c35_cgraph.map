@@ -1,5 +1,4 @@
 <map id="catapult::crypto::Verify" name="catapult::crypto::Verify">
-<area shape="rect" id="node1" title=" " alt="" coords="5,33,158,59"/>
-<area shape="rect" id="node2" href="$crypto__verify__32_8c.html#a1fa7c3c971459fca228e4d79610d5009" title=" " alt="" coords="229,5,348,31"/>
-<area shape="rect" id="node3" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="206,55,371,93"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,12,158,37"/>
+<area shape="rect" id="node2" href="$classcatapult_1_1utils_1_1_byte_array.html#a1382b385e9ad84d2b7f2c56323075921" title="Returns a const pointer to the underlying array." alt="" coords="206,5,371,44"/>
 </map>

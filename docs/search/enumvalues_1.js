@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['bad_5fhashlen',['BAD_HASHLEN',['../external_2sha3_2_keccak_hash_8h.html#a8291024a9e890d5d4d60dc3c76d2b44caf4c78135fbd21ec54dcd0907004f1040',1,'KeccakHash.h']]],
   ['balancecredit',['BalanceCredit',['../namespacecatapult_1_1model.html#aefe5615e1e22f1a0e3ce6cbcb0bfd1f7a3a140fc56effab357239ff81c546a2d2',1,'catapult::model']]],
   ['balancedebit',['BalanceDebit',['../namespacecatapult_1_1model.html#aefe5615e1e22f1a0e3ce6cbcb0bfd1f7a3fd4c5550718023f10d57450d6bae41e',1,'catapult::model']]],
   ['balancetransfer',['BalanceTransfer',['../namespacecatapult_1_1model.html#aefe5615e1e22f1a0e3ce6cbcb0bfd1f7a58a45d16ffeef962e5a54075477f5de7',1,'catapult::model']]],

@@ -4,7 +4,7 @@ var dir_baaa64ee09fdb2af003206e80c8b7332 =
     [ "CryptoUtils.h", "_crypto_utils_8h.html", "_crypto_utils_8h" ],
     [ "Hashes.cpp", "_hashes_8cpp.html", "_hashes_8cpp" ],
     [ "Hashes.h", "_hashes_8h.html", "_hashes_8h" ],
-    [ "KeccakHash.h", "src_2catapult_2crypto_2_keccak_hash_8h.html", null ],
+    [ "KeccakHash.h", "_keccak_hash_8h.html", null ],
     [ "KeyGenerator.cpp", "_key_generator_8cpp.html", "_key_generator_8cpp" ],
     [ "KeyGenerator.h", "_key_generator_8h.html", "_key_generator_8h" ],
     [ "KeyPair.h", "_key_pair_8h.html", [

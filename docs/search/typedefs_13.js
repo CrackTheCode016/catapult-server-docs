@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['uint64',['UINT64',['../_keccak_p-1600-opt64_8c.html#aaaeacfdfbfc1dcaae18cf20e63015e71',1,'KeccakP-1600-opt64.c']]],
-  ['uint8',['UINT8',['../_keccak_p-1600-opt64_8c.html#ab27e9918b538ce9d8ca692479b375b6a',1,'KeccakP-1600-opt64.c']]],
   ['unclamped',['Unclamped',['../structcatapult_1_1utils_1_1_clamped_base_value.html#a6cee126a90a4b250d31eacc9aa0c4f74',1,'catapult::utils::ClampedBaseValue']]],
   ['unclampedtype',['UnclampedType',['../structcatapult_1_1utils_1_1detail_1_1_clamped_base_value_traits.html#a63039ef8c889efc13a49a7627aed0630',1,'catapult::utils::detail::ClampedBaseValueTraits']]],
   ['unconfirmedtransactions',['UnconfirmedTransactions',['../namespacecatapult_1_1handlers.html#a972027bb946906cab9a6d2cbfbac5887',1,'catapult::handlers']]],

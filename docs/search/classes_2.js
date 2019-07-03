@@ -134,7 +134,6 @@ var searchData=
   ['cosignature',['Cosignature',['../structcatapult_1_1model_1_1_cosignature.html',1,'catapult::model']]],
   ['cosignedtransactioninfo',['CosignedTransactionInfo',['../structcatapult_1_1model_1_1_cosigned_transaction_info.html',1,'catapult::model']]],
   ['cpp17traitsvalidator',['Cpp17TraitsValidator',['../classvalidation_1_1_cpp17_traits_validator.html',1,'validation']]],
-  ['crypto_5fhash_5fsha256_5fstate',['crypto_hash_sha256_state',['../structcrypto__hash__sha256__state.html',1,'']]],
   ['custom_5finfo_5ftagger',['custom_info_tagger',['../structcatapult_1_1utils_1_1log_1_1custom__info__tagger.html',1,'catapult::utils::log']]],
   ['custom_5finfo_5ftagger_5ffeature',['custom_info_tagger_feature',['../classcatapult_1_1utils_1_1log_1_1custom__info__tagger__feature.html',1,'catapult::utils::log']]]
 ];

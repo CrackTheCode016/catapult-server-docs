@@ -60,10 +60,5 @@ var searchData=
   ['createdocument',['CreateDocument',['../classcatapult_1_1mongo_1_1_mongo_bulk_writer.html#a030fd0f6e0bb16d4eea14f4f8cfa5a5d',1,'catapult::mongo::MongoBulkWriter']]],
   ['createdocuments',['CreateDocuments',['../classcatapult_1_1mongo_1_1_mongo_bulk_writer.html#ad03bc82b8a8bec9246b2e12f4ac3d9e9',1,'catapult::mongo::MongoBulkWriter']]],
   ['createfilter',['CreateFilter',['../classcatapult_1_1mongo_1_1_mongo_bulk_writer.html#a5dc3471392010d69bd8eac3389f9b55f',1,'catapult::mongo::MongoBulkWriter']]],
-  ['createprocesshost',['CreateProcessHost',['../namespacecatapult_1_1process.html#a8242bbb1a40ce14e0fb2324f49d8249f',1,'catapult::process']]],
-  ['crypto_5fhash_5fsha256_5fstate',['crypto_hash_sha256_state',['../crypto__hash__sha256_8h.html#a570d790cbe4911ff5daa28a1489c1b8a',1,'crypto_hash_sha256.h']]],
-  ['crypto_5fint32',['crypto_int32',['../crypto__int32_8h.html#ad3f1fd3f32784eba4cb5256561d7ddd3',1,'crypto_int32.h']]],
-  ['crypto_5fint64',['crypto_int64',['../crypto__int64_8h.html#a89d0e00b095e63fd2117da1fc73aca8f',1,'crypto_int64.h']]],
-  ['crypto_5fuint32',['crypto_uint32',['../crypto__uint32_8h.html#ae74ab472398263b7e97f919b84195a5e',1,'crypto_uint32.h']]],
-  ['crypto_5fuint64',['crypto_uint64',['../crypto__uint64_8h.html#a73a109e5a7d9af7858e8175b2276796c',1,'crypto_uint64.h']]]
+  ['createprocesshost',['CreateProcessHost',['../namespacecatapult_1_1process.html#a8242bbb1a40ce14e0fb2324f49d8249f',1,'catapult::process']]]
 ];

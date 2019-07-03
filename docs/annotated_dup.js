@@ -13,14 +13,5 @@ var annotated_dup =
     [ "publishSdk", "namespacepublish_sdk.html", "namespacepublish_sdk" ],
     [ "Rules", "namespace_rules.html", "namespace_rules" ],
     [ "SimpleValidator", "namespace_simple_validator.html", "namespace_simple_validator" ],
-    [ "validation", "namespacevalidation.html", "namespacevalidation" ],
-    [ "crypto_hash_sha256_state", "structcrypto__hash__sha256__state.html", "structcrypto__hash__sha256__state" ],
-    [ "ge_cached", "structge__cached.html", "structge__cached" ],
-    [ "ge_p1p1", "structge__p1p1.html", "structge__p1p1" ],
-    [ "ge_p2", "structge__p2.html", "structge__p2" ],
-    [ "ge_p3", "structge__p3.html", "structge__p3" ],
-    [ "ge_precomp", "structge__precomp.html", "structge__precomp" ],
-    [ "Keccak_HashInstance", "struct_keccak___hash_instance.html", "struct_keccak___hash_instance" ],
-    [ "ripemd160", "structripemd160.html", "structripemd160" ],
-    [ "ripemd160_ctx", "structripemd160__ctx.html", "structripemd160__ctx" ]
+    [ "validation", "namespacevalidation.html", "namespacevalidation" ]
 ];

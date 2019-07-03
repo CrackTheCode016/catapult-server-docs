@@ -1,9 +1,0 @@
-<map id="catapult&#45;server/external/ref10/crypto_int64.h" name="catapult&#45;server/external/ref10/crypto_int64.h">
-<area shape="rect" id="node1" title=" " alt="" coords="465,5,626,44"/>
-<area shape="rect" id="node2" href="$fe__frombytes_8c.html" title=" " alt="" coords="5,92,166,131"/>
-<area shape="rect" id="node3" href="$fe__mul_8c.html" title=" " alt="" coords="189,92,350,131"/>
-<area shape="rect" id="node4" href="$fe__sq_8c.html" title=" " alt="" coords="373,92,534,131"/>
-<area shape="rect" id="node5" href="$fe__sq2_8c.html" title=" " alt="" coords="557,92,718,131"/>
-<area shape="rect" id="node6" href="$sc__muladd_8c.html" title=" " alt="" coords="741,92,902,131"/>
-<area shape="rect" id="node7" href="$sc__reduce_8c.html" title=" " alt="" coords="925,92,1086,131"/>
-</map>

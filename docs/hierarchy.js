@@ -547,9 +547,6 @@ var hierarchy =
     ] ],
     [ "catapult::utils::ContainerHexFormatter< TInputIterator >", "classcatapult_1_1utils_1_1_container_hex_formatter.html", null ],
     [ "Contains", null, [
-      [ "catapult::cache::BasicMosaicCacheDelta", "classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html", null ]
-    ] ],
-    [ "Contains", null, [
       [ "catapult::cache::BasicLockInfoCacheView< HashLockInfoCacheDescriptor, HashLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ],
       [ "catapult::cache::BasicLockInfoCacheView< SecretLockInfoCacheDescriptor, SecretLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ],
       [ "catapult::cache::BasicLockInfoCacheView< TDescriptor, TCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ]
@@ -558,6 +555,9 @@ var hierarchy =
       [ "catapult::cache::BasicLockInfoCacheDelta< HashLockInfoCacheDescriptor, HashLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ],
       [ "catapult::cache::BasicLockInfoCacheDelta< SecretLockInfoCacheDescriptor, SecretLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ],
       [ "catapult::cache::BasicLockInfoCacheDelta< TDescriptor, TCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ]
+    ] ],
+    [ "Contains", null, [
+      [ "catapult::cache::BasicMosaicCacheDelta", "classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html", null ]
     ] ],
     [ "Contains", null, [
       [ "catapult::cache::BasicMosaicCacheView", "classcatapult_1_1cache_1_1_basic_mosaic_cache_view.html", null ]
@@ -612,12 +612,10 @@ var hierarchy =
       [ "catapult::model::DetachedCosignature", "structcatapult_1_1model_1_1_detached_cosignature.html", null ]
     ] ],
     [ "catapult::model::CosignedTransactionInfo", "structcatapult_1_1model_1_1_cosigned_transaction_info.html", null ],
-    [ "crypto_hash_sha256_state", "structcrypto__hash__sha256__state.html", null ],
     [ "catapult::utils::log::custom_info_tagger< TCustomFeatureTraits >", "structcatapult_1_1utils_1_1log_1_1custom__info__tagger.html", null ],
     [ "catapult::mongo::DatabaseConfiguration", "structcatapult_1_1mongo_1_1_database_configuration.html", null ],
     [ "catapult::sync::DeceleratingTaskConfiguration", "structcatapult_1_1sync_1_1_decelerating_task_configuration.html", null ],
     [ "Rules.DefaultRules", "class_rules_1_1_default_rules.html", null ],
-    [ "catapult::deltaset::DeltaElements< TSet >", "structcatapult_1_1deltaset_1_1_delta_elements.html", null ],
     [ "DeltaElements", null, [
       [ "catapult::cache::BasicLockInfoCacheDelta< HashLockInfoCacheDescriptor, HashLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ],
       [ "catapult::cache::BasicLockInfoCacheDelta< SecretLockInfoCacheDescriptor, SecretLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ],
@@ -632,6 +630,7 @@ var hierarchy =
     [ "DeltaElements", null, [
       [ "catapult::cache::BasicNamespaceCacheDelta", "classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html", null ]
     ] ],
+    [ "catapult::deltaset::DeltaElements< TSet >", "structcatapult_1_1deltaset_1_1_delta_elements.html", null ],
     [ "DeltaElements", null, [
       [ "catapult::cache::BasicAccountRestrictionCacheDelta", "classcatapult_1_1cache_1_1_basic_account_restriction_cache_delta.html", null ]
     ] ],
@@ -721,11 +720,6 @@ var hierarchy =
     [ "catapult::state::CompactMosaicMap::FirstLevelStorage", "structcatapult_1_1state_1_1_compact_mosaic_map_1_1_first_level_storage.html", null ],
     [ "catapult::cache::NamespaceCacheTypes::FlatMapTypesDescriptor", "structcatapult_1_1cache_1_1_namespace_cache_types_1_1_flat_map_types_descriptor.html", null ],
     [ "catapult::subscribers::detail::Flusher< TSubscriber, typename >", "structcatapult_1_1subscribers_1_1detail_1_1_flusher.html", null ],
-    [ "ge_cached", "structge__cached.html", null ],
-    [ "ge_p1p1", "structge__p1p1.html", null ],
-    [ "ge_p2", "structge__p2.html", null ],
-    [ "ge_p3", "structge__p3.html", null ],
-    [ "ge_precomp", "structge__precomp.html", null ],
     [ "catapult::GenerationHash_tag", "structcatapult_1_1_generation_hash__tag.html", [
       [ "catapult::utils::ByteArray< Hash256_Size, GenerationHash_tag >", "classcatapult_1_1utils_1_1_byte_array.html", null ]
     ] ],
@@ -788,15 +782,15 @@ var hierarchy =
     ] ],
     [ "catapult::deltaset::ImmutableTypeTag", "structcatapult_1_1deltaset_1_1_immutable_type_tag.html", null ],
     [ "catapult::deltaset::ImmutableTypeTraits< TElement >", "structcatapult_1_1deltaset_1_1_immutable_type_traits.html", null ],
+    [ "catapult::chain::UtUpdater::Impl", "classcatapult_1_1chain_1_1_ut_updater_1_1_impl.html", null ],
     [ "catapult::harvesting::HarvestingUtFacade::Impl", "classcatapult_1_1harvesting_1_1_harvesting_ut_facade_1_1_impl.html", null ],
+    [ "catapult::cache::RdbDataIterator::Impl", "structcatapult_1_1cache_1_1_rdb_data_iterator_1_1_impl.html", null ],
     [ "catapult::cache::CachePatriciaTree< TTree >::Impl", "classcatapult_1_1cache_1_1_cache_patricia_tree_1_1_impl.html", null ],
+    [ "catapult::cache::RelockableDetachedCatapultCache::Impl", "classcatapult_1_1cache_1_1_relockable_detached_catapult_cache_1_1_impl.html", null ],
     [ "catapult::utils::LogFilter::Impl", "classcatapult_1_1utils_1_1_log_filter_1_1_impl.html", null ],
     [ "catapult::utils::LoggingBootstrapper::Impl", "classcatapult_1_1utils_1_1_logging_bootstrapper_1_1_impl.html", null ],
-    [ "catapult::cache::RelockableDetachedCatapultCache::Impl", "classcatapult_1_1cache_1_1_relockable_detached_catapult_cache_1_1_impl.html", null ],
-    [ "catapult::cache::RdbDataIterator::Impl", "structcatapult_1_1cache_1_1_rdb_data_iterator_1_1_impl.html", null ],
-    [ "catapult::cache::MemoryUtCache::Impl", "structcatapult_1_1cache_1_1_memory_ut_cache_1_1_impl.html", null ],
-    [ "catapult::chain::UtUpdater::Impl", "classcatapult_1_1chain_1_1_ut_updater_1_1_impl.html", null ],
     [ "catapult::cache::MemoryPtCache::Impl", "structcatapult_1_1cache_1_1_memory_pt_cache_1_1_impl.html", null ],
+    [ "catapult::cache::MemoryUtCache::Impl", "structcatapult_1_1cache_1_1_memory_ut_cache_1_1_impl.html", null ],
     [ "catapult::Importance_tag", "structcatapult_1_1_importance__tag.html", [
       [ "catapult::utils::BasicBaseValue< uint64_t, Importance_tag, BaseValue< uint64_t, Importance_tag > >", "classcatapult_1_1utils_1_1_basic_base_value.html", [
         [ "catapult::utils::BaseValue< uint64_t, Importance_tag >", "classcatapult_1_1utils_1_1_base_value.html", null ]
@@ -851,13 +845,13 @@ var hierarchy =
     [ "catapult::cache::detail::IsActiveAdapter", "classcatapult_1_1cache_1_1detail_1_1_is_active_adapter.html", null ],
     [ "catapult::cache::IterationMixin< TSet >::IterableView", "structcatapult_1_1cache_1_1_iteration_mixin_1_1_iterable_view.html", null ],
     [ "Iteration", null, [
-      [ "catapult::cache::BasicMosaicCacheView", "classcatapult_1_1cache_1_1_basic_mosaic_cache_view.html", null ]
+      [ "catapult::cache::BasicAccountStateCacheView", "classcatapult_1_1cache_1_1_basic_account_state_cache_view.html", null ]
     ] ],
     [ "Iteration", null, [
       [ "catapult::cache::BasicMultisigCacheView", "classcatapult_1_1cache_1_1_basic_multisig_cache_view.html", null ]
     ] ],
     [ "Iteration", null, [
-      [ "catapult::cache::BasicNamespaceCacheView", "classcatapult_1_1cache_1_1_basic_namespace_cache_view.html", null ]
+      [ "catapult::cache::BasicMosaicCacheView", "classcatapult_1_1cache_1_1_basic_mosaic_cache_view.html", null ]
     ] ],
     [ "Iteration", null, [
       [ "catapult::cache::BasicLockInfoCacheView< HashLockInfoCacheDescriptor, HashLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ],
@@ -865,10 +859,10 @@ var hierarchy =
       [ "catapult::cache::BasicLockInfoCacheView< TDescriptor, TCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ]
     ] ],
     [ "Iteration", null, [
-      [ "catapult::cache::BasicAccountRestrictionCacheView", "classcatapult_1_1cache_1_1_basic_account_restriction_cache_view.html", null ]
+      [ "catapult::cache::BasicNamespaceCacheView", "classcatapult_1_1cache_1_1_basic_namespace_cache_view.html", null ]
     ] ],
     [ "Iteration", null, [
-      [ "catapult::cache::BasicAccountStateCacheView", "classcatapult_1_1cache_1_1_basic_account_state_cache_view.html", null ]
+      [ "catapult::cache::BasicAccountRestrictionCacheView", "classcatapult_1_1cache_1_1_basic_account_restriction_cache_view.html", null ]
     ] ],
     [ "catapult::cache::IterationMixin< TSet >", "classcatapult_1_1cache_1_1_iteration_mixin.html", [
       [ "catapult::cache::BasicBlockDifficultyCacheView", "classcatapult_1_1cache_1_1_basic_block_difficulty_cache_view.html", null ],
@@ -877,7 +871,6 @@ var hierarchy =
     [ "catapult::model::EntityRange< TEntity >::iterator< TIterator, TIteratorEntity >", "classcatapult_1_1model_1_1_entity_range_1_1iterator.html", null ],
     [ "catapult::deltaset::BaseSetDeltaIterationView< TSetTraits >::iterator", "classcatapult_1_1deltaset_1_1_base_set_delta_iteration_view_1_1iterator.html", null ],
     [ "catapult::model::BasicContiguousEntityContainer< TEntity >::iterator< TIteratorEntity >", "classcatapult_1_1model_1_1_basic_contiguous_entity_container_1_1iterator.html", null ],
-    [ "Keccak_HashInstance", "struct_keccak___hash_instance.html", null ],
     [ "catapult::crypto::KeccakBuilder< TModeTag, THashTag >", "classcatapult_1_1crypto_1_1_keccak_builder.html", null ],
     [ "catapult::crypto::KeccakModeTag", "structcatapult_1_1crypto_1_1_keccak_mode_tag.html", null ],
     [ "catapult::Key_tag", "structcatapult_1_1_key__tag.html", [
@@ -1086,7 +1079,7 @@ var hierarchy =
       [ "catapult::cache::MultisigCacheStorage", "structcatapult_1_1cache_1_1_multisig_cache_storage.html", null ]
     ] ],
     [ "MutableAccessor", null, [
-      [ "catapult::cache::BasicAccountRestrictionCacheDelta", "classcatapult_1_1cache_1_1_basic_account_restriction_cache_delta.html", null ]
+      [ "catapult::cache::BasicMosaicCacheDelta", "classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html", null ]
     ] ],
     [ "MutableAccessor", null, [
       [ "catapult::cache::BasicLockInfoCacheDelta< HashLockInfoCacheDescriptor, HashLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ],
@@ -1094,7 +1087,7 @@ var hierarchy =
       [ "catapult::cache::BasicLockInfoCacheDelta< TDescriptor, TCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ]
     ] ],
     [ "MutableAccessor", null, [
-      [ "catapult::cache::BasicMosaicCacheDelta", "classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html", null ]
+      [ "catapult::cache::BasicAccountRestrictionCacheDelta", "classcatapult_1_1cache_1_1_basic_account_restriction_cache_delta.html", null ]
     ] ],
     [ "MutableAccessorAddress", null, [
       [ "catapult::cache::BasicAccountStateCacheDelta", "classcatapult_1_1cache_1_1_basic_account_state_cache_delta.html", null ]
@@ -1171,12 +1164,12 @@ var hierarchy =
     [ "catapult::subscribers::NodeSubscriber", "classcatapult_1_1subscribers_1_1_node_subscriber.html", [
       [ "catapult::subscribers::AggregateNodeSubscriber< TNodeSubscriber >", "classcatapult_1_1subscribers_1_1_aggregate_node_subscriber.html", null ]
     ] ],
-    [ "catapult::ionet::NodeVersion_tag", "structcatapult_1_1ionet_1_1_node_version__tag.html", null ],
     [ "NodeVersion_tag", null, [
       [ "catapult::utils::BasicBaseValue< uint32_t, NodeVersion_tag, BaseValue< uint32_t, NodeVersion_tag > >", "classcatapult_1_1utils_1_1_basic_base_value.html", [
         [ "catapult::utils::BaseValue< uint32_t, NodeVersion_tag >", "classcatapult_1_1utils_1_1_base_value.html", null ]
       ] ]
     ] ],
+    [ "catapult::ionet::NodeVersion_tag", "structcatapult_1_1ionet_1_1_node_version__tag.html", null ],
     [ "catapult::utils::NonCopyable", "classcatapult_1_1utils_1_1_non_copyable.html", [
       [ "catapult::cache::BasicTransactionsCache< PtCacheModifierProxy >", "classcatapult_1_1cache_1_1_basic_transactions_cache.html", [
         [ "catapult::cache::PtCache", "classcatapult_1_1cache_1_1_pt_cache.html", [
@@ -1386,10 +1379,10 @@ var hierarchy =
     [ "catapult::observers::ObserverContext", "structcatapult_1_1observers_1_1_observer_context.html", null ],
     [ "catapult::observers::ObserverState", "structcatapult_1_1observers_1_1_observer_state.html", null ],
     [ "catapult::observers::ObserverStatementBuilder", "classcatapult_1_1observers_1_1_observer_statement_builder.html", null ],
-    [ "catapult::cache::HashCacheTypes::Options", "structcatapult_1_1cache_1_1_hash_cache_types_1_1_options.html", null ],
-    [ "catapult::cache::AccountStateCacheTypes::Options", "structcatapult_1_1cache_1_1_account_state_cache_types_1_1_options.html", null ],
-    [ "catapult::cache::BlockDifficultyCacheTypes::Options", "structcatapult_1_1cache_1_1_block_difficulty_cache_types_1_1_options.html", null ],
     [ "catapult::cache::NamespaceCacheTypes::Options", "structcatapult_1_1cache_1_1_namespace_cache_types_1_1_options.html", null ],
+    [ "catapult::cache::AccountStateCacheTypes::Options", "structcatapult_1_1cache_1_1_account_state_cache_types_1_1_options.html", null ],
+    [ "catapult::cache::HashCacheTypes::Options", "structcatapult_1_1cache_1_1_hash_cache_types_1_1_options.html", null ],
+    [ "catapult::cache::BlockDifficultyCacheTypes::Options", "structcatapult_1_1cache_1_1_block_difficulty_cache_types_1_1_options.html", null ],
     [ "catapult::cache::detail::OrderedMemorySetAdapter< TElementTraits >", "structcatapult_1_1cache_1_1detail_1_1_ordered_memory_set_adapter.html", null ],
     [ "catapult::cache::detail::OrderedSetAdapter< TElementTraits, TDescriptor >", "structcatapult_1_1cache_1_1detail_1_1_ordered_set_adapter.html", null ],
     [ "catapult::deltaset::detail::OrderedSetCommitPolicy< TSetTraits >", "structcatapult_1_1deltaset_1_1detail_1_1_ordered_set_commit_policy.html", null ],
@@ -1429,12 +1422,12 @@ var hierarchy =
     [ "catapult::tree::PatriciaTree< TEncoder, catapult::tree::ReadThroughMemoryDataSource< TDataSource > >", "classcatapult_1_1tree_1_1_patricia_tree.html", null ],
     [ "catapult::cache::PatriciaTreeColumnDescriptor", "structcatapult_1_1cache_1_1_patricia_tree_column_descriptor.html", null ],
     [ "PatriciaTreeDelta", null, [
+      [ "catapult::cache::BasicMosaicCacheDelta", "classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html", null ]
+    ] ],
+    [ "PatriciaTreeDelta", null, [
       [ "catapult::cache::BasicLockInfoCacheDelta< HashLockInfoCacheDescriptor, HashLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ],
       [ "catapult::cache::BasicLockInfoCacheDelta< SecretLockInfoCacheDescriptor, SecretLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ],
       [ "catapult::cache::BasicLockInfoCacheDelta< TDescriptor, TCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ]
-    ] ],
-    [ "PatriciaTreeDelta", null, [
-      [ "catapult::cache::BasicMosaicCacheDelta", "classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html", null ]
     ] ],
     [ "catapult::cache::PatriciaTreeDeltaMixin< TSet, TTree >", "classcatapult_1_1cache_1_1_patricia_tree_delta_mixin.html", [
       [ "catapult::cache::BasicAccountRestrictionCacheDelta", "classcatapult_1_1cache_1_1_basic_account_restriction_cache_delta.html", null ],
@@ -1542,8 +1535,6 @@ var hierarchy =
     [ "catapult::model::ResolutionStatement< TUnresolved, TResolved, ResolutionReceiptType >", "classcatapult_1_1model_1_1_resolution_statement.html", null ],
     [ "catapult::model::ResolverContext", "classcatapult_1_1model_1_1_resolver_context.html", null ],
     [ "catapult::chain::PtValidator::Result< TNormalizedResult >", "structcatapult_1_1chain_1_1_pt_validator_1_1_result.html", null ],
-    [ "ripemd160", "structripemd160.html", null ],
-    [ "ripemd160_ctx", "structripemd160__ctx.html", null ],
     [ "catapult::cache::RocksDatabase", "classcatapult_1_1cache_1_1_rocks_database.html", null ],
     [ "catapult::cache::RocksDatabaseSettings", "structcatapult_1_1cache_1_1_rocks_database_settings.html", null ],
     [ "catapult::cache::RocksPruningFilter", "classcatapult_1_1cache_1_1_rocks_pruning_filter.html", null ],
@@ -1572,12 +1563,12 @@ var hierarchy =
     [ "catapult::extensions::ServerHooks", "classcatapult_1_1extensions_1_1_server_hooks.html", null ],
     [ "catapult::ionet::ServerPacketHandlers", "classcatapult_1_1ionet_1_1_server_packet_handlers.html", null ],
     [ "catapult::thread::MultiServicePool::ServiceGroup", "classcatapult_1_1thread_1_1_multi_service_pool_1_1_service_group.html", null ],
-    [ "catapult::ionet::ServiceIdentifier_tag", "structcatapult_1_1ionet_1_1_service_identifier__tag.html", null ],
     [ "ServiceIdentifier_tag", null, [
       [ "catapult::utils::BasicBaseValue< uint32_t, ServiceIdentifier_tag, BaseValue< uint32_t, ServiceIdentifier_tag > >", "classcatapult_1_1utils_1_1_basic_base_value.html", [
         [ "catapult::utils::BaseValue< uint32_t, ServiceIdentifier_tag >", "classcatapult_1_1utils_1_1_base_value.html", null ]
       ] ]
     ] ],
+    [ "catapult::ionet::ServiceIdentifier_tag", "structcatapult_1_1ionet_1_1_service_identifier__tag.html", null ],
     [ "catapult::extensions::ServiceLocator", "classcatapult_1_1extensions_1_1_service_locator.html", null ],
     [ "catapult::extensions::ServiceRegistrar", "classcatapult_1_1extensions_1_1_service_registrar.html", null ],
     [ "catapult::extensions::ServiceRegistrarInfo", "structcatapult_1_1extensions_1_1_service_registrar_info.html", null ],
@@ -1623,19 +1614,10 @@ var hierarchy =
       [ "validation.WhitespaceLineValidator", "classvalidation_1_1_whitespace_line_validator.html", null ]
     ] ],
     [ "Size", null, [
-      [ "catapult::cache::BasicAccountStateCacheView", "classcatapult_1_1cache_1_1_basic_account_state_cache_view.html", null ]
-    ] ],
-    [ "Size", null, [
-      [ "catapult::cache::BasicMosaicCacheView", "classcatapult_1_1cache_1_1_basic_mosaic_cache_view.html", null ]
-    ] ],
-    [ "Size", null, [
       [ "catapult::cache::BasicMultisigCacheView", "classcatapult_1_1cache_1_1_basic_multisig_cache_view.html", null ]
     ] ],
     [ "Size", null, [
-      [ "catapult::cache::BasicNamespaceCacheView", "classcatapult_1_1cache_1_1_basic_namespace_cache_view.html", null ]
-    ] ],
-    [ "Size", null, [
-      [ "catapult::cache::BasicMosaicCacheDelta", "classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html", null ]
+      [ "catapult::cache::BasicMosaicCacheView", "classcatapult_1_1cache_1_1_basic_mosaic_cache_view.html", null ]
     ] ],
     [ "Size", null, [
       [ "catapult::cache::BasicLockInfoCacheDelta< HashLockInfoCacheDescriptor, HashLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ],
@@ -1643,18 +1625,27 @@ var hierarchy =
       [ "catapult::cache::BasicLockInfoCacheDelta< TDescriptor, TCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_delta.html", null ]
     ] ],
     [ "Size", null, [
-      [ "catapult::cache::BasicLockInfoCacheView< HashLockInfoCacheDescriptor, HashLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ],
-      [ "catapult::cache::BasicLockInfoCacheView< SecretLockInfoCacheDescriptor, SecretLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ],
-      [ "catapult::cache::BasicLockInfoCacheView< TDescriptor, TCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ]
-    ] ],
-    [ "Size", null, [
-      [ "catapult::cache::BasicAccountRestrictionCacheView", "classcatapult_1_1cache_1_1_basic_account_restriction_cache_view.html", null ]
+      [ "catapult::cache::BasicNamespaceCacheView", "classcatapult_1_1cache_1_1_basic_namespace_cache_view.html", null ]
     ] ],
     [ "Size", null, [
       [ "catapult::cache::BasicAccountStateCacheDelta", "classcatapult_1_1cache_1_1_basic_account_state_cache_delta.html", null ]
     ] ],
     [ "Size", null, [
+      [ "catapult::cache::BasicAccountRestrictionCacheView", "classcatapult_1_1cache_1_1_basic_account_restriction_cache_view.html", null ]
+    ] ],
+    [ "Size", null, [
       [ "catapult::cache::BasicNamespaceCacheDelta", "classcatapult_1_1cache_1_1_basic_namespace_cache_delta.html", null ]
+    ] ],
+    [ "Size", null, [
+      [ "catapult::cache::BasicAccountStateCacheView", "classcatapult_1_1cache_1_1_basic_account_state_cache_view.html", null ]
+    ] ],
+    [ "Size", null, [
+      [ "catapult::cache::BasicLockInfoCacheView< HashLockInfoCacheDescriptor, HashLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ],
+      [ "catapult::cache::BasicLockInfoCacheView< SecretLockInfoCacheDescriptor, SecretLockInfoCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ],
+      [ "catapult::cache::BasicLockInfoCacheView< TDescriptor, TCacheTypes >", "classcatapult_1_1cache_1_1_basic_lock_info_cache_view.html", null ]
+    ] ],
+    [ "Size", null, [
+      [ "catapult::cache::BasicMosaicCacheDelta", "classcatapult_1_1cache_1_1_basic_mosaic_cache_delta.html", null ]
     ] ],
     [ "Size", null, [
       [ "catapult::cache::BasicMultisigCacheDelta", "classcatapult_1_1cache_1_1_basic_multisig_cache_delta.html", null ]
@@ -1864,6 +1855,9 @@ var hierarchy =
     [ "catapult::tree::TreeNode", "classcatapult_1_1tree_1_1_tree_node.html", null ],
     [ "catapult::tree::TreeNodePath", "classcatapult_1_1tree_1_1_tree_node_path.html", null ],
     [ "true_type", null, [
+      [ "boost::asio::is_match_condition< catapult::tools::health::BalancedBraceMatcher >", "structboost_1_1asio_1_1is__match__condition_3_01catapult_1_1tools_1_1health_1_1_balanced_brace_matcher_01_4.html", null ]
+    ] ],
+    [ "true_type", null, [
       [ "catapult::utils::traits::is_map< const std::map< TArgs... > >", "structcatapult_1_1utils_1_1traits_1_1is__map_3_01const_01std_1_1map_3_01_t_args_8_8_8_01_4_01_4.html", null ],
       [ "catapult::utils::traits::is_map< const std::unordered_map< TArgs... > >", "structcatapult_1_1utils_1_1traits_1_1is__map_3_01const_01std_1_1unordered__map_3_01_t_args_8_8_8_01_4_01_4.html", null ],
       [ "catapult::utils::traits::is_map< std::map< TArgs... > >", "structcatapult_1_1utils_1_1traits_1_1is__map_3_01std_1_1map_3_01_t_args_8_8_8_01_4_01_4.html", null ],
@@ -1874,9 +1868,6 @@ var hierarchy =
       [ "catapult::utils::traits::is_scalar< BaseValue< X, Y > >", "structcatapult_1_1utils_1_1traits_1_1is__scalar_3_01_base_value_3_01_x_00_01_y_01_4_01_4.html", null ],
       [ "catapult::utils::traits::is_scalar< ClampedBaseValue< X, Y > >", "structcatapult_1_1utils_1_1traits_1_1is__scalar_3_01_clamped_base_value_3_01_x_00_01_y_01_4_01_4.html", null ],
       [ "catapult::utils::traits::is_scalar< ImmutableValue< X > >", "structcatapult_1_1utils_1_1traits_1_1is__scalar_3_01_immutable_value_3_01_x_01_4_01_4.html", null ]
-    ] ],
-    [ "true_type", null, [
-      [ "boost::asio::is_match_condition< catapult::tools::health::BalancedBraceMatcher >", "structboost_1_1asio_1_1is__match__condition_3_01catapult_1_1tools_1_1health_1_1_balanced_brace_matcher_01_4.html", null ]
     ] ],
     [ "TStlException", null, [
       [ "catapult::catapult_error< TStlException >", "classcatapult_1_1catapult__error.html", null ]
